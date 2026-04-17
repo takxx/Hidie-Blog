@@ -10,7 +10,7 @@ tags : [travel-日本-鳥取]
 
 ![](/images/tottori3h.jpg)
 
-由[JR由良（コナン駅）](https://hidie.net/tottori3h/)開始  
+由[JR由良（コナン駅）](/tottori3h/)開始  
 
 ![](/images/tottori3l3.jpg)
 
@@ -18,19 +18,19 @@ tags : [travel-日本-鳥取]
 
 ![](/images/tottori3l2.jpg)
 
-地面有[誘導案内表示シート](https://hidie.net/tottori3l/)提示仲有幾耐行到目的地  
+地面有[誘導案内表示シート](/tottori3l/)提示仲有幾耐行到目的地  
 
 ![](/images/tottori3o6.jpg)
 
-又會有12塊路[面装飾シート](https://hidie.net/tottori3o/)  
+又會有12塊路[面装飾シート](/tottori3o/)  
 
 ![](/images/tottori3p8.jpg)
 
-仲會有[石製モニュメント](https://hidie.net/tottori3p/)配埋AR玩  
+仲會有[石製モニュメント](/tottori3p/)配埋AR玩  
 
 ![](/images/tottori3m6.jpg)
 
-當然唔少得水渠蓋[マンホール](https://hidie.net/tottori3l/)  
+當然唔少得水渠蓋[マンホール](/tottori3l/)  
 
 ![](/images/tottori3m1.jpg)
 
@@ -55,7 +55,7 @@ tags : [travel-日本-鳥取]
 
 ![](/images/tottori3r.jpg)
 
-過橋：[コナン大橋](https://hidie.net/tottori3r/)
+過橋：[コナン大橋](/tottori3r/)
 
 ![](/images/tottori3q2.jpg)
 
@@ -69,15 +69,15 @@ tags : [travel-日本-鳥取]
 
 ![](/images/tottori3s.jpg)
 
-[コナンの家 米花商店街](https://hidie.net/tottori3s/)  
+[コナンの家 米花商店街](/tottori3s/)  
 
 ![](/images/tottori3n19.jpg)
 
-行過埋第N個[ブロンオブジェ](https://hidie.net/tottori3n/)（青銅像）  
+行過埋第N個[ブロンオブジェ](/tottori3n/)（青銅像）  
 
 ![](/images/tottori3x0.jpg)
 
-先會去到[青山剛昌ふるさと館](https://hidie.net/tottori3x/)啊！  
+先會去到[青山剛昌ふるさと館](/tottori3x/)啊！  
   
   
 其實條路全長只係1.4km  

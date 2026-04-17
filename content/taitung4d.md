@@ -12,7 +12,7 @@ tags : [travel - 臺灣・臺東、知本]
 
 ![](/images/taitung4d1.jpg)
 
-搭[UNIQLO架免費車](https://hidie.net/taitung4c/)，門口落。  
+搭[UNIQLO架免費車](/taitung4c/)，門口落。  
 
 ![](/images/taitung4d2.jpg)
 
@@ -47,4 +47,4 @@ tags : [travel - 臺灣・臺東、知本]
   
 \-----------------------------------------------  
   
-延伸閱讀：[臺東瘋食遊（8D7N）](https://hidie.net/taitung8d7n/)
+延伸閱讀：[臺東瘋食遊（8D7N）](/taitung8d7n/)

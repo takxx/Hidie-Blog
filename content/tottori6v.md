@@ -6,7 +6,7 @@ images: ["/images/tottori6v.jpg"]
 tags : [travel-日本-鳥取, flavor - 螞蟻族]
 ---
 
-哈哈咁[荒蕪](https://hidie.net/tottori6u/)都要行去籮神
+哈哈咁[荒蕪](/tottori6u/)都要行去籮神
 
 ![](/images/tottori6v.jpg)
 

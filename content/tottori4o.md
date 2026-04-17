@@ -6,8 +6,8 @@ images: ["/images/tottori4o.jpg"]
 tags : [travel-日本-鳥取, flavor - 螞蟻族, flavor - 飲！]
 ---
 
-今朝食咗個[溫泉早餐](https://hidie.net/tottori4d/)後就無再食嘢一直行行行  
-咁响遊覽整個[白壁土蔵群](https://hidie.net/tottori4n/)同甍（赤瓦）之前  
+今朝食咗個[溫泉早餐](/tottori4d/)後就無再食嘢一直行行行  
+咁响遊覽整個[白壁土蔵群](/tottori4n/)同甍（赤瓦）之前  
 先take a break响呢個古民家改建嘅cafe歇一歇腳  
 
 ![](/images/tottori4o1.jpg)

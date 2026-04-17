@@ -27,7 +27,7 @@ tags : [travel-日本-鳥取, satisfaction - 計劃泡湯了]
 揀網啦實用啲  
   
   
-飽得滯 + 今日[有食過](https://hidie.net/tottori4w/)  
+飽得滯 + 今日[有食過](/tottori4w/)  
 今晚唔食雪糕喇  
   
   

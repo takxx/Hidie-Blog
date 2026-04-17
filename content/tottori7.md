@@ -15,13 +15,13 @@ tags : [travel-日本-鳥取]
 
 ![](/images/tottori7a.jpg)
 
-[明治プロビオヨーグルトR-1 ドリンクタイプEX](https://hidie.net/tottori7a/)  
+[明治プロビオヨーグルトR-1 ドリンクタイプEX](/tottori7a/)  
 浸完舒舒服服飲返支probio yogurt  
 令和元年飲R-1，幾貼題  
 
 ![](/images/tottori7b.jpg)
 
-[水木しげる先生執筆中の像](https://hidie.net/tottori7b/)  
+[水木しげる先生執筆中の像](/tottori7b/)  
 鬼太郎角色們圍住畫緊畫嘅水木先生  
 
 ![](/images/tottori7b5.jpg)
@@ -32,12 +32,12 @@ tags : [travel-日本-鳥取]
 ![](/images/tottori7b6.jpg)
 
 係前幾日見到嘅**はまるーぷバス**  
-上次嘅係山田先生樣嘅[メインコース](https://hidie.net/tottori2j/)  
+上次嘅係山田先生樣嘅[メインコース](/tottori2j/)  
 而呢個鬼太郎樣嘅係生活コース  
 
 ![](/images/tottori7c.jpg)
 
-[鬼太郎の音楽会碑](https://hidie.net/tottori7/)  
+[鬼太郎の音楽会碑](/tottori7/)  
 
 ![](/images/tottori7c2.jpg)
 
@@ -67,7 +67,7 @@ tags : [travel-日本-鳥取]
 
 ![](/images/tottori7d7.jpg)
 
-[世界妖怪会議](https://hidie.net/tottori7d/)  
+[世界妖怪会議](/tottori7d/)  
 
 ![](/images/tottori7d8.jpg)
 
@@ -83,7 +83,7 @@ tags : [travel-日本-鳥取]
 
 ![](/images/tottori7e1.jpg)
 
-[みなとさかい交流館](https://hidie.net/tottori7e/)  
+[みなとさかい交流館](/tottori7e/)  
 裡面有境港市観光案内所、手信舖、桑拿浴場等  
 當然最最最吸引係呢幅**妖怪巨大壁画**啦  
 
@@ -154,11 +154,11 @@ tags : [travel-日本-鳥取]
 
 ![](/images/tottori7f.jpg)
 
-(又) [河童の泉](https://hidie.net/tottori7f/)  
+(又) [河童の泉](/tottori7f/)  
 
 ![](/images/tottori7f3.jpg)
 
-**[尿尿小童 (Manneken Pis)](https://hidie.net/belgium1/)** 嘅鬼太郎版本  
+**[尿尿小童 (Manneken Pis)](/belgium1/)** 嘅鬼太郎版本  
 
 ![](/images/tottori7f10.jpg)
 
@@ -166,7 +166,7 @@ tags : [travel-日本-鳥取]
 
 ![](/images/tottori7g1.jpg)
 
-brunch **イカの漬け丼** & **かに･イクラの贅沢丼**@ [元気亭。](https://hidie.net/tottori7g/)  
+brunch **イカの漬け丼** & **かに･イクラの贅沢丼**@ [元気亭。](/tottori7g/)  
 超超超極級好食！！！！！  
 
 ![](/images/tottori7h1.jpg)
@@ -181,7 +181,7 @@ folded (?)嘅**鬼太郎妖怪倉庫**
 
 ![](/images/tottori7h10.jpg)
 
-今日嘅[水木しげる記念館](https://hidie.net/tottori7h/)坐鎮嘅係**砂かけ婆**  
+今日嘅[水木しげる記念館](/tottori7h/)坐鎮嘅係**砂かけ婆**  
 佢知我唔係日本人，就一直冇郁過  
 就連我坐咗佢隔離慢慢玩同影相都冇郁過  
 然後，有三個嘻嘻哈哈嘅日本妹子見到咁樣  
@@ -197,7 +197,7 @@ folded (?)嘅**鬼太郎妖怪倉庫**
 
 ![](/images/tottori7i2.jpg)
 
-佢裡面有間[妖怪茶屋](https://hidie.net/tottori7i/)  
+佢裡面有間[妖怪茶屋](/tottori7i/)  
 
 ![](/images/tottori7i.jpg)
 
@@ -230,23 +230,23 @@ folded (?)嘅**鬼太郎妖怪倉庫**
 
 ![](/images/tottori7j3.jpg)
 
-呢度嘅正式[郵局](https://hidie.net/tottori7j/)  
+呢度嘅正式[郵局](/tottori7j/)  
 寄出嘅郵chop會有鬼太郎樣呀！  
 
 ![](/images/tottori7j4.jpg)
 
-[ゲゲゲの鬼太郎の塔](https://hidie.net/tottori7k/)  
+[ゲゲゲの鬼太郎の塔](/tottori7k/)  
 爸爸，爸爸响上面啊啊啊！  
 
 ![](/images/tottori7l9.jpg)
 
 响酒店拎埋行李（一早check out咗放低响酒店）  
-離開境港搭JR返[米子駅](https://hidie.net/tottori6m/) by[目玉おやじ列車](https://hidie.net/tottori6l/)  
+離開境港搭JR返[米子駅](/tottori6m/) by[目玉おやじ列車](/tottori6l/)  
 
 ![](/images/tottori7n.jpg)
 
 返到米子駅唔係即刻出閘  
-因為响個站度停泊咗一直預唔啱時間搭嘅[ピンクのコナン列車](https://hidie.net/tottori6n/)（！！！）  
+因為响個站度停泊咗一直預唔啱時間搭嘅[ピンクのコナン列車](/tottori6n/)（！！！）  
 
 ![](/images/tottori7n4.jpg)
 
@@ -264,7 +264,7 @@ folded (?)嘅**鬼太郎妖怪倉庫**
 
 ![](/images/tottori7o.jpg)
 
-YES！嚟到[皆生温泉](https://hidie.net/tottori7o/)喇～  
+YES！嚟到[皆生温泉](/tottori7o/)喇～  
 屏風嘅係代表鳥取嘅Pokémon穿山甲：サンド 同 アローラサンド  
 
 ![](/images/tottori7o5.jpg)
@@ -278,7 +278,7 @@ YES！嚟到[皆生温泉](https://hidie.net/tottori7o/)喇～
 
 ![](/images/tottori7p2.jpg)
 
-[皆生温泉 かいけ彩朝楽](https://hidie.net/tottori7p/)  
+[皆生温泉 かいけ彩朝楽](/tottori7p/)  
 係今晚下榻嘅溫泉旅館  
 點解揀呢間應該睇到呢對木屐都略知一二喇可  
 
@@ -368,7 +368,7 @@ wakakakakkakkaaaaa，皆生溫泉唯一有鬼太郎主題房間嘅溫泉旅館
 
 ![](/images/tottori7q3.jpg)
 
-[巴士站](https://hidie.net/tottori7q/)裡面有鬼太郎鉛筆刮刮畫  
+[巴士站](/tottori7q/)裡面有鬼太郎鉛筆刮刮畫  
 有埋紙同筆，等車都唔怕悶  
 
 ![](/images/tottori7r1.jpg)
@@ -377,7 +377,7 @@ wakakakakkakkaaaaa，皆生溫泉唯一有鬼太郎主題房間嘅溫泉旅館
 
 ![](/images/tottori7r4.jpg)
 
-[イオンモール日吉津](https://hidie.net/tottori7r/) (AEON Mall 日吉津)  
+[イオンモール日吉津](/tottori7r/) (AEON Mall 日吉津)  
 用大概一個鐘頭快速逛吓  
 好行就聽日返嚟再行過  
 因為成個旅程其實冇真係行過街嘛...  
@@ -406,7 +406,7 @@ wakakakakkakkaaaaa，皆生溫泉唯一有鬼太郎主題房間嘅溫泉旅館
 ![](/images/tottori7s6.jpg)
 
 因為係訂鬼太郎房  
-自動upgrade咗[本ズワイガニ食べ放題](https://hidie.net/tottori7s/)  
+自動upgrade咗[本ズワイガニ食べ放題](/tottori7s/)  
 即係凍！蟹！腳！任！食！！！  
 勁勁勁長㗎啲腳，鮮味到暈...  
 早知係乜Q嘢食都唔拎就咁食蟹腳啦啦啦  
@@ -433,13 +433,13 @@ wakakakakkakkaaaaa，皆生溫泉唯一有鬼太郎主題房間嘅溫泉旅館
 
 ![](/images/tottori7t2.jpg)
 
-同之前住嘅[三朝温泉後楽](https://hidie.net/tottori3zk/)嘅分別係要自己鋪床  
+同之前住嘅[三朝温泉後楽](/tottori3zk/)嘅分別係要自己鋪床  
 又因為要自己鋪床就要打開櫃門  
 櫃裡面有妖怪㗎，唔係自己打開就會唔知道㗎喇～  
 
 ![](/images/tottori7t3.jpg)
 
-[GODIVA×Uchi Café ショコラアイスクリーム ロールケーキ](https://hidie.net/tottori7t/)  
+[GODIVA×Uchi Café ショコラアイスクリーム ロールケーキ](/tottori7t/)  
 有人响我唔知浸溫泉定瞓咗覺嘅時候食咗佢（嗚嗚）  
 
 ![](/images/tottori7u1.jpg)
@@ -449,7 +449,7 @@ wakakakakkakkaaaaa，皆生溫泉唯一有鬼太郎主題房間嘅溫泉旅館
 
 ![](/images/tottori7u.jpg)
 
-[大山乳業 特選白バラ牛乳](https://hidie.net/tottori7/)  
+[大山乳業 特選白バラ牛乳](/tottori7/)  
 係啦！都係揀牛奶  
 因為頭先晚餐已經食過雪糕  
 加上在地樽裝牛奶真係非常好飲  

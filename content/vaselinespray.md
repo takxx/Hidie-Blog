@@ -18,4 +18,4 @@ tags : [glamorous - 蛋臉以外]
 （喔～ 這枝是澳洲造的，不是東南亞的了...）  
 \-----------------------------------------------  
   
-延伸閱讀：[\[body\] vaseline - total moisture nourishing lotion & serum](https://hidie.net/vaselinenourishing/)
+延伸閱讀：[\[body\] vaseline - total moisture nourishing lotion & serum](/vaselinenourishing/)

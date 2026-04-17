@@ -26,7 +26,7 @@ well，呢隻係蟹唔係妖怪
 
 ![](/images/tottori6m1.jpg)
 
-[ゲゲゲの妖怪楽園](https://hidie.net/tottori6m/)  
+[ゲゲゲの妖怪楽園](/tottori6m/)  
 
 ![](/images/tottori6m.jpg)
 
@@ -54,7 +54,7 @@ well，呢隻係蟹唔係妖怪
 
 ![](/images/tottori6n1.jpg)
 
-晚餐@ [海鮮ふぐ料理 殿](https://hidie.net/tottori6n/)  
+晚餐@ [海鮮ふぐ料理 殿](/tottori6n/)  
 嚟得境港當然係飲**上撰千代むすび 純米吟釀 強力50**  
 
 ![](/images/tottori6n.jpg)
@@ -81,7 +81,7 @@ well，呢隻係蟹唔係妖怪
 
 ![](/images/tottori6o2.jpg)
 
-[妖怪ナイトストリート](https://hidie.net/tottori6o/)  
+[妖怪ナイトストリート](/tottori6o/)  
 夜晚條街開晒燈又唔同玩法  
 
 ![](/images/tottori6o3.jpg)
@@ -134,7 +134,7 @@ well，呢隻係蟹唔係妖怪
 
 ![](/images/tottori6p.jpg)
 
-又返黎[妖怪神社](https://hidie.net/tottori6p/)  
+又返黎[妖怪神社](/tottori6p/)  
 
 ![](/images/tottori6o16.jpg)
 
@@ -156,7 +156,7 @@ well，呢隻係蟹唔係妖怪
   
 ![](/images/tottori6q.jpg)
 
-[千代むすび酒造 岡空本店](https://hidie.net/tottori6q/)  
+[千代むすび酒造 岡空本店](/tottori6q/)  
 頭先食飯飲落幾好味，入去八吓先  
 
 ![](/images/tottori6q2.jpg)
@@ -205,25 +205,25 @@ well，呢隻係蟹唔係妖怪
 
 ![](/images/tottori6r0.jpg)
 
-返酒店睇木村（**[グランメゾン東京](https://hidie.net/grandmaisontokyo/)**）  
+返酒店睇木村（**[グランメゾン東京](/grandmaisontokyo/)**）  
 
 ![](/images/tottori6r.jpg)
 
-再上酒店頂樓浸個[溫泉](https://hidie.net/tottori6r/)  
+再上酒店頂樓浸個[溫泉](/tottori6r/)  
 天然溫泉not人工㗎喇今晚  
 
 ![](/images/tottori6s.jpg)
 
-浸完溫泉買[啤酒](https://hidie.net/tottori6s/)，呵呵呵  
+浸完溫泉買[啤酒](/tottori6s/)，呵呵呵  
 
 ![](/images/tottori6t.jpg)
 
-再食返個酒店送嘅醬油拉麵[夜鳴きそば](https://hidie.net/tottori6t/)  
+再食返個酒店送嘅醬油拉麵[夜鳴きそば](/tottori6t/)  
 
 ![](/images/tottori6u1.jpg)
 
 食完嘢照常理係會好好休息吓  
-不過有啲嘢未做喎都係[出一出去](https://hidie.net/tottori6u/)  
+不過有啲嘢未做喎都係[出一出去](/tottori6u/)  
 點知境港駅附近係冇！便！利！店！  
 要兜五六分鐘嘅住宅區先會有  
 
@@ -238,7 +238,7 @@ well，呢隻係蟹唔係妖怪
 
 ![](/images/tottori6v.jpg)
 
-哈哈咁荒蕪都要行去籮神當然係為咗[雪糕](https://hidie.net/tottori6v/)啦！  
+哈哈咁荒蕪都要行去籮神當然係為咗[雪糕](/tottori6v/)啦！  
   
 仲諗住唞一陣不如凌晨再去浸多鑊溫泉  
 點知已經瞓瞓瞓到... Zzzz.....Zzzz.......  

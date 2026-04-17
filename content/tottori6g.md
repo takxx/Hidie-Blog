@@ -19,12 +19,12 @@ tags : [travel-日本-鳥取, satisfaction - 搭條鐵]
 
 ![](/images/tottori6g.jpg)
 
-返到米子[0番のりば](https://hidie.net/tottori1d/)  
+返到米子[0番のりば](/tottori1d/)  
 然後轉車去**境港駅**  
 
 ![](/images/tottori6g2.jpg)
 
-前幾日前食過嘅米子[白大蔥](https://hidie.net/tottori2l/)（！）  
+前幾日前食過嘅米子[白大蔥](/tottori2l/)（！）  
 露出綠色嘅部份都已經大半個人咁高！！！  
   
     

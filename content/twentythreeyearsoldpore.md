@@ -10,7 +10,7 @@ tags : [glamorous - 保養おたく, glamorous - 面膜魂]
 
 ![](/images/twentythreeyearsoldpore.jpg)
 
-同之前用過的[co2 mask](https://hidie.net/co2mask/)用法基本上無異  
+同之前用過的[co2 mask](/co2mask/)用法基本上無異  
 也是把針筒型的gel加上碳酸mask  
 以密集式注氧於肌膚中  
 從而強化皮膚同收細毛孔  

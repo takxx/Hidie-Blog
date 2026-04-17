@@ -95,7 +95,7 @@ why not both？
 
 ![](/images/tottori5l19.jpg)
 
-食埋[鳥取梨](https://hidie.net/tottori4zd/)，嘆埋杯茶就飽飽喇！  
+食埋[鳥取梨](/tottori4zd/)，嘆埋杯茶就飽飽喇！  
     
   
 {{<tottori>}}  

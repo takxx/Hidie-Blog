@@ -10,7 +10,7 @@ tags : [travel-日本-鳥取]
 
 ![](/images/tottori3l2.jpg)
 
-[floor sticker](https://hidie.net/tottori3l/)除咗呢仲有資訊用途嘅
+[floor sticker](/tottori3l/)除咗呢仲有資訊用途嘅
 
 ![](/images/tottori3o.jpg)
 

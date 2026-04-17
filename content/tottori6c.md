@@ -6,11 +6,11 @@ images: ["/images/tottori6c.jpg"]
 tags : [travel-日本-鳥取, flavor - 行膳積腹]
 ---
 
-一早，先起床落樓[浸溫泉](https://hidie.net/tottori4zk/)（哈哈）  
+一早，先起床落樓[浸溫泉](/tottori4zk/)（哈哈）  
 
 ![](/images/tottori6c1.jpg)
 
-今朝唔想食[西式](https://hidie.net/tottori5b/)嘢  
+今朝唔想食[西式](/tottori5b/)嘢  
 就揀撳飛仔食清簡啲嘅和食  
 
 ![](/images/tottori6c.jpg)

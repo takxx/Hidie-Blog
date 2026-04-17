@@ -18,16 +18,16 @@ tags : [travel-日本-鳥取]
 
 ![](/images/tottori3zc7.jpg)
 
-（由良駅 → [倉吉駅](https://hidie.net/tottori3zc/)）  
+（由良駅 → [倉吉駅](/tottori3zc/)）  
 係ひなビタ♪ 啊～  
 
 ![](/images/tottori3zd.jpg)
 
-お倉 + お吉 = [倉吉](https://hidie.net/tottori3zd/)  
+お倉 + お吉 = [倉吉](/tottori3zd/)  
 
 ![](/images/tottori3ze1.jpg)
 
-[ラーメン幸雅](https://hidie.net/tottori3e/)  
+[ラーメン幸雅](/tottori3e/)  
 一出站一直行行行六分鐘就到  
 就算係拖住行李都唔辛苦  
 
@@ -39,11 +39,11 @@ tags : [travel-日本-鳥取]
 ![](/images/tottori3zf.jpg)
 
 食完見到啲雨大粒咗  
-咁唔去遊覽倉吉住直接[搭巴士](https://hidie.net/tottori3zf/)去三朝温泉  
+咁唔去遊覽倉吉住直接[搭巴士](/tottori3zf/)去三朝温泉  
 
 ![](/images/tottori3zg.jpg)
 
-[三朝温泉後楽](https://hidie.net/tottori3zg/)  
+[三朝温泉後楽](/tottori3zg/)  
 一落巴士過馬路就已經係門口  
 會唔會太太太方便呀？  
 
@@ -67,7 +67,7 @@ welcome餅係**元祖因幡の白うさぎ**
 
 ![](/images/tottori3zh.jpg)
 
-浸完梗係要食[晚飯](https://hidie.net/tottori3zh/)啦  
+浸完梗係要食[晚飯](/tottori3zh/)啦  
 塊**鳥取黒毛和牛**好大塊啊  
 個餐除咗呢堆，仲有天麩羅茶碗蒸碗物  
 釜飯係蟹同山野菜  
@@ -80,7 +80,7 @@ welcome餅係**元祖因幡の白うさぎ**
 ![](/images/tottori3zi.jpg)
 
 食到好飽唔浸得溫泉住  
-[落街](https://hidie.net/tottori3zi/)周圍兜吓先  
+[落街](/tottori3zi/)周圍兜吓先  
 
 ![](/images/tottori3zi1.jpg)
 
@@ -111,7 +111,7 @@ welcome餅係**元祖因幡の白うさぎ**
 
 ![](/images/tottori3zk2.jpg)
 
-[大山おいしい牛乳モナカ](https://hidie.net/tottori3zk/)  
+[大山おいしい牛乳モナカ](/tottori3zk/)  
 甜品time～
 
 ![](/images/tottori4.jpg)

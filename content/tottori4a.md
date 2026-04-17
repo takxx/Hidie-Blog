@@ -6,11 +6,11 @@ aliases: [ "/2020/02/day41.html" ]
 tags : [travel-日本-鳥取]
 ---
 
-眼都未擘大就走去[溫泉](https://hidie.net/tottori4c/)浸醒自己...  
+眼都未擘大就走去[溫泉](/tottori4c/)浸醒自己...  
 
 ![](/images/tottori4d.jpg)
 
-浸完舒舒服服咁就去食個豐富[早餐](https://hidie.net/tottori4d/)（一泊二食嘛）  
+浸完舒舒服服咁就去食個豐富[早餐](/tottori4d/)（一泊二食嘛）  
 
 ![](/images/tottori4d1.jpg)
 
@@ -27,7 +27,7 @@ tags : [travel-日本-鳥取]
 
 ![](/images/tottori4e3.jpg)
 
-啊啊啊啊啊～ 臨要走先睇到[Luna Sea](https://hidie.net/tottori4e/)嘅live  
+啊啊啊啊啊～ 臨要走先睇到[Luna Sea](/tottori4e/)嘅live  
 但係book咗車要check out睇一半尖叫吓都夠幸福喇（心）  
 
 ![](/images/tottori4e5.jpg)
@@ -44,7 +44,7 @@ check out
 
 ![](/images/tottori4f.jpg)
 
-[JR倉吉駅](https://hidie.net/tottori4f/)  
+[JR倉吉駅](/tottori4f/)  
 
 ![](/images/tottori4f4.jpg)
 
@@ -64,13 +64,13 @@ check out
 
 ![](/images/tottori4g4.jpg)
 
-响[広瀬町](https://hidie.net/tottori4g/)落車  
+响[広瀬町](/tottori4g/)落車  
 行最少係另一架响**鍛冶町一丁目**落嘅  
 不過未見嗰班車就行多少少啦   
 
 ![](/images/tottori4h.jpg)
 
-[円形劇場](https://hidie.net/tottori4h/)  
+[円形劇場](/tottori4h/)  
 於1955年竣工嘅**旧明倫小学校**円形校舎  
 係倉吉市以至全日本最古老嘅圓形校舍  
 
@@ -231,7 +231,7 @@ character房，有eva四葉機動警察batman等等
 ![](/images/tottori4i2.jpg)
 
 決定行去倉吉白壁土藏群前  
-先去一去[満正寺](https://hidie.net/tottori4i/)  
+先去一去[満正寺](/tottori4i/)  
 
 ![](/images/tottori4i.jpg)
 
@@ -248,7 +248,7 @@ character房，有eva四葉機動警察batman等等
 ![](/images/tottori4j1.jpg)
 
 繼續沿路行幾分鐘  
-就會到呢個地區嘅[建築物群保存地區](https://hidie.net/tottori4j/)  
+就會到呢個地區嘅[建築物群保存地區](/tottori4j/)  
 
 ![](/images/tottori4j2.jpg)
 
@@ -263,7 +263,7 @@ character房，有eva四葉機動警察batman等等
 
 ![](/images/tottori4k.jpg)
 
-[倉吉淀屋（旧牧田家住宅）](https://hidie.net/tottori4k/)  
+[倉吉淀屋（旧牧田家住宅）](/tottori4k/)  
 1760年（宝暦10）建築物  
 係倉吉市現存最古老嘅町家建築  
 
@@ -280,7 +280,7 @@ character房，有eva四葉機動警察batman等等
 
 ![](/images/tottori4l4.jpg)
 
-沿住[玉川](https://hidie.net/tottori4l/)行  
+沿住[玉川](/tottori4l/)行  
 
 ![](/images/tottori4l5.jpg)
 
@@ -314,13 +314,13 @@ character房，有eva四葉機動警察batman等等
 
 ![](/images/tottori4m.jpg)
 
-直至見到[大蓮寺](https://hidie.net/tottori4m/)嘅真身哈哈  
+直至見到[大蓮寺](/tottori4m/)嘅真身哈哈  
 從1575-1592年合併嘅三座寺  
 再响1955年用鋼筋混凝土重建  
 
 ![](/images/tottori4n1.jpg)
 
-到達[白壁土藏群](https://hidie.net/tottori4n/)  
+到達[白壁土藏群](/tottori4n/)  
 
 ![](/images/tottori4n2.jpg)
 
@@ -329,8 +329,8 @@ character房，有eva四葉機動警察batman等等
 
 ![](/images/tottori4o1.jpg)
 
-[赤瓦五号館](https://hidie.net/tottori4o/) **久楽**  
-[赤瓦の館](https://hidie.net/tottori4/)有十六号共十四個館（順序落無四同九號）  
+[赤瓦五号館](/tottori4o/) **久楽**  
+[赤瓦の館](/tottori4/)有十六号共十四個館（順序落無四同九號）  
 
 ![](/images/tottori4o0.jpg)
 
@@ -349,7 +349,7 @@ character房，有eva四葉機動警察batman等等
 
 ![](/images/tottori4p1.jpg)
 
-[赤瓦一号館](https://hidie.net/tottori4o/)  
+[赤瓦一号館](/tottori4o/)  
 
 ![](/images/tottori4p.jpg)
 
@@ -361,7 +361,7 @@ character房，有eva四葉機動警察batman等等
 
 ![](/images/tottori4q.jpg)
 
-[赤瓦二号館](https://hidie.net/tottori4q/) **やきすぎ彫刻館**  
+[赤瓦二号館](/tottori4q/) **やきすぎ彫刻館**  
 
 ![](/images/tottori4q1.jpg)
 
@@ -381,25 +381,25 @@ character房，有eva四葉機動警察batman等等
 
 ![](/images/tottori4r1.jpg)
 
-[赤瓦七号館](https://hidie.net/tottori4r/) **元帥酒造本店**  
+[赤瓦七号館](/tottori4r/) **元帥酒造本店**  
 
 ![](/images/tottori4r.jpg)
 嘉永年間（1848-1854年）創業嘅酒舖  
 
 ![](/images/tottori4s.jpg)
 
-[赤瓦十号館](https://hidie.net/tottori4s/) **倉吉白壁土藏群 観光案内所**  
+[赤瓦十号館](/tottori4s/) **倉吉白壁土藏群 観光案内所**  
 可以預約asoview! 付款租借倉吉絣响倉吉白壁土藏群周圍行  
 （倉吉絣乃江戸時代倉吉嘅傳統特色祥瑞紋飾、藍染、繪絣、手工編織品服裝）  
 
 ![](/images/tottori4t.jpg)
 
 **第五十三代横綱琴桜像**
-[琴櫻傑將](https://hidie.net/tottori4t/)  ：來自倉吉市嘅前大相撲力士，第53代橫綱  
+[琴櫻傑將](/tottori4t/)  ：來自倉吉市嘅前大相撲力士，第53代橫綱  
 
 ![](/images/tottori4u1.jpg)
 
-[弓道体験 まととや](https://hidie.net/tottori4u/)  
+[弓道体験 まととや](/tottori4u/)  
 以倉吉最古老嘅西洋建築物**旧日本産業貯蓄銀行の倉吉支店**改建  
 
 ![](/images/tottori4u2.jpg)
@@ -412,12 +412,12 @@ character房，有eva四葉機動警察batman等等
 
 ![](/images/tottori4v3.jpg)
 
-[赤瓦十六号館](https://hidie.net/tottori4v/) **お茶処淡雪**  
+[赤瓦十六号館](/tottori4v/) **お茶処淡雪**  
 有得玩囲碁嘅cafe，today closed  
 
 ![](/images/tottori4w.jpg)
 
-[赤瓦六号館](https://hidie.net/tottori4w/) **桑田醤油醸造場**  
+[赤瓦六号館](/tottori4w/) **桑田醤油醸造場**  
 明治10年創業嘅老舗醤油店  
 
 ![](/images/tottori4w6.jpg)
@@ -447,25 +447,25 @@ character房，有eva四葉機動警察batman等等
 
 ![](/images/tottori4x.jpg)
 
-[赤瓦十五号館](https://hidie.net/tottori4x/) **日本料理 飛鳥**  
+[赤瓦十五号館](/tottori4x/) **日本料理 飛鳥**  
 一日開幾粒鐘㗎咋  
 
 ![](/images/tottori4y.jpg)
 
-[赤瓦十三号館](https://hidie.net/tottori4y/) **白壁倶楽部**  
+[赤瓦十三号館](/tottori4y/) **白壁倶楽部**  
 建於明治時代嘅**旧国立第三銀行**  
 亦係国登録有形文化財  
 食西餐嘅～  
 
 ![](/images/tottori4za.jpg)
 
-[町屋 清水庵](https://hidie.net/tottori4za/)  
+[町屋 清水庵](/tottori4za/)  
 創業過百年嘅涮年糕店  
 啱啱午休冇得試（淚）  
 
 ![](/images/tottori4zb.jpg)
 
-[大岳院](https://hidie.net/tottori4zb/)  
+[大岳院](/tottori4zb/)  
 建於1605年嘅佛寺  
   
 行完呢個傳統建築物保護區  

@@ -10,7 +10,7 @@ tags : [travel-日本-鳥取]
 
 ![](/images/tottori6c.jpg)
 
-落街食早餐 @[砂丘そば](https://hidie.net/tottori6c/)  
+落街食早餐 @[砂丘そば](/tottori6c/)  
 清清哋，個鳥取竹輪勁好咬唔錯唔錯  
 
 ![](/images/tottori6d1.jpg)
@@ -20,11 +20,11 @@ tags : [travel-日本-鳥取]
 
 ![](/images/tottori6d.jpg)
 
-搭[JR](https://hidie.net/tottori6d/)先返**米子駅**  
+搭[JR](/tottori6d/)先返**米子駅**  
 
 ![](/images/tottori6e0.jpg)
 
-**アベ鳥取堂** 「[かにづくし弁当](https://hidie.net/tottori6e/)」  
+**アベ鳥取堂** 「[かにづくし弁当](/tottori6e/)」  
 雖然特急嘅車程只係1粒鐘  
 不過都會爭取食駅弁嘅時間  
 仲係鳥取蟹便當喎，唔食會對唔住自己㗎  
@@ -35,12 +35,12 @@ tags : [travel-日本-鳥取]
 
 ![](/images/tottori6g.jpg)
 
-返到米子[0番のりば](https://hidie.net/tottori6g/)  
+返到米子[0番のりば](/tottori6g/)  
 然後轉車去**境港駅**  
 
 ![](/images/tottori6f.jpg)
 
-今次都係兩卡車，先入[ねずみ男列車](https://hidie.net/tottori6f/)  
+今次都係兩卡車，先入[ねずみ男列車](/tottori6f/)  
 （而我當然揀坐另一卡：**目玉おやじ列車**）  
 
 ![](/images/tottori7l14.jpg)
@@ -62,7 +62,7 @@ tags : [travel-日本-鳥取]
 
 ![](/images/tottori6h.jpg)
 
-米子駅／「ねずみ男」駅 → [境港駅／「鬼太郎」駅](https://hidie.net/tottori6h/)  
+米子駅／「ねずみ男」駅 → [境港駅／「鬼太郎」駅](/tottori6h/)  
 
 ![](/images/tottori6h1.jpg)
 
@@ -94,7 +94,7 @@ but唔駛啦我今日又係揀有溫泉浸嘅住宿哈哈哈
 ![](/images/tottori6i4.jpg)
 
 然後去酒店check in完擺低行李又出發  
-[水木しげるロード](https://hidie.net/tottori6j/) GO！（**水木茂大道**）  
+[水木しげるロード](/tottori6j/) GO！（**水木茂大道**）  
 
 ![](/images/tottori6j1.jpg)
 
@@ -185,12 +185,12 @@ but唔駛啦我今日又係揀有溫泉浸嘅住宿哈哈哈
 
 ![](/images/tottori6k.jpg)
 
-但入去前都係要响**妖怪食品研究所**啪返粒[妖菓目玉おやじ](https://hidie.net/tottori6k/)  
+但入去前都係要响**妖怪食品研究所**啪返粒[妖菓目玉おやじ](/tottori6k/)  
 好好好好食！係好睇好玩兼好食！！！  
 
 ![](/images/tottori6l.jpg)
 
-[水木しげる記念館](https://hidie.net/tottori6l/)（水木茂紀念館）  
+[水木しげる記念館](/tottori6l/)（水木茂紀念館）  
 
 {{<youtube G3dvygjotCI>}}
 

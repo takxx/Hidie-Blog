@@ -12,7 +12,7 @@ tags : [travel-日本-鳥取]
 
 **赤瓦十号館 倉吉白壁土藏群 観光案内所**  
 石造面嘅牆身，前身係cider工場  
-呢度出生嘅横綱[琴櫻傑將](https://hidie.net/tottori4t/)都响度打過工㗎  
+呢度出生嘅横綱[琴櫻傑將](/tottori4t/)都响度打過工㗎  
 
 ![](/images/tottori4s1.jpg)
 

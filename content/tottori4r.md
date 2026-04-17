@@ -6,7 +6,7 @@ images: ["/images/tottori4r.jpg"]
 tags : [travel-日本-鳥取]
 ---
 
-有改裝造酒廠嘅[倉房](https://hidie.net/tottori4q/)  
+有改裝造酒廠嘅[倉房](/tottori4q/)  
 
 ![](/images/tottori4r1.jpg)
 

@@ -70,4 +70,4 @@ tags : [flavor - 小食部, flavor - 螞蟻族, flavor - 飲！, travel - 臺灣
   
 \-----------------------------------------------  
   
-延伸閱讀：[臺南喪食遊 w/六龜 (5D4N)](https://hidie.net/tainan5d4n/)
+延伸閱讀：[臺南喪食遊 w/六龜 (5D4N)](/tainan5d4n/)

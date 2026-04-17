@@ -7,7 +7,7 @@ tags : [amusement - games]
 ---
 
 畫公仔 x 估已經夠爆笑  
-比[Pictionary](https://hidie.net/pictionary/)更爆笑仲有呢副！  
+比[Pictionary](/pictionary/)更爆笑仲有呢副！  
 
 ![](/images/telestrations.jpg)
 

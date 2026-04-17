@@ -38,7 +38,7 @@ tags : [travel-日本-鳥取]
 
 ![](/images/tottori7j.jpg)
 
-同[コナン通り](https://hidie.net/tottori3m/)（柯南大道）一樣  
+同[コナン通り](/tottori3m/)（柯南大道）一樣  
 低頭望有好多角色マンホール（水渠蓋）㗎！
 
 ![](/images/tottori6b1.jpg)

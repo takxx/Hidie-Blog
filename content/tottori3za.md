@@ -6,7 +6,7 @@ images: ["/images/tottori3za.jpg"]
 tags : [travel-日本-鳥取]
 ---
 
-返到[由良タクシー](https://hidie.net/tottori3i/)拎行李
+返到[由良タクシー](/tottori3i/)拎行李
 
 ![](/images/tottori3za.jpg)
 

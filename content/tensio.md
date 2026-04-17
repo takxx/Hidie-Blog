@@ -6,7 +6,7 @@ images: ["/images/tensio.jpg"]
 tags : [lifestyle-急救箱]
 ---
 
-面對當下嘅事，除咗每日會[磅重](https://hidie.net/minnanotabo20210104/)同探熱（咪L再同我講量體溫呀頂你）  
+面對當下嘅事，除咗每日會[磅重](/minnanotabo20210104/)同探熱（咪L再同我講量體溫呀頂你）  
 仲真係要同朕check吓個血壓  
 
 ![](/images/tensio.jpg)

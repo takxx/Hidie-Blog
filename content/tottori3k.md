@@ -6,7 +6,7 @@ images: ["/images/tottori3k.jpg"]
 tags : [travel-日本-鳥取]
 ---
 
-入[北栄町観光案内所](https://hidie.net/tottori3j/)最最最主要嘅目的     
+入[北栄町観光案内所](/tottori3j/)最最最主要嘅目的     
 
 ![](/images/tottori3k.jpg)
 

@@ -16,7 +16,7 @@ tags : [travel-日本-鳥取, satisfaction - 搭條鐵]
 
 一路袋住コナン列車嘅時刻表  
 就發現搭返嚟米子有段時間呢架車係未開嘅  
-點知一出[0番のりば](https://hidie.net/tottori1d/) (0號月台) 遠遠就見到粉紅色嘅佢lucky！  
+點知一出[0番のりば](/tottori1d/) (0號月台) 遠遠就見到粉紅色嘅佢lucky！  
 
 ![](/images/tottori7n2.jpg)
 
@@ -28,7 +28,7 @@ tags : [travel-日本-鳥取, satisfaction - 搭條鐵]
 
 ![](/images/tottori7n4.jpg)
 
-相比另一款柯南列車[名探偵コナンイラスト列車リニューアル](https://hidie.net/tottori3e/)就睇落無咁光鮮  
+相比另一款柯南列車[名探偵コナンイラスト列車リニューアル](/tottori3e/)就睇落無咁光鮮  
 不過都幾靚，望到都好滿足～  
 
 {{<tottori>}}  

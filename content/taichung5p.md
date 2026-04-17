@@ -6,7 +6,7 @@ aliases: [ "/2014/08/day5_5.html" ]
 tags : [travel - 臺灣清境鹿港]
 ---
 
-在[丁家大宅](https://hidie.net/taichung5o/)後面街就走到這文物館  
+在[丁家大宅](/taichung5o/)後面街就走到這文物館  
 
 ![](/images/taichung5p1.jpg)
 
@@ -48,4 +48,4 @@ tags : [travel - 臺灣清境鹿港]
   
 \-----------------------------------------------  
   
-延伸閱讀：[臺中怒食遊 +清境 & 鹿港（8D7N）](https://hidie.net/taichung8d7n/)
+延伸閱讀：[臺中怒食遊 +清境 & 鹿港（8D7N）](/taichung8d7n/)

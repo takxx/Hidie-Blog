@@ -59,7 +59,7 @@ tags : [flavor - 行膳積腹, travel-日本-東京御殿場箱根]
 ![](/images/tokyo5d10.jpg)
 
 **釜飯**：是菇飯，味道很香很清淡 
-但沒有食[蟹釜飯](https://hidie.net/tokyo1b/l)那麼驚艷
+但沒有食[蟹釜飯](/tokyo1b/l)那麼驚艷
 
 ![](/images/tokyo5d11.jpg)
 
@@ -83,4 +83,4 @@ tags : [flavor - 行膳積腹, travel-日本-東京御殿場箱根]
   
 \-----------------------------------------------  
   
-延伸閱讀：[東京箱根食買浸 (6D5N)](https://hidie.net/tokyo6d5n/)
+延伸閱讀：[東京箱根食買浸 (6D5N)](/tokyo6d5n/)

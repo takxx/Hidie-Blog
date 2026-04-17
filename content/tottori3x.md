@@ -15,7 +15,7 @@ tags : [travel-日本-鳥取]
 ![](/images/tottori3x2.jpg)
 
 官方指示同Google Map都係話  
-要行晒[コナン通り](https://hidie.net/tottori3q/)全長只係1.4km廿分鐘會可以由良駅行到嚟呢度  
+要行晒[コナン通り](/tottori3q/)全長只係1.4km廿分鐘會可以由良駅行到嚟呢度  
 咪癲啦！！！ 周圍勁多嘢睇勁多嘢影影影  
 （連途中個快餐）冇一頭兩粒鐘冇可能行得到囉  
 
@@ -25,7 +25,7 @@ tags : [travel-日本-鳥取]
 
 ![](/images/tottori3y.jpg)
 
-[コナン探偵社ふるさと館店](https://hidie.net/tottori3y/)  
+[コナン探偵社ふるさと館店](/tottori3y/)  
 參觀完個館先嚟兜個round啦  
 
 ![](/images/tottori3x3.jpg)
@@ -78,7 +78,7 @@ Welcome嘅地氈
 
 ![](/images/tottori3x9.jpg)
 
-响[北栄町観光案内所](https://hidie.net/tottori3j/)買嘅[まんが王国とっとり満喫周遊パス](https://hidie.net/tottori3k/)  
+响[北栄町観光案内所](/tottori3j/)買嘅[まんが王国とっとり満喫周遊パス](/tottori3k/)  
 就可以响售票處換入場券  
 師奶數啦：料金700円；用JR West pass/鳥取藩乗放題手形bus pass買減100円 = 600円  
 而用呢個1,000円満喫周遊pass去到一兩個館就已經抵返晒  

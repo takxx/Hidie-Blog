@@ -19,7 +19,7 @@ tags : [travel-日本-鳥取]
 
 ![](/images/tottori4zd3.jpg)
 
-又利用[まんが王国とっとり満喫周遊パス](https://hidie.net/tottori3k/)換入場券  
+又利用[まんが王国とっとり満喫周遊パス](/tottori3k/)換入場券  
 再計C9數：料金300円；用JR West pass半價 = 150円；鳥取藩乗放題手形bus pass無得減  
 慳返幾百咁啦都～  
 

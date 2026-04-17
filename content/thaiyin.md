@@ -17,7 +17,7 @@ tags : [flavor - 行膳積腹]
 ![](/images/thaiyin2.jpg)
 
 **泰式生海蝦**  
-我哋呢兩隻[生蝦lovers](https://hidie.net/newmaung/)有生蝦又點會唔嗌？  
+我哋呢兩隻[生蝦lovers](/newmaung/)有生蝦又點會唔嗌？  
 
 ![](/images/thaiyin3.jpg)
 

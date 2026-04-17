@@ -14,7 +14,7 @@ tags : [travel-日本-鳥取]
 
 ![](/images/tottori4t2.jpg)
 
-先經過[琴櫻紀念館](https://hidie.net/tottori4t/)  
+先經過[琴櫻紀念館](/tottori4t/)  
 
 ![](/images/tottori4x2.jpg)
 

@@ -6,7 +6,7 @@ images: ["/images/tottori3n.jpg"]
 tags : [travel-日本-鳥取]
 ---
 
-從[由良駅/コナン駅](https://hidie.net/tottori3h/)開始  
+從[由良駅/コナン駅](/tottori3h/)開始  
 
 ![](/images/tottori3h9.jpg)
 

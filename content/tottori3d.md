@@ -16,7 +16,7 @@ tags : [travel-日本-鳥取, satisfaction - 搭條鐵]
 麒麟獅子環線巴士（遲幾日去鳥取有搭）  
 仲有唔同地方嘅入場折扣優惠  
   
-同之前响[四国](https://hidie.net/shikoku3a/)同[北海道](https://hidie.net/hokkaido1a/)一樣先上網book  
+同之前响[四国](/shikoku3a/)同[北海道](/hokkaido1a/)一樣先上網book  
 嚟到就去窗口拎pass  
   
 不過現代化咗齋撳機拎磁咭飛  

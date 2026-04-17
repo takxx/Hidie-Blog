@@ -6,7 +6,7 @@ images: ["/images/tottori4zb.jpg"]
 tags : [travel-日本-鳥取]
 ---
 
-除咗[大蓮寺](https://hidie.net/tottori4m/)之外  
+除咗[大蓮寺](/tottori4m/)之外  
 
 ![](/images/tottori4zb1.jpg)
 

@@ -11,7 +11,7 @@ tags : [travel-日本-鳥取, flavor - 行膳積腹]
 ![](/images/tottori8c.jpg)
 
 就去咗food court食**牛丼（並盛）ランチセット** @**すき家**  
-話時話我係第一次食呢間嘢嘅牛丼（[之前食過](https://hidie.net/kojkmi10a/) but is NOT牛丼）  
+話時話我係第一次食呢間嘢嘅牛丼（[之前食過](/kojkmi10a/) but is NOT牛丼）  
 香港就話排長龍呢度梗係唔駛，仲要係whole set 500円好鬼抵  
 所以再嗌多杯甘酒開心吓～  
 

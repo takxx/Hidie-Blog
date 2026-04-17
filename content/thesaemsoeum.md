@@ -12,7 +12,7 @@ tags : [glamorous - 保養おたく, glamorous - 面膜魂]
 
 這塊兩part面膜用來補生氣同彈力  
 先以part 1的精華打底  
-像較稀的[潤燥](https://hidie.net/sulwhasooessence/)般那樣的韓方精華  
+像較稀的[潤燥](/sulwhasooessence/)般那樣的韓方精華  
 吸收力超好，塗抹上面不用怎按摩都全吸收  
 之後就敷上part 2的3D mask  
 不織布有紋路的面膜紙  
@@ -37,4 +37,4 @@ tags : [glamorous - 保養おたく, glamorous - 面膜魂]
   
 \-----------------------------------------------  
   
-延伸閱讀：[\[masque\] the saem - bio-balance hanbang 3D mask tae-eum type](https://hidie.net/thesaemtaeeum/)
+延伸閱讀：[\[masque\] the saem - bio-balance hanbang 3D mask tae-eum type](/thesaemtaeeum/)

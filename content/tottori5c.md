@@ -6,7 +6,7 @@ images: ["/images/tottori5c.jpg"]
 tags : [travel-日本-鳥取]
 ---
 
-食飽就去[鳥取駅](https://hidie.net/tottori4zg/)，不過就唔係搭JR
+食飽就去[鳥取駅](/tottori4zg/)，不過就唔係搭JR
 
 ![](/images/tottori5c1.jpg)
 
@@ -14,7 +14,7 @@ tags : [travel-日本-鳥取]
 
 ![](/images/tottori5c.jpg)
 
-係搭呢架[JR pass](https://hidie.net/tottori3d/)包埋嘅**ループ麒麟獅子バス**  
+係搭呢架[JR pass](/tottori3d/)包埋嘅**ループ麒麟獅子バス**  
 （原價成人一程300円，一日券就600円）  
 
 ![](/images/tottori5c2.jpg)

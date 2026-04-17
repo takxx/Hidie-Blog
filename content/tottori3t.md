@@ -6,8 +6,8 @@ images: ["/images/tottori3t.jpg"]
 tags : [travel-日本-鳥取, flavor - 行膳積腹]
 ---
 
-[コナン通り](https://hidie.net/tottori3q/)周邊都算幾荒蕪  
-咁唯有留响[米花商店街](https://hidie.net/tottori3s/)裡面食啦  
+[コナン通り](/tottori3q/)周邊都算幾荒蕪  
+咁唯有留响[米花商店街](/tottori3s/)裡面食啦  
 （搵命博㗎！）  
 
 ![](/images/tottori3t1.jpg)
@@ -64,6 +64,6 @@ APTX4869嘅gelato呀
 
 ![](/images/tottori3t12.jpg)
 
-不過都叫食過吓[APTX4869](https://hidie.net/konan4869/)囉哈哈哈哈哈  
+不過都叫食過吓[APTX4869](/konan4869/)囉哈哈哈哈哈  
   
 {{<tottori>}}  

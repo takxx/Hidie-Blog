@@ -37,4 +37,4 @@ tags : [flavor - 行膳積腹]
 炸魚餅裡面包明太子，幾鹹香～  
   
 不過以香氣、食材同炸醬嚟講...  
-[金子半之助](https://hidie.net/kanekohannosuke/)好食好多啫（遠望...）
+[金子半之助](/kanekohannosuke/)好食好多啫（遠望...）

@@ -16,7 +16,7 @@ tags : [travel-日本-鳥取, flavor - 飲！]
 
 **Suntory The MALT'S 100% Beer**  
 浸完溫泉買啤酒，呵呵呵（爽） 
-係平時飲開嘅[Suntory draft](https://hidie.net/suntorypremium/)  
+係平時飲開嘅[Suntory draft](/suntorypremium/)  
 氣量足，又爽又甜飲完勁順氣  
 最過癮係自己撳draft嚟飲  
 有得玩試斟酒嚟樂趣  

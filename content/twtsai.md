@@ -6,7 +6,7 @@ images: ["/images/twtsai.jpg"]
 tags : [flavor - 行膳積腹, satisfaction - 黃店懲罰日]
 ---
 
-無咗[程班長](https://hidie.net/chengbanzhang/)，仲有冇臺灣人口中嘅正宗臺灣菜食呢？  
+無咗[程班長](/chengbanzhang/)，仲有冇臺灣人口中嘅正宗臺灣菜食呢？  
 新開咗就有間喇，呵呵！   
 
 ![](/images/twtsai1.jpg)

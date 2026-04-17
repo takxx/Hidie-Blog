@@ -23,7 +23,7 @@ Weiß kreuz為德語，意指「白色十字架」
   
 雖然剷除壞人得橋段是非常老土  
 但喜歡看奪取他人生命的我  
-（《monster》、《[death note](https://hidie.net/deathnote/)》同《黒鷺死体宅配便》等題材也很喜歡）  
+（《monster》、《[death note](/deathnote/)》同《黒鷺死体宅配便》等題材也很喜歡）  
 就對殺人過程很著迷  
 動畫人物樣子畫得細膩  
 殺又殺得凌厲漂亮  

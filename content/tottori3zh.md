@@ -80,8 +80,8 @@ tags : [travel-日本-鳥取, flavor - 行膳積腹, flavor - 飲！]
 ![](/images/tottori3zh14.jpg)
 
 入口即溶嘅美味  
-冇擒晚嘅[松永牛](https://hidie.net/tottori2l/)咁實肉  
-油花亦比前兩日嘅[大山牛](https://hidie.net/tottori1f/)更多  
+冇擒晚嘅[松永牛](/tottori2l/)咁實肉  
+油花亦比前兩日嘅[大山牛](/tottori1f/)更多  
 不過絕對唔會肥漏漏咁  
 加埋啲橘醬再解膩就倍添美味，最高！  
 完全唔會比鳥取海鮮輸蝕～  

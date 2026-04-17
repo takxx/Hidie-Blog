@@ -6,7 +6,7 @@ images: ["/images/tottori4y.jpg"]
 tags : [travel-日本-鳥取]
 ---
 
-同[まととや](https://hidie.net/tottori4u/)一樣係西洋風建築  
+同[まととや](/tottori4u/)一樣係西洋風建築  
 
 ![](/images/tottori4y.jpg)
 

@@ -6,7 +6,7 @@ aliases: [ "/2014/09/day6_61.html" ]
 tags : [flavor - 行膳積腹, travel - 臺灣清境鹿港]
 ---
 
-[不喜歡麵線](https://hidie.net/taipei2a/)的我  
+[不喜歡麵線](/taipei2a/)的我  
 卻大大聲說：這家的麵線糊超超超好吃！  
 
 ![](/images/taichung6d.jpg)
@@ -22,4 +22,4 @@ tags : [flavor - 行膳積腹, travel - 臺灣清境鹿港]
   
 \-----------------------------------------------  
   
-延伸閱讀：[臺中怒食遊 +清境 & 鹿港（8D7N）](https://hidie.net/taichung8d7n/)
+延伸閱讀：[臺中怒食遊 +清境 & 鹿港（8D7N）](/taichung8d7n/)

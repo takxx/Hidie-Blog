@@ -6,7 +6,7 @@ images: ["/images/tottori6n.jpg"]
 tags : [travel-日本-鳥取, flavor - 行膳積腹, flavor - 飲！]
 ---
 
-响[水木しげるロード](https://hidie.net/tottori6j/)兜兜吓就諗不如今晚早少少食晚飯  
+响[水木しげるロード](/tottori6j/)兜兜吓就諗不如今晚早少少食晚飯  
 
 ![](/images/tottori6n1.jpg)
 

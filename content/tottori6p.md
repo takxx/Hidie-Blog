@@ -10,7 +10,7 @@ tags : [travel-日本-鳥取]
 
 ![](/images/tottori6p.jpg)
 
-又返黎[妖怪神社](https://hidie.net/tottori6j/)  
+又返黎[妖怪神社](/tottori6j/)  
 
 ![](/images/tottori6p1.jpg)
 

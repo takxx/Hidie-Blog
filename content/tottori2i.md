@@ -6,8 +6,8 @@ images: ["/images/tottori2i.jpg"]
 tags : [travel-日本-鳥取, flavor - 行膳積腹, flavor - 飲！]
 ---
 
-[seria](https://hidie.net/tottori2g/)實在太好行  
-行到錯過咗返去對面街[大漁市場なかうら](https://hidie.net/tottori2f/)  
+[seria](/tottori2g/)實在太好行  
+行到錯過咗返去對面街[大漁市場なかうら](/tottori2f/)  
 黐住嗰間**御食事処弓ヶ浜**食飯 T-T  
 （營業時間1045-1530，我1600先去）  
 googbyeかにトロ丼同隻七千円原隻松葉蟹  

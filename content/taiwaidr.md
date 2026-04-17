@@ -12,7 +12,7 @@ tags : [flavor - 行膳積腹, satisfaction - 黃店懲罰日]
 ![](/images/taiwaidr.jpg)
 
 **大圍小館**  
-賣相一般但係好好味凌晨三點都有得食嘅話就可以揀[616客香邨](https://hidie.net/hakheungchuen/)  
+賣相一般但係好好味凌晨三點都有得食嘅話就可以揀[616客香邨](/hakheungchuen/)  
 想食精緻嘅粵式點心就揀呢間  
 （自備外賣盒，一格格啲汁唔會撈埋一堆）  
 

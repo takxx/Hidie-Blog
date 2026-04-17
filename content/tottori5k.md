@@ -15,7 +15,7 @@ tags : [travel-日本-鳥取]
 ![](/images/tottori5k.jpg)
 
 同仲有5分鐘就係最後一班免費巴士之間  
-（即係[JR pass](https://hidie.net/tottori3d/)包咗嗰架[ループ麒麟獅子バス](https://hidie.net/tottori5c/)）
+（即係[JR pass](/tottori3d/)包咗嗰架[ループ麒麟獅子バス](/tottori5c/)）
 
 ![](/images/tottori5k2.jpg)
 

@@ -9,7 +9,7 @@ tags : [travel-日本-鳥取]
 
 ![](/images/tottori6m0.jpg)
 
-先出返[水木しげる記念館](https://hidie.net/tottori6l/)  
+先出返[水木しげる記念館](/tottori6l/)  
 
 ![](/images/tottori6m1.jpg)
 
@@ -62,7 +62,7 @@ tags : [travel-日本-鳥取]
 
 ![](/images/tottori6m2.jpg)
 
-有嘢玩（**妖怪緣日**）有嘢食有嘢買（[妖怪茶屋](https://hidie.net/tottori7i/)）嘅地方  
+有嘢玩（**妖怪緣日**）有嘢食有嘢買（[妖怪茶屋](/tottori7i/)）嘅地方  
 
 ![](/images/tottori6m14.jpg)
 

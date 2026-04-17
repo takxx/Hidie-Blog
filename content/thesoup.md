@@ -7,7 +7,7 @@ tags : [flavor - 行膳積腹, flavor - 飲！, satisfaction - 黃店懲罰日]
 ---
 
 抱住清醒阿B食late lunch  
-突然諗起响等[Ann Mamma](https://hidie.net/annmamma/)位嗰陣想試吓嘅燉湯店  
+突然諗起响等[Ann Mamma](/annmamma/)位嗰陣想試吓嘅燉湯店  
 （不過只係等執檯所以當時無轉場）  
 
 ![](/images/thesoup1.jpg)

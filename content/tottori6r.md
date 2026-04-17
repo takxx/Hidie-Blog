@@ -10,7 +10,7 @@ tags : [travel-日本-鳥取, satisfaction - 計劃泡湯了]
 
 ![](/images/tottori6r0.jpg)
 
-因為先睇跟播中嘅木村（[グランメゾン東京](https://hidie.net/grandmaisontokyo/)）  
+因為先睇跟播中嘅木村（[グランメゾン東京](/grandmaisontokyo/)）  
 
 ![](/images/tottori6r.jpg)
 

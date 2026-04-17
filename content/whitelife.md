@@ -43,7 +43,7 @@ made in Japan又要唔貴好難唔買佢
 ![](/images/whitelife5.jpg)
 
 **萬潔靈 輕鬆抹除塵紙拖把**  
-係嘅，吸塵機同[掃地機械人](https://hidie.net/deebot/)係好好用  
+係嘅，吸塵機同[掃地機械人](/deebot/)係好好用  
 不過硬係有啲窿窿罅罅位搞唔掂  
 
 ![](/images/whitelife.jpg)
@@ -67,14 +67,14 @@ made in Japan又要唔貴好難唔買佢
 ![](/images/whitelife7.jpg)
 
 **Oral-B Pulsonic Slim 2200**  
-即係以前用開[嗰支](https://hidie.net/oralbpulsonic/)嘅全白版  
+即係以前用開[嗰支](/oralbpulsonic/)嘅全白版  
 話slim咋不過比以前嘅手柄肥少少  
 而啲刷頭都仲係compatable  
 好用都可以一直用落去  
 
 ![](/images/hakutowel.jpg)
 
-[昔ながらの 白いタオル](https://hidie.net/kojkmi2f/)  
+[昔ながらの 白いタオル](/kojkmi2f/)  
 咩啫，咁size唔大夠薄超吸水  
 同埋用好耐好耐都冇殘冇爛  
 想
@@ -96,7 +96,7 @@ made in Japan又要唔貴好難唔買佢
 ![](/images/whitelife9.jpg)
 
 **KAI 119 ツメキリ001 M(カーブ刃)**  
-隻[孖人牌](https://hidie.net/zwilling/)放低咗响+44  
+隻[孖人牌](/zwilling/)放低咗响+44  
 咁平日都要剪趾甲㗎  
 買返隻C/P值高嘅made in Japan貨仔  
 而KAI嘅刀片不論平貴都係好好用  
@@ -126,7 +126,7 @@ made in Japan又要唔貴好難唔買佢
 **marna いろいろキャッチャー**  
 雖然好鍾意100円店不過有時見啲靚嘢都會買貴少少嘅  
 呢兩粒catcher一早就拎咗[Good Design Award](https://www.g-mark.org/award/describe/23630)  
-用嚟啜响瓷磚到勾吓橡筋啊[起泡網](https://hidie.net/mujinet/)啊嗰啲咁都幾好㗎  
+用嚟啜响瓷磚到勾吓橡筋啊[起泡網](/mujinet/)啊嗰啲咁都幾好㗎  
 
 ![](/images/whitelife14.jpg)
 
@@ -234,7 +234,7 @@ but唔係MIJ喇今次係北漏洞拉越南嘢啊！
 
 ![](/images/kaiicecreammaker.jpg)
 
-[【貝印】アイスクリームメーカー](https://hidie.net/kaiicecreammaker/)  
+[【貝印】アイスクリームメーカー](/kaiicecreammaker/)  
 KAI除咗刀片靚  
 呢樣廚房產品都好正  
 頭先嗰樣整雪條呢部機就整雪糕，爽！  
@@ -242,7 +242,7 @@ KAI除咗刀片靚
 ![](/images/bangkok5h9.jpg)
 
 **HOMEMATE迷你電壓力鍋**  
-當年未興電子壓力煲嗰陣已經响[泰國](https://hidie.net/bangkok5h/)托返屋企  
+當年未興電子壓力煲嗰陣已經响[泰國](/bangkok5h/)托返屋企  
 方便易用煮嘢又夠快  
 用咗好多年都無壞，真心正！  
 
@@ -271,7 +271,7 @@ KAI除咗刀片靚
   
 ![](/images/wedgwoodteacup.jpg)
   
-[Wedgwood Strawberry and Vine Teacup](https://hidie.net/wedgwoodteacup/)  
+[Wedgwood Strawberry and Vine Teacup](/wedgwoodteacup/)  
 非常靚而且耐用  
 完全無辦法捨棄嘅小奢華（呵呵）  
 

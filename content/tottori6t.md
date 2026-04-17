@@ -6,12 +6,12 @@ images: ["/images/tottori6t.jpg"]
 tags : [travel-日本-鳥取, flavor - 行膳積腹]
 ---
 
-[浸完](https://hidie.net/tottori6r/)買埋[啤酒](https://hidie.net/tottori6s/)就落酒店餐廳食宵夜  
+[浸完](/tottori6r/)買埋[啤酒](/tottori6s/)就落酒店餐廳食宵夜  
 
 ![](/images/tottori6t.jpg)
 
 **夜鳴きそば**  
-即係同之前[北海道](https://hidie.net/hokkaido5n/)咁  
+即係同之前[北海道](/hokkaido5n/)咁  
 都係嗰碗豉油味即食麵啦～  
 
   

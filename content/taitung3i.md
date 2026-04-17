@@ -6,7 +6,7 @@ aliases: [ "/2016/01/day3bonsoir.html" ]
 tags : [travel - 臺灣・臺東、知本]
 ---
 
-朝早嘅[鐵花村](https://hidie.net/taitung3c/)色彩繽紛加上綠草如茵  
+朝早嘅[鐵花村](/taitung3c/)色彩繽紛加上綠草如茵  
 
 ![](/images/taitung3i1.jpg)
 
@@ -24,4 +24,4 @@ tags : [travel - 臺灣・臺東、知本]
   
 \-----------------------------------------------  
   
-延伸閱讀：[臺東瘋食遊（8D7N）](https://hidie.net/taitung8d7n/)
+延伸閱讀：[臺東瘋食遊（8D7N）](/taitung8d7n/)

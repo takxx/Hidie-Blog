@@ -87,7 +87,7 @@ tags : [travel-日本-鳥取]
 
 ![](/images/tottori5d18.jpg)
 
-距離[青山剛昌ふるさと館](https://hidie.net/tottori3x/)50分鐘車程  
+距離[青山剛昌ふるさと館](/tottori3x/)50分鐘車程  
 我用咗兩日時間先到哈哈哈  
 
 ![](/images/tottori5d19.jpg)
@@ -118,7 +118,7 @@ tags : [travel-日本-鳥取]
 ![](/images/tottori5d25.jpg)
 
 **コナン探偵社 鳥取空港店**  
-即係[コナン探偵社 ふるさと館店](https://hidie.net/tottori3y/)另一分店  
+即係[コナン探偵社 ふるさと館店](/tottori3y/)另一分店  
 
 ![](/images/tottori5d26.jpg)
 

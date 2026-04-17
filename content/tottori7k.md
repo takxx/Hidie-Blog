@@ -6,13 +6,13 @@ images: ["/images/tottori7k.jpg"]
 tags : [travel-日本-鳥取]
 ---
 
-同[コナン通り](https://hidie.net/tottori3n/)（柯南大道）一樣  
+同[コナン通り](/tottori3n/)（柯南大道）一樣  
 水木しげるロード周圍都係有滿滿嘅ブロンオブジェ（青銅像）  
 
 ![](/images/tottori7b.jpg)
 
 **水木しげる先生執筆中の像**  
-行出[車站](https://hidie.net/tottori6h/)就已經見到  
+行出[車站](/tottori6h/)就已經見到  
 係水木先生三四十歲畫畫中嘅影像  
 而筆下嘅鬼太郎角色妖怪們  
 都係好開心咁圍繞住佢  
@@ -33,7 +33,7 @@ tags : [travel-日本-鳥取]
 
 今次唔係騎响一反木棉而係响明信片度  
 不過由呢個郵筒寄出嘅信係無鬼太郎chop  
-要去返大道裡面嗰間[郵局](https://hidie.net/tottori7j/)先會有啊！
+要去返大道裡面嗰間[郵局](/tottori7j/)先會有啊！
 
 ![](/images/tottori7d2.jpg)
 
@@ -51,7 +51,7 @@ tags : [travel-日本-鳥取]
 
 ![](/images/tottori7d7.jpg)
 
-[世界妖怪会議](https://hidie.net/tottori7d/)  
+[世界妖怪会議](/tottori7d/)  
 **鬼太郎と目玉おやじ**主持會議  
 出席嘅有**吸血鬼エリート**、**女夜叉**、**バックベアード**同**アササボンサン**  
 
@@ -97,7 +97,7 @@ tags : [travel-日本-鳥取]
 
 **サラリーマン山田(さらりーまんやまだ)**  
 夜晚更影得出佢個驚驚青青嘅上班族山田先生  
-（[車外](https://hidie.net/tottori2h/)同[車廂](https://hidie.net/tottori2j/)一樣咁可愛）
+（[車外](/tottori2h/)同[車廂](/tottori2j/)一樣咁可愛）
 
 ![](/images/tottori7j4.jpg)
 
@@ -134,7 +134,7 @@ ROAR～
 
 ![](/images/tottori7f.jpg)
 
-[河童の泉](https://hidie.net/tottori7f/)
+[河童の泉](/tottori7f/)
 
 ![](/images/tottori6o18.jpg)
 
@@ -247,7 +247,7 @@ ROAR～
 ![](/images/tottori7k20.jpg)
 
 **がしゃどくろ**  
-枯顱骨妖怪，[ゲゲゲの妖怪楽園](https://hidie.net/tottori6m/)裡面都有一大隻  
+枯顱骨妖怪，[ゲゲゲの妖怪楽園](/tottori6m/)裡面都有一大隻  
 
 ![](/images/tottori7k21.jpg)
 
@@ -407,7 +407,7 @@ ROAR～
 
 ![](/images/tottori6l3.jpg)
 
-响[水木しげる記念館](https://hidie.net/tottori6l/)門前
+响[水木しげる記念館](/tottori6l/)門前
 
 ![](/images/tottori7k48.jpg)
 

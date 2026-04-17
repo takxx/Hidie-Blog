@@ -6,7 +6,7 @@ images: ["/images/tottori3v.jpg"]
 tags : [travel-日本-鳥取, flavor - 飲！]
 ---
 
-頭先响[快餐店](https://hidie.net/tottori3t/)冇嗌嘢飲  
+頭先响[快餐店](/tottori3t/)冇嗌嘢飲  
 
 ![](/images/tottori3v.jpg)
 

@@ -6,7 +6,7 @@ images: ["/images/tottori4i.jpg"]
 tags : [travel-日本-鳥取]
 ---
 
-走出[円形劇場](https://hidie.net/tottori4h/)就向倉吉白壁土藏群進發  
+走出[円形劇場](/tottori4h/)就向倉吉白壁土藏群進發  
 
 ![](/images/tottori4i1.jpg)
 

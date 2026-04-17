@@ -116,7 +116,7 @@ tags : [travel-日本-鳥取]
 ![](/images/tottori3p25.jpg)
 
 不過**第1、25-28卷**都唔順路就無特登去完啲影喇    
-而呢個同[水渠蓋](https://hidie.net/tottori3m/)一樣嘅  
+而呢個同[水渠蓋](/tottori3m/)一樣嘅  
 就擺响**青山剛昌ふるさと館**出面  
 
 ![](/images/tottori3p26.jpg)

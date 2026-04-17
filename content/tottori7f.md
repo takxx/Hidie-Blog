@@ -21,11 +21,11 @@ tags : [travel-日本-鳥取]
 
 ![](/images/tottori7f.jpg)
 
-(又) [河童の泉](https://hidie.net/tottori6o/)  
+(又) [河童の泉](/tottori6o/)  
 
 ![](/images/tottori7f3.jpg)
 
-**[尿尿小童 (Manneken Pis)](https://hidie.net/belgium1/)** 嘅鬼太郎版本  
+**[尿尿小童 (Manneken Pis)](/belgium1/)** 嘅鬼太郎版本  
 
 ![](/images/tottori7f6.jpg)
 

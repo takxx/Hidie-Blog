@@ -34,7 +34,7 @@ tags : [travel-日本-鳥取]
 
 ![](/images/tottori4m5.jpg)
 
-係頭先倉吉淀屋主人[牧田家](https://hidie.net/tottori4k/)嘅菩提寺  
+係頭先倉吉淀屋主人[牧田家](/tottori4k/)嘅菩提寺  
 裡面有牧田家墓所、牧田家位碑同供養塔  
 
 ![](/images/tottori4m6.jpg)

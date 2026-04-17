@@ -6,7 +6,7 @@ images: ["/images/tottori5h.jpg"]
 tags : [travel-日本-鳥取]
 ---
 
-啱啱上完堂學沙丘嘅[風紋形成](https://hidie.net/tottori5g/)
+啱啱上完堂學沙丘嘅[風紋形成](/tottori5g/)
 
 ![](/images/tottori5h1.jpg)
 

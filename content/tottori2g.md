@@ -6,7 +6,7 @@ images: ["/images/tottori2g.jpg"]
 tags : [travel-日本-鳥取]
 ---
 
-响[大漁市場なかうら](https://hidie.net/tottori2f/)啱睇唔啱買就行出個市場 
+响[大漁市場なかうら](/tottori2f/)啱睇唔啱買就行出個市場 
 
 ![](/images/tottori2g.jpg)
 
@@ -17,7 +17,7 @@ tags : [travel-日本-鳥取]
 
 ![](/images/novopin1.jpg)
 
-[novopin マスクにシュッシュ](https://hidie.net/novopin/)  
+[novopin マスクにシュッシュ](/novopin/)  
 日本製好好用嘅酒精噴霧  
 
 ![](/images/tottori2g1.jpg)

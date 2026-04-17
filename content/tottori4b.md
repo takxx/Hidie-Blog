@@ -10,7 +10,7 @@ tags : [travel-日本-鳥取]
 
 ![](/images/tottori4zd1.jpg)
 
-[鳥取二十世紀梨記念館・なしっこ館](https://hidie.net/tottori4zd/)  
+[鳥取二十世紀梨記念館・なしっこ館](/tottori4zd/)  
 由倉吉白壁土藏群行12分鐘就到  
 
 ![](/images/tottori4zd4.jpg)
@@ -60,7 +60,7 @@ tags : [travel-日本-鳥取]
 
 ![](/images/tottori4ze.jpg)
 
-返[倉吉観光物産館 長生堂](https://hidie.net/tottori4ze/)拎行李  
+返[倉吉観光物産館 長生堂](/tottori4ze/)拎行李  
 
 ![](/images/tottori4zf4.jpg)
 
@@ -69,7 +69,7 @@ tags : [travel-日本-鳥取]
 
 ![](/images/tottori4zf.jpg)
 
-咁其實我又只係去下一個站啦（倉吉 → [鳥取](https://hidie.net/tottori4zf/)）  
+咁其實我又只係去下一個站啦（倉吉 → [鳥取](/tottori4zf/)）  
 
 ![](/images/tottori4zf5.jpg)
 
@@ -81,7 +81,7 @@ tags : [travel-日本-鳥取]
 
 ![](/images/tottori4zg1.jpg)
 
-20分鐘就到[鳥取駅](https://hidie.net/tottori4zg/)  
+20分鐘就到[鳥取駅](/tottori4zg/)  
 
 ![](/images/tottori4zg8.jpg)
 
@@ -99,7 +99,7 @@ tags : [travel-日本-鳥取]
 
 ![](/images/tottori4zh3.jpg)
 
-[味暦あんべ](https://hidie.net/tottori4zh/)  
+[味暦あんべ](/tottori4zh/)  
 終於開店 & 輪到  
 
 ![](/images/tottori4zh4.jpg)
@@ -120,7 +120,7 @@ chisin㗎～～～～～～～～～～（尖叫）
 
 ![](/images/tottori4zi1.jpg)
 
-食飽飽就去[行吓街](https://hidie.net/tottori4zi/)  
+食飽飽就去[行吓街](/tottori4zi/)  
 行幾個字荒蕪嘅路如果唔係靠Google神  
 真係無可能去得到呢  
 
@@ -141,7 +141,7 @@ OK嘅有護膚品吖都...
 
 ![](/images/tottori4zj1.jpg)
 
-落街食宵夜 @[炉端かば 鳥取駅前店](https://hidie.net/tottori4zj/)  
+落街食宵夜 @[炉端かば 鳥取駅前店](/tottori4zj/)  
 
 ![](/images/tottori4zj3.jpg)
 
@@ -159,7 +159,7 @@ OK嘅有護膚品吖都...
 
 ![](/images/tottori4zk.jpg)
 
-食完嘢，唞吓就落樓浸酒店個[溫泉](https://hidie.net/tottori4zk/)  
+食完嘢，唞吓就落樓浸酒店個[溫泉](/tottori4zk/)  
 雖然唔係天然而係人工溫泉吖  
 有得浸就已經好好啦～  
   

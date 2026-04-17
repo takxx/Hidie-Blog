@@ -10,7 +10,7 @@ tags : [flavor - 螞蟻族, travel - 臺灣清境鹿港]
 
 ![](/images/taichung3e.jpg)
 
-牛奶味，包裝比[雪條裝](https://hidie.net/taichung2f/)漂亮  
+牛奶味，包裝比[雪條裝](/taichung2f/)漂亮  
 
 ![](/images/taichung3e1.jpg)
 
@@ -20,4 +20,4 @@ tags : [flavor - 螞蟻族, travel - 臺灣清境鹿港]
   
 \-----------------------------------------------  
   
-延伸閱讀：[臺中怒食遊 +清境 & 鹿港（8D7N）](https://hidie.net/taichung8d7n/)
+延伸閱讀：[臺中怒食遊 +清境 & 鹿港（8D7N）](/taichung8d7n/)

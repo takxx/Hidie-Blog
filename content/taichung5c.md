@@ -15,9 +15,9 @@ tags : [travel - 臺灣清境鹿港]
 
 ![](/images/taichung5c2.jpg)
 
-一排石碑（親切的[石敢當](https://hidie.net/okinawahea/)）  
+一排石碑（親切的[石敢當](/okinawahea/)）  
   
-鹿港的廟宇也像[Nessebar的教堂](https://hidie.net/bulgaria11c/)一樣  
+鹿港的廟宇也像[Nessebar的教堂](/bulgaria11c/)一樣  
 「緊有一間喺左近」  
 
 ![](/images/taichung5c.jpg)
@@ -83,4 +83,4 @@ tags : [travel - 臺灣清境鹿港]
   
 \-----------------------------------------------  
   
-延伸閱讀：[臺中怒食遊 +清境 & 鹿港（8D7N）](https://hidie.net/taichung8d7n/)
+延伸閱讀：[臺中怒食遊 +清境 & 鹿港（8D7N）](/taichung8d7n/)

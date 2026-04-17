@@ -7,7 +7,7 @@ tags : [travel-日本-鳥取]
 ---
 
 食完早餐check埋out  
-拖埋行李去到[皆生温泉 米子市観光センター巴士站](https://hidie.net/tottori7q/)  
+拖埋行李去到[皆生温泉 米子市観光センター巴士站](/tottori7q/)  
 
 ![](/images/tottori8b1.jpg)
   
@@ -16,7 +16,7 @@ but而家唔係搭呢架啦～
 
 ![](/images/tottori8b2.jpg)
 
-嘻嘻因為要去[依昂](https://hidie.net/tottori7r/) イオンモール日吉津 (AEON Mall 日吉津) 啊！  
+嘻嘻因為要去[依昂](/tottori7r/) イオンモール日吉津 (AEON Mall 日吉津) 啊！  
 有得免費寄存行李㗎～  
 
 ![](/images/tottori8b3.jpg)

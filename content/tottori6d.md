@@ -18,7 +18,7 @@ tags : [travel-日本-鳥取, satisfaction - 搭條鐵]
 
 ![](/images/tottori6d3.jpg)
 
-返到嚟[鳥取駅](https://hidie.net/tottori4zg/)  
+返到嚟[鳥取駅](/tottori4zg/)  
 同鳥取市say goodbye喇～  
 
 ![](/images/tottori6d4.jpg)
@@ -27,11 +27,11 @@ tags : [travel-日本-鳥取, satisfaction - 搭條鐵]
 
 ![](/images/tottori6d5.jpg)
 
-早幾日搭過嘅[名探偵コナンイラスト列車リニューアル](https://hidie.net/tottori3e/)    
+早幾日搭過嘅[名探偵コナンイラスト列車リニューアル](/tottori3e/)    
 
 ![](/images/tottori6d.jpg)
 
-而家當然繼續係用[JR pass](https://hidie.net/tottori3d/)搭車  
+而家當然繼續係用[JR pass](/tottori3d/)搭車  
 
 ![](/images/tottori6d6.jpg)
 

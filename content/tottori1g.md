@@ -6,11 +6,11 @@ images: ["/images/tottori1g.jpg"]
 tags : [travel-日本-鳥取]
 ---
 
-食完[大山牛](https://hidie.net/tottori1f/)就返歸
+食完[大山牛](/tottori1f/)就返歸
 
 ![](/images/tottori1g1.jpg)
 
-啊！頭先嚟[商店街](https://hidie.net/tottori1e/)以為真係所有舖都刪晒  
+啊！頭先嚟[商店街](/tottori1e/)以為真係所有舖都刪晒  
 原來仲有間咁正嘅嘢  
 
 ![](/images/tottori1g.jpg)
@@ -65,7 +65,7 @@ $$$$$$$$$
 
 **開運 幸福の神「ビリケン」像**  
 開運招き水 | 日本一おいしい | 水道水 | 米子の水  
-同[通天閣](https://hidie.net/osaka3c/)爭飯食？  
+同[通天閣](/osaka3c/)爭飯食？  
 
 ![](/images/tottori1g10.jpg)
 

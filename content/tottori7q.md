@@ -6,7 +6,7 @@ images: ["/images/tottori7q.jpg"]
 tags : [travel-日本-鳥取]
 ---
 
-[溫泉旅館](https://hidie.net/tottori7p/)好玩還好玩...  
+[溫泉旅館](/tottori7p/)好玩還好玩...  
 
 ![](/images/tottori7q1.jpg)
 
@@ -15,7 +15,7 @@ tags : [travel-日本-鳥取]
 ![](/images/tottori7q2.jpg)
 
 又就去搭巴士  
-夜晚個[屏風](https://hidie.net/tottori7o/)開咗燈再靚啲  
+夜晚個[屏風](/tottori7o/)開咗燈再靚啲  
 
 ![](/images/tottori7q3.jpg)
 
@@ -67,7 +67,7 @@ Pokémon found
 
 ![](/images/tottori7q13.jpg)
 
-日本啲巴士[唔一定準時](https://hidie.net/kojkmi8b/)  
+日本啲巴士[唔一定準時](/kojkmi8b/)  
 好彩今次唔係趕時間啫...  
   
   

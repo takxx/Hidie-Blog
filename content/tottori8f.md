@@ -45,7 +45,7 @@ tags : [travel-日本-鳥取]
 ![](/images/tottori8f.jpg)
 
 **ゲゲゲの鬼太郎スポット**  
-同[柯南機場](https://hidie.net/tottori5d/)一樣大把影相位啦  
+同[柯南機場](/tottori5d/)一樣大把影相位啦  
   
 ![](/images/tottori8f9.jpg)
 

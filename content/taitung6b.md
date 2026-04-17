@@ -11,7 +11,7 @@ tags : [flavor - 螞蟻族, travel - 臺灣・臺東、知本]
 
 ![](/images/taitung6b.jpg)
 
-後面杯[就是愛找茶兒](https://hidie.net/taitung5m/)係3B嘅  
+後面杯[就是愛找茶兒](/taitung5m/)係3B嘅  
 我今日食・咖・啡  
 （無計啦我又擒晚開始已經好想飲咖啡）  
 咖啡雪糕再加埋health bar、杏仁同焦糖醬炒埋一杯  
@@ -27,4 +27,4 @@ tags : [flavor - 螞蟻族, travel - 臺灣・臺東、知本]
   
 \-----------------------------------------------  
   
-延伸閱讀：[臺東瘋食遊（8D7N）](https://hidie.net/taitung8d7n/)
+延伸閱讀：[臺東瘋食遊（8D7N）](/taitung8d7n/)

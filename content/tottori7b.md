@@ -14,7 +14,7 @@ tags : [travel-日本-鳥取]
 
 ![](/images/tottori7b2.jpg)
 
-先行返去[鬼太郎駅](https://hidie.net/tottori6h/)方向
+先行返去[鬼太郎駅](/tottori6h/)方向
 
 ![](/images/tottori7b3.jpg)
 
@@ -39,7 +39,7 @@ tags : [travel-日本-鳥取]
 ![](/images/tottori7b6.jpg)
 
 係前幾日見到嘅**はまるーぷバス**  
-上次嘅係山田先生樣嘅[メインコース](https://hidie.net/tottori2j/)  
+上次嘅係山田先生樣嘅[メインコース](/tottori2j/)  
 而呢個鬼太郎樣嘅係生活コース  
 向左右唔同方向嘅路線啦～  
   

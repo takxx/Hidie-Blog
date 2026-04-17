@@ -6,7 +6,7 @@ aliases: [ "/2016/02/day6_22.html" ]
 tags : [travel - 臺灣・臺東、知本, satisfaction - 計劃泡湯了]
 ---
 
-响[臺東](https://hidie.net/taitung5h/)無行吓山做吓yama girl  
+响[臺東](/taitung5h/)無行吓山做吓yama girl  
 嚟到知本就行吓啦～  
 
 ![](/images/taitung6e1.jpg)
@@ -90,4 +90,4 @@ hello pig～
   
 \-----------------------------------------------  
   
-延伸閱讀：[臺東瘋食遊（8D7N）](https://hidie.net/taitung8d7n/)
+延伸閱讀：[臺東瘋食遊（8D7N）](/taitung8d7n/)

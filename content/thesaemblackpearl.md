@@ -6,7 +6,7 @@ aliases: [ "/2014/12/masque-saem-gem-miracle-black-pearl-o.html" ]
 tags : [glamorous - 保養おたく, glamorous - 面膜魂]
 ---
 
-[mask sheet裝](https://hidie.net/thesaemblackpearlo2/)比較奢華  
+[mask sheet裝](/thesaemblackpearlo2/)比較奢華  
 如果日常使用，還有這款...  
 
 ![](/images/thesaemblackpearl.jpg)

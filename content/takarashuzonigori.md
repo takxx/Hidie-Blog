@@ -10,7 +10,7 @@ tags : [flavor - 飲！]
 
 ![](/images/takarashuzonigori.jpg)
 
-平日大剌剌地喝韓式的[막걸리](https://hidie.net/busanjj1j/)（makgeolli）  
+平日大剌剌地喝韓式的[막걸리](/busanjj1j/)（makgeolli）  
 今天用小杯子有點不習慣（笑）  
 但にごり酒甜度比較高  
 如果大碗大碗大啖喝  

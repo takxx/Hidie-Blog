@@ -24,7 +24,7 @@ tags : [travel-日本-鳥取]
 
 ![](/images/tottori6u2.jpg)
 
-[ねずみ男列車](https://hidie.net/tottori6f/)，應該係今日最後一班車  
+[ねずみ男列車](/tottori6f/)，應該係今日最後一班車  
 
  
 

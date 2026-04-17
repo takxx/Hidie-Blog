@@ -37,4 +37,4 @@ tags : [flavor - 行膳積腹, satisfaction - 搭條鐵, travel-日本-東京御
   
 \-----------------------------------------------  
   
-延伸閱讀：[東京箱根食買浸 (6D5N)](https://hidie.net/tokyo6d5n/)
+延伸閱讀：[東京箱根食買浸 (6D5N)](/tokyo6d5n/)

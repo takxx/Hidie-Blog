@@ -6,7 +6,7 @@ images: ["/images/tottori3s.jpg"]
 tags : [travel-日本-鳥取]
 ---
 
-過完[コナン大橋](https://hidie.net/tottori3r/)...  
+過完[コナン大橋](/tottori3r/)...  
 
 ![](/images/tottori3s1.jpg)
 
@@ -30,7 +30,7 @@ tags : [travel-日本-鳥取]
 ![](/images/tottori3s4.jpg)
 
 **コナン百貨店**  
-除咗大塊[石像畫](https://hidie.net/tottori3p/)  
+除咗大塊[石像畫](/tottori3p/)  
 
 ![](/images/tottori3n16.jpg)
 

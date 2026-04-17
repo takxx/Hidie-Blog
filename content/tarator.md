@@ -31,6 +31,6 @@ dill草可以用乾燥的
 \-----------------------------------------------  
   
 我真的很愛tarator：  
-[\[保加利亞醉遊記\] Day2：balkan bites (free food tour sofia)](https://hidie.net/bulgaria2f/)  
-[\[保加利亞醉遊記\] Day5：valdis-rilski manastir](https://hidie.net/bulgaria5d/)  
-[\[保加利亞醉遊記\] Day12：Pizza Da Vinci (2nd round)](https://hidie.net/bulgaria12e/)
+[\[保加利亞醉遊記\] Day2：balkan bites (free food tour sofia)](/bulgaria2f/)  
+[\[保加利亞醉遊記\] Day5：valdis-rilski manastir](/bulgaria5d/)  
+[\[保加利亞醉遊記\] Day12：Pizza Da Vinci (2nd round)](/bulgaria12e/)

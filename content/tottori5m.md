@@ -6,16 +6,16 @@ images: ["/images/tottori5m.jpg"]
 tags : [travel-日本-鳥取]
 ---
 
-食飽飽又唔想[shopping](https://hidie.net/tottori4zi/)  
+食飽飽又唔想[shopping](/tottori4zi/)  
 就四圍兜吓睇吓眈天望地感受吓  
 
 ![](/images/tottori5m1.jpg)
 
-鳥取，唔可以無嘅[松葉蟹](https://hidie.net/tottori2f/)
+鳥取，唔可以無嘅[松葉蟹](/tottori2f/)
 
 ![](/images/tottori5m2.jpg)
 
-同埋鳥取[二十世紀梨](https://hidie.net/tottori4zd/)
+同埋鳥取[二十世紀梨](/tottori4zd/)
 
 ![](/images/tottori5m3.jpg)
 
@@ -24,12 +24,12 @@ tags : [travel-日本-鳥取]
 ![](/images/tottori5m4.jpg)
 
 堪稱史上最強嘅結緣兔仔  
-雖然個**白兎神社**同今朝去嘅[鳥取空港](https://hidie.net/tottori5d/)都算幾近  
+雖然個**白兎神社**同今朝去嘅[鳥取空港](/tottori5d/)都算幾近  
 不過無需求咩姻緣就唔特別走去喇  
 
 ![](/images/tottori5m5.jpg)
 
-今朝搭[巴士](https://hidie.net/tottori5c/)有經過過嘅**わらべ館**  
+今朝搭[巴士](/tottori5c/)有經過過嘅**わらべ館**  
 
 ![](/images/tottori5m6.jpg)
 

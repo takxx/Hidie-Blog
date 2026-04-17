@@ -11,7 +11,7 @@ tags : [travel-日本-鳥取]
 ![](/images/tottori3c.jpg)
 
 **熊本県産 ゆとべに**  
-但係擒日响[PLANT-5](https://hidie.net/tottori2j/)見到呢隻咁靚嘅熊本士多啤梨  
+但係擒日响[PLANT-5](/tottori2j/)見到呢隻咁靚嘅熊本士多啤梨  
 無理由唔買嘅...  
   
 「ゆうべに」，即係「熊(ゆう)」同「紅(べに)色」加埋  

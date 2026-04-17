@@ -6,7 +6,7 @@ images: ["/images/tottori4n.jpg"]
 tags : [travel-日本-鳥取]
 ---
 
-離開[大蓮寺](https://hidie.net/tottori4m/)再向前行  
+離開[大蓮寺](/tottori4m/)再向前行  
 
 ![](/images/tottori4n1.jpg)
 
@@ -24,7 +24,7 @@ tags : [travel-日本-鳥取]
 
 ![](/images/tottori4n4.jpg)
 
-加埋依著[玉川](https://hidie.net/tottori4l/)而建嘅石橋   
+加埋依著[玉川](/tottori4l/)而建嘅石橋   
 
 ![](/images/tottori4n.jpg)
 

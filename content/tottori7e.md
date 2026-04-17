@@ -27,7 +27,7 @@ tags : [travel-日本-鳥取]
 
 ![](/images/tottori7e4.jpg)
 
-用呢個[pass](https://hidie.net/tottori3k/)玩咗好多度原來有個館㗎喎...  
+用呢個[pass](/tottori3k/)玩咗好多度原來有個館㗎喎...  
 
 ![](/images/tottori7e5.jpg)
 
@@ -49,7 +49,7 @@ GO!
 
 ![](/images/tottori7e9.jpg)
 
-米子嘅[大蔥](https://hidie.net/tottori6g/)，然後有呢個大蔥俠**ネギマン**哈哈哈  
+米子嘅[大蔥](/tottori6g/)，然後有呢個大蔥俠**ネギマン**哈哈哈  
 
 ![](/images/tottori7e10.jpg)
 

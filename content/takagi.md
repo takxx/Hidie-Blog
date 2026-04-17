@@ -19,7 +19,7 @@ tags : [flavor - 行膳積腹, satisfaction - 黃店懲罰日]
 ![](/images/takagi2.jpg)
 
 **安鱇魚肝**  
-雖然對安鱇魚還是又些微[戒心](https://hidie.net/busanjj2b/)   
+雖然對安鱇魚還是又些微[戒心](/busanjj2b/)   
 不過向來不太怕因吃而死的我  
 依然心郁郁想吃這個凍的魚肝  
 啊啊啊～ 不會腥的，好香耶  

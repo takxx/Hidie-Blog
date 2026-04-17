@@ -6,7 +6,7 @@ images: ["/images/tottori6q.jpg"]
 tags : [travel-日本-鳥取, flavor - 飲！]
 ---
 
-頭先[食飯](https://hidie.net/tottori6m/)飲過好好味嘅**上撰千代むすび 純米吟釀**  
+頭先[食飯](/tottori6m/)飲過好好味嘅**上撰千代むすび 純米吟釀**  
 
 ![](/images/tottori6q.jpg)
 
@@ -90,7 +90,7 @@ tags : [travel-日本-鳥取, flavor - 飲！]
 
 ![](/images/tottori6q12.jpg)
 
-[酒 & 鬼太郎](https://hidie.net/chiyomusubi/)，啱哂我河車啦總之就  
+[酒 & 鬼太郎](/chiyomusubi/)，啱哂我河車啦總之就  
 
 
 

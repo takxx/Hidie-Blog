@@ -6,7 +6,7 @@ images: ["/images/tottori3w.jpg"]
 tags : [travel-日本-鳥取, flavor - 飲！]
 ---
 
-天寒地凍加上甜嘢[汽水](https://hidie.net/tottori3v/)真係唔太啱我  
+天寒地凍加上甜嘢[汽水](/tottori3v/)真係唔太啱我  
 
 ![](/images/tottori3w.jpg)
 

@@ -11,7 +11,7 @@ tags : [flavor - 螞蟻族, travel - 臺灣・臺東、知本]
 ![](/images/taitung2e.jpg)
 
 對於左邊嗰杯つぶあんミルクカップ  
-即係之前响[日本食](https://hidie.net/nagoya3f/)嗰隻    
+即係之前响[日本食](/nagoya3f/)嗰隻    
 法官大人我無補充喇  
   
 今次仲俾我周到同紅豆最夾嘅抹茶雪糕！  
@@ -21,4 +21,4 @@ tags : [flavor - 螞蟻族, travel - 臺灣・臺東、知本]
   
 \-----------------------------------------------  
   
-延伸閱讀：[臺東瘋食遊（8D7N）](https://hidie.net/taitung8d7n/)
+延伸閱讀：[臺東瘋食遊（8D7N）](/taitung8d7n/)

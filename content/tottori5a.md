@@ -6,7 +6,7 @@ images: ["/images/tottori5a.jpg"]
 tags : [travel-日本-鳥取]
 ---
 
-又一早起身落樓浸[溫泉](https://hidie.net/tottori4zk/)～  
+又一早起身落樓浸[溫泉](/tottori4zk/)～  
 
 ![](/images/tottori5a.jpg)
 
@@ -18,7 +18,7 @@ tags : [travel-日本-鳥取]
 
 ![](/images/tottori5a2.jpg)
 
-吖！又見到[100円循環バス「くる梨」](https://hidie.net/tottori4zi/)  
+吖！又見到[100円循環バス「くる梨」](/tottori4zi/)  
 不過今日嘅行程係唔需要幫襯佢...   
   
   

@@ -10,7 +10,7 @@ tags : [travel-日本-鳥取, satisfaction - 搭條鐵]
 
 ![](/images/tottori6h.jpg)
 
-[境港駅 |「鬼太郎」駅](https://hidie.net/tottori6h/)
+[境港駅 |「鬼太郎」駅](/tottori6h/)
 
 ![](/images/tottori7m1.jpg)
 
@@ -26,7 +26,7 @@ tags : [travel-日本-鳥取, satisfaction - 搭條鐵]
 
 ![](/images/tottori2d.jpg)
 
-[高松町駅 |「すねこすり」駅](https://hidie.net/tottori2d/)
+[高松町駅 |「すねこすり」駅](/tottori2d/)
 
 ![](/images/tottori7m4.jpg)
 
@@ -34,7 +34,7 @@ tags : [travel-日本-鳥取, satisfaction - 搭條鐵]
 
 ![](/images/tottori1b.jpg)
 
-[米子空港駅 |「べとべとさん」駅](https://hidie.net/tottori1b/)
+[米子空港駅 |「べとべとさん」駅](/tottori1b/)
 
 ![](/images/tottori7m5.jpg)
 
@@ -68,7 +68,7 @@ tags : [travel-日本-鳥取, satisfaction - 搭條鐵]
 ![](/images/tottori1d.jpg)
 
 and the last  
-又返嚟[米子駅]((https://hidie.net/tottori1d/)) |[「ねずみ男」駅](https://hidie.net/tottori6g/)喇～  
+又返嚟[米子駅]((/tottori1d/)) |[「ねずみ男」駅](/tottori6g/)喇～  
 
 
 

@@ -6,7 +6,7 @@ images: ["/images/tottori7s.jpg"]
 tags : [travel-日本-鳥取, flavor - 行膳積腹]
 ---
 
-行得嗰[少少街](https://hidie.net/tottori7r/)就返歸...
+行得嗰[少少街](/tottori7r/)就返歸...
 
 ![](/images/tottori7s1.jpg)
 

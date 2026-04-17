@@ -10,7 +10,7 @@ tags : [lifestyle - 逃離852, travel-日本-鳥取]
 
 ![](/images/tottori1a1.jpg)
 
-[米子鬼太郎空港](https://hidie.net/tottori1a/)到着，呵呵  
+[米子鬼太郎空港](/tottori1a/)到着，呵呵  
 
 ![](/images/tottori1a.jpg)
 
@@ -27,11 +27,11 @@ tags : [lifestyle - 逃離852, travel-日本-鳥取]
 ![](/images/tottori1b.jpg)
 
 所以就慢慢拖行李去搭**JR**  
-（[米子空港駅／「べとべとさん」駅](https://hidie.net/tottori1b/) → **米子駅／「ねずみ男」駅**）  
+（[米子空港駅／「べとべとさん」駅](/tottori1b/) → **米子駅／「ねずみ男」駅**）  
 
 ![](/images/tottori1c6.jpg)
 
-哈哈哈！一上已經係[鬼太郎列車](https://hidie.net/tottori1c/)  
+哈哈哈！一上已經係[鬼太郎列車](/tottori1c/)  
 抬頭望天花都係鬼太郎同目玉親父  
 
 ![](/images/tottori1c9.jpg)
@@ -48,7 +48,7 @@ tags : [lifestyle - 逃離852, travel-日本-鳥取]
 
 ![](/images/tottori1d.jpg)
 
-[米子駅／「ねずみ男」駅](https://hidie.net/tottori1d/)  
+[米子駅／「ねずみ男」駅](/tottori1d/)  
 
 ![](/images/tottori1d2.jpg)
 
@@ -65,12 +65,12 @@ tags : [lifestyle - 逃離852, travel-日本-鳥取]
 ![](/images/tottori1e.jpg)
 
 然後就行去搵食  
-話說呢條係午後六時嘅[商店街](https://hidie.net/tottori1e/)  
+話說呢條係午後六時嘅[商店街](/tottori1e/)  
 荒蕪到一個點...  
 
 ![](/images/tottori1f2.jpg)
 
-終於嚟到[大山黒牛処 強小亭](https://hidie.net/tottori1f/)  
+終於嚟到[大山黒牛処 強小亭](/tottori1f/)  
 
 ![](/images/tottori1f3.jpg)
 
@@ -109,7 +109,7 @@ tags : [lifestyle - 逃離852, travel-日本-鳥取]
 
 ![](/images/tottori1h.jpg)
 
-飽還飽，都係想食[雪糕 & 冰](https://hidie.net/tottori1h/)  
+飽還飽，都係想食[雪糕 & 冰](/tottori1h/)  
 有**Glicoアイスの実 いちご**，仲係mini sele迷你版  
 好似飲緊新鮮沙冰咁清新  
   

@@ -6,7 +6,7 @@ images: ["/images/tottori5j.jpg"]
 tags : [travel-日本-鳥取, flavor - 小食部]
 ---
 
-出館後去返[鳥取砂丘](https://hidie.net/tottori5h/)  
+出館後去返[鳥取砂丘](/tottori5h/)  
 
 ![](/images/tottori5j1.jpg)
 

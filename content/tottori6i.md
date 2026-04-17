@@ -11,7 +11,7 @@ tags : [travel-日本-鳥取]
 
 ![](/images/tottori6i.jpg)
 
-行出[車站](https://hidie.net/tottori6h/)就爆多鬼太郎銅像  
+行出[車站](/tottori6h/)就爆多鬼太郎銅像  
 黐線㗎完全係memory謀殺之地  
 
 ![](/images/tottori6i1.jpg)

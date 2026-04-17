@@ -11,7 +11,7 @@ tags : [travel-日本-鳥取]
 
 ![](/images/tottori2a.jpg)
 
-[鳥取産 二十世紀梨 チューハイ](https://hidie.net/tottori2a/)  
+[鳥取産 二十世紀梨 チューハイ](/tottori2a/)  
 4%酒精啫朝早空肚飲都OK  
 
 ![](/images/tottori2a1.jpg)
@@ -21,7 +21,7 @@ tags : [travel-日本-鳥取]
 
 ![](/images/tottori2b.jpg)
 
-[四六時中 - プレミアム花籠](https://hidie.net/tottori2b/) **（季節の天ぷらと蟹海鮮丼花籠）**  
+[四六時中 - プレミアム花籠](/tottori2b/) **（季節の天ぷらと蟹海鮮丼花籠）**  
 見到店頭企牌有呢個一千円花籠  
 諗都唔再諗就走入去食  
 成籠嘢都好好食，仲有時令嘅蟹肉啊！  
@@ -38,11 +38,11 @@ tags : [travel-日本-鳥取]
 
 ![](/images/tottori2c.jpg)
 
-今程係搭[ねこ娘列車](https://hidie.net/tottori2c/)  
+今程係搭[ねこ娘列車](/tottori2c/)  
 
 ![](/images/tottori2d.jpg)
 
-[高松町駅／「すねこすり」駅](https://hidie.net/tottori2d/)  
+[高松町駅／「すねこすり」駅](/tottori2d/)  
 未變身時候圓碌碌好得意  
 變咗做厄運のすねこすり就惡惡咁喇～  
 
@@ -65,12 +65,12 @@ tags : [travel-日本-鳥取]
 
 ![](/images/tottori2e2.jpg)
 
-行咗十幾分鐘終於行到[竹内団地](https://hidie.net/tottori2e/)  
+行咗十幾分鐘終於行到[竹内団地](/tottori2e/)  
 好～～～大～～～間～～超級市場SUPER CENTER PLANT-5 境港店  
 
 ![](/images/tottori2f1.jpg)
 
-[大漁市場なかうら](https://hidie.net/tottori2f/)  
+[大漁市場なかうら](/tottori2f/)  
 到喇到喇超興奮  
 
 ![](/images/tottori2f.jpg)
@@ -102,11 +102,11 @@ tags : [travel-日本-鳥取]
 ![](/images/tottori2g.jpg)
 
 冇嘢啱買行出個市場  
-未肚餓就行吓大大間[百円店Seria](https://hidie.net/tottori2g/)  
+未肚餓就行吓大大間[百円店Seria](/tottori2g/)  
 
 ![](/images/tottori2h2.jpg)
 
-行出嚟先見到呢架百円境港巴士[はまるーぷバス](https://hidie.net/tottori2h/)（！）  
+行出嚟先見到呢架百円境港巴士[はまるーぷバス](/tottori2h/)（！）  
 係可愛嘅日野・ポンチョ車款（心）   
 
 ![](/images/tottori2i2.jpg)
@@ -116,7 +116,7 @@ tags : [travel-日本-鳥取]
 （營業時間1045-1530，我1600先去...）  
 googbyeかにトロ丼同隻七千円原隻松葉蟹  
 兩邊對面街都有迴轉壽司すし若 竹内団地2号店同回転すし大漁丸 境港店之間  
-揀咗[回転すし大漁丸 境港店](https://hidie.net/tottori2i/)  
+揀咗[回転すし大漁丸 境港店](/tottori2i/)  
 先飲返杯呢度出嘅**生酒**  
 
 ![](/images/tottori2i3.jpg)
@@ -163,7 +163,7 @@ googbyeかにトロ丼同隻七千円原隻松葉蟹
 ![](/images/tottori2j.jpg)
 
 食完再係咁意行吓PLANT-5  
-差唔多時間就出返站[等車](https://hidie.net/tottori2j/)  
+差唔多時間就出返站[等車](/tottori2j/)  
   
 プラント境港店前 → **米子鬼太郎空港**  
 （米子鬼太郎空港已經係最近嘅車站）  
@@ -171,14 +171,14 @@ googbyeかにトロ丼同隻七千円原隻松葉蟹
 ![](/images/tottori2k.jpg)
 
 但因為下一班JR實在太耐  
-唯有「忍痛」搭貴啲嘅[巴士](https://hidie.net/tottori2k/)（空港 → **米子駅**）  
+唯有「忍痛」搭貴啲嘅[巴士](/tottori2k/)（空港 → **米子駅**）  
 仲係普通區間巴士冇鬼太郎車身... 淌血中  
 然而搭完程巴士返到米子駅根據個JR時間表睇  
 先啱啱會有車經過空港駅，都算慳咗唔少時間嘅  
 
 ![](/images/tottori2l.jpg)
 
-又係搵食時間，响大街行咗一round之後揀呢間[三代目網元 魚鮮水産 米子駅前店](https://hidie.net/tottori2l/)  
+又係搵食時間，响大街行咗一round之後揀呢間[三代目網元 魚鮮水産 米子駅前店](/tottori2l/)  
 晏晝食唔到松葉蟹唔緊要  
 **松葉ガニ 1杯 焼き**  
 唔係非常大隻，以居酒屋嘅咩都食食食嘅話  
@@ -195,7 +195,7 @@ googbyeかにトロ丼同隻七千円原隻松葉蟹
 
 ![](/images/tottori2m.jpg)
 
-個樣一啲都唔靚嘅[米子駅](https://hidie.net/tottori2m/)  
+個樣一啲都唔靚嘅[米子駅](/tottori2m/)  
 
 ![](/images/tottori2m4.jpg)
 
@@ -206,7 +206,7 @@ googbyeかにトロ丼同隻七千円原隻松葉蟹
 
 ![](/images/tottori2n1.jpg)
 
-咁好啦，响七仔兜個圈買條[雪條](https://hidie.net/tottori2n/)返酒店吔  
+咁好啦，响七仔兜個圈買條[雪條](/tottori2n/)返酒店吔  
 超！好！食！嘅 **SEVEN & i Premium チーズスティック**  
 非常好味絕對強烈推介！！！  
   

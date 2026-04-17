@@ -6,7 +6,7 @@ images: ["/images/washoichiba.jpg"]
 tags : [flavor - 揀飲宅食]
 ---
  
-响[和商市場](https://hidie.net/hokkaido3a/)見到好多新鮮嘢同活蟹  
+响[和商市場](/hokkaido3a/)見到好多新鮮嘢同活蟹  
 奈何行程問題只可以齋睇唔買  
 
 ![](/images/washoichiba.jpg)

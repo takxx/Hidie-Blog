@@ -10,7 +10,7 @@ tags : [travel-日本-鳥取, flavor - 飲！]
 
 ![](/images/tottori7i1.jpg)
 
-又去返[ゲゲゲの妖怪楽園](https://hidie.net/tottori6m/)先  
+又去返[ゲゲゲの妖怪楽園](/tottori6m/)先  
 
 ![](/images/tottori7i2.jpg)
 
@@ -33,7 +33,7 @@ tags : [travel-日本-鳥取, flavor - 飲！]
 
 ![](/images/tottori7i5.jpg)
 
-我就出去[妖怪饅頭](https://hidie.net/youkai/)度買，好食㗎！  
+我就出去[妖怪饅頭](/youkai/)度買，好食㗎！  
 
 
 

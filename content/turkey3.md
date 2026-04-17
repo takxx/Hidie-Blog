@@ -20,7 +20,7 @@ tags : [travel-土耳其]
 ![](/images/turkey3z3.jpg)
 
 建於1609-1616年  
-所以相比對面間[聖蘇菲亞大教堂](https://hidie.net/turkey2/)新淨  
+所以相比對面間[聖蘇菲亞大教堂](/turkey2/)新淨  
 
 ![](/images/turkey3z4.jpg)
 
@@ -73,7 +73,7 @@ tags : [travel-土耳其]
 
 **Mısır Çarşısı**  
 1664年已經响度嘅有蓋市場  
-覺得比[Grand Bazaar](https://hidie.net/turkey1/)好行少少  
+覺得比[Grand Bazaar](/turkey1/)好行少少  
 而都係嗰句：外圍商舖正過市場好多  
 
 ![](/images/turkey3z15.jpg)

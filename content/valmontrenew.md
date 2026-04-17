@@ -16,7 +16,7 @@ tags : [glamorous - 保養おたく, glamorous - 面膜魂]
 
   
 
-通常（其實是差不多每次）用了[suqqu的massage](https://hidie.net/suqqu/)後敷  
+通常（其實是差不多每次）用了[suqqu的massage](/suqqu/)後敷  
 效果不知為何效果更更更明顯  
 cream狀的mask蠻容易推開  
 薄薄一層的敷，一敷就過夜（15分鐘？太浪費了！）

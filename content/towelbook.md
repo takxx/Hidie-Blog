@@ -19,7 +19,7 @@ tags : [amusement - books]
 是以毛巾（大的地方用浴巾；小的用面巾）打結  
 然後按深層的肌肉  
   
-喔！深層肌肉，這跟[push](https://hidie.net/pushbook/)的表層不同  
+喔！深層肌肉，這跟[push](/pushbook/)的表層不同  
 這是連骨頭的那些肌肉  
 人體有好多好多肌肉，有排按了吧（悶吶）  
   

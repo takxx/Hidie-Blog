@@ -14,7 +14,7 @@ tags : [travel-日本-鳥取, satisfaction - 搭條鐵]
 
 ![](/images/tottori3zb.jpg)
 
-[由良駅 | コナン駅（柯南駅）](https://hidie.net/tottori3h/)  
+[由良駅 | コナン駅（柯南駅）](/tottori3h/)  
 
 ![](/images/tottori3zb1.jpg)
 
@@ -23,7 +23,7 @@ tags : [travel-日本-鳥取, satisfaction - 搭條鐵]
 
 ![](/images/tottori3zb2.jpg)
 
-但係拎住晒行李又已經响[コナン通り](https://hidie.net/tottori3q/)行咗N次  
+但係拎住晒行李又已經响[コナン通り](/tottori3q/)行咗N次  
 咁就唯有坐低等等等等車啦...
 
 ![](/images/tottori3zb3.jpg)

@@ -6,11 +6,11 @@ aliases: [ "/2014/06/cheers-vino-zupa-specijalna-rakija.html" ]
 tags : [flavor - 飲！]
 ---
 
-這枝rakia不是[保加利亞](https://hidie.net/bulgaria14d16n/)而是鄰國塞爾維亞的  
+這枝rakia不是[保加利亞](/bulgaria14d16n/)而是鄰國塞爾維亞的  
 
 ![](/images/vinozupa.jpg)
 
-medena，[med](https://hidie.net/med/)的就是蜜糖釀造  
+medena，[med](/med/)的就是蜜糖釀造  
 打開瓶蓋，濃濃的蜜糖氣味迫不及待湧出來  
 入口也是濃郁濃郁的蜂蜜味道  
 香香甜甜好易入口  

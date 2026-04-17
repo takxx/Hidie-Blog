@@ -32,7 +32,7 @@ tags : [travel-日本-鳥取]
 ![](/images/tottori4p5.jpg)
 
 「地beer」**倉吉麦酒**  
-有啲想買，不過啱啱飲完[咖啡](https://hidie.net/tottori4o/)  
+有啲想買，不過啱啱飲完[咖啡](/tottori4o/)  
 又唔太想一路托住支玻璃就無買喇  
 
 ![](/images/tottori4p6.jpg)
@@ -47,7 +47,7 @@ tags : [travel-日本-鳥取]
 
 ![](/images/tottori4p8.jpg)
 
-大大個傳統[鳥取紙燈籠](https://hidie.net/tottori3zi/)  
+大大個傳統[鳥取紙燈籠](/tottori3zi/)  
 
 ![](/images/tottori4p9.jpg)
 

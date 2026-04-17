@@ -35,4 +35,4 @@ tags : [flavor - 螞蟻族, flavor - 小食部]
 
 \-----------------------------------------------  
   
-延伸閱讀：[GO! GO! NaGoYa～（8D7N）](https://hidie.net/nagoya8d7n/)
+延伸閱讀：[GO! GO! NaGoYa～（8D7N）](/nagoya8d7n/)

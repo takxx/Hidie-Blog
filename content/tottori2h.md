@@ -6,7 +6,7 @@ images: ["/images/tottori2h.jpg"]
 tags : [travel-日本-鳥取]
 ---
 
-等我仲咁陰公咁由高松町駅行去[竹内団地](https://hidie.net/tottori2e/) on foot...  
+等我仲咁陰公咁由高松町駅行去[竹内団地](/tottori2e/) on foot...  
 
 ![](/images/tottori2h.jpg)
 

@@ -10,7 +10,7 @@ tags : [travel-日本-鳥取]
 
 ![](/images/tottori6o1.jpg)
 
-又响條[水木茂大道](https://hidie.net/tottori6j/)行吓  
+又响條[水木茂大道](/tottori6j/)行吓  
 
 ![](/images/tottori6o2.jpg)
 

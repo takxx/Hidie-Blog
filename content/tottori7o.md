@@ -6,7 +6,7 @@ images: ["/images/tottori7o.jpg"]
 tags : [travel-日本-鳥取, satisfaction - 計劃泡湯了]
 ---
 
-好興奮咁响米子駅影埋架[ピンクのコナン列車](https://hidie.net/tottori7n/)後  
+好興奮咁响米子駅影埋架[ピンクのコナン列車](/tottori7n/)後  
 
 ![](/images/tottori7o1.jpg)
 

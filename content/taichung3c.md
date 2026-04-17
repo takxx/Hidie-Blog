@@ -6,9 +6,9 @@ aliases: [ "/2014/08/day3_22.html" ]
 tags : [travel - 臺灣清境鹿港]
 ---
 
-看完[日出](https://hidie.net/taichung3a/)同[雲海](https://hidie.net/taichung3b/)，太陽伯伯冒了大大個禿頭  
+看完[日出](/taichung3a/)同[雲海](/taichung3b/)，太陽伯伯冒了大大個禿頭  
 從民宿步行到休閒中心  
-除了[櫻花步道](https://hidie.net/taichung1b/)外還有另一個選擇  
+除了[櫻花步道](/taichung1b/)外還有另一個選擇  
 
 ![](/images/taichung3c.jpg)
 
@@ -21,4 +21,4 @@ tags : [travel - 臺灣清境鹿港]
   
 \-----------------------------------------------  
   
-延伸閱讀：[臺中怒食遊 +清境 & 鹿港（8D7N）](https://hidie.net/taichung8d7n/)
+延伸閱讀：[臺中怒食遊 +清境 & 鹿港（8D7N）](/taichung8d7n/)

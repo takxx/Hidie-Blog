@@ -8,7 +8,7 @@ tags : [travel - 臺灣・臺東、知本]
 
 睇完瀑布落返山  
 梗係返附近酒店浸返個靚溫泉  
-[飲吓茶食吓煎餅](https://hidie.net/taitung6d/)唞返陣  
+[飲吓茶食吓煎餅](/taitung6d/)唞返陣  
 
 ![](/images/taitung7e.jpg)
 
@@ -20,4 +20,4 @@ tags : [travel - 臺灣・臺東、知本]
   
 \-----------------------------------------------  
   
-延伸閱讀：[臺東瘋食遊（8D7N）](https://hidie.net/taitung8d7n/)
+延伸閱讀：[臺東瘋食遊（8D7N）](/taitung8d7n/)

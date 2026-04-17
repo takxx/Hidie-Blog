@@ -6,7 +6,7 @@ images: ["/images/tottori7h.jpg"]
 tags : [travel-日本-鳥取]
 ---
 
-响[元気亭。](https://hidie.net/tottori7g/)食飽飽海鮮丼  
+响[元気亭。](/tottori7g/)食飽飽海鮮丼  
 
 ![](/images/tottori7h1.jpg)
 
@@ -27,7 +27,7 @@ tags : [travel-日本-鳥取]
 ![](/images/tottori7h5.jpg)
 
 **千代むすび酒造（株） 大正橋売店**  
-擒晚去嘅係[本店](https://hidie.net/tottori6q/)，行過街口又有一間  
+擒晚去嘅係[本店](/tottori6q/)，行過街口又有一間  
 有爸爸拎住支酒好得意呀  
 
 ![](/images/tottori7h6.jpg)

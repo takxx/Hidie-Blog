@@ -6,7 +6,7 @@ images: ["/images/tottori5g.jpg"]
 tags : [travel-日本-鳥取]
 ---
 
-玩轉完[柯南機場](https://hidie.net/tottori5d/)  
+玩轉完[柯南機場](/tottori5d/)  
 就出發到鳥取必必必去嘅地方  
 
 ![](/images/tottori5g1.jpg)
@@ -19,7 +19,7 @@ tags : [travel-日本-鳥取]
 
 ![](/images/tottori5g3.jpg)
 
-裡面有同[円形劇場](https://hidie.net/tottori4h/)crossover嘅ハクション大魔王（乞嗤大魔王）沙雕  
+裡面有同[円形劇場](/tottori4h/)crossover嘅ハクション大魔王（乞嗤大魔王）沙雕  
 但係呢個手信館其實無咩好行  
 
 ![](/images/tottori5g4.jpg)

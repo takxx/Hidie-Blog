@@ -10,7 +10,7 @@ tags : [flavor - 行膳積腹, satisfaction - 黃店懲罰日]
 
 ![](/images/tristar1.jpg)
 
-唯有食添加臺灣威士忌[kavalan](https://hidie.net/kavalansolistsherrysingle/)嘅臺灣牛肉麵先（心）
+唯有食添加臺灣威士忌[kavalan](/kavalansolistsherrysingle/)嘅臺灣牛肉麵先（心）
 
 ![](/images/tristar2.jpg)
 

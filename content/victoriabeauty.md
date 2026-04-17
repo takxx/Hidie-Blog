@@ -6,7 +6,7 @@ aliases: [ "/2014/06/nail-victoria-beauty-miracle-therapy.html" ]
 tags : [glamorous - 蛋臉以外]
 ---
 
-平時用的[sally hansen nail hardener](https://hidie.net/sallyhansen/)用乾了  
+平時用的[sally hansen nail hardener](/sallyhansen/)用乾了  
 剛好在保加利亞有這種東西，不妨試試  
 
 ![](/images/victoriabeauty.jpg)

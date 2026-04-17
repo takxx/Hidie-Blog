@@ -13,10 +13,10 @@ tags : [travel - 臺灣・臺東、知本]
 ![](/images/taitung6d.jpg)
 
 **穗科盛岡手燒煎餅**  
-前幾日响[穗科](https://hidie.net/taitung3j/)買  
+前幾日响[穗科](/taitung3j/)買  
 離開臺東市就即拆嘅手信  
 香港都返唔到就被解決 XDDD  
-硬脆嘅感覺，有D似臺南包[連得堂煎餅](https://hidie.net/lengtihtong/)  
+硬脆嘅感覺，有D似臺南包[連得堂煎餅](/lengtihtong/)  
 係再精緻D同多口味嘅版本咁  
 （黑芝麻、白芝麻、合桃、葵花子、南瓜子 同 杏仁 ）
 
@@ -34,4 +34,4 @@ tags : [travel - 臺灣・臺東、知本]
   
 \-----------------------------------------------  
   
-延伸閱讀：[臺東瘋食遊（8D7N）](https://hidie.net/taitung8d7n/)
+延伸閱讀：[臺東瘋食遊（8D7N）](/taitung8d7n/)

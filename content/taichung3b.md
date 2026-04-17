@@ -6,7 +6,7 @@ aliases: [ "/2014/08/day3_21.html" ]
 tags : [travel - 臺灣清境鹿港]
 ---
 
-除了看[日出](https://hidie.net/taichung3a/)外，當然少不了去看雲海  
+除了看[日出](/taichung3a/)外，當然少不了去看雲海  
 
 ![](/images/taichung3b.jpg)
 
@@ -47,4 +47,4 @@ zoom in
   
 \-----------------------------------------------  
   
-延伸閱讀：[臺中怒食遊 +清境 & 鹿港（8D7N）](https://hidie.net/taichung8d7n/)
+延伸閱讀：[臺中怒食遊 +清境 & 鹿港（8D7N）](/taichung8d7n/)

@@ -6,12 +6,12 @@ aliases: [ "/2020/01/day31.html" ]
 tags : [travel-日本-鳥取]
 ---
 
-[一朝早](https://hidie.net/tottori3c/)快快起身梳洗check out就拖喼落樓  
+[一朝早](/tottori3c/)快快起身梳洗check out就拖喼落樓  
 
 ![](/images/tottori3d.jpg)
 
-[JR Pass](https://hidie.net/tottori3d/) GET！  
-同之前响[四国](https://hidie.net/shikoku3a/)同[北海道](https://hidie.net/hokkaido1a/)一樣先上網book  
+[JR Pass](/tottori3d/) GET！  
+同之前响[四国](/shikoku3a/)同[北海道](/hokkaido1a/)一樣先上網book  
 嚟到就去窗口拎pass  
 不過現代化咗齋撳機拎磁咭飛  
 然後自行用個膠套套住就算  
@@ -19,7 +19,7 @@ tags : [travel-日本-鳥取]
 
 ![](/images/tottori3e.jpg)
 
-[名探偵コナンイラスト列車リニューアル](https://hidie.net/tottori3e/)  
+[名探偵コナンイラスト列車リニューアル](/tottori3e/)  
 去搵柯南當然要搭柯南列車（米子駅 → **由良駅**）  
 紅色係**新一＆蘭車両**  
 
@@ -31,7 +31,7 @@ tags : [travel-日本-鳥取]
 
 ![](/images/tottori3f.jpg)
 
-暫別大山，先飲返盒[大山白バラ牛乳](https://hidie.net/tottori3f/)   
+暫別大山，先飲返盒[大山白バラ牛乳](/tottori3f/)   
 
 ![](/images/tottori3g1.jpg)
 
@@ -39,12 +39,12 @@ tags : [travel-日本-鳥取]
 
 ![](/images/tottori3g.jpg)
 
-一！整！條！[米屋 吾左衛門鮓 鯖](https://hidie.net/tottori3g/) 直接K  
+一！整！條！[米屋 吾左衛門鮓 鯖](/tottori3g/) 直接K  
 就係要食得豪氣哈哈哈   
 
 ![](/images/tottori3h2.jpg)
 
-[由良駅／コナン駅（柯南駅）](https://hidie.net/tottori3h/)  
+[由良駅／コナン駅（柯南駅）](/tottori3h/)  
 Welcome to CONAN Station～  
 
 ![](/images/tottori3h4.jpg)
@@ -67,7 +67,7 @@ Welcome to CONAN Station～
 ![](/images/tottori3i.jpg)
 
 嫌locker貴但係唔會拎住行李周圍走啦  
-嚟由良駅對面嘅[由良タクシー](https://hidie.net/tottori3i/)（由良taxi）  
+嚟由良駅對面嘅[由良タクシー](/tottori3i/)（由良taxi）  
 就有得平價擺行李（1,000円同400円嘅分別啊！）  
 
 ![](/images/tottori3i1.jpg)
@@ -91,7 +91,7 @@ Welcome to CONAN Station～
 
 ![](/images/tottori3j1.jpg)
 
-[北栄町観光案内所](https://hidie.net/tottori3j/)  
+[北栄町観光案内所](/tottori3j/)  
 出發前先去黐住個站嘅遊客中心  
 
 ![](/images/tottori3j.jpg)
@@ -100,7 +100,7 @@ Welcome to CONAN Station～
 
 ![](/images/tottori3k.jpg)
 
-最緊要係買呢個**外國人限定**「[まんが王国とっとり満喫周遊パス](https://hidie.net/tottori3k/)」  
+最緊要係買呢個**外國人限定**「[まんが王国とっとり満喫周遊パス](/tottori3k/)」  
 用1,000円入六個館好抵買！  
 （鳥取砂丘砂の美術館、鳥取二十世紀梨記念館なしっこ館、円形劇場くらよしフィギュアミュージアム、青山剛昌ふるさと館、水木しげる記念館、とっとり花回廊）  
 
@@ -110,19 +110,19 @@ GO！
 
 ![](/images/tottori3l3.jpg)
 
-沿住[コナン通り](https://hidie.net/tottori3l/)  
+沿住[コナン通り](/tottori3l/)  
 
 ![](/images/tottori3m.jpg)
 
-[水渠蓋](https://hidie.net/tottori3m/)有柯南同鳥取兩大特產**山藥**&**西瓜**  
+[水渠蓋](/tottori3m/)有柯南同鳥取兩大特產**山藥**&**西瓜**  
 
 ![](/images/tottori3o.jpg)
 
-地下都有12款唔同造型嘅柯南[floor sticker](https://hidie.net/tottori3o/)  
+地下都有12款唔同造型嘅柯南[floor sticker](/tottori3o/)  
 
 ![](/images/tottori3p23.jpg)
 
-[石製モニュメント](https://hidie.net/tottori3p/)  
+[石製モニュメント](/tottori3p/)  
 一共有30塊，沿路唔行支路嘅話都遇到超過廿塊  
 
 ![](/images/tottori3p2.jpg)
@@ -136,23 +136,23 @@ GO！
 
 ![](/images/tottori3m1.jpg)
 
-[街路灯](https://hidie.net/tottori3m/)都係柯南啦  
+[街路灯](/tottori3m/)都係柯南啦  
 有50個地方有，款式5、6款咁上下  
 
 ![](/images/tottori3n.jpg)
 
-[コナンのオブジェ](https://hidie.net/tottori3n/)  
+[コナンのオブジェ](/tottori3n/)  
 呢啲大大件彩色同青銅object一共有23個  
 有柯南同其他角色啦  
 
 ![](/images/tottori3q1.jpg)
 
-[マイカーランド青山車輌](https://hidie.net/tottori3q/)  
+[マイカーランド青山車輌](/tottori3q/)  
 一個租車場，佢本身係青山剛昌先生嘅原住處  
 
 ![](/images/tottori3r.jpg)
 
-[コナン大橋](https://hidie.net/tottori3r/)  
+[コナン大橋](/tottori3r/)  
 橋嘅四隻角都有唔同款嘅柯南青銅像  
 **いつになったら僕は新一に戻れるのかな・・・**  
 
@@ -175,7 +175,7 @@ GO！
 
 ![](/images/tottori3s1.jpg)
 
-[コナンの家 米花商店街](https://hidie.net/tottori3s/)  
+[コナンの家 米花商店街](/tottori3s/)  
 死好多人嘅米花町裡面嘅商店街（笑）  
 
 ![](/images/tottori3s2.jpg)
@@ -202,7 +202,7 @@ GO！
 
 ![](/images/tottori3t11.jpg)
 
-餓餓地就入去[コナンの家 パン工房](https://hidie.net/tottori3t/)食個brunch  
+餓餓地就入去[コナンの家 パン工房](/tottori3t/)食個brunch  
 
 ![](/images/tottori3t6.jpg)
 
@@ -220,16 +220,16 @@ GO！
 
 ![](/images/tottori3u.jpg)
 
-[名探偵コナン 巨大迷路](https://hidie.net/tottori3u/)  
+[名探偵コナン 巨大迷路](/tottori3u/)  
 本身冇諗過入加上只係星期六日先開無損失   
 
 ![](/images/tottori3v.jpg)
 
-[名探偵コナン ホワイトソーダ](https://hidie.net/tottori3v/)  
+[名探偵コナン ホワイトソーダ](/tottori3v/)  
 頭先响快餐店冇嗌嘢飲  
 而呢款汽水之前响川崎見過不過冇諗過買  
 嚟度柯南村就無理由唔試吓  
-（不過我最後係飲[熱番茄蝦湯](https://hidie.net/tottori3w/)）  
+（不過我最後係飲[熱番茄蝦湯](/tottori3w/)）  
 
 ![](/images/tottori3m6.jpg)
 
@@ -257,7 +257,7 @@ GO！
 
 ![](/images/tottori3y.jpg)
 
-[コナン探偵社ふるさと館店](https://hidie.net/tottori3y/)  
+[コナン探偵社ふるさと館店](/tottori3y/)  
 參觀完個館先嚟兜個round啦  
 
 ![](/images/tottori3n22.jpg)
@@ -271,7 +271,7 @@ GO！
 
 ![](/images/tottori3x0.jpg)
 
-[青山剛昌ふるさと館](https://hidie.net/tottori3x/)  
+[青山剛昌ふるさと館](/tottori3x/)  
 終於嚟度呢個故事館嘅入口   
 
 ![](/images/tottori3x8.jpg)
@@ -404,17 +404,17 @@ show出嚟個足球已經變大咗
 
 ![](/images/tottori3z.jpg)
 
-出咗館見到[コナン空港shuttle](https://hidie.net/tottori3z/)  
+出咗館見到[コナン空港shuttle](/tottori3z/)  
 即係可以從由良呢度直達鳥取機場啊！    
 
 ![](/images/tottori3za.jpg)
 
 返到由良タクシー拎行李  
-咁啱佢架[柯南的士](https://hidie.net/tottori3za/)泊咗响度呵呵  
+咁啱佢架[柯南的士](/tottori3za/)泊咗响度呵呵  
 
 ![](/images/tottori3zb.jpg)
 
-返到[車站](https://hidie.net/tottori3zb/)喇  
+返到[車站](/tottori3zb/)喇  
 
 ![](/images/tottori3zb2.jpg)
 

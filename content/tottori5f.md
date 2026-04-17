@@ -14,7 +14,7 @@ tags : [travel-日本-鳥取]
 
 ![](/images/tottori5f2.jpg)
 
-[コナン空港shuttle](https://hidie.net/tottori3z/)  
+[コナン空港shuttle](/tottori3z/)  
 好想搭呢架可惜而家唔係返鳥取駅呢～
 
 ![](/images/tottori5f3.jpg)

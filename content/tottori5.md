@@ -14,14 +14,14 @@ tags : [travel-日本-鳥取]
 
 ![](/images/tottori5b.jpg)
 
-[すなば珈琲 鳥取駅前店](https://hidie.net/tottori5b/)  
+[すなば珈琲 鳥取駅前店](/tottori5b/)  
 澱粉質 x 澱粉質 x 澱粉質嘅早餐（汗）  
 話說鳥取係最後一個有Starbucks嘅縣  
 响未有之前就出現咗呢間Sunaba喇  
 
 ![](/images/tottori5c.jpg)
 
-食飽就搭JR pass包埋嘅[ループ麒麟獅子バス](https://hidie.net/tottori5c/)  
+食飽就搭JR pass包埋嘅[ループ麒麟獅子バス](/tottori5c/)  
 （原價成人一程300円，一日券就600円）  
 兜呢度嘅主要景點咁  
 六日及公眾假期同八月全月先有  
@@ -54,7 +54,7 @@ tags : [travel-日本-鳥取]
 
 ![](/images/tottori5d1.jpg)
 
-貴還貴，呢個[鳥取空港（鳥取砂丘コナン空港）](https://hidie.net/tottori5d/) 點都值得一嚟！  
+貴還貴，呢個[鳥取空港（鳥取砂丘コナン空港）](/tottori5d/) 點都值得一嚟！  
 
 ![](/images/tottori5d2.jpg)
 
@@ -202,7 +202,7 @@ but呢隻柯南就超超超超超難搵！！！
 
 ![](/images/tottori5e.jpg)
 
-响機場食埋飯先走 @[大江ノ郷自然牧場－HANARE－ 空港店](https://hidie.net/tottori5e/)   
+响機場食埋飯先走 @[大江ノ郷自然牧場－HANARE－ 空港店](/tottori5e/)   
 呢度用嘅係**天美卵**，好好食㗎～～～  
 
 ![](/images/tottori5f2.jpg)
@@ -211,7 +211,7 @@ but呢隻柯南就超超超超超難搵！！！
 
 ![](/images/tottori5f3.jpg)
 
-搭呢架，來回都只係得三班嘅[賀露砂丘周遊バス](https://hidie.net/tottori5/)（有料）  
+搭呢架，來回都只係得三班嘅[賀露砂丘周遊バス](/tottori5/)（有料）  
 
 ![](/images/tottori5f.jpg)
 
@@ -228,7 +228,7 @@ but呢隻柯南就超超超超超難搵！！！
 ![](/images/tottori5g.jpg)
 
 因為時不時落吓雨咁  
-入咗去[鳥取砂丘ビジターセンター](https://hidie.net/tottori5g/)避雨  
+入咗去[鳥取砂丘ビジターセンター](/tottori5g/)避雨  
 兼去實驗會場學吓呢個沙丘嘅風紋形成  
 （教師知我唔係日本人特登講慢啲所以聽得明同聽得晒嘻嘻）  
 
@@ -238,7 +238,7 @@ but呢隻柯南就超超超超超難搵！！！
 
 ![](/images/tottori5h2.jpg)
 
-...我好清楚今日嘅[鳥取砂丘](https://hidie.net/tottori5h/)係絕對睇唔到風紋嘅！！！   
+...我好清楚今日嘅[鳥取砂丘](/tottori5h/)係絕對睇唔到風紋嘅！！！   
 
 ![](/images/tottori5i1.jpg)
 
@@ -323,12 +323,12 @@ THE LOVE STORY OF TAJMAHAL
 
 ![](/images/tottori5j.jpg)
 
-食返件[鹿カツ](https://hidie.net/tottori5j/)暖暖身先  
+食返件[鹿カツ](/tottori5j/)暖暖身先  
 
 ![](/images/tottori5k.jpg)
 
 人生交叉點之仲有20分鐘先亮燈  
-同仲有5分鐘就係最後一班[免費巴士](https://hidie.net/tottori5k/)之間  
+同仲有5分鐘就係最後一班[免費巴士](/tottori5k/)之間  
 
 ![](/images/tottori5k.jpg)
 
@@ -336,7 +336,7 @@ THE LOVE STORY OF TAJMAHAL
 
 ![](/images/tottori5l.jpg)
 
-返到**鳥取駅**，就直接去日本涮涮鍋的發源地[たくみ割烹店](https://hidie.net/tottori5l/)  
+返到**鳥取駅**，就直接去日本涮涮鍋的發源地[たくみ割烹店](/tottori5l/)  
 食**鳥取和牛しゃぶしゃぶ**  
 
 ![](/images/tottori5l16.jpg)
@@ -349,7 +349,7 @@ THE LOVE STORY OF TAJMAHAL
 
 ![](/images/tottori5m8.jpg)
 
-食完又周圍[行吓影吓](https://hidie.net/tottori5m/)  
+食完又周圍[行吓影吓](/tottori5m/)  
 水渠蓋：鳥取傘  
 
 ![](/images/tottori5m9.jpg)
@@ -366,7 +366,7 @@ THE LOVE STORY OF TAJMAHAL
 
 ![](/images/tottori5n.jpg)
 
-今晚嘅[ice time](https://hidie.net/tottori5n/)又係**グリコ アイスの実**嘅天下  
+今晚嘅[ice time](/tottori5n/)又係**グリコ アイスの実**嘅天下  
 
 ![](/images/tottori5n2.jpg)
 

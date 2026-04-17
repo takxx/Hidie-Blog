@@ -16,7 +16,7 @@ tags : [travel-土耳其]
 ![](/images/turkey7z2.jpg)
 
 第一站係**O Ağacın Altı**  
-比擒日嘅[Red Tour](https://hidie.net/turkey6/)到嘅Aşıklar vadisi矮少少  
+比擒日嘅[Red Tour](/turkey6/)到嘅Aşıklar vadisi矮少少  
 响唔同角度睇沉積岩同怪石們  
 （有啲雲，天色冇擒日咁清但都係好Q熱嘅）  
 

@@ -7,7 +7,7 @@ tags : [travel-日本-鳥取, satisfaction - 搭條鐵]
 ---
 
 响酒店拎埋行李（一早check out咗放低响酒店）
-離開境港搭JR返去[米子駅](https://hidie.net/tottori1d/)
+離開境港搭JR返去[米子駅](/tottori1d/)
 
 ![](/images/tottori7l.jpg)
 
@@ -31,11 +31,11 @@ tags : [travel-日本-鳥取, satisfaction - 搭條鐵]
 
 ![](/images/tottori7l5.jpg)
 
-將[鬼太郎列車](https://hidie.net/tottori1c/)車身再留倩影  
+將[鬼太郎列車](/tottori1c/)車身再留倩影  
 
 ![](/images/tottori7l6.jpg)
 
-[境港駅](https://hidie.net/tottori6h/)呢邊夠晒空曠  
+[境港駅](/tottori6h/)呢邊夠晒空曠  
 可以影得晒成個車身  
 
 ![](/images/tottori7l7.jpg)

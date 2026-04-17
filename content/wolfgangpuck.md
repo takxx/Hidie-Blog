@@ -15,7 +15,7 @@ tags : [flavor - 螞蟻族, flavor - 飲！]
 Happy hour buy 1 get 1 free嘛  
 加上有主廚Wolfgang Puck出生地奧地利嘅啤**STIEGL Pilsner**  
 又有上海啤**Boxing Cat**，係Amber Lager嚟嘅  
-鬼佬就係[IPA](https://hidie.net/gweilopaleale/)  
+鬼佬就係[IPA](/gweilopaleale/)  
 
 ![](/images/wolfgangpuck2.jpg)
 

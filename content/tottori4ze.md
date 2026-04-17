@@ -6,7 +6,7 @@ images: ["/images/tottori4ze.jpg"]
 tags : [travel-日本-鳥取]
 ---
 
-行完[二十世紀梨記念館](https://hidie.net/tottori4zd/)  
+行完[二十世紀梨記念館](/tottori4zd/)  
 
 ![](/images/tottori4ze1.jpg)
 
@@ -14,7 +14,7 @@ tags : [travel-日本-鳥取]
 
 ![](/images/tottori4ze.jpg)
 
-返[倉吉観光物産館 長生堂](https://hidie.net/tottori4f/)拎行李
+返[倉吉観光物産館 長生堂](/tottori4f/)拎行李
 
 ![](/images/tottori4ze2.jpg)
 

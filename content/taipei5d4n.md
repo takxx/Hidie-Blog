@@ -9,64 +9,64 @@ tags : [lifestyle - 逃離852, travel - 臺灣・臺北]
 兇狠的食；舒服的浸（吼吼吼）  
   
 day 1  
-[老董牛肉麵](https://hidie.net/taipei1a/)  
-[鼎泰豐小籠包](https://hidie.net/taipei1b/)  
-[冰館 超級芒果牛奶冰](https://hidie.net/taipei1c/)  
-[臺北101](https://hidie.net/taipei1d/)  
+[老董牛肉麵](/taipei1a/)  
+[鼎泰豐小籠包](/taipei1b/)  
+[冰館 超級芒果牛奶冰](/taipei1c/)  
+[臺北101](/taipei1d/)  
   
 day 2  
-[西門町：蚵仔麵線](https://hidie.net/taipei2a/)  
-[西門町：謝謝魷魚羹](https://hidie.net/taipei2b/)  
-[西門町：鴨肉扁](https://hidie.net/taipei2c/)  
-[西門町：雪王冰淇淋](https://hidie.net/taipei2d/)  
-[西門町：老天祿滷味](https://hidie.net/taipei2e/)  
-[西門町：楊記 花生玉米冰](https://hidie.net/taipei2f/)  
-[西門町：成都楊桃冰](https://hidie.net/taipei2g/)  
-[鴉片粉圓](https://hidie.net/taipei2h/)  
-[君悅排骨](https://hidie.net/taipei2i/)  
-[饒河街夜市：十全藥膳排骨](https://hidie.net/taipei2j/)  
-[饒河街夜市：QQ涼圓菜燕](https://hidie.net/taipei2k/)  
-[饒河街夜市：炸芝士、燒麻糬](https://hidie.net/taipei2l/)  
-[饒河街夜市：鄉淳布丁豆花](https://hidie.net/taipei2m/)  
-[饒河街夜市：福州世祖胡椒餅](https://hidie.net/taipei2n/)  
+[西門町：蚵仔麵線](/taipei2a/)  
+[西門町：謝謝魷魚羹](/taipei2b/)  
+[西門町：鴨肉扁](/taipei2c/)  
+[西門町：雪王冰淇淋](/taipei2d/)  
+[西門町：老天祿滷味](/taipei2e/)  
+[西門町：楊記 花生玉米冰](/taipei2f/)  
+[西門町：成都楊桃冰](/taipei2g/)  
+[鴉片粉圓](/taipei2h/)  
+[君悅排骨](/taipei2i/)  
+[饒河街夜市：十全藥膳排骨](/taipei2j/)  
+[饒河街夜市：QQ涼圓菜燕](/taipei2k/)  
+[饒河街夜市：炸芝士、燒麻糬](/taipei2l/)  
+[饒河街夜市：鄉淳布丁豆花](/taipei2m/)  
+[饒河街夜市：福州世祖胡椒餅](/taipei2n/)  
 
   
 
 day 3  
-[九份](https://hidie.net/taipei3a/)  
-[九份：阿柑姨](https://hidie.net/taipei3b/)  
-[九份：阿妹茶樓](https://hidie.net/taipei3c/)  
-[九份：郵局前油蔥粿](https://hidie.net/taipei3d/)  
-[九份：紅糟肉圓](https://hidie.net/taipei3e/)  
-[九份：魚丸伯仔](https://hidie.net/taipei3f/)  
-[九份：舊道口牛肉麵](https://hidie.net/taipei3g/)  
-[天仁茗茶 珍珠奶茶](https://hidie.net/taipei3h/)  
-[7-11關東煮](https://hidie.net/taipei3i/)  
-[鮮芋仙](https://hidie.net/taipei3j/)
+[九份](/taipei3a/)  
+[九份：阿柑姨](/taipei3b/)  
+[九份：阿妹茶樓](/taipei3c/)  
+[九份：郵局前油蔥粿](/taipei3d/)  
+[九份：紅糟肉圓](/taipei3e/)  
+[九份：魚丸伯仔](/taipei3f/)  
+[九份：舊道口牛肉麵](/taipei3g/)  
+[天仁茗茶 珍珠奶茶](/taipei3h/)  
+[7-11關東煮](/taipei3i/)  
+[鮮芋仙](/taipei3j/)
 
   
 
 day 4  
-[浸溫泉@北投](https://hidie.net/taipei4a/)  
-[淡水：淡水魚丸](https://hidie.net/taipei4b/)  
-[淡水：阿媽的酸梅湯](https://hidie.net/taipei4c/)  
-[日落淡水](https://hidie.net/taipei4d/)  
-[士林夜市：月亮蝦餅](https://hidie.net/taipei4e/)  
-[士林夜市：豪大大雞排](https://hidie.net/taipei4f/)  
-[士林夜市：大腸包小腸](https://hidie.net/taipei4g/)  
-[士林夜市：蚵仔煎](https://hidie.net/taipei4h/)  
-[士林夜市：青蛙下蛋](https://hidie.net/taipei4i/)  
-[士林夜市：河粉煎](https://hidie.net/taipei4j/)  
+[浸溫泉@北投](/taipei4a/)  
+[淡水：淡水魚丸](/taipei4b/)  
+[淡水：阿媽的酸梅湯](/taipei4c/)  
+[日落淡水](/taipei4d/)  
+[士林夜市：月亮蝦餅](/taipei4e/)  
+[士林夜市：豪大大雞排](/taipei4f/)  
+[士林夜市：大腸包小腸](/taipei4g/)  
+[士林夜市：蚵仔煎](/taipei4h/)  
+[士林夜市：青蛙下蛋](/taipei4i/)  
+[士林夜市：河粉煎](/taipei4j/)  
   
   
 day 5  
 ～乘早機 忍耐著呵欠...  
   
 捨不得便買回來  
-[\[snacks\] 7-11 石安牧場溫泉蛋](https://hidie.net/sevenonsenegg/)  
-[\[cake\] AMO 荷蘭貴族手工蛋糕](https://hidie.net/amo/)  
-[\[cake\] 南蠻堂 蜂蜜蛋糕](https://hidie.net/nanmantang/)  
-[\[smile\] 百齡 潔克 神奇潔牙粉](https://hidie.net/smiling/)  
+[\[snacks\] 7-11 石安牧場溫泉蛋](/sevenonsenegg/)  
+[\[cake\] AMO 荷蘭貴族手工蛋糕](/amo/)  
+[\[cake\] 南蠻堂 蜂蜜蛋糕](/nanmantang/)  
+[\[smile\] 百齡 潔克 神奇潔牙粉](/smiling/)  
   
   
 

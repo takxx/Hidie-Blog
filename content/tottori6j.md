@@ -52,7 +52,7 @@ tags : [travel-日本-鳥取]
 ![](/images/tottori6j10.jpg)
 
 條水木茂大道又係兩三步一影相  
-比由良柯南嗰邊嘅[コナン通り](https://hidie.net/tottori3q/)更「舉步維艱」  
+比由良柯南嗰邊嘅[コナン通り](/tottori3q/)更「舉步維艱」  
 
 ![](/images/tottori6j11.jpg)
 

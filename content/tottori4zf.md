@@ -6,7 +6,7 @@ images: ["/images/tottori4zf.jpg"]
 tags : [travel-日本-鳥取, satisfaction - 搭條鐵]
 ---
 
-[溫泉](https://hidie.net/tottori4c/)浸咗；[動漫](https://hidie.net/tottori4h/)睇咗；[白壁](https://hidie.net/tottori4n/)[赤瓦](https://hidie.net/tottori4z/)睇咗，連[梨](https://hidie.net/tottori4zd/)都食埋...  
+[溫泉](/tottori4c/)浸咗；[動漫](/tottori4h/)睇咗；[白壁](/tottori4n/)[赤瓦](/tottori4z/)睇咗，連[梨](/tottori4zd/)都食埋...  
 係時候離開倉吉喇～  
 
 ![](/images/tottori4zf1.jpg)
@@ -16,16 +16,16 @@ tags : [travel-日本-鳥取, satisfaction - 搭條鐵]
 
 ![](/images/tottori4zf2.jpg)
 
-白壁、[横綱琴桜](https://hidie.net/tottori4t/)同赤瓦、二十世紀梨記念館
+白壁、[横綱琴桜](/tottori4t/)同赤瓦、二十世紀梨記念館
 
 ![](/images/tottori4zf3.jpg)
 
-[三朝温泉 河原風呂](https://hidie.net/tottori3zj/)！！！
+[三朝温泉 河原風呂](/tottori3zj/)！！！
 
 ![](/images/tottori4zf4.jpg)
 
 上車喇，搭**特急 京都**  
-但係個[pass](https://hidie.net/tottori3d/)只包到去下一個站  
+但係個[pass](/tottori3d/)只包到去下一個站  
 
 ![](/images/tottori4zf.jpg)
 

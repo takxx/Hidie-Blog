@@ -19,7 +19,7 @@ tags : [travel-日本-鳥取, flavor - 螞蟻族]
 
 ![](/images/tottori5n2.jpg)
 
-落樓[浸溫泉](https://hidie.net/tottori4zk/)就梗㗎啦  
+落樓[浸溫泉](/tottori4zk/)就梗㗎啦  
 返上房都會開返呢部空氣清新+補濕  
 咁就唔怕皮膚乾燥好好瞓～  
     
