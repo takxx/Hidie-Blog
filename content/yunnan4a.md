@@ -27,4 +27,4 @@ tags : [flavor - 行膳積腹, travel - 中國・昆明]
   
 \-----------------------------------------------  
   
-延伸閱讀：[昆明飽hihi（5D4N）](https://hidie.net/yunnan5d4n/)
+延伸閱讀：[昆明飽hihi（5D4N）](/yunnan5d4n/)

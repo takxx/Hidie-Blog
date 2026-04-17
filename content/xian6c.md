@@ -6,7 +6,7 @@ aliases: [ "/2014/08/day6encore.html" ]
 tags : [travel - 中國・西安, flavor - 行膳積腹]
 ---
 
-前幾天吃了勁好味的[那間餐廳](https://hidie.net/xian3d/)  
+前幾天吃了勁好味的[那間餐廳](/xian3d/)  
 再吃一次是常識吧～  
 
 ![](/images/xian6c1.jpg)
@@ -44,4 +44,4 @@ tags : [travel - 中國・西安, flavor - 行膳積腹]
   
 \-----------------------------------------------  
   
-延伸閱讀：[熱遊西安（6D5N）](https://hidie.net/xian6d5n/)
+延伸閱讀：[熱遊西安（6D5N）](/xian6d5n/)

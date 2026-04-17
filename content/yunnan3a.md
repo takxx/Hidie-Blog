@@ -31,4 +31,4 @@ merry x'mas～
   
 \-----------------------------------------------  
   
-延伸閱讀：[昆明飽hihi（5D4N）](https://hidie.net/yunnan5d4n/)
+延伸閱讀：[昆明飽hihi（5D4N）](/yunnan5d4n/)

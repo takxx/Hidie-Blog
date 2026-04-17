@@ -6,7 +6,7 @@ images: ["/images/youkai.jpg"]
 tags : [flavor - 螞蟻族]
 ---
 
-去[水木しげるロード](https://hidie.net/tottori7h/)嘅必買品（！）  
+去[水木しげるロード](/tottori7h/)嘅必買品（！）  
 
 ![](/images/youkai1.jpg)
 

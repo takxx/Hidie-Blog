@@ -6,7 +6,7 @@ aliases: [ "/2014/07/day2.html" ]
 tags : [flavor - 行膳積腹, travel - 中國・西安]
 ---
 
-雖然[泡饃](https://hidie.net/xian1d/)真的非常難食  
+雖然[泡饃](/xian1d/)真的非常難食  
 不過不浸在湯裡的都OK  
 
 ![](/images/xian2a.jpg)
@@ -38,4 +38,4 @@ tags : [flavor - 行膳積腹, travel - 中國・西安]
   
 \-----------------------------------------------  
   
-延伸閱讀：[熱遊西安（6D5N）](https://hidie.net/xian6d5n/)
+延伸閱讀：[熱遊西安（6D5N）](/xian6d5n/)

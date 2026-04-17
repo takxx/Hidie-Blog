@@ -21,4 +21,4 @@ tags : [flavor - 飲！]
    
 \-----------------------------------------------  
   
-延伸閱讀：[「友」 - 波友 BOR YAU LAGER](https://hidie.net/boryaulager/)
+延伸閱讀：[「友」 - 波友 BOR YAU LAGER](/boryaulager/)

@@ -97,7 +97,7 @@ tags : [travel-緬甸-仰光]
 ![](/images/yangon1z18.jpg)
 
 **ဗိုလ်ချုပ်ဈေးသစ် (New Bogyoke Market)**  
-同曼谷[จตุจักร (Jatujak)](https://hidie.net/bangkok2/)一樣啦  
+同曼谷[จตุจักร (Jatujak)](/bangkok2/)一樣啦  
 大嘅舊市場隔離就會有個新啲市場  
 有衫呀日用品買就唔意外  
 居然唔少位置都係賣醫療用品  

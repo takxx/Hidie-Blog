@@ -22,6 +22,6 @@ yeah係IPA啊！
 \-----------------------------------------------  
   
 延伸閱讀：  
-[少爺 CLASSIC Pale Ale](https://hidie.net/youngmasterpaleale/)  
-[少爺啤 x 口利福 Dad Bod - Young Master Brewery](https://hidie.net/dadbod/)  
-[少爺啤 x 甄沾記 - 椰汁花生黑啤、椰汁班蘭啤](https://hidie.net/yckstout/)  
+[少爺 CLASSIC Pale Ale](/youngmasterpaleale/)  
+[少爺啤 x 口利福 Dad Bod - Young Master Brewery](/dadbod/)  
+[少爺啤 x 甄沾記 - 椰汁花生黑啤、椰汁班蘭啤](/yckstout/)  

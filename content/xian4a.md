@@ -64,8 +64,8 @@ tags : [travel - 中國・西安]
 ![](/images/xian4a11.jpg)
 
 一舊舊的  
-[慶州的大陵苑](https://hidie.net/busanjj1g/)也是這個樣子喔～  
+[慶州的大陵苑](/busanjj1g/)也是這個樣子喔～  
   
 \-----------------------------------------------  
   
-延伸閱讀：[熱遊西安（6D5N）](https://hidie.net/xian6d5n/)
+延伸閱讀：[熱遊西安（6D5N）](/xian6d5n/)

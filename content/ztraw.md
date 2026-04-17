@@ -6,13 +6,13 @@ images: ["/images/ztraw.jpg"]
 tags : [lifestyle - zakka, satisfaction - 自我感覺環保]
 ---
 
-支[BUCKET](https://hidie.net/bucketthestraw/)係唔錯嘅  
+支[BUCKET](/bucketthestraw/)係唔錯嘅  
 不過拎出街真係hola唔方便嘛...
 
 ![](/images/ztraw1.jpg)
 
 **ZTRAW: The world's slimmest, foldable and reusable straw**  
-個細細黑色套，同我個ONE PROMISE [口罩套](https://hidie.net/onepromise/)好鬼襯！ 
+個細細黑色套，同我個ONE PROMISE [口罩套](/onepromise/)好鬼襯！ 
 
 ![](/images/ztraw2.jpg)
 

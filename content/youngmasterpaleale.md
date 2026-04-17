@@ -6,7 +6,7 @@ aliases: [ "/2020/05/cheers-classic-pale-ale.html" ]
 tags : [flavor - 飲！]
 ---
 
-呢排寫開松山，成日[少爺](https://hidie.net/shikoku4h/)前[少爺](https://hidie.net/shikoku4i/)後...  
+呢排寫開松山，成日[少爺](/shikoku4h/)前[少爺](/shikoku4i/)後...  
 
 ![](/images/youngmasterpaleale.jpg)
 

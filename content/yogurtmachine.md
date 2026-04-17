@@ -35,7 +35,7 @@ tags : [lifestyle - 廚房play, handmade - 開伙]
 
 yogurt x honey x walnut  
 乳酪是保加利亞菌種  
-[蜂蜜](https://hidie.net/med/)又保加利亞托回來（really thick）  
+[蜂蜜](/med/)又保加利亞托回來（really thick）  
 核桃在香港買，用平底鍋烤過  
 放落乳酪前弄成碎碎的樣子  
 讓我再回味一下保加利亞的美味吧！

@@ -523,7 +523,7 @@ Dagon Extra Strong Beer：呢個就真係飲得出個「濃」喇！望一望先
 Yoma Beer 6.5% (Red)：同Andaman Red差唔多，但係個麥芽同酵母有微妙嘅分別  
 Yoma Beer 5.4% (Blue)：比紅罐個味道淡少少  
 Andaman Gold Beer 5% (Blue)：清！唔啱夜晚飲...  
-Bawdar Smooth Lager Beer：如其名嘅堅滑身，同[John Smith's](https://hidie.net/johnsmiths/)有得揮  
+Bawdar Smooth Lager Beer：如其名嘅堅滑身，同[John Smith's](/johnsmiths/)有得揮  
 
 ![](/images/yangon3z106.jpg)
 

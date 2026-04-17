@@ -6,7 +6,7 @@ aliases: [ "/2014/04/tea.html" ]
 tags : [flavor - 飲！]
 ---
 
-去[雲南](https://hidie.net/yunnan5d4n/)，怎會不買普洱？  
+去[雲南](/yunnan5d4n/)，怎會不買普洱？  
 
 ![](/images/yunnantea.jpg)
 

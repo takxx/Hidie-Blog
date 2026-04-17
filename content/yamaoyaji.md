@@ -18,4 +18,4 @@ tags : [flavor - 小食部]
 塊餅上印咗隻孭住條魚嘅熊  
 餅身硬脆嗰種，牛油同牛奶味濃郁  
 仲有住淡淡蛋香嘅超vintage風味  
-同有過百年手藝嘅[台南煎餅](https://hidie.net/lengtihtong/)有得揮喔！  
+同有過百年手藝嘅[台南煎餅](/lengtihtong/)有得揮喔！  

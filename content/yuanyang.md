@@ -15,7 +15,7 @@ tags : [amusement - exhibition]
 ![](/images/yuanyang.jpg)
 
 而呢次嘅藝術遊就窺探一下舊香港  
-先講張場刊，噴咗[廣生堂花露水](https://hidie.net/twogirlswater/)㗎喎  
+先講張場刊，噴咗[廣生堂花露水](/twogirlswater/)㗎喎  
 
 ![](/images/yuanyang1.jpg)
 

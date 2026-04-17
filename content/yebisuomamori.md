@@ -6,7 +6,7 @@ images: ["/images/yebisuomamori.jpg"]
 tags : [lifestyle - zakka]
 ---
  
-响[ヱビスバー](https://hidie.net/kanagawa2q/)（YEBISU BAR）誠心「求」返嚟 XD
+响[ヱビスバー](/kanagawa2q/)（YEBISU BAR）誠心「求」返嚟 XD
 
 ![](/images/yebisuomamori.jpg)
 
