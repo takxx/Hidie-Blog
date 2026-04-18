@@ -13,7 +13,7 @@ tags : [flavor - 螞蟻族, lifestyle - rosy rosy]
 從法國來的玫瑰硬糖  
 帶來了清新的玫瑰香氣  
 糖果壓縮得很好，很耐吃  
-本身不太甜，而且因為不像[吐息香氣的糖](https://hidie.net/kracierosecandy/)  
+本身不太甜，而且因為不像[吐息香氣的糖](/kracierosecandy/)  
 所以貼心的在最中間  
 就是吃到最後時還有一粒green aniseed  
 中和了吃糖後口會變酸的感覺  

@@ -8,7 +8,7 @@ tags : [glamorous - 保養おたく]
 
 護理雙眼之餘豈能留掉了睫毛  
 濃密的長睫毛使眼睛看起來更大而且眼形更突出  
-除了之前覺得不錯用的[DHC eyelash tonic](https://hidie.net/dhceyelash/)之外  
+除了之前覺得不錯用的[DHC eyelash tonic](/dhceyelash/)之外  
 其實還有一～ 大～ 堆～  
 有好用的也有同雷品  
 襯星期六有時間一次過寫啦  

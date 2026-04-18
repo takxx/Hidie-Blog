@@ -9,7 +9,7 @@ tags : [glamorous - 蛋臉以外]
 留响屋企太耐郁得太少  
 雖然對腳都仲未水腫  
 但都要防範於未然  
-之前對[Dr. Scholl](https://hidie.net/drschollqtto/)啲橡筋着鬆咗十世  
+之前對[Dr. Scholl](/drschollqtto/)啲橡筋着鬆咗十世  
 原本諗住行吓donki睇吓對Slim Walk...  
 
 ![](/images/legknit.jpg)

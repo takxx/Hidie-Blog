@@ -19,6 +19,6 @@ tags : [flavor - 揀飲宅食, flavor - 螞蟻族]
 \-----------------------------------------------  
   
 延伸閱讀：  
-[森永 ミルクキャラメル アイスミルク](https://hidie.net/taitung4k/)  
-[森永 質上雪糕 牛奶糖風味](https://hidie.net/miaoli4/))  
-[森永 ビスケットサンド ミルクキャラメル](https://hidie.net/kanagawa3s/)
+[森永 ミルクキャラメル アイスミルク](/taitung4k/)  
+[森永 質上雪糕 牛奶糖風味](/miaoli4/))  
+[森永 ビスケットサンド ミルクキャラメル](/kanagawa3s/)

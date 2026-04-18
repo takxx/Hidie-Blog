@@ -6,7 +6,7 @@ aliases: [ "/2014/05/time_8.html" ]
 tags : [flavor - 螞蟻族]
 ---
 
-在[九份](https://hidie.net/taipei3a/)等巴士時殺了的一盒（笑）  
+在[九份](/taipei3a/)等巴士時殺了的一盒（笑）  
 
 ![](/images/li3pineapple.jpg)
 

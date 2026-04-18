@@ -288,4 +288,4 @@ S&C第二把交椅，嗜好是**轉介子**和**殺人**（跟狗狗），還喜
 
   
 
-ps, [炸雞](https://hidie.net/busanjj7h/)跟[啤酒](https://hidie.net/busanjj7g/)，在韓國時早就朝拜了 XDDD
+ps, [炸雞](/busanjj7h/)跟[啤酒](/busanjj7g/)，在韓國時早就朝拜了 XDDD

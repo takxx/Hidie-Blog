@@ -22,6 +22,6 @@ tags : [flavor - 飲！]
 \-----------------------------------------------  
   
 延伸閱讀：（唉～）  
-[冇味一號 cass draft beer](https://hidie.net/busanjj7g/)  
-[君子二號 hite dry finish](https://hidie.net/hitebeer/)  
-[人類總要重複同樣的錯誤 hite max all malt beer](https://hidie.net/seoul6e/)
+[冇味一號 cass draft beer](/busanjj7g/)  
+[君子二號 hite dry finish](/hitebeer/)  
+[人類總要重複同樣的錯誤 hite max all malt beer](/seoul6e/)

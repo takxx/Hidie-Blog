@@ -11,7 +11,7 @@ tags : [glamorous - 保養おたく]
 ![](/images/laneigelip.jpg)
 
 **LANEIGE Lip Sleeping Mask**  
-佢嘅[Water Sleeping Pack_EX](https://hidie.net/laneigeex/)都ok好用  
+佢嘅[Water Sleeping Pack_EX](/laneigeex/)都ok好用  
 咁見呢罌出咗咁耐啲人都話好用咪試吓囉  
 厚gel狀搽上嘴水潤潤豬油膏令面咁  
 嗯... 好一輪個咀都唔見有死皮  

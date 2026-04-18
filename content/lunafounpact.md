@@ -6,7 +6,7 @@ aliases: [ "/2014/11/foundation-luna-water-essence-founpact.html" ]
 tags : [glamorous - 畫皮？]
 ---
 
-話說自從用了[色白防曬cream](https://hidie.net/mayublue/)之後  
+話說自從用了[色白防曬cream](/mayublue/)之後  
 出街同返工基本上已經不用上妝  
 但有時候也想要有個perfect face  
 
@@ -26,8 +26,8 @@ tags : [glamorous - 畫皮？]
   
 內附薄裝海綿為上粉用  
 不過如果毛孔有點粗就會上得厚些  
-所以我會用[131掃](https://hidie.net/shiseido131/)  
+所以我會用[131掃](/shiseido131/)  
 不論上妝補妝都非常好  
-如果時間充裕，用[震震樸](https://hidie.net/brtcpat/)就最perfect！  
+如果時間充裕，用[震震樸](/brtcpat/)就最perfect！  
   
 （本身一套已經連refill，特價入手所以每個粉底只是港幣幾十蚊， 加上質素非常高，超～讚～！）

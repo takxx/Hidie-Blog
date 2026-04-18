@@ -7,7 +7,7 @@ tags : [flavor - say cheese]
 ---
 
 平時見到LOTTE隻choco pie都唔會揀佢  
-不過crossover PABLO隻[cheese tart](https://hidie.net/osaka2h/)喎  
+不過crossover PABLO隻[cheese tart](/osaka2h/)喎  
 就算知道甜到糖尿血糖飆升都要試！  
 
 ![](/images/lottepablo.jpg)
@@ -28,5 +28,5 @@ okay嘅okay嘅，是一次就夠，哈...
 \-----------------------------------------------  
   
 延伸閱讀：  
-[おやつカンパニー × パブロ - Cream in Snack](https://hidie.net/pablocreaminsnack/)  
-[LOTTE - 치즈 초코파이 (cheese choco pie)](https://hidie.net/lottecheesechocopie/)
+[おやつカンパニー × パブロ - Cream in Snack](/pablocreaminsnack/)  
+[LOTTE - 치즈 초코파이 (cheese choco pie)](/lottecheesechocopie/)

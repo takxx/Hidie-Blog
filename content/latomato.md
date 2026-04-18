@@ -6,7 +6,7 @@ aliases: [ "/2015/03/cheers-la-tomato.html" ]
 tags : [flavor - 飲！]
 ---
 
-又再進行[夜間番茄減肥法](https://hidie.net/tomatobook/)嗎？  
+又再進行[夜間番茄減肥法](/tomatobook/)嗎？  
 可是應該跟這枝酒沒有太大關係（嘻嘻）
 
 ![](/images/latomato.jpg)

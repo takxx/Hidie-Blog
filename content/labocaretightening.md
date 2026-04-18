@@ -40,4 +40,4 @@ wow～ 超乾淨！非常清爽
   
 \-----------------------------------------------  
   
-延伸閱讀：[23 years old air-laynic pore mask](https://hidie.net/twentythreeyearsoldpore/)
+延伸閱讀：[23 years old air-laynic pore mask](/twentythreeyearsoldpore/)

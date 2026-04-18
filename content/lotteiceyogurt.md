@@ -37,9 +37,9 @@ tags : [flavor - 螞蟻族]
   
   
 延伸閱讀：  
-\[宮崎地道飲\] [トップ - ヨーグルッペ](https://hidie.net/kojkmi5a/)  
-\[北海道代表\] [タングロン（tanglone）](https://hidie.net/hokkaido4/)  
-\[北海道限定\] [雪印  - ソフトカツゲン](https://hidie.net/hokkaido6/)  
-\[因為容和嘛\] [ピルクル](https://hidie.net/kojkmi6n/)  
-\[含少量酒啦\] [suntory ほろよい 白いサワー](https://hidie.net/suntorywhitesour/)  
-\[我唔飲佢飲\] [\[白狼365\] Day161：乳酸菌飲料](https://hidie.net/zaku161/)
+\[宮崎地道飲\] [トップ - ヨーグルッペ](/kojkmi5a/)  
+\[北海道代表\] [タングロン（tanglone）](/hokkaido4/)  
+\[北海道限定\] [雪印  - ソフトカツゲン](/hokkaido6/)  
+\[因為容和嘛\] [ピルクル](/kojkmi6n/)  
+\[含少量酒啦\] [suntory ほろよい 白いサワー](/suntorywhitesour/)  
+\[我唔飲佢飲\] [\[白狼365\] Day161：乳酸菌飲料](/zaku161/)
