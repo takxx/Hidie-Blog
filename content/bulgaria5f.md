@@ -80,7 +80,7 @@ Pub Crawl是有guide帶去當地酒吧喝喝酒
 
 再去下一家之前經過教堂  
 正在做凌晨的復活節彌撒  
-（就是在[balkan bites](https://hidie.net/bulgaria2f/)時經過看到總統的那家教堂）  
+（就是在[balkan bites](/bulgaria2f/)時經過看到總統的那家教堂）  
 
 ![](/images/bulgaria5f10.jpg)
 
@@ -119,4 +119,4 @@ Pub Crawl是要收費的，20lv
   
 \-----------------------------------------------  
   
-延伸閱讀：[保加利亞醉遊記（14D16N）](https://hidie.net/bulgaria14d16n/)
+延伸閱讀：[保加利亞醉遊記（14D16N）](/bulgaria14d16n/)

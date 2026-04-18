@@ -7,7 +7,7 @@ tags : [flavor - 行膳積腹, travel-保加利亞]
 ---
 
 逛了一天街，就在apartment附近吃  
-回到昨天覺得不錯的[Палавия Джак](https://hidie.net/bulgaria9d/)  
+回到昨天覺得不錯的[Палавия Джак](/bulgaria9d/)  
 沒有rakia也沒有喝啤酒只喝水  
 
 ![](/images/bulgaria10f1.jpg)
@@ -46,4 +46,4 @@ pancake薄薄脆脆的配上濃郁濃郁的蜜糖
   
 \-----------------------------------------------  
   
-延伸閱讀：[保加利亞醉遊記（14D16N）](https://hidie.net/bulgaria14d16n/)
+延伸閱讀：[保加利亞醉遊記（14D16N）](/bulgaria14d16n/)

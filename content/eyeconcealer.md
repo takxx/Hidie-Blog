@@ -135,4 +135,4 @@ stick狀易於塗抹不過較容易太重手
   
 \-----------------------------------------------  
   
-延伸閱讀：[\[concealer\] make up for ever - anticernes tenseur](https://hidie.net/makeupforeveranticernes/)
+延伸閱讀：[\[concealer\] make up for ever - anticernes tenseur](/makeupforeveranticernes/)

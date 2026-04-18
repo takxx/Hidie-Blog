@@ -22,9 +22,9 @@ tags : [flavor - 小食部]
 佢夠硬淨又zip得夠實，裝嘢一流  
 （防潮都好Q大包，用得返唔好徒）  
   
-去名古屋機場浸個[風の湯](https://hidie.net/nagoya8g/)  
+去名古屋機場浸個[風の湯](/nagoya8g/)  
 然後個門口隊出就係佢，買啦買啦買啦～  
   
 \-----------------------------------------------  
   
-延伸閱讀：[GO! GO! NaGoYa～（8D7N）](https://hidie.net/nagoya8d7n/)
+延伸閱讀：[GO! GO! NaGoYa～（8D7N）](/nagoya8d7n/)

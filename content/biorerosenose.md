@@ -14,7 +14,7 @@ tags : [glamorous - 保養おたく, glamorous - 面膜魂, lifestyle - rosy ros
 又是一隻多年來愛用的物品  
 黑色的鼻貼，這些年頭已幫我拔出無數粒黑頭  
   
-最喜歡先以[ポアトル 角栓クリアジェル](https://hidie.net/poretol/)massage  
+最喜歡先以[ポアトル 角栓クリアジェル](/poretol/)massage  
 發熱後突出的黑頭再敷上這鼻貼15分鐘  
   
 黑色的鼻貼會很明顯看出成品  

@@ -22,7 +22,7 @@ tags : [travel-泰國-曼谷, flavor - 小食部]
 
 ![](/images/bangkok2e2.jpg)
 
-同埋[又](https://hidie.net/bangkok2a/)食**ลูกชิ้นย่าง 豬肉丸串**喇  
+同埋[又](/bangkok2a/)食**ลูกชิ้นย่าง 豬肉丸串**喇  
 今次有埋**牛丸**嘅  
 加上呢個醬汁好鬼辣  
 （今朝嘅係甜辣醬）

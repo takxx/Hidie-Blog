@@ -6,7 +6,7 @@ aliases: [ "/2014/02/masque-apieu-essential-source-omija.html" ]
 tags : [glamorous - 保養おたく, glamorous - 面膜魂]
 ---
 
-[五味子茶](https://hidie.net/busanjj4f/)酸酸的很好飲  
+[五味子茶](/busanjj4f/)酸酸的很好飲  
 用來敷面又會怎樣呢？  
 
 ![](/images/apieuomija.jpg)

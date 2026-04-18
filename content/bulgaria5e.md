@@ -6,7 +6,7 @@ aliases: [ "/2014/05/day5new-moon.html" ]
 tags : [flavor - 行膳積腹, travel-保加利亞]
 ---
 
-要怪就怪[balkan bites](https://hidie.net/bulgaria2f/)啦  
+要怪就怪[balkan bites](/bulgaria2f/)啦  
 誰叫他介紹的餐廳都媽的好吃？  
 
 ![](/images/bulgaria5e1.jpg)
@@ -91,4 +91,4 @@ tags : [flavor - 行膳積腹, travel-保加利亞]
   
 \-----------------------------------------------  
   
-延伸閱讀：[保加利亞醉遊記（14D16N）](https://hidie.net/bulgaria14d16n/)
+延伸閱讀：[保加利亞醉遊記（14D16N）](/bulgaria14d16n/)

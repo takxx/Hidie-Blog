@@ -17,7 +17,7 @@ tags : [travel-保加利亞]
 
 ![](/images/bulgaria12b2.jpg)
 
-跟[Cucciolo 'Volsi Cosi' Rosato Frizzante](https://hidie.net/bulgaria12a/)一套的  
+跟[Cucciolo 'Volsi Cosi' Rosato Frizzante](/bulgaria12a/)一套的  
 小點法包好精緻好好味  
 這set感覺好嗨卡喔  
 Graffiti本身也是一間酒店啦  
@@ -34,4 +34,4 @@ hea多陣才出去吧
   
 \-----------------------------------------------  
   
-延伸閱讀：[保加利亞醉遊記（14D16N）](https://hidie.net/bulgaria14d16n/)
+延伸閱讀：[保加利亞醉遊記（14D16N）](/bulgaria14d16n/)

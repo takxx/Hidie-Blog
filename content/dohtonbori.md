@@ -114,5 +114,5 @@ tags : [flavor - 行膳積腹]
 \-----------------------------------------------  
   
 延伸閱讀：  
-[Gudetama Café by Izumi Curry](https://hidie.net/izumicurrygudetama/)  
-[ぐでたまかふぇ (gudetama café by 抹茶館)](https://hidie.net/osaka3/)
+[Gudetama Café by Izumi Curry](/izumicurrygudetama/)  
+[ぐでたまかふぇ (gudetama café by 抹茶館)](/osaka3/)

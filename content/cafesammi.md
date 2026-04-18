@@ -130,5 +130,5 @@ handmade嘢唔錯嘅
 以bakery嚟講，都係牛角包好食啲啫 XDDD  
   
 啊！兩間都係叫**森美餐廳**  
-然而呢間Cafe Sammi同[Sammy's Kitchen](https://hidie.net/sammyskitchen/)係唔同餐廳嚟㗎～  
+然而呢間Cafe Sammi同[Sammy's Kitchen](/sammyskitchen/)係唔同餐廳嚟㗎～  
   

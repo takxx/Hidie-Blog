@@ -10,7 +10,7 @@ tags : [flavor - 螞蟻族]
 
 ![](/images/dojosukuimanju.jpg)
 
-响[電視](https://hidie.net/tottori7p/)見到籮神優先發售特別版  
+响[電視](/tottori7p/)見到籮神優先發售特別版  
 就諗都無諗衝咗落樓買  
 
 ![](/images/dojosukuimanju1.jpg)
@@ -27,7 +27,7 @@ tags : [flavor - 螞蟻族]
 苺來自島根県安来；栗就島根県津和野；  
 二十世紀梨當然係from鳥取県；  
 隻お茶席抹茶就由島根県松江市嘅千茶荘出產  
-不過响[大漁市場なかうら](https://hidie.net/tottori2f/)試食過晒之後  
+不過响[大漁市場なかうら](/tottori2f/)試食過晒之後  
 係無一隻口味啱食嘅  
 因為裡面較乾身，啲餡就得個甜字無咩特別  
 反而最最最原味嘅白餡（藍色嗰包）係味道啱啱好無從投訴    

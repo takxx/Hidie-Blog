@@ -12,9 +12,9 @@ tags : [flavor - 行膳積腹, satisfaction - 黃店懲罰日]
 ![](/images/chuendongdong1.jpg)
 
 **燒秋葵 | 雞心 | 豬心 | 雞膶**  
-因為佢所以就接受咗[港式串燒](https://hidie.net/goodnewsbbq/)  
+因為佢所以就接受咗[港式串燒](/goodnewsbbq/)  
 不過亦依舊食返同日式串燒一樣嘅食材(咁滯)  
-有連去專食內臟串嘅日本串燒店[モクモクやきとん](https://hidie.net/mokumokuyakiton/)嘅燒豬心啊！  
+有連去專食內臟串嘅日本串燒店[モクモクやきとん](/mokumokuyakiton/)嘅燒豬心啊！  
 
 ![](/images/chuendongdong2.jpg)
 

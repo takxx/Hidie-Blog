@@ -6,7 +6,7 @@ aliases: [ "/2014/08/blog-post.html" ]
 tags : [lifestyle - zakka]
 ---
 
-不是已[脫離四眼妹行列](https://hidie.net/lasik/)嗎  
+不是已[脫離四眼妹行列](/lasik/)嗎  
 幹嗎要又特登買副新眼鏡呢  
 
 ![](/images/bluelightglasses.jpg)

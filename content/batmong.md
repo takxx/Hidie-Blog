@@ -45,7 +45,7 @@ tags : [flavor - 行膳積腹, satisfaction - 黃店懲罰日]
 可惜好水餃皮對我嚟講有啲削  
 唔完美，可接受  
 腸粉好食啲（哈）  
-而牛筋丸完全係有得返返去[德發](https://hidie.net/takfat/)嘅味道  
+而牛筋丸完全係有得返返去[德發](/takfat/)嘅味道  
 好好咬好L好食啊！  
 
 ![](/images/batmong3.jpg)
@@ -56,5 +56,5 @@ tags : [flavor - 行膳積腹, satisfaction - 黃店懲罰日]
 有無咁吸引呀？  
 嚟到先知係元朗國牌子嘅豆漿  
 （等我仲以為係自家製㖭）  
-Mmm... 飲開[自製豆漿](https://hidie.net/gingersoymilk/)嘅我當然係覺得唔夠濃郁啦  
+Mmm... 飲開[自製豆漿](/gingersoymilk/)嘅我當然係覺得唔夠濃郁啦  
 唔緊要啦照飲啦...  

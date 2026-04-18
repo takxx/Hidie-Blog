@@ -12,11 +12,11 @@ tags : [lifestyle - 急救箱]
 ![](/images/bumpyroadsalve.jpg)
 
 **Bumpy Road Salve**  
-呢個時候就要用mama級[同事們](https://hidie.net/babyganics/)嘅好康  
+呢個時候就要用mama級[同事們](/babyganics/)嘅好康  
 畀佢個仔用都好有效快速消瘀嘅「仆街膏」  
 佢冇難聞嘅膏藥味  
 細細罌放响袋都好方便  
-唔似[喜療妥](https://hidie.net/hirudoid/)嘅鐵皮牙膏裝會一打開就唧到周圍係  
+唔似[喜療妥](/hirudoid/)嘅鐵皮牙膏裝會一打開就唧到周圍係  
 最緊要都係有效  
 搽兩搽，瘀傷就消得好快  
   

@@ -7,7 +7,7 @@ tags : [flavor - 行膳積腹, travel-保加利亞]
 ---
 
 好吃的餐廳不妨encore  
-rakia跟[昨天](https://hidie.net/bulgaria7f/)的一模一樣
+rakia跟[昨天](/bulgaria7f/)的一模一樣
 
 ![](/images/bulgaria8k1.jpg)
 
@@ -51,4 +51,4 @@ baklava是中東常見的
   
 \-----------------------------------------------  
   
-延伸閱讀：[保加利亞醉遊記（14D16N）](https://hidie.net/bulgaria14d16n/)
+延伸閱讀：[保加利亞醉遊記（14D16N）](/bulgaria14d16n/)

@@ -6,7 +6,7 @@ aliases: [ "/2014/05/day3supa-star.html" ]
 tags : [flavor - 飲！, travel-保加利亞]
 ---
 
-昨天的[balkan bites](https://hidie.net/bulgaria2f/)實在食得太興奮  
+昨天的[balkan bites](/bulgaria2f/)實在食得太興奮  
 不encore又怎能對得住自己？  
 
 ![](/images/bulgaria3e1.jpg)
@@ -32,4 +32,4 @@ tags : [flavor - 飲！, travel-保加利亞]
   
 \-----------------------------------------------  
   
-延伸閱讀：[保加利亞醉遊記（14D16N）](https://hidie.net/bulgaria14d16n/)
+延伸閱讀：[保加利亞醉遊記（14D16N）](/bulgaria14d16n/)

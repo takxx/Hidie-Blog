@@ -9,7 +9,7 @@ tags : [flavor - 行膳積腹, satisfaction - 黃店懲罰日]
 佢又又又陪去產檢嘅日子  
 當然想同佢食返餐好  
 熱死辣辣梗係去隊返碗丼最happy  
-唔敢再去[日本野](https://hidie.net/jpdelight/)又同過佢去[鉄火堂](https://hidie.net/tekka/)喇  
+唔敢再去[日本野](/jpdelight/)又同過佢去[鉄火堂](/tekka/)喇  
 吖！諗到去呢間會想翻啅嘅丼屋，gogogo～  
 
 ![](/images/daikatsudon1.jpg)

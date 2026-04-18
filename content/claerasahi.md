@@ -7,7 +7,7 @@ tags : [flavor - 飲！]
 ---
 
 乍暖還微微寒嘅日子  
-就唔飲濃郁苦味嘅[寒冬啤](https://hidie.net/suntoryonibitter/)喇  
+就唔飲濃郁苦味嘅[寒冬啤](/suntoryonibitter/)喇  
 
 ![](/images/claerasahi.jpg)
 

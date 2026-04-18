@@ -98,10 +98,10 @@ rakia是不能沒有的！
 令人吃完也有種意猶未盡的感覺  
 但實在實在太full，不能再塞東西進口裡了  
   
-在[free sofia tour](https://hidie.net/bulgaria3h/)派的coupon又能用上  
+在[free sofia tour](/bulgaria3h/)派的coupon又能用上  
 5% off，不過這間是少有地會收service charge的餐廳  
 （不知道是不是因為假期的關係）  
   
 \-----------------------------------------------  
   
-延伸閱讀：[保加利亞醉遊記（14D16N）](https://hidie.net/bulgaria14d16n/)
+延伸閱讀：[保加利亞醉遊記（14D16N）](/bulgaria14d16n/)

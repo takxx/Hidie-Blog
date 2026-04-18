@@ -6,7 +6,7 @@ aliases: [ "/2016/03/bike-de-koffie.html" ]
 tags : [flavor - 揀飲宅食]
 ---
 
-响[時令餐桌節](https://hidie.net/taitung5n/)度買嘅  
+响[時令餐桌節](/taitung5n/)度買嘅  
 
 ![](/images/bikedekoffie.jpg)
 
@@ -26,4 +26,4 @@ ps, 因為菠蘿同奇異果都係好高酵素嘅水果
   
 \-----------------------------------------------  
   
-延伸閱讀：[臺東瘋食遊（8D7N）](https://hidie.net/taitung8d7n/)
+延伸閱讀：[臺東瘋食遊（8D7N）](/taitung8d7n/)

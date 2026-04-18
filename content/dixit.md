@@ -30,4 +30,4 @@ tags : [amusement - games]
 
 技巧？有默契嘅會比較有優勢
 
-好似[pictionary](https://hidie.net/pictionary/)咁～（哈）
+好似[pictionary](/pictionary/)咁～（哈）

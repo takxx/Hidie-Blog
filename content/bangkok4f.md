@@ -37,7 +37,7 @@ tags : [travel-泰國-曼谷]
 
 但係個樣有啲嘔心嘅**炸蠶蟲**  
 醬油味嘅，脆脆咁都OK好食  
-（冇[雲南嗰啲](https://hidie.net/yunnan4d/)新鮮嘅咁大陣蛋白味喇！）
+（冇[雲南嗰啲](/yunnan4d/)新鮮嘅咁大陣蛋白味喇！）
 
 ![](/images/bangkok4f6.jpg)
 

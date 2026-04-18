@@ -6,7 +6,7 @@ aliases: [ "/2014/05/day3lubimoto.html" ]
 tags : [flavor - 行膳積腹, travel-保加利亞]
 ---
 
-又是[balkan bites](https://hidie.net/bulgaria2f/)的好帶挈  
+又是[balkan bites](/bulgaria2f/)的好帶挈  
 吃到肚皮都快要撐破的美味  
 
 ![](/images/bulgaria3i1.jpg)
@@ -26,7 +26,7 @@ shepherd's salad，算是廚師沙律
 ![](/images/bulgaria3i3.jpg)
 
 超驚喜的炸釀紅椒（！）  
-哈哈個shape好似[烏魚子](https://hidie.net/taiwanroe/)呢  
+哈哈個shape好似[烏魚子](/taiwanroe/)呢  
 
 ![](/images/bulgaria3i4.jpg)
 
@@ -77,7 +77,7 @@ homemade的layer cake
 
 ![](/images/bulgaria3i10.jpg)
 
-剛去的[Free Sofia Tour](https://hidie.net/bulgaria3h/)派了coupon  
+剛去的[Free Sofia Tour](/bulgaria3h/)派了coupon  
 店主跟我們一行人說  
 可以拿一張去換他家的ayran  
 這是homemade ayran  
@@ -91,4 +91,4 @@ homemade的layer cake
   
 \-----------------------------------------------  
   
-延伸閱讀：[保加利亞醉遊記（14D16N）](https://hidie.net/bulgaria14d16n/)
+延伸閱讀：[保加利亞醉遊記（14D16N）](/bulgaria14d16n/)

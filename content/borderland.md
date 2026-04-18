@@ -24,6 +24,6 @@ tags : [amusement - TV]
 未睇過本身套漫畫所以唔知之後點呀  
   
 最吸引梗係山崎賢人啦仲使講  
-今次爆血勁過[Kingdom](https://hidie.net/kingdom/)呀陰功  
+今次爆血勁過[Kingdom](/kingdom/)呀陰功  
 係喇係喇其他角色都好好睇  
 總之成套嘢都好睇啦就咁！  

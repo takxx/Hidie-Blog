@@ -6,7 +6,7 @@ images: ["/images/bangkok3f.jpg"]
 tags : [travel-泰國-曼谷, flavor - 行膳積腹]
 ---
    
-咁[揼完骨](https://hidie.net/bangkok3e/)個人放鬆晒就會有餓意嘅（咦？）  
+咁[揼完骨](/bangkok3e/)個人放鬆晒就會有餓意嘅（咦？）  
 唯有食晚飯啦哈哈哈  
 
 ![](/images/bangkok3f1.jpg)

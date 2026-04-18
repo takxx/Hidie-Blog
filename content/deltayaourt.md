@@ -6,7 +6,7 @@ images: ["/images/deltayaourt.jpg"]
 tags : [flavor - 揀飲宅食]
 ---
 
-一般嚟講，乳酪係會[自己整](https://hidie.net/yogurtmachine/)   
+一般嚟講，乳酪係會[自己整](/yogurtmachine/)   
 不過有時都會買base同試吓其他嘢...  
 
 ![](/images/deltayaourt.jpg)

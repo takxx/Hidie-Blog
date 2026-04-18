@@ -12,14 +12,14 @@ hea住去旅行就梗係瞓到自然醒㗎啦
 
 ![](/images/bangkok5a.jpg)
 
-無計啦，唯有同佢哋一齊排隊食[豬肉串](https://hidie.net/bangkok5a/)啦  
+無計啦，唯有同佢哋一齊排隊食[豬肉串](/bangkok5a/)啦  
 使咁啲散銀同真係好香好好食  
 啲人買十條八條  
 但係我得少少銀所以買少少攝牙罅  
 
 ![](/images/bangkok5b.jpg)
 
-（味道純粹嘅[137 degrees](https://hidie.net/bangkok5b/)）  
+（味道純粹嘅[137 degrees](/bangkok5b/)）  
 然後行吓附近個超市仔啦  
 買啲嘢飲呀零食呀...  
 再返酒店唞again  
@@ -30,18 +30,18 @@ hea住去旅行就梗係瞓到自然醒㗎啦
 
 ![](/images/bangkok5c.jpg)
 
-係喎仲未食[ข้าวขาหมู (滷豬腳飯)](https://hidie.net/bangkok5c/)  
+係喎仲未食[ข้าวขาหมู (滷豬腳飯)](/bangkok5c/)  
 見到仲唔拿拿臨食咩  
 仲有**脆豬肉飯**，一箭雙鵰yeah  
 
 ![](/images/bangkok5d.jpg)
 
 食食吓見到人哋買肉鬆  
-食完個飯咪再chur多兜[肉鬆糯米飯](https://hidie.net/bangkok5d/)囉  
+食完個飯咪再chur多兜[肉鬆糯米飯](/bangkok5d/)囉  
 
 ![](/images/bangkok5e.jpg)
 
-[ข้าวมันไก่ตอนประตูน้ำ](https://hidie.net/bangkok5/e) (紅大哥海南雞飯)  
+[ข้าวมันไก่ตอนประตูน้ำ](/bangkok5/e) (紅大哥海南雞飯)  
 兜過見到啫  
 咁熱唔會咁樣等食  
 同埋啱啱咪食完好多飯囉食唔落啦都！  
@@ -52,7 +52,7 @@ hea住去旅行就梗係瞓到自然醒㗎啦
 ![](/images/bangkok5f.jpg)
 
 再唔係又食囉 XD  
-tea time @[SWENSENS](https://hidie.net/bangkok5f/)  
+tea time @[SWENSENS](/bangkok5f/)  
 it's MANGO again～  
 
 ![](/images/bangkok5g.jpg)
@@ -60,14 +60,14 @@ it's MANGO again～
 唔想同人迫加上冇咩嘢好做就早少少食晚餐  
 又因為好熱冇走出CentralWorld  
 所以就兜吓睇吓食咩好  
-最後決定嚟[Kum Poon](https://hidie.net/bangkok5g/)食  
+最後決定嚟[Kum Poon](/bangkok5g/)食  
 雖然呢間都算貴價商場  
 但間餐廳啲嘢食又唔算真係好貴  
 嘢食唔錯呀又唔似度度都食到嗰種（泰北菜）  
 完全值得一食，推薦呢～  
   
 食完就行返酒店放低啲嘢  
-（話唔買唔買都有買[少少嘢](https://hidie.net/bangkok5h/)）  
+（話唔買唔買都有買[少少嘢](/bangkok5h/)）  
   
 話說今晚係呢個旅程嘅最後一晚  
 而且呢個夜市今晚先開始有（3-7）  
@@ -75,7 +75,7 @@ it's MANGO again～
 
 ![](/images/bangkok5i.jpg)
 
-I go to [TALAD Neon](https://hidie.net/bangkok5i/) on foot.  
+I go to [TALAD Neon](/bangkok5i/) on foot.  
 
 ![](/images/bangkok5i0.jpg)
 
@@ -90,7 +90,7 @@ I go to [TALAD Neon](https://hidie.net/bangkok5i/) on foot.
 ![](/images/bangkok5j.jpg)
 
 咪傻啦！又食嘢喇哈哈哈  
-食埋[ข้าวมันไก่ (海南雞飯)](https://hidie.net/bangkok5j/)做宵夜就啱啱好  
+食埋[ข้าวมันไก่ (海南雞飯)](/bangkok5j/)做宵夜就啱啱好  
   
   
 飽飽肚就執行李喇  

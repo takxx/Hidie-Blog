@@ -11,7 +11,7 @@ I need you to 敷26個字母～ XD
 ![](/images/etudehouseb.jpg)
 
 B for Bulgarian rose, brightening  
-呵呵～ 超喜歡[保加利亞](https://hidie.net/bulgaria14d16n/)  
+呵呵～ 超喜歡[保加利亞](/bulgaria14d16n/)  
 也非常鍾愛玫瑰產品  
 這塊保加利亞玫瑰mask  
 未打開包裝前已很深得我心  

@@ -6,7 +6,7 @@ aliases: [ "/2014/11/masque-etude-house-ac-clinic-intense.html" ]
 tags : [glamorous - 保養おたく, glamorous - 面膜魂]
 ---
 
-痘痘貼，[missha](https://hidie.net/misshapatch/) 太大塊比較適合夜用  
+痘痘貼，[missha](/misshapatch/) 太大塊比較適合夜用  
 
 ![](/images/etudehouseac.jpg)
 

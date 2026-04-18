@@ -6,7 +6,7 @@ aliases: [ "/2015/11/blog-post_11.html" ]
 tags : [flavor - 小食部]
 ---
 
-試咗機場買嘅平價[海老せんべい](https://hidie.net/ebisato/)  
+試咗機場買嘅平價[海老せんべい](/ebisato/)  
 點少得食返D貴嘢溝吓貨呀  
 
 ![](/images/bankaku.jpg)
@@ -27,4 +27,4 @@ tags : [flavor - 小食部]
   
 \-----------------------------------------------  
   
-延伸閱讀：[GO! GO! NaGoYa～（8D7N）](https://hidie.net/nagoya8d7n/)
+延伸閱讀：[GO! GO! NaGoYa～（8D7N）](/nagoya8d7n/)

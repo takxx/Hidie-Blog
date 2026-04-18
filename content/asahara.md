@@ -6,8 +6,8 @@ images: ["/images/asahara.jpg"]
 tags : [flavor - 飲！]
 ---
 
-响北海道[天金本店](https://hidie.net/hokkaido4j/)食うにしゃぶ（海膽邊爐）嗰陣  
-飲咗支好好味嘅[梅乃宿](https://hidie.net/umenoyadoyuzu/)蜜柑酒  
+响北海道[天金本店](/hokkaido4j/)食うにしゃぶ（海膽邊爐）嗰陣  
+飲咗支好好味嘅[梅乃宿](/umenoyadoyuzu/)蜜柑酒  
 然後响BicCamera見到蜜柑酒呢樣嘢就托咗支返屋企...
 
 ![](/images/asahara1.jpg)

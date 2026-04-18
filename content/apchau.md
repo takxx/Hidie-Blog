@@ -72,7 +72,7 @@ tags : [lifestyle - 港女港旅]
 ![](/images/apchau15.jpg)
 
 左邊山後面係荔枝窩  
-右邊係[印洲塘海岸公園](https://hidie.net/doublehaven/)  
+右邊係[印洲塘海岸公園](/doublehaven/)  
 
 ![](/images/apchau16.jpg)
 
@@ -110,4 +110,4 @@ tags : [lifestyle - 港女港旅]
 goodbye鴨洲~~~  
   
   
-（[待續](https://hidie.net/kato/)）
+（[待續](/kato/)）

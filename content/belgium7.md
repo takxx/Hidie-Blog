@@ -99,7 +99,7 @@ tags : [travel-比利時荷蘭]
 畀錢買時間，搭又快坐得又舒服嘅Thalys！  
   
   
-bye bye Belgium（& say Hello to [荷蘭](https://hidie.net/amsterdam1/) ～）  
+bye bye Belgium（& say Hello to [荷蘭](/amsterdam1/) ～）  
   
   
 {{<belgium>}}  

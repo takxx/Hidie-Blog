@@ -6,7 +6,7 @@ aliases: [ "/2014/10/masque.html" ]
 tags : [glamorous - 保養おたく, glamorous - 面膜魂]
 ---
 
-同一系列中的[頸pack](https://hidie.net/aishikonneck/)實在太好用  
+同一系列中的[頸pack](/aishikonneck/)實在太好用  
 完全無法擺脫購入這個眼膜的魔咒  
 
 ![](/images/aishikoneye.jpg)

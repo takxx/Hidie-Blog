@@ -6,7 +6,7 @@ images: ["/images/amarula.jpg"]
 tags : [flavor - 飲!]
 ---
 
-响架非洲機度除咗飲[非洲啤](https://hidie.net/bangkok6e/)  
+响架非洲機度除咗飲[非洲啤](/bangkok6e/)  
 仲有支好正嘅非洲果酒買！  
 
 ![](/images/amarula1.jpg)

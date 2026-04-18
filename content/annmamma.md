@@ -6,8 +6,8 @@ images: ["/images/annmamma.jpg"]
 tags : [flavor - 行膳積腹, satisfaction - 黃店懲罰日]
 ---
 
-[之前](https://hidie.net/blankcafe/)講過係再見面時嘅餐廳幾選一  
-雖然係揀咗食[burger](https://hidie.net/kitchencorner/)  
+[之前](/blankcafe/)講過係再見面時嘅餐廳幾選一  
+雖然係揀咗食[burger](/kitchencorner/)  
 但係第一間send嚟嘅係呢間  
 咁有時間梗係都要試吓啦～～～  
 

@@ -23,7 +23,7 @@ tags : [flavor - 行膳積腹, satisfaction - 黃店懲罰日]
 ![](/images/chengbanzhang.jpg)
 
 **程班長牛肉便當**  
-我真係好L掛住[台鐵便當](https://hidie.net/taitung8b/)呀（吶喊）  
+我真係好L掛住[台鐵便當](/taitung8b/)呀（吶喊）  
 食住呢兜頂住檔先  
 雖然佢個樣真係好衰  
 不過係好好食嘅  

@@ -15638,11 +15638,6 @@
   </url>
   
   <url>
-    <loc>https://h.takk.uk/bulgaria8i/</loc>
-    <lastmod>2014-05-27T21:15:00+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://h.takk.uk/bulgaria8h/</loc>
     <lastmod>2014-05-27T17:00:00+08:00</lastmod>
   </url>
@@ -19810,6 +19805,11 @@
   <url>
     <loc>https://h.takk.uk/nycheesecake/</loc>
     <lastmod>2013-09-27T00:07:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://h.takk.uk/bulgaria8i/</loc>
+    <priority>0</priority>
   </url>
   
   <url>

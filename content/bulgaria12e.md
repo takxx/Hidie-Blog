@@ -6,7 +6,7 @@ aliases: [ "/2014/06/day12pizza-da-vinci-2nd-round.html" ]
 tags : [travel-保加利亞]
 ---
 
-[就腳又不錯吃](https://hidie.net/bulgaria11h/)，食多round是不無道理的  
+[就腳又不錯吃](/bulgaria11h/)，食多round是不無道理的  
 
 ![](/images/bulgaria12e1.jpg)
 
@@ -44,4 +44,4 @@ e？好像不見了一樣非常重要的東西不是嗎？
   
 \-----------------------------------------------  
   
-延伸閱讀：[保加利亞醉遊記（14D16N）](https://hidie.net/bulgaria14d16n/)
+延伸閱讀：[保加利亞醉遊記（14D16N）](/bulgaria14d16n/)

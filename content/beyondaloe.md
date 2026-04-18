@@ -25,4 +25,4 @@ size較大精華滿滿但不厚重
   
 雖然效果真的不錯  
 但蘆薈成分面膜實在太普通了  
-（因為[set裝](https://hidie.net/beyondpanda/)才買嘛，嘻嘻）
+（因為[set裝](/beyondpanda/)才買嘛，嘻嘻）

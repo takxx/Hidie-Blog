@@ -19,7 +19,7 @@ tags : [glamorous - 裝身]
 
 ![](/images/astigu1.jpg)
 
-（比這對厚身的[modeline](https://hidie.net/modeline/)，其hPa值更高呢）  
+（比這對厚身的[modeline](/modeline/)，其hPa值更高呢）  
   
 最重要是產地  
 made in japan雖然不是甚麼風光的事  

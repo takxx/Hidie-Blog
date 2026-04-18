@@ -42,7 +42,7 @@ average嘅味道，只可以話唔係難食咁
 ![](/images/devietson4.jpg)
 
 **BIA SAIGON SPECIAL**  
-當年去越南旅行嗰陣嘅[第一餐](https://hidie.net/saigon1/)嗰杯啤就係佢  
+當年去越南旅行嗰陣嘅[第一餐](/saigon1/)嗰杯啤就係佢  
 咁食越南嘢嗌支越南啤都好正常  
 記得嗰時覺得唔好飲  
 而今次飲返，可能係同唔同人一齊  

@@ -58,6 +58,6 @@ fruit of the earth - aloe vera 100% gel
   
 至於開首所說的敏感紅粒粒  
 我花了一個星期甚麼美白抗皺修護等都停用  
-只是用蘆薈同以[防曬爽身粉](https://hidie.net/johnsonsuvpowder/)拍面去擋太陽  
+只是用蘆薈同以[防曬爽身粉](/johnsonsuvpowder/)拍面去擋太陽  
 之後就平復了也沒有痘印呀疤呀這樣  
 這算是有效啦，對吧（笑）

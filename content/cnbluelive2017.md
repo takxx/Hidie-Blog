@@ -16,4 +16,4 @@ CNBLUE喎
   
 \-----------------------------------------------  
   
-延伸閱讀：[\[live\] 2017 CNBLUE LIVE \[BETWEEN US\] IN HONG KONG 後記](https://www.hidie.net/2017/08/live-2017-cnblue-live-between-us-in_31.html)
+延伸閱讀：[\[live\] 2017 CNBLUE LIVE \[BETWEEN US\] IN HONG KONG 後記](/2017/08/live-2017-cnblue-live-between-us-in_31.html)

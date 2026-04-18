@@ -7,7 +7,7 @@ tags : [lifestyle - zakka, satisfaction - 自我感覺環保]
 ---
 
 一向都會自備水樽出街  
-之不過本身用緊嗰隻[ECO Can Plus](https://hidie.net/ecocanplus/)  
+之不過本身用緊嗰隻[ECO Can Plus](/ecocanplus/)  
 反轉用同就咁掉入袋fing fing吓會漏水  
 所以變成只可以乖乖地留响室內  
 

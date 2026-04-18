@@ -10,7 +10,7 @@ tags : [flavor - 飲！]
 甚至係為瘦身都好  
 黑豆都係我上午返工必備嘅食物  
   
-之前都有講過會[食黑豆](https://hidie.net/blackbeanbook/)  
+之前都有講過會[食黑豆](/blackbeanbook/)  
 但係相比起脆口嘅  
 朝早都係鍾意食濕口啲嘅嘢...  
 

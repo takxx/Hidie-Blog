@@ -16,8 +16,8 @@ tags : [travel-泰國-曼谷, flavor - 行膳積腹]
 ![](/images/bangkok4g2.jpg)
 
 **Som Tum Tord**  
-擒晚食過[生青芒果沙律](https://hidie.net/bangkok3f/)；  
-今朝食過[生青木瓜沙律](https://hidie.net/bangkok4d/)；  
+擒晚食過[生青芒果沙律](/bangkok3f/)；  
+今朝食過[生青木瓜沙律](/bangkok4d/)；  
 而家呢個就係炸青木瓜沙律  
 逐條炸好似芋絲條咁  
 淋醬食嘅味道香脆之中帶清新酸爽，好好食呢～

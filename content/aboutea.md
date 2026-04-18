@@ -9,7 +9,7 @@ tags : [flavor - 飲！, satisfaction - 黃店懲罰日]
 以唔算點飲台式嘢飲嘅我  
 花斑已經係買得較多嘅一間  
 其中一個原因係去搵舊同事嗰陣會一齊買  
-而第一次飲就因為去[友利](https://hidie.net/yauleibistro/)食飯  
+而第一次飲就因為去[友利](/yauleibistro/)食飯  
 憑單去買指定嘅只係需要$12（嘿嘿嘿）  
 
 ![](/images/aboutea.jpg)

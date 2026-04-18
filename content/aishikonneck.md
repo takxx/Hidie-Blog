@@ -7,7 +7,7 @@ tags : [glamorous - 保養おたく, glamorous - 面膜魂]
 ---
 
 會中魔女たちの22時的毒肯肯定不止我一個吧  
-那個因為弄傷後用紫雲丹（我也有[韓律](https://hidie.net/hanyuljawoondan/)的）  
+那個因為弄傷後用紫雲丹（我也有[韓律](/hanyuljawoondan/)的）  
 從而發現紫根這好物（紙巾？）  
 再去漢藥店買紫根自制toner  
 所以沒有皺紋blablablablabla  

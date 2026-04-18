@@ -11,14 +11,14 @@ tags : [travel-泰國-曼谷]
 
 ![](/images/bangkok2a.jpg)
 
-响上BTS之前個站頭嘅車仔檔買嘅[豬肉丸串](https://hidie.net/bangkok2a/)  
+响上BTS之前個站頭嘅車仔檔買嘅[豬肉丸串](/bangkok2a/)  
 OK啦都算有豬肉味  
 介乎扎肉嘅彈牙度  
 加埋泰式甜辣醬，好味  
 
 ![](/images/bangkok2b.jpg)
 
-响超市買埋枝[皇室牛奶](https://hidie.net/bangkok2b/)飲  
+响超市買埋枝[皇室牛奶](/bangkok2b/)飲  
 嗱～ 咪以為泰國皇室只係出牛奶片同蜂蜜先得㗎  
 人哋出好多嘢㗎其實  
 好似呢隻牛奶咁  
@@ -34,7 +34,7 @@ BTS：พญาไท (Phaya Thai) → **หมอชิต (Mo Chit)**
   
 ![](/images/bangkok2c.jpg)
 
-[จตุจักร (Jatujak)](https://hidie.net/bangkok2c/)  
+[จตุจักร (Jatujak)](/bangkok2c/)  
 呃，早少少係少啲人  
 不過有啲舖未開  
 晏啲啲舖開就好多人同好熱  
@@ -85,7 +85,7 @@ BTS：หมอชิต (Mo Chit) → **พญาไท (Phaya Thai)**
 返酒店開行冷氣瞓覺，Zzz...  
   
 瞓醒就慢慢行～ 去～ เซ็นทรัลเวิลด์ (CentralWorld) 嗰邊  
-但係响The Platinum Fashion Mall前做緊[food fair](https://hidie.net/bangkok2e/)  
+但係响The Platinum Fashion Mall前做緊[food fair](/bangkok2e/)  
 無理由唔買嘢食㗎？  
 
 ![](/images/bangkok2e.jpg)
@@ -103,7 +103,7 @@ BTS：หมอชิต (Mo Chit) → **พญาไท (Phaya Thai)**
 
 ![](/images/bangkok2f.jpg.jpg)
 
-[ร้านแหลมเจริญ ซีฟู๊ด สาขา เซ็นทรัลเวิลด์ (Laem Charoen Seafood)](https://hidie.net/bangkok2f/)  
+[ร้านแหลมเจริญ ซีฟู๊ด สาขา เซ็นทรัลเวิลด์ (Laem Charoen Seafood)](/bangkok2f/)  
 終於去到**เซ็นทรัลเวิลด์ (CentralWorld)**  
 原本完全無idea㗎  
 但係見人等我又等吓囉  
@@ -116,7 +116,7 @@ BTS：หมอชิต (Mo Chit) → **พญาไท (Phaya Thai)**
 ![](/images/bangkok2g.jpg)
 
 食完晚飯（走飯）再去食甜品  
-[After You](https://hidie.net/bangkok2g/)嘅芒果時令限定：  
+[After You](/bangkok2g/)嘅芒果時令限定：  
 **MANGO STICKY RICE KAKIGŌRI**  
 貴就貴咗啲但係真係好好食  
 當造嘅芒果真係無敵！  

@@ -6,7 +6,7 @@ images: ["/images/sktomls5.jpg"]
 tags : [flavor - 飲！, satisfaction - 黃店懲罰日]
 ---
 
-入[西貢](https://hidie.net/sktomls/)見人有啲人多又熱熱地...  
+入[西貢](/sktomls/)見人有啲人多又熱熱地...  
 
 ![](/images/dukeofyork.jpg)
 

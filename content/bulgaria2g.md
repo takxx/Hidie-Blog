@@ -6,7 +6,7 @@ aliases: [ "/2014/05/street-art-in-sofia.html" ]
 tags : [travel-保加利亞]
 ---
 
-在[free food tour](https://hidie.net/bulgaria2f/)時義工導遊除了介紹食物跟歷史外  
+在[free food tour](/bulgaria2f/)時義工導遊除了介紹食物跟歷史外  
 還有說了一些當地的street art  
 這篇有些是行程經過的  
 也有之後遊覽時拍下  
@@ -54,4 +54,4 @@ tags : [travel-保加利亞]
   
 \-----------------------------------------------  
   
-延伸閱讀：[保加利亞醉遊記（14D16N）](https://hidie.net/bulgaria14d16n/)
+延伸閱讀：[保加利亞醉遊記（14D16N）](/bulgaria14d16n/)

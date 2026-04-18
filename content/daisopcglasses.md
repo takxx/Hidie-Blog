@@ -7,7 +7,7 @@ tags : [lifestyle - zakka]
 ---
 
 話說我本來已經有一副抗藍光眼鏡  
-（this one：[樂友文化 護眼抗藍光眼鏡](https://hidie.net/bluelightglasses/)）  
+（this one：[樂友文化 護眼抗藍光眼鏡](/bluelightglasses/)）  
 好可惜意外無可避免，响床邊一腳就踩爛 > <  
 正當又為逝去的百幾蚊默哀...  
  ～好彩唔係買幾百蚊日版咋～  

@@ -21,4 +21,4 @@ tags : [glamorous - 蛋臉以外]
 有點厚的死皮還是不能軟化  
 對於只是有薄死皮的會比較適合呢～  
   
-（講究點的還是用[sparitual](https://hidie.net/sparitual/)吧！）
+（講究點的還是用[sparitual](/sparitual/)吧！）

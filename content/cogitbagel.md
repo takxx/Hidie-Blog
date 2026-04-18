@@ -25,4 +25,4 @@ tags : [lifestyle - zakka]
   
 \-----------------------------------------------  
   
-延伸閱讀：[cogit らくちん美尻クッション](https://hidie.net/cogitcusion/)
+延伸閱讀：[cogit らくちん美尻クッション](/cogitcusion/)

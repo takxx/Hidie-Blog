@@ -17,4 +17,4 @@ CNBLUE，yo yo yo～
   
 \-----------------------------------------------  
   
-延伸閱讀：[\[live\] 2015 CNBLUE LIVE \[COME TOGETHER\] IN HONG KONG 後記](http://www.hidie.net/2015/11/live-2015-cnblue-live-come-together-in_27.html)
+延伸閱讀：[\[live\] 2015 CNBLUE LIVE \[COME TOGETHER\] IN HONG KONG 後記](/2015/11/live-2015-cnblue-live-come-together-in_27.html)

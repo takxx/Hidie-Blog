@@ -12,5 +12,5 @@ tags : [glamorous - 畫皮？]
 ![](/images/daisobrushcleanser.jpg)
 
 所以化妝掃們的清潔度也加強  
-方便易用（方法跟[這枝](https://hidie.net/naturerepublicremover/)一樣）  
+方便易用（方法跟[這枝](/naturerepublicremover/)一樣）  
 但就是更便宜，哈哈！

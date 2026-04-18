@@ -15,7 +15,7 @@ tags : [glamorous - 蛋臉以外]
 指甲與手指內裡的髒污  
 也是微細細的尖頭剔走較方便同仔細  
 推手指邊緣死皮時都會用這棉棒  
-（當然事前是敷了[remover](https://hidie.net/sparitual/)）  
+（當然事前是敷了[remover](/sparitual/)）  
   
 最喜歡是棉碎也不易掉下起絲～  
   

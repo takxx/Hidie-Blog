@@ -15,6 +15,6 @@ rubber死皮推，肥扁的手握位不易滑手
 厚實的軟膠使推皮時帖服整個位置  
 也軟膠面不會刮到指甲面  
   
-配合[去死皮產品](https://hidie.net/sparitual/)（or[這枝](https://hidie.net/dhccuticlesoftener/)）  
+配合[去死皮產品](/sparitual/)（or[這枝](/dhccuticlesoftener/)）  
 就輕易令指甲面同邊緣都乾乾淨淨  
 又便宜又好用，超推薦！

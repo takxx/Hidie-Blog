@@ -6,7 +6,7 @@ aliases: [ "/2014/05/day3.html" ]
 tags : [travel-保加利亞]
 ---
 
-在[balkan bites](https://hidie.net/bulgaria2f/)時真的有特別留心聽講  
+在[balkan bites](/bulgaria2f/)時真的有特別留心聽講  
 （因為都是關於食的吧～）  
 就說過「在攤檔」買「粉紅番茄」
 
@@ -34,4 +34,4 @@ tags : [travel-保加利亞]
   
 \-----------------------------------------------  
   
-延伸閱讀：[保加利亞醉遊記（14D16N）](https://hidie.net/bulgaria14d16n/)
+延伸閱讀：[保加利亞醉遊記（14D16N）](/bulgaria14d16n/)

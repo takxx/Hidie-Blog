@@ -7,7 +7,7 @@ tags : [travel-泰國-曼谷]
 ---
 
 瞓飽先醒有啲餓  
-唯有出門前啪返幾粒新鮮[車厘茄](https://hidie.net/bangkok4a/)  
+唯有出門前啪返幾粒新鮮[車厘茄](/bangkok4a/)  
 然後就出發，去食嘢～
 
   
@@ -24,7 +24,7 @@ BTS：พญาไท (Phaya Thai) → **อนุสาวรีย์ชัย
 
 ![](/images/bangkok4b.jpg)
 
-[ร้านสุดยอดก๋วยเตี๋ยวเรือป๋ายักษ์ (The Bestof Noodle Boat)](https://hidie.net/bangkok4b/)  
+[ร้านสุดยอดก๋วยเตี๋ยวเรือป๋ายักษ์ (The Bestof Noodle Boat)](/bangkok4b/)  
 （↑ 個英文照牌匾抄㗎啫）  
 早咗少少得兩三枱食緊  
 係就係唔駛迫  
@@ -46,7 +46,7 @@ BTS：อนุสาวรีย์ชัยสมรภูมิ (Victory Monu
 
 ![](/images/bangkok4c.jpg)
 
-[สยามเซ็นเตอร์ (Siam Center)](https://hidie.net/bangkok4c/)  
+[สยามเซ็นเตอร์ (Siam Center)](/bangkok4c/)  
 啲人話呢度好好行好好買啦  
 不過行街買嘢呢家嘢真係好個人  
 對我嚟講呢個商圈嘅舖頭  
@@ -56,7 +56,7 @@ BTS：อนุสาวรีย์ชัยสมรภูมิ (Victory Monu
 
 ![](/images/bangkok4d.jpg)
 
-[ส้มตำนัว (Som Tam Nua)](https://hidie.net/bangkok4d/)  
+[ส้มตำนัว (Som Tam Nua)](/bangkok4d/)  
 去泰國就一定要食**ส้มตำ (青木瓜沙律)**  
 如果成個trip只可以食一次  
 又唔想用腦諗揀邊間嘅話  
@@ -64,7 +64,7 @@ BTS：อนุสาวรีย์ชัยสมรภูมิ (Victory Monu
 
 ![](/images/bangkok4e.jpg)
 
-再兜兩兜之後走去食甜品 @[Mango Tango](https://hidie.net/bangkok4e/)  
+再兜兩兜之後走去食甜品 @[Mango Tango](/bangkok4e/)  
 係貴嘅，泰國物價嚟講就少少唔值  
 好食嘅不過唔一定要嚟呢間食  
 即係「可以嚟試但唔係必試」咁  
@@ -74,14 +74,14 @@ BTS：อนุสาวรีย์ชัยสมรภูมิ (Victory Monu
 啱啱食飽嘢又未想坐低食嘢飲嘢  
 唔知做咩好連揼骨都無興趣  
 商場就唔想逛喇  
-好彩，呢個世界仲有[BIG C](https://hidie.net/bangkok4f/)  
+好彩，呢個世界仲有[BIG C](/bangkok4f/)  
 唔食嘢啫，可以買嘢返香港食㗎嘛  
   
   
 
 ![](/images/bangkok4g.jpg)
 
-今晚好豪氣咁食泰國連續N年獲選最佳餐廳嘅[Nara](https://hidie.net/bangkok4g/)  
+今晚好豪氣咁食泰國連續N年獲選最佳餐廳嘅[Nara](/bangkok4g/)  
 痴線㗎！間嘢啲嘢食真係超好食！  
 比平時啲係貴少少  
 話晒响Grand Haytt食個飯喎  

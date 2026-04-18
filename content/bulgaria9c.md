@@ -25,7 +25,7 @@ rakia是食保加利亞菜的必需品無誤
 （自行腦補啦）  
   
 看到餐牌有potato ball  
-以為是像之前在Plovdiv吃到的[小小粒薯仔波](https://hidie.net/bulgaria4b/)  
+以為是像之前在Plovdiv吃到的[小小粒薯仔波](/bulgaria4b/)  
 怎料...  
 
 ![](/images/bulgaria9c3.jpg)
@@ -54,4 +54,4 @@ rakia是食保加利亞菜的必需品無誤
   
 \-----------------------------------------------  
   
-延伸閱讀：[保加利亞醉遊記（14D16N）](https://hidie.net/bulgaria14d16n/)
+延伸閱讀：[保加利亞醉遊記（14D16N）](/bulgaria14d16n/)

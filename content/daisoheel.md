@@ -6,7 +6,7 @@ aliases: [ "/2014/11/heel-daiso.html" ]
 tags : [glamorous - 蛋臉以外, glamorous - 面膜魂]
 ---
 
-面膜[包膠](https://hidie.net/daisosilicone/)令paper mask水分不易流失  
+面膜[包膠](/daisosilicone/)令paper mask水分不易流失  
 腳踭位也有專用的  
 
 ![](/images/daisoheel.jpg)

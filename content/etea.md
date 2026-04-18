@@ -6,7 +6,7 @@ images: ["/images/etea.jpg"]
 tags : [flavor - say cheese, flavor - 飲！, satisfaction - 黃店懲罰日]
 ---
 
-食完[車輪餅](https://hidie.net/mswheelpie/)想飲啲嘢濕吓口  
+食完[車輪餅](/mswheelpie/)想飲啲嘢濕吓口  
 點知杯嘢飲仲甜過件甜品，哈！  
 
 ![](/images/etea1.jpg)

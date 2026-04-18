@@ -12,8 +12,8 @@ tags : [flavor - 行膳積腹, satisfaction - 黃店懲罰日]
 ![](/images/explorer1.jpg)
 
 「とりあえず、生で」（總之先嚟杯生啤）   
-都係基本盤[Suntory ザ・プレミアム・モルツ](https://hidie.net/suntorypremium/)  
-其實都有考慮過[Hoegaarden](https://hidie.net/hoegaarden/)  
+都係基本盤[Suntory ザ・プレミアム・モルツ](/suntorypremium/)  
+其實都有考慮過[Hoegaarden](/hoegaarden/)  
 不過又覺得會太甜影響食物味道嘛...
 
 ![](/images/explorer2.jpg)

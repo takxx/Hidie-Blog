@@ -6,9 +6,9 @@ images: ["/images/bbhand.jpg"]
 tags : [lifestyle - 生活與生存]
 ---
 
-當上年嘅「[週年誌慶](https://hidie.net/kakinotane/)」覺得自己做嗰份工都10年   
+當上年嘅「[週年誌慶](/kakinotane/)」覺得自己做嗰份工都10年   
 第1次唔打算辭職之際  
-人生就會係咁：[辭職](https://hidie.net/lastday/)兼byebye 852舉家英移  
+人生就會係咁：[辭職](/lastday/)兼byebye 852舉家英移  
 响交好文件、畀晒生物認證、飛過去在隔離、搵屋住settle down之後嘛...
 
 ![](/images/bbhand.jpg)

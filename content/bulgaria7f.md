@@ -39,7 +39,7 @@ tags : [flavor - 行膳積腹, travel-保加利亞]
 
 ![](/images/bulgaria7f5.jpg)
 
-雖然不像[山上的那條鱒魚](https://hidie.net/bulgaria5d/)那樣肥美  
+雖然不像[山上的那條鱒魚](/bulgaria5d/)那樣肥美  
 也燒得外皮部分太焦  
 （拍照也拍得太光）  
 但魚肉也是很新鮮香滑，OK啦  
@@ -48,4 +48,4 @@ tags : [flavor - 行膳積腹, travel-保加利亞]
   
 \-----------------------------------------------  
   
-延伸閱讀：[保加利亞醉遊記（14D16N）](https://hidie.net/bulgaria14d16n/)
+延伸閱讀：[保加利亞醉遊記（14D16N）](/bulgaria14d16n/)

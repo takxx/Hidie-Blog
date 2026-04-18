@@ -6,7 +6,7 @@ aliases: [ "/2014/06/pastry-bmb-gourmet-baklava.html" ]
 tags : [flavor - 螞蟻族]
 ---
 
-就算不是新鮮的baklava（新鮮的[在此](https://hidie.net/bulgaria8k/)）  
+就算不是新鮮的baklava（新鮮的[在此](/bulgaria8k/)）  
 但這是真真正正的中東貨色！  
 
 ![](/images/bmbbaklava.jpg)

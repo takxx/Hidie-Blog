@@ -32,7 +32,7 @@ tags : [flavor - 行膳積腹, flavor - 飲！, satisfaction - 黃店懲罰日]
 ![](/images/balitown.jpg)
 
 美妙嘅下午茶  
-唔係一啲都唔肚餓嘅話真係好想食[巴東牛肉](https://hidie.net/indorest1968/)  
+唔係一啲都唔肚餓嘅話真係好想食[巴東牛肉](/indorest1968/)  
 nevermind下次有機會返嚟encore  
 
 ![](/images/balitown4.jpg)

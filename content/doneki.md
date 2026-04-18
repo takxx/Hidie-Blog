@@ -26,5 +26,5 @@ tags : [flavor - 行膳積腹, satisfaction - 黃店懲罰日]
   
 ![](/images/doneki2.jpg)
 
-憑單去[齊柏林](https://hidie.net/zeppelin/) or [丸·茶手作](https://hidie.net/bubbleteawork/)都有折扣  
+憑單去[齊柏林](/zeppelin/) or [丸·茶手作](/bubbleteawork/)都有折扣  
 自己人幫自己人，爽！  

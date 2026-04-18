@@ -21,7 +21,7 @@ P for pomegranate, smooth elasticity
 面膜顏色是維持白色不是紅色  
 精華還是很多多多面膜本身吸不完  
 下半part因個人問題開始不貼面  
-（也是用[矽膠mask](https://hidie.net/daisosilicone/)完美地解決問題）  
+（也是用[矽膠mask](/daisosilicone/)完美地解決問題）  
   
 敷15-20分鐘，拿下面膜後  
 按摩兩三下就等繼續吸收  

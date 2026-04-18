@@ -45,7 +45,7 @@ tags : [travel-比利時荷蘭]
 搭電車去飲吓啤食個lunch啦～  
 **MASE Pils** - 見佢個樣咁清澈就知味淡淡純粹解渴用（笑）  
 **Grimbergen Blonde** - 深焦糖嘅顏色，聞落飲落都滲出甜味嘅味道  
-**Lindemans**... [第一日嚟比利時](https://hidie.net/belgium1/)已經鍾意咗呢隻味，熱到唔想諗飲咩飲佢就最穩陣  
+**Lindemans**... [第一日嚟比利時](/belgium1/)已經鍾意咗呢隻味，熱到唔想諗飲咩飲佢就最穩陣  
 
 ![](/images/belgium6z7.jpg)
 
@@ -126,7 +126,7 @@ tags : [travel-比利時荷蘭]
 
 ![](/images/belgium6z23.jpg)
 
-仲有前兩日出現過嘅[**Gueuze Tilquin** ](https://hidie.net/belgium4/)  
+仲有前兩日出現過嘅[**Gueuze Tilquin** ](/belgium4/)  
 
 ![](/images/belgium6z24.jpg)
 

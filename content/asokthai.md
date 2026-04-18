@@ -6,7 +6,7 @@ images: ["/images/asokthai.jpg"]
 tags : [flavor - 行膳積腹, satisfaction - 黃店懲罰日]
 ---
 
-响懷念[船麵](https://hidie.net/bangkok4b/)嘅日子    
+响懷念[船麵](/bangkok4b/)嘅日子    
 就要去隊返碗開心吓！  
         
 ![](/images/asokthai1.jpg)

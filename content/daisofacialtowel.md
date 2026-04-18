@@ -23,7 +23,7 @@ tags : [glamorous - 保養おたく, glamorous - 面膜魂]
 超～ 舒～ 服～  
   
 另一種方法是先塗厚厚精華  
-再放上一層[膠膜](https://hidie.net/nobleplastic/)  
+再放上一層[膠膜](/nobleplastic/)  
 才敷這暖暖的毛巾層  
   
 冷掉就拿下  

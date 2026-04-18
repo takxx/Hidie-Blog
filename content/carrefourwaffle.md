@@ -11,7 +11,7 @@ tags : [flavor - 小食部]
 ![](/images/carrefourwaffle.jpg)
 
 由荷蘭比利時返嚟  
-俾waffle嘅話會被以為係[荷蘭餅](https://www.hidie.net/2015/03/blog-post_18.html?m=1)  
+俾waffle嘅話會被以為係[荷蘭餅](/2015/03/blog-post_18)  
 即係中間有焦糖嗰隻  
 不過試過佢新鮮嘅話就超超超好食  
 買返嚟嘅話响荷蘭買同香港買嘅分別唔大  

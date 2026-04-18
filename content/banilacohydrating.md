@@ -6,7 +6,7 @@ aliases: [ "/2014/12/base-banila-co-prime-primer-hydrating.html" ]
 tags : [glamorous - 畫皮？]
 ---
 
-此[品牌的base](https://hidie.net/banilacoprime/) C/P值很高  
+此[品牌的base](/banilacoprime/) C/P值很高  
 
 ![](/images/banilacohydrating.jpg)
 

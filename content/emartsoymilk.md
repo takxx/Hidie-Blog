@@ -6,7 +6,7 @@ aliases: [ "/2014/12/soymilk-emart.html" ]
 tags : [flavor - 飲！]
 ---
 
-平日愛喝[自家製](https://hidie.net/gingersoymilk/)的豆漿  
+平日愛喝[自家製](/gingersoymilk/)的豆漿  
 
 ![](/images/emartsoymilk.jpg)
 

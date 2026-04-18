@@ -8,7 +8,7 @@ tags : [flavor - 行膳積腹, travel-保加利亞]
 
 在這次保加利亞旅程的最後一餐  
 要食餐好好的才回去喔！  
-好吃的[lubimoto](https://hidie.net/bulgaria3i/)又出現了（撒花）  
+好吃的[lubimoto](/bulgaria3i/)又出現了（撒花）  
 
 ![](/images/bulgaria14c1.jpg)
 
@@ -54,4 +54,4 @@ tags : [flavor - 行膳積腹, travel-保加利亞]
   
 \-----------------------------------------------  
   
-延伸閱讀：[保加利亞醉遊記（14D16N）](https://hidie.net/bulgaria14d16n/)
+延伸閱讀：[保加利亞醉遊記（14D16N）](/bulgaria14d16n/)

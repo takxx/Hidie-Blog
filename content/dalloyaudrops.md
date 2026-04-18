@@ -7,16 +7,16 @@ tags : [flavor - 螞蟻族]
 ---
 
 meringue就是蛋白＋糖，macaron跟pavlova都是meringue  
-（前幾天的意大利甜點[brutti e buoni](https://hidie.net/pasticceriaveniani/)都是meringue）  
+（前幾天的意大利甜點[brutti e buoni](/pasticceriaveniani/)都是meringue）  
 但macaron同pavlova都要儘快食，而這桶meringue就可以慢慢食  
 
 ![](/images/dalloyaudrops.jpg)
 
 是dalloyau的，法國百年甜品老點（1682）  
   
-購自銀座，因為當天吃了[虎屋](https://hidie.net/tokyo3i/)  
+購自銀座，因為當天吃了[虎屋](/tokyo3i/)  
 未能在dalloyau再吃macaron  
-又買了[Wa・Bi・Sa布甸](https://hidie.net/tokyo3l/)和[ねんりん家的年輪蛋糕](https://hidie.net/tokyo3m/)  
+又買了[Wa・Bi・Sa布甸](/tokyo3l/)和[ねんりん家的年輪蛋糕](/tokyo3m/)  
 所以當天沒選擇來佬貨的macaron做外帶  
   
 不過進了「寶山」又好像沒道理空手而回  

@@ -6,19 +6,19 @@ aliases: [ "/2014/07/masque-cnp-laboratory-anti-pore.html" ]
 tags : [glamorous - 保養おたく, glamorous - 面膜魂]
 ---
 
-[膠原鼻貼set](https://hidie.net/momus/)是很好用沒錯  
+[膠原鼻貼set](/momus/)是很好用沒錯  
 不過也有悲慘情況的時候（哭）    
 話說平日會先用cleansing mask  
 才敷上這黑頭mask  
-一般都是用[annie's way](https://hidie.net/anniesway/)  
+一般都是用[annie's way](/anniesway/)  
 但要知道，這mask要敷30-40分鐘  
 哪會經常騰出那麼多時間呢？  
-有次為了省時間點敷了[lovea](https://hidie.net/loveaclay/)  
+有次為了省時間點敷了[lovea](/loveaclay/)  
 5分鐘就OK，可惜稍微敷過了時間  
 （也大概6-7分鐘而已）  
 再敷黑頭mask，出事了出事了  
 扯甩皮！痛！死！了！！！  
-（雖然沒有[ettusais那款](https://hidie.net/ettusaissebumoff/)那麼痛）  
+（雖然沒有[ettusais那款](/ettusaissebumoff/)那麼痛）  
 不過一個星期很快就過去  
 皮，還未好回來  
 也不能被黑頭給下馬威的  

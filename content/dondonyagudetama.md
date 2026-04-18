@@ -77,4 +77,4 @@ Mmm... 牛肉都算～ 新鮮嘅...
 
 ![](/images/dondonyagudetama11.jpg)
 
-個樣唔錯嘅至少比[鎖匙扣](https://hidie.net/dohtonbori/)實用啲，哈哈哈！
+個樣唔錯嘅至少比[鎖匙扣](/dohtonbori/)實用啲，哈哈哈！

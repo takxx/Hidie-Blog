@@ -6,7 +6,7 @@ aliases: [ "/2014/10/essence-cloud-9-blanc-de-white-serum.html" ]
 tags : [glamorous - 保養おたく]
 ---
 
-對[cloud 9面霜](https://hidie.net/cloud9cream/)簡直去到鍾愛的地步  
+對[cloud 9面霜](/cloud9cream/)簡直去到鍾愛的地步  
 想不到同系列的精華都那麼讚！  
 
 ![](/images/cloud9serum.jpg)

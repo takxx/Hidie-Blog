@@ -10,7 +10,7 @@ tags : [travel-保加利亞]
 
 ![](/images/bulgaria10c.jpg)
 
-是繼Sofia的[St. Alexander Nevski Temple Church](https://hidie.net/bulgaria3h/)後  
+是繼Sofia的[St. Alexander Nevski Temple Church](/bulgaria3h/)後  
 保加利亞最大的教堂  
 別看灰灰暗暗這樣  
 天氣好陽光普照的時候  
@@ -21,4 +21,4 @@ tags : [travel-保加利亞]
   
 \-----------------------------------------------  
   
-延伸閱讀：[保加利亞醉遊記（14D16N）](https://hidie.net/bulgaria14d16n/)
+延伸閱讀：[保加利亞醉遊記（14D16N）](/bulgaria14d16n/)

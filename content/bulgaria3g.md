@@ -11,7 +11,7 @@ tags : [flavor - 行膳積腹, travel-保加利亞]
 ![](/images/bulgaria3g1.jpg)
 
 超愛的snezhanka沙律（撒花）  
-簡單來說這是無水版的[tarator](https://hidie.net/bulgaria2f/)（笑）  
+簡單來說這是無水版的[tarator](/bulgaria2f/)（笑）  
 乳酪核桃跟青瓜的組合實在太無敵  
 非常非常好吃！一千個like（大拇指）
 
@@ -59,4 +59,4 @@ tags : [flavor - 行膳積腹, travel-保加利亞]
   
 \-----------------------------------------------  
   
-延伸閱讀：[保加利亞醉遊記（14D16N）](https://hidie.net/bulgaria14d16n/)
+延伸閱讀：[保加利亞醉遊記（14D16N）](/bulgaria14d16n/)

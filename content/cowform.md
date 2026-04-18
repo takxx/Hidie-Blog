@@ -8,7 +8,7 @@ tags : [glamorous - 保養おたく]
 
 可憐的突然肌膚敏感  
 洗面時當然要用最最最溫和的  
-除了[硫磺cleansing cream](https://hidie.net/rosettepack/)外  
+除了[硫磺cleansing cream](/rosettepack/)外  
 這隻泡泡也是不錯的選擇
 
 ![](/images/cowform.jpg)

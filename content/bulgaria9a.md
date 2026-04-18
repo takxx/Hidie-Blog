@@ -17,10 +17,10 @@ tags : [travel-保加利亞]
 
 酥香的banitsa，裡面有白芝士  
 感覺有點太油不過好吃就不要想太多  
-配之前有飲過的[MEGGLE айран](https://hidie.net/bulgaria5a/)  
+配之前有飲過的[MEGGLE айран](/bulgaria5a/)  
   
 食飽飽，有氣力執行李了～  
   
 \-----------------------------------------------  
   
-延伸閱讀：[保加利亞醉遊記（14D16N）](https://hidie.net/bulgaria14d16n/)
+延伸閱讀：[保加利亞醉遊記（14D16N）](/bulgaria14d16n/)

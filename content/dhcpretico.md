@@ -26,7 +26,7 @@ ION離子導出加上音波
 配合skin clear lotion導出  
 可以把毛孔裡的髒污吸出來  
 但不會看到有黑頭暗瘡整粒飛出啦  
-不像[hitachi](https://hidie.net/hitachinc550/)那部有棉花  
+不像[hitachi](/hitachinc550/)那部有棉花  
 所以也看不到髒污物到底有多髒  
 卻可以在洗面後看起來清新  
 用手摸摸也很爽身  

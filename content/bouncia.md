@@ -19,7 +19,7 @@ tags : [glamorous - 蛋臉以外, lifestyle - rosy rosy]
 複合花香聞落有種奢華感（撒花）  
 濃郁嘅泡沫超creamy  
 用完皮膚都算保濕但係唔黏笠  
-C/P值都幾高，不愧為[cow](https://hidie.net/cowsoapblue/)嘅出品  
+C/P值都幾高，不愧為[cow](/cowsoapblue/)嘅出品  
   
 然後，佢見啲沐浴露又差唔多完晒  
 今次再買嘅時候轉咗味，唔係薰衣草喇  

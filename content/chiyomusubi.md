@@ -6,7 +6,7 @@ images: ["/images/chiyomusubi.jpg"]
 tags : [flavor - 飲！]
 ---
 
-上到[寶山](https://hidie.net/tottori6q/)，無理由空手而回嘅... 
+上到[寶山](/tottori6q/)，無理由空手而回嘅... 
 
 ![](/images/chiyomusubi1.jpg)
 

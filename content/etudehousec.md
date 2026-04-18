@@ -21,7 +21,7 @@ C for collagen, firming
 分量爆多面膜紙其實吸不完  
 就浸了tissue再拿來敷頸  
 面膜不厚，剪裁非常適合我的面型  
-所以超貼面（但敷paper mask還是習慣加上[膠膜](https://hidie.net/daisosilicone/)on top）  
+所以超貼面（但敷paper mask還是習慣加上[膠膜](/daisosilicone/)on top）  
   
 敷15-20分鐘，按摩按摩留在面上的精華  
 不過不算容易因為精華敷過後都幾潤  

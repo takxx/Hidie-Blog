@@ -18,5 +18,5 @@ tags : [flavor - 飲！]
 
 ![](/images/bucketthestraw1.jpg)
 
-响街戴住口罩輕鬆飲秘笈：[BUCKET THE STRAW](https://hidie.net/bucketthestraw/)  
-高身罐支[ZTRAW](https://hidie.net/ztraw/)唔夠長呢...    
+响街戴住口罩輕鬆飲秘笈：[BUCKET THE STRAW](/bucketthestraw/)  
+高身罐支[ZTRAW](/ztraw/)唔夠長呢...    

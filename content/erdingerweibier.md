@@ -6,7 +6,7 @@ aliases: [ "/2014/01/erdinger-x-xdd.html" ]
 tags : [flavor - 飲！, lifestyle - 生活與生存]
 ---
 
-之前在沖繩認識了[啤酒跟腐乳](https://hidie.net/okinawa2h/)的吃法  
+之前在沖繩認識了[啤酒跟腐乳](/okinawa2h/)的吃法  
 
 ![](/images/erdingerweibier.jpg)
 

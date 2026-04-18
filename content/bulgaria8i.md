@@ -1,4 +1,4 @@
----
+f---
 title: '[保加利亞醉遊記] 遊覽篇：The Nativity Church'
 date: 2014-05-27T21:15:00.000+08:00
 draft: false
@@ -42,4 +42,4 @@ Arbanassi行程完畢
   
 \-----------------------------------------------  
   
-延伸閱讀：[保加利亞醉遊記（14D16N）](https://hidie.net/bulgaria14d16n/)
+延伸閱讀：[保加利亞醉遊記（14D16N）](/bulgaria14d16n/)

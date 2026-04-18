@@ -27,5 +27,5 @@ tags : [flavor - say cheese]
 \-----------------------------------------------  
   
 延伸閱讀：  
-[ベビースターラーメン丸 ミニ （チーズ）](https://hidie.net/babystarmini/)  
-[孔子代言 台南市文化局「至聖點心麵」](https://hidie.net/confucius/)  
+[ベビースターラーメン丸 ミニ （チーズ）](/babystarmini/)  
+[孔子代言 台南市文化局「至聖點心麵」](/confucius/)  

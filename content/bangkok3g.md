@@ -26,7 +26,7 @@ Thai Wacoal，多年來嘅至愛（心）
 
 ![](/images/bangkok3g3.jpg)
 
-香港冇嘅[Bath & Body Works](https://hidie.net/bathnbodyworkscherry/)  
+香港冇嘅[Bath & Body Works](/bathnbodyworkscherry/)  
 細細支嘅勁香消毒hand gel  
 **mad about you**隻玫瑰味超超超讚！！！
   

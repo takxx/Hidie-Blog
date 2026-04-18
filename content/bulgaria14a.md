@@ -13,7 +13,7 @@ tags : [travel-保加利亞]
 
 ![](/images/bulgaria14a1.jpg)
 
-在[free sofia tour](https://hidie.net/bulgaria3h/)的時候  
+在[free sofia tour](/bulgaria3h/)的時候  
 義工導遊介紹過這些美麗黃色的地磚  
 顏色是很美沒有錯  
 原本想整個城市都換這些磚  
@@ -54,4 +54,4 @@ tags : [travel-保加利亞]
   
 \-----------------------------------------------  
   
-延伸閱讀：[保加利亞醉遊記（14D16N）](https://hidie.net/bulgaria14d16n/)
+延伸閱讀：[保加利亞醉遊記（14D16N）](/bulgaria14d16n/)

@@ -281,7 +281,7 @@ lunch set有甜品嘅
 裡面啲嘢都仲係好靚嘅～  
   
   
-bye Brugge之後下一站去[Gent](https://hidie.net/belgium3b/)  
+bye Brugge之後下一站去[Gent](/belgium3b/)  
 都話要洗盡張火車飛咯！（握拳）  
   
 {{<belgium>}}  

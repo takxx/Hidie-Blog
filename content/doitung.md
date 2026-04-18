@@ -6,7 +6,7 @@ aliases: [ "/2014/08/coffee-doitung-classic-roast-arabica-100.html" ]
 tags : [flavor - 飲！]
 ---
 
-繼之前tak在印尼旅行買給我的[咖啡](https://hidie.net/anomalicoffee/)  
+繼之前tak在印尼旅行買給我的[咖啡](/anomalicoffee/)  
 泰國旅行也不忘再追加咖啡手信，些些些些
 
 ![](/images/doitung.jpg)

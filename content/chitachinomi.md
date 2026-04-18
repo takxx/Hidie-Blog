@@ -11,7 +11,7 @@ tags : [flavor - 行膳積腹 , flavor - 飲！, satisfaction - 黃店懲罰日]
 ![](/images/chitachinomi.jpg)
 
 「とりあえず、生で」（總之先嚟杯生啤）  
-都係基本盤[Suntory ザ・プレミアム・モルツ](https://hidie.net/suntorypremium/)啦  
+都係基本盤[Suntory ザ・プレミアム・モルツ](/suntorypremium/)啦  
 
 ![](/images/chitachinomi1.jpg)
 

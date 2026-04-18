@@ -6,7 +6,7 @@ images: ["/images/conanramune.jpg"]
 tags : [flavor - 螞蟻族]
 ---
 
-响[コナン百貨店](https://hidie.net/tottori3s/)（コナン通り嘅コナンの家米花商店街）入面行咗兩個圈  
+响[コナン百貨店](/tottori3s/)（コナン通り嘅コナンの家米花商店街）入面行咗兩個圈  
 睇到啲嘢又係想買同其實無咩啱買之間都執返件嘢走...
 
 ![](/images/conanramune.jpg)

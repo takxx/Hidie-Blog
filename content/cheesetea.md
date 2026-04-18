@@ -6,7 +6,7 @@ images: ["/images/cheesetea.jpg"]
 tags : [flavor - say cheese, flavor - 飲！, satisfaction - 黃店懲罰日]
 ---
 
-等[食包](https://hidie.net/hkerburger/)期間先飲返杯嘢濕吓喉嚨
+等[食包](/hkerburger/)期間先飲返杯嘢濕吓喉嚨
 
 ![](/images/cheesetea1.jpg)
 

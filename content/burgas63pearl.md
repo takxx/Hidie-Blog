@@ -6,7 +6,7 @@ aliases: [ "/2014/06/cheers-burgas-63-pearl.html" ]
 tags : [flavor - 飲！]
 ---
 
-在[保加利亞](https://hidie.net/bulgaria14d16n/)經常有人推薦的rakia  
+在[保加利亞](/bulgaria14d16n/)經常有人推薦的rakia  
 說是大廠中品質最好的  
 
 ![](/images/burgas63pearl.jpg)

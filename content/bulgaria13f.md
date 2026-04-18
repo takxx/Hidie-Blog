@@ -25,7 +25,7 @@ Varna是沿海城市
 ![](/images/bulgaria13f4.jpg)
 
 今晚搭乘的火車  
-這跟[之前](https://hidie.net/bulgaria4a/)Sofia去Plovdiv坐的一樣  
+這跟[之前](/bulgaria4a/)Sofia去Plovdiv坐的一樣  
 
 ![](/images/bulgaria13f5.jpg)
 
@@ -60,4 +60,4 @@ Varna是沿海城市
   
 \-----------------------------------------------  
   
-延伸閱讀：[保加利亞醉遊記（14D16N）](https://hidie.net/bulgaria14d16n/)
+延伸閱讀：[保加利亞醉遊記（14D16N）](/bulgaria14d16n/)

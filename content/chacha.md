@@ -6,7 +6,7 @@ aliases: [ "/2018/10/icecream-sweets-house-cha-cha.html" ]
 tags : [flavor - 螞蟻族]
 ---
 
-因為之前食咗個[冇綠茶味嘅綠茶雪糕](https://www.hidie.net/2018/10/icecream-sweet-monster.html?fbclid=IwAR3dsvLYarM23ribevyFCCuEVSxkhdHGR0hyUVer92RB8QQgBgqUW2ZO9Xo&m=1)  
+因為之前食咗個[冇綠茶味嘅綠茶雪糕](/2018/10/icecream-sweet-monster)  
 真係要食返杯有料到嘅中和返吓…  
 
 ![](/images/chacha.jpg)

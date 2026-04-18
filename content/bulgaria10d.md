@@ -11,7 +11,7 @@ tags : [flavor - 行膳積腹, travel-保加利亞]
 
 ![](/images/bulgaria10d1.jpg)
 
-之前在Sofia [pub crawl](https://hidie.net/bulgaria5f/)喝過  
+之前在Sofia [pub crawl](/bulgaria5f/)喝過  
 像鐵鏽水一樣的保加利亞啤酒Kamenitza  
 加了檸檬味就較為平易近人  
 有一定的抗鏽作用吧（誤）  
@@ -43,4 +43,4 @@ pizza，面料是矮瓜（茄子）
   
 \-----------------------------------------------  
   
-延伸閱讀：[保加利亞醉遊記（14D16N）](https://hidie.net/bulgaria14d16n/)
+延伸閱讀：[保加利亞醉遊記（14D16N）](/bulgaria14d16n/)
