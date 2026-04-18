@@ -6,7 +6,7 @@ aliases: [ "/2017/07/blog-post_12.html" ]
 tags : [flavor - 揀飲宅食]
 ---
 
-將宮崎嘅[炭火烤地雞](https://hidie.net/kojkmi3f/)抽真空拎返屋企～  
+將宮崎嘅[炭火烤地雞](/kojkmi3f/)抽真空拎返屋企～  
   
 
 ![](/images/miyazakichicken.jpg)
@@ -21,4 +21,4 @@ tags : [flavor - 揀飲宅食]
   
 \-----------------------------------------------  
   
-延伸閱讀：[Happy Days！鹿児島宮崎！ (10D9N)](https://hidie.net/kojkmi10d9n/)
+延伸閱讀：[Happy Days！鹿児島宮崎！ (10D9N)](/kojkmi10d9n/)

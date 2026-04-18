@@ -12,7 +12,7 @@ tags : [flavor - 飲！]
 ![](/images/ochawari.jpg)
 
 **TaKaRa 宝焼酎の濃いお茶割り**  
-即係上次响[横浜](https://hidie.net/kanagawa2i/)飲嘅濃茶版    
+即係上次响[横浜](/kanagawa2i/)飲嘅濃茶版    
 零糖加上靜岡產濃香綠茶  
 濃郁而純粹，加上又有焼酎令味道更提香  
   

@@ -12,7 +12,7 @@ tags : [flavor - 行膳積腹, travel-日本-沖繩]
 ![](/images/okinawa3g.jpg)
 
 回国際通吃平價燒肉  
-跟[守礼](https://hidie.net/okinawa1a/)不同，不是備長炭爐是gas爐  
+跟[守礼](/okinawa1a/)不同，不是備長炭爐是gas爐  
 
 ![](/images/okinawa3g1.jpg)
 
@@ -25,4 +25,4 @@ tags : [flavor - 行膳積腹, travel-日本-沖繩]
   
 \-----------------------------------------------  
   
-延伸閱讀：[琉球戀吃活樂遊 (6D5N)](https://hidie.net/okinawa6d5n/)
+延伸閱讀：[琉球戀吃活樂遊 (6D5N)](/okinawa6d5n/)

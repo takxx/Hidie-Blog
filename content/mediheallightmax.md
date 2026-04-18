@@ -6,7 +6,7 @@ aliases: [ "/2014/12/masque-mediheal-ipi-lightmax-hydro-nude.html" ]
 tags : [glamorous - 保養おたく, glamorous - 面膜魂]
 ---
 
-本身已經是廿分喜愛的[美白mask](https://hidie.net/medihealipi/)  
+本身已經是廿分喜愛的[美白mask](/medihealipi/)  
 升級版本居然是hydrogel  
 不入手會對不住自己撞牆而死（！）  
 

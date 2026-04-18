@@ -12,7 +12,7 @@ tags : [travel-日本-奈良大阪, flavor - 螞蟻族]
 ![](/images/osaka2h1.jpg)
 
 ... 順便食嘢  
-係就係擒日食過佢嘅[cheese tart刨冰](https://hidie.net/osaka1f/)  
+係就係擒日食過佢嘅[cheese tart刨冰](/osaka1f/)  
 咁都想試吓個元祖cheese tart嘛  
 再再再想睇吓大件裝同mini版嘅分別  
 叫晒嚟試囉唯有，去旅行就係要呢份滿足呀

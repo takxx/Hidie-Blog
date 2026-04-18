@@ -6,7 +6,7 @@ images: ["/images/mymeatrunbuddy.jpg"]
 tags : [flavor - 行膳積腹, satisfaction - 黃店懲罰日]
 ---
 
-經過擒晚個[聖誕巨餐斧頭扒](https://hidie.net/sowergift/)嘅洗禮...  
+經過擒晚個[聖誕巨餐斧頭扒](/sowergift/)嘅洗禮...  
 
 ![](/images/mymeatrunbuddy1.jpg)
 

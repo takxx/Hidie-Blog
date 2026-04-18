@@ -13,4 +13,4 @@ tags : [collections - みんなのたあ坊]
 不過呢支96'出品嘅牙刷嘛  
 係靚嘅，入電芯用㗎囉  
   
-但係我一直用緊[Oral B](https://hidie.net/oralbpulsonic/)無理由轉啫  
+但係我一直用緊[Oral B](/oralbpulsonic/)無理由轉啫  

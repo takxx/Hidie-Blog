@@ -19,8 +19,8 @@ tags : [flavor - 行膳積腹, flavor - 飲！]
 ![](/images/mokumokuyakiton2.jpg)
 
 食串燒飲啤酒就最爽～～～  
-呢度除咗有[Suntory ザ・プレミアム・モルツ](https://hidie.net/suntorypremium/)  
-仲有甜甜唔會苦嘅[Suntory ザ・プレミアム・モルツ〈黒〉](https://hidie.net/suntoryblack/)黑啤  
+呢度除咗有[Suntory ザ・プレミアム・モルツ](/suntorypremium/)  
+仲有甜甜唔會苦嘅[Suntory ザ・プレミアム・モルツ〈黒〉](/suntoryblack/)黑啤  
 日本啤最專注佢層綿滑細密嘅泡  
 所以好多日本啤機都係會有一條出酒一條出泡咁
 

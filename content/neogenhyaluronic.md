@@ -31,11 +31,11 @@ tags : [glamorous - 保養おたく, glamorous - 面膜魂]
   
 當然，在這種救命時刻  
 直接敷是不會滿足一次KO四角肌的我  
-敷的時候面層加上了[daiso膠膜](https://hidie.net/daisosilicone/)  
-再於上面舖了[熱毛巾mask](https://hidie.net/francfrancsteam/)  
+敷的時候面層加上了[daiso膠膜](/daisosilicone/)  
+再於上面舖了[熱毛巾mask](/francfrancsteam/)  
 密集式令皮膚超吸收外  
 最後還在去掉角膜拿掉面膜前  
-用上加紅外線方式的[導入機](https://hidie.net/dhcpretico/)  
+用上加紅外線方式的[導入機](/dhcpretico/)  
 務求使精華一滴不漏地衝入肌膚內  
 是有點繁複，可為了發揮最大效果嘛  
 誰叫我之前懶了點令皮膚乾燥  

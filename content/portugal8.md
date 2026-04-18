@@ -10,7 +10,7 @@ tags : [travel-葡萄牙]
 
 ![](/images/portugal8a1.jpg)
 
-[Douro](https://hidie.net/portugal8a/)  
+[Douro](/portugal8a/)  
 Estação de São Bento → **Pinhão**  
 一落車就吸一大大大啖空氣  
 哇～～～～～ 啲空氣清！新！到！癲！  
@@ -22,7 +22,7 @@ Estação de São Bento → **Pinhão**
 
 ![](/images/portugal8b1.jpg)
 
-[Douro遊覽船](https://hidie.net/portugal8b/)，兜一個圈咁嘅  
+[Douro遊覽船](/portugal8b/)，兜一個圈咁嘅  
 响船度遇到嚟呢度遊覽嘅當地人  
 好好客呀佢哋  
 分咗啲佢哋自己釀嘅白酒俾我哋一齊飲  
@@ -36,11 +36,11 @@ cheers～～～！
 ![](/images/portugal8c2.jpg)
 
 遊完梗係會肚餓啦  
-食晏喇 @[Veladouro](https://hidie.net/portugal8c/)  
+食晏喇 @[Veladouro](/portugal8c/)  
 
 ![](/images/portugal8d2.jpg)
 
-[Quinta do Bomfim](https://hidie.net/portugal8d/)  
+[Quinta do Bomfim](/portugal8d/)  
 食飽飽，當然要做嘅第二件事  
 嗱～ 呢樣係今次Pinhão遊最緊要嘅事  
 去農園 x 酒莊！！！  
@@ -62,7 +62,7 @@ Pinhão → **Estação de São Bento**
 [![](/images/portugal8e.jpg)
 
 舟車勞頓完，又係食嘢嘅時間喇  
-dinner @[Restaurante Churrasqueira Brasil](https://hidie.net/portugal8e/)  
+dinner @[Restaurante Churrasqueira Brasil](/portugal8e/)  
   
   
 咦？有一日喇...  

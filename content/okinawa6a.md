@@ -14,7 +14,7 @@ tags : [flavor - 行膳積腹, travel-日本-沖繩]
 
   
 
-jelly是[上野風月堂那個福袋](https://hidie.net/okinawabag/)的  
+jelly是[上野風月堂那個福袋](/okinawabag/)的  
 比較重跟要雪，不能帶回家就現吃
 
 ![](/images/okinawa6a1.jpg)
@@ -59,4 +59,4 @@ jelly是[上野風月堂那個福袋](https://hidie.net/okinawabag/)的
   
 \-----------------------------------------------  
   
-延伸閱讀：[琉球戀吃活樂遊 (6D5N)](https://hidie.net/okinawa6d5n/)
+延伸閱讀：[琉球戀吃活樂遊 (6D5N)](/okinawa6d5n/)

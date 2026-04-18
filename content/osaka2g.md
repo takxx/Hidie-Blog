@@ -6,7 +6,7 @@ images: ["/images/osaka2g.jpg"]
 tags : [travel-日本-奈良大阪, flavor - 行膳積腹]
 ---
 
-除咗[たこ焼き](https://hidie.net/osaka2f/)响大阪梗係唔可以唔食お好み焼き  
+除咗[たこ焼き](/osaka2f/)响大阪梗係唔可以唔食お好み焼き  
 
 ![](/images/osaka2g1.jpg)
 

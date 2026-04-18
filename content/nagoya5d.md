@@ -63,8 +63,8 @@ byebye 神社
 ![](/images/nagoya5d.jpg)
 
 就知道我已經到了市役所駅了    
-到市役所，當然是為了去[名古屋城](https://hidie.net/nagoya5f/)啦啦啦！  
+到市役所，當然是為了去[名古屋城](/nagoya5f/)啦啦啦！  
   
 \-----------------------------------------------  
   
-延伸閱讀：[GO! GO! NaGoYa～（8D7N）](https://hidie.net/nagoya8d7n/)
+延伸閱讀：[GO! GO! NaGoYa～（8D7N）](/nagoya8d7n/)

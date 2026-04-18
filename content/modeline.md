@@ -37,4 +37,4 @@ made in japan的80針黑絲
 不過也夠開心呢～  
 （女人）  
   
-延伸閱讀：[Dr. Scholl Medi QttO](https://hidie.net/drschollqtto/)
+延伸閱讀：[Dr. Scholl Medi QttO](/drschollqtto/)

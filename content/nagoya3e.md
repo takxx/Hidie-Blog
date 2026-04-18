@@ -6,7 +6,7 @@ aliases: [ "/2015/10/go-go-nagoya-day3_3.html" ]
 tags : [flavor - 行膳積腹, travel-日本-名古屋]
 ---
 
-話說下午行完[千里馬薬局](https://hidie.net/nagoya3d/)  
+話說下午行完[千里馬薬局](/nagoya3d/)  
 再兜轉ビックカメラ後  
 又到了食晚飯的時候  
 （就算不餓也有點累就是）
@@ -70,4 +70,4 @@ tags : [flavor - 行膳積腹, travel-日本-名古屋]
   
 \-----------------------------------------------  
   
-延伸閱讀：[GO! GO! NaGoYa～（8D7N）](https://hidie.net/nagoya8d7n/)
+延伸閱讀：[GO! GO! NaGoYa～（8D7N）](/nagoya8d7n/)

@@ -14,7 +14,7 @@ tags : [travel-葡萄牙]
 
 ![](/images/portugal6e1.jpg)
 
-同頭先去嘅舊多幾世紀嘅[城堡](https://hidie.net/portugal6d/)唔同  
+同頭先去嘅舊多幾世紀嘅[城堡](/portugal6d/)唔同  
 呢個殿裡面都係靚嘅！  
 
 ![](/images/portugal6e2.jpg)

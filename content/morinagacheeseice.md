@@ -6,7 +6,7 @@ images: ["/images/morinagacheeseice.jpg"]
 tags : [flavor - say cheese]
 ---
 
-之前食過同系列嘅[cheese stick](https://hidie.net/shikoku2j/)覺得好好味  
+之前食過同系列嘅[cheese stick](/shikoku2j/)覺得好好味  
 晌便利店又見到佢嘅蹤影無理由唔試吓嘅...  
 
 ![](/images/morinagacheeseice.jpg)

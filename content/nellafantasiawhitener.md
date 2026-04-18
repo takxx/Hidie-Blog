@@ -11,7 +11,7 @@ tags : [glamorous - 蛋臉以外]
 ![](/images/nellafantasiawhitener.jpg)
 
 （哈哈～ 見到色白cream又入手就是）  
-這品牌之前買過[黑頭massage](https://hidie.net/nellafantasia/)不錯用的說  
+這品牌之前買過[黑頭massage](/nellafantasia/)不錯用的說  
 而這枝色白cream也沒有令我失望  
 吸收很快，有輕度保濕功效  
 效果也能持續半天  

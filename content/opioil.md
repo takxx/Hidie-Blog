@@ -32,4 +32,4 @@ tags : [glamorous - 蛋臉以外]
   
 
 \* 除了每天用此油軟化死皮  
-也會每星期一次用[sparitual cuti-clean](https://hidie.net/sparitual/)推走喔
+也會每星期一次用[sparitual cuti-clean](/sparitual/)推走喔

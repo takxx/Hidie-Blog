@@ -6,7 +6,7 @@ images: ["/images/pepero.jpg"]
 tags : [flavor - 小食部]
 ---
 
-雖然之前食過佢嘅[芝士味](https://hidie.net/lottepeperonudecheese/)好很難食...  
+雖然之前食過佢嘅[芝士味](/lottepeperonudecheese/)好很難食...  
 
 ![](/images/pepero.jpg)
 

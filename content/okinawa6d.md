@@ -38,11 +38,11 @@ tags : [flavor - 行膳積腹, travel-日本-沖繩]
 ![](/images/okinawa6d3.jpg)
 
 **太もずく天ぷら**  
-其實「早」在[琉球食king Eilly](https://hidie.net/okinawa2h/)時  
+其實「早」在[琉球食king Eilly](/okinawa2h/)時  
 看到隔離檯吃這個已經想試  
 果然不錯吃！  
 炸得脆脆的天ぷら包住軟軟的水雲  
-跟在[守礼](https://hidie.net/okinawa1a/)時吃的醋醃版本不同，但兩款都好吃  
+跟在[守礼](/okinawa1a/)時吃的醋醃版本不同，但兩款都好吃  
 
 ![](/images/okinawa6d4.jpg)
 
@@ -52,9 +52,9 @@ tags : [flavor - 行膳積腹, travel-日本-沖繩]
 不多說了（但我也有吃光）  
   
 整體來說，這餐廳是在沖縄最劣食的一餐  
-但以對比其他機場，已經比[成田](https://hidie.net/tokyo6c/)的好吃一百倍  
+但以對比其他機場，已經比[成田](/tokyo6c/)的好吃一百倍  
 旅行，自己喜歡就好，其實也不需要每樣都拿來比較啦～  
   
 \-----------------------------------------------  
   
-延伸閱讀：[琉球戀吃活樂遊 (6D5N)](https://hidie.net/okinawa6d5n/)
+延伸閱讀：[琉球戀吃活樂遊 (6D5N)](/okinawa6d5n/)

@@ -16,7 +16,7 @@ tags : [travel-葡萄牙]
   
 
 點知較錯咗個曝光  
-影出來好似[落暴雪](https://hidie.net/bulgaria5c/)咁，哈哈哈
+影出來好似[落暴雪](/bulgaria5c/)咁，哈哈哈
 
   
 

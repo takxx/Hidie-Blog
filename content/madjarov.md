@@ -24,7 +24,7 @@ tags : [flavor - 揀飲宅食]
 也能可以懶懶的扮「膠紙」食法：  
 cheese x honey x walnut  
 cheese x fig  
-甚至[cheese x caramel apple](https://hidie.net/bulgaria11d/)  
+甚至[cheese x caramel apple](/bulgaria11d/)  
 樣樣都好配；怎襯都好味～  
   
 果然是用生命帶回來的食物特別好吃！

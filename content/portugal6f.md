@@ -22,7 +22,7 @@ Museu Arqueológico da Sociedade Martins Sarmento
 ![](/images/portugal6f2.jpg)
 
 落到嚟Guimarães遊客中心推薦過嘅市集  
-不過連[歐洲最最最大嘅市集](https://hidie.net/portugal5b/)都覺得唔啱買  
+不過連[歐洲最最最大嘅市集](/portugal5b/)都覺得唔啱買  
 呢個市集更雜架攤咁更加唔啱睇  
 算啦咁，唔行就去食吓嘢啦～  
   

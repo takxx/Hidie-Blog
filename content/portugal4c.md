@@ -6,7 +6,7 @@ aliases: [ "/2017/12/day4igreja-dos-clerigos.html" ]
 tags : [travel-葡萄牙]
 ---
 
-同[Torre dos Clérigos](https://hidie.net/portugal4b/) (鐘樓)相連嘅  
+同[Torre dos Clérigos](/portugal4b/) (鐘樓)相連嘅  
 係再耐啲歷史嘅**Igreja dos Clérigos** (教堂)  
 
 ![](/images/portugal4c.jpg)

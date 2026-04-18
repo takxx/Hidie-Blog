@@ -23,7 +23,7 @@ tags : [glamorous - 保養おたく, glamorous - 面膜魂]
 用完後清洗乾淨風乾  
 之後又可以再用  
   
-另，不幸地敷一些[會掉下來的面膜](https://hidie.net/drjougold/)  
+另，不幸地敷一些[會掉下來的面膜](/drjougold/)  
 可以用這塊膠先蓋住  
 之後再加小顏面罩的東西  
 就可以固定又不會弄髒  

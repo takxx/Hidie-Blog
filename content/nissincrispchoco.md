@@ -17,4 +17,4 @@ tags : [flavor - say cheese]
   
 \-----------------------------------------------  
   
-延伸閱讀：[\[chocolate\] 日清 クリスプチョコ ミルクチョコ（crisp choco）](https://hidie.net/crispchoco/)
+延伸閱讀：[\[chocolate\] 日清 クリスプチョコ ミルクチョコ（crisp choco）](/crispchoco/)

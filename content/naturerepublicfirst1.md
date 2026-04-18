@@ -10,7 +10,7 @@ tags : [glamorous - 保養おたく, glamorous - 面膜魂]
 
 ![](/images/naturerepublicfirst1.jpg)
 
-新包裝的the first essence的濃縮精華面膜（[舊款here](https://hidie.net/naturerepublicfirst/)）  
+新包裝的the first essence的濃縮精華面膜（[舊款here](/naturerepublicfirst/)）  
 打開包裝並沒有酸酸的酵母味\*  
 反而是一陣芳香舒爽的氣味  
 面膜剪裁有點不適合我  

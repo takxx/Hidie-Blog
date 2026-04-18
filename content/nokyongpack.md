@@ -22,7 +22,7 @@ tags : [glamorous - 保養おたく, glamorous - 面膜魂]
 不是洗面後直接敷上  
 是在使用toner同essence後才敷  
 沒有錢買「秘帖」  
-我用[潤燥](https://hidie.net/sulwhasooessence/)跟[滋陰水](https://hidie.net/sulwhasootoner/)  
+我用[潤燥](/sulwhasooessence/)跟[滋陰水](/sulwhasootoner/)  
 相信效果應該都差不多  
 然後分2-3次各擠出500₩ size分量  
 塗於整塊面上  

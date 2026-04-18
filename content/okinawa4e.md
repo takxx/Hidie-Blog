@@ -6,7 +6,7 @@ aliases: [ "/2013/11/day4_4761.html" ]
 tags : [flavor - 行膳積腹, travel-日本-沖繩]
 ---
 
-有甚麼比[琉球食king Eilly](https://hidie.net/okinawa2h/)的200円一杯オリオン生サザンスター更吸引？  
+有甚麼比[琉球食king Eilly](/okinawa2h/)的200円一杯オリオン生サザンスター更吸引？  
 
 ![](/images/okinawa4e.jpg)
 
@@ -32,7 +32,7 @@ tags : [flavor - 行膳積腹, travel-日本-沖繩]
 ![](/images/okinawa4e3.jpg)
 
 **グルクン唐揚げ**  
-沖縄獨有的魚，上次在[花笠食堂](https://hidie.net/okinawa2g/)吃煮的  
+沖縄獨有的魚，上次在[花笠食堂](/okinawa2g/)吃煮的  
 這次終於試到炸的，香脆帶鹹的炸魚  
 裡面的肉質鮮甜，骨頭也是脆脆的  
 

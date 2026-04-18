@@ -22,7 +22,7 @@ tags : [flavor - 揀飲宅食]
 沖紅茶玫瑰花茶嫌悶又會加一點  
 喝抹茶有時也會放少少（如果茶味不好才這樣）  
   
-整[smoothie](https://hidie.net/berrysmoothie/)調味等一定是蜂蜜不是白糖  
-不過這和[大根飴](https://hidie.net/daikonhoney/)、[homemade masque](https://hidie.net/winehoney/)一樣  
+整[smoothie](/berrysmoothie/)調味等一定是蜂蜜不是白糖  
+不過這和[大根飴](/daikonhoney/)、[homemade masque](/winehoney/)一樣  
 一概不會用這樣濃香的蜜糖  
 會用較便宜貨色 :p

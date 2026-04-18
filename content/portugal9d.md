@@ -13,7 +13,7 @@ tags : [flavor - 行膳積腹, flavor - 飲！, travel-葡萄牙]
 ![](/images/portugal9d1.jpg)
 
 食海鮮，就揀枝白酒  
-係之前都出現過嘅[Planalto Reserva 2014](https://hidie.net/portugal6h/)  
+係之前都出現過嘅[Planalto Reserva 2014](/portugal6h/)  
 
 ![](/images/portugal9d2.jpg)
 

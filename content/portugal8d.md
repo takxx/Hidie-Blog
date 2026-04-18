@@ -28,7 +28,7 @@ Symington家族嘅Quinta do Bomfim
 
 再去到聞到都醉醉地嘅存酒庫  
 啲酒發酵中，陣味真係夠晒撲鼻  
-比起之前响Gaia去過嘅[TAYLOR'S](https://hidie.net/portugal3d/)光猛好多  
+比起之前响Gaia去過嘅[TAYLOR'S](/portugal3d/)光猛好多  
 
 ![](/images/portugal8d4.jpg)
 

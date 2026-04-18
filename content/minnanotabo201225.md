@@ -7,7 +7,7 @@ tags : [collections - みんなのたあ坊]
 ---
 
 又到聖誕，又到聖誕～  
-除咗又要响籠底摷返聖誕波波[1](https://hidie.net/minnanotabo131222/)[2](https://hidie.net/minnanotabo141225/)[3](https://hidie.net/minnanotabo151225/)出嚟掛...
+除咗又要响籠底摷返聖誕波波[1](/minnanotabo131222/)[2](/minnanotabo141225/)[3](/minnanotabo151225/)出嚟掛...
 
 ![](/images/minnanotabo201225.jpg)
 

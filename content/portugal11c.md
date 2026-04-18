@@ -6,7 +6,7 @@ images: ["/images/portugal11c.jpg"]
 tags : [flavor-螞蟻族, flavor - 飲！, travel-葡萄牙]
 ---
 
-行咗咁耐[Palácio Nacional de Sintra](https://hidie.net/portugal11b/)之後  
+行咗咁耐[Palácio Nacional de Sintra](/portugal11b/)之後  
 
 ![](/images/portugal11c1.jpg)
 

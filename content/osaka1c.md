@@ -16,7 +16,7 @@ tags : [flavor - 行膳積腹, travel-日本-奈良大阪]
 ![](/images/osaka1c2.jpg)
 
 揀好就即劏～  
-（接觸海膽係用手唔係[用腳](https://hidie.net/cebu/)㗎 XDDD）
+（接觸海膽係用手唔係[用腳](/cebu/)㗎 XDDD）
 
 ![](/images/osaka1c.jpg)
 

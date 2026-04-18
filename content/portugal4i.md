@@ -39,7 +39,7 @@ metro - Casa da Música
 
 晌metro嘅**Jardim do Morro**落車  
 望返Porto嗰邊，今鑊冇霧啦終於  
-（嗱嗱嗱～ [擒日朝係大霧到咁㗎](https://hidie.net/portugal3b/)！）  
+（嗱嗱嗱～ [擒日朝係大霧到咁㗎](/portugal3b/)！）  
 
 ![](/images/portugal4i.jpg)
 
@@ -51,7 +51,7 @@ metro - Casa da Música
 
 ![](/images/portugal4i8.jpg)
 
-喔！仲見到架呃錢之作[Escada Dos Guindais](https://hidie.net/portugal3k/)行駛中  
+喔！仲見到架呃錢之作[Escada Dos Guindais](/portugal3k/)行駛中  
 
 ![](/images/portugal4i9.jpg)
 

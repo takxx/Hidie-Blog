@@ -12,7 +12,7 @@ tags : [travel-日本-奈良大阪, flavor - 行膳積腹]
 
 ![](/images/osaka2a1.jpg)
 
-不過呢度唔係好似[築地](https://hidie.net/tokyo3e/)  
+不過呢度唔係好似[築地](/tokyo3e/)  
 要凌晨五點就要覓食  
 九點幾左右先陸續開啲開啲  
 但係早啦就唔代表冇嘢食  

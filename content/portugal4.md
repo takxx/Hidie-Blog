@@ -17,13 +17,13 @@ tags : [travel-葡萄牙]
 ![](/images/portugal4a.jpg)
 
 因為要食早餐  
-又係[Muralhas do Olival](https://hidie.net/portugal4a/)呀  
+又係[Muralhas do Olival](/portugal4a/)呀  
 一來近民宿二來真係好好味又多款揀嘛  
 ... 葡式豬扒包，GET！  
 
 ![](/images/portugal4b1.jpg)
 
-食完行出嚟就已經係[Torre dos Clérigos](https://hidie.net/portugal4b/)喇  
+食完行出嚟就已經係[Torre dos Clérigos](/portugal4b/)喇  
 
 ![](/images/portugal4b5.jpg)
 
@@ -32,12 +32,12 @@ tags : [travel-葡萄牙]
 
 ![](/images/portugal4c1.jpg)
 
-而[Igreja dos Clérigos](https://hidie.net/portugal4c/)裡面就金光閃閃  
+而[Igreja dos Clérigos](/portugal4c/)裡面就金光閃閃  
 教堂嘛，梗係有錢起得靚啦！  
 
 ![](/images/portugal4e1.jpg)
 
-然後再去參觀[Livraria Lello](https://hidie.net/portugal4e/)
+然後再去參觀[Livraria Lello](/portugal4e/)
 
 ![](/images/portugal4e8.jpg)
 
@@ -46,26 +46,26 @@ JK Rowling都鍾意嚟呢度蒲㗎
 
 ![](/images/portugal4f6.jpg)
 
-然後行吓行吓就去到[Praça Mouzinho de Albuquerque](https://hidie.net/portugal4f/)  
+然後行吓行吓就去到[Praça Mouzinho de Albuquerque](/portugal4f/)  
 
 ![](/images/portugal4f.jpg)
 
-入埋去[Casa da Música](https://hidie.net/portugal4g/)兜個round  
+入埋去[Casa da Música](/portugal4g/)兜個round  
 歌就聽唔到，只係聽到個肚嘅鼓聲飛揚  
 
 ![](/images/portugal4h3.jpg)
 
-lunch @[Restaurante Snoopy](https://hidie.net/portugal4h/)  
+lunch @[Restaurante Snoopy](/portugal4h/)  
 （係㗎喇食飯梗係要配酒啦）  
 
 ![](/images/portugal4i1.jpg)
 
-食飽 + 行得攰攰哋 + 熱 = 搭[metro](https://hidie.net/portugal4i/)！  
+食飽 + 行得攰攰哋 + 熱 = 搭[metro](/portugal4i/)！  
 metro：Casa da Música → Jardim do Morro  
 
 ![](/images/portugal4j.jpg)
 
-落車又行吓 @[Praça da Liberdade](https://hidie.net/portugal4j/)  
+落車又行吓 @[Praça da Liberdade](/portugal4j/)  
 
 ![](/images/portugal4j2.jpg)
 
@@ -74,7 +74,7 @@ metro：Casa da Música → Jardim do Morro
 
 ![](/images/portugal4k.jpg)
 
-然後去世界十大最靚嘅café之一嘅[Majestic Café](https://hidie.net/portugal4k/)...  
+然後去世界十大最靚嘅café之一嘅[Majestic Café](/portugal4k/)...  
 （by ucityguides.com）  
 
 ![](/images/portugal4k6.jpg)
@@ -87,7 +87,7 @@ metro：Casa da Música → Jardim do Morro
 ![](/images/portugal4l2.jpg)
 
 就咁到黃昏... 食晚飯嘅時間喇  
-呢間叫[Antunes](https://hidie.net/portugal4l/)，啲嘢好好好好食  
+呢間叫[Antunes](/portugal4l/)，啲嘢好好好好食  
 但係今晚無呢度嘅名物羊羊羊  
 所以無計啦都係要嚟多一次食㗎喇，啦啦啦  
   

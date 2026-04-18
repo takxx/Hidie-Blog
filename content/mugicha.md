@@ -11,12 +11,12 @@ tags : [flavor - 飲！]
 ![](/images/mugicha1.jpg)
 
 **しんじょう君の麦茶**  
-响須崎真係唔會唔入手[しんじょう君](https://hidie.net/shikoku7m/)嘅嘢
+响須崎真係唔會唔入手[しんじょう君](/shikoku7m/)嘅嘢
 
 ![](/images/mugicha2.jpg)
 
 麥茶咁嘅味道，無咩特別  
-（去高知要特別就試吓[土佐の黒文字茶](https://hidie.net/kuromoji/)啊！）
+（去高知要特別就試吓[土佐の黒文字茶](/kuromoji/)啊！）
 
 ![](/images/mugicha3.jpg)
 

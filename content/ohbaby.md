@@ -6,7 +6,7 @@ aliases: [ "/2014/06/body-house-of-rose-oh-baby-x-la-rose.html" ]
 tags : [glamorous - 蛋臉以外, lifestyle - rosy rosy]
 ---
 
-雖然通常都會用[韓式去死皮布](https://hidie.net/daisoscrubtower/)來除角質  
+雖然通常都會用[韓式去死皮布](/daisoscrubtower/)來除角質  
 不過有時候也要用寵愛自己的消耗品  
 
 ![](/images/ohbaby.jpg)

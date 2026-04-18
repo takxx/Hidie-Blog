@@ -7,7 +7,7 @@ tags : [travel-葡萄牙]
 ---
 
 繼續Porto周圍兜...  
-除咗嗰粿曝錯光嘅[A Magnólia do Ardina](https://hidie.net/portugal2d/)之外  
+除咗嗰粿曝錯光嘅[A Magnólia do Ardina](/portugal2d/)之外  
 
 ![](/images/portugal2e.jpg)
 

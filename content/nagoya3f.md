@@ -25,8 +25,8 @@ tags : [flavor - 飲！, travel-日本-名古屋, flavor - 螞蟻族]
 
 舒舒服服浸個浴  
 放鬆後來一盒**明治 おいしい牛乳**就剛好  
-不過明治牛奶還是[玻璃樽裝無調整](https://hidie.net/tokyo5a/)那款濃滑些～  
+不過明治牛奶還是[玻璃樽裝無調整](/tokyo5a/)那款濃滑些～  
   
 \-----------------------------------------------  
   
-延伸閱讀：[GO! GO! NaGoYa～（8D7N）](https://hidie.net/nagoya8d7n/)
+延伸閱讀：[GO! GO! NaGoYa～（8D7N）](/nagoya8d7n/)

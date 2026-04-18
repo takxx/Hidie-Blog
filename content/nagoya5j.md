@@ -6,7 +6,7 @@ aliases: [ "/2015/10/go-go-nagoya-x-21.html" ]
 tags : [travel-日本-名古屋]
 ---
 
-食飽[牛](https://hidie.net/nagoya5i/)就逛一下吧～  
+食飽[牛](/nagoya5i/)就逛一下吧～  
 
 ![](/images/nagoya5j.jpg)
 
@@ -38,4 +38,4 @@ but，我未見過真正外星人做的飛碟
   
 \-----------------------------------------------  
   
-延伸閱讀：[GO! GO! NaGoYa～（8D7N）](https://hidie.net/nagoya8d7n/)
+延伸閱讀：[GO! GO! NaGoYa～（8D7N）](/nagoya8d7n/)

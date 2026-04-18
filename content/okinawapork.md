@@ -6,7 +6,7 @@ aliases: [ "/2013/11/blog-post_30.html" ]
 tags : [flavor - 揀飲宅食]
 ---
 
-在沖縄買的東西，除了怕[蔬菜片](https://hidie.net/okinawadriedveg/)會壓碎之外  
+在沖縄買的東西，除了怕[蔬菜片](/okinawadriedveg/)會壓碎之外  
 就是怕不能把這些豬急凍地帶回家  
 
 ![](/images/okinawapork.jpg)

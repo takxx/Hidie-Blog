@@ -11,7 +11,7 @@ tags : [flavor - 小食部]
 ![](/images/mikyannori.jpg)
 
 **みきゃんのり天塩味**  
-雖然有呢隻[みきゃん (MICAN)](https://hidie.net/shikoku6b/)  
+雖然有呢隻[みきゃん (MICAN)](/shikoku6b/)  
 不過包嘢係伯方の塩即係鹽味唔係蜜柑味    
 加上加咗啲啲ピリッ同唐辛子  
 所以有微微辣味食得好過癮  

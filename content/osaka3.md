@@ -6,7 +6,7 @@ aliases: [ "/2017/09/day3.html" ]
 tags : [travel-日本-奈良大阪]
 ---
 
-為咗隻牛買咗個[遊客版1-day pass](https://hidie.net/osaka3a/)  
+為咗隻牛買咗個[遊客版1-day pass](/osaka3a/)  
 既然買咗pass咪去多個地方囉  
   
 地下鉄：日本橋 → **動物園前**  
@@ -17,7 +17,7 @@ tags : [travel-日本-奈良大阪]
 
 ![](/images/osaka3b.jpg)
 
-@[八重勝](https://hidie.net/osaka3b/)  
+@[八重勝](/osaka3b/)  
 啱啱好時間去到就開門  
 隊都唔使排就入到去有位坐得食  
 樣樣都好吸引  
@@ -32,20 +32,20 @@ tags : [travel-日本-奈良大阪]
 
 ![](/images/osaka3c1.jpg)
 
-（[通天閣](https://hidie.net/osaka3c/)）  
+（[通天閣](/osaka3c/)）  
 哎呀呀落雨呀  
 就算上去都無景好睇㗎啦  
 
 ![](/images/osaka3d.jpg)
 
 返轉頭走啦去飲杯**ミックスジュース**  
-當然係元祖店嘅[千成屋珈琲](https://hidie.net/osaka3d/)  
+當然係元祖店嘅[千成屋珈琲](/osaka3d/)  
 買外賣唔响裡面用玻璃杯飲喇  
 响隔離陽春啲坐好飲完繼續移動  
 
 ![](/images/osaka3e.jpg)
 
-（[阿倍野HARUKAS](https://hidie.net/osaka3e/)）  
+（[阿倍野HARUKAS](/osaka3e/)）  
 大雨又大霧，莫講話通天閣啦  
 就算上到**HARUKAS 300**都冇嘢好睇㗎啦  
 離開呢區喇～  
@@ -60,7 +60,7 @@ tags : [travel-日本-奈良大阪]
 
 ![](/images/osaka3f.jpg)
 
-[阪神名物 いか焼き](https://hidie.net/osaka3f/)  
+[阪神名物 いか焼き](/osaka3f/)  
 嚟梅田一定要嚟**阪神百貨店**食  
 排少少隊但係條隊去得好快  
 熱到爆呀舊嘢  
@@ -69,7 +69,7 @@ tags : [travel-日本-奈良大阪]
 
 ![](/images/osaka3g.jpg)
 
-**ひつまぶし** @[鰻萬](https://hidie.net/osaka3g/)  
+**ひつまぶし** @[鰻萬](/osaka3g/)  
 响由GU到食いか焼き嘅阪神百貨店期間  
 係要經過阪急百貨店  
 兜過嘅時間見到水牌有鰻魚飯食  
@@ -80,7 +80,7 @@ tags : [travel-日本-奈良大阪]
 ![](/images/osaka3h0.jpg)
 
 **ぐでらてアートほうじ茶**  
-@[ぐでたまかふぇ](https://hidie.net/osaka3h/)  
+@[ぐでたまかふぇ](/osaka3h/)  
 話說原本諗住食完頭先個飯後  
 唔到晚餐時間都唔！食！嘢！  
 不過做人呢家嘢真係話唔埋嘅  
@@ -95,7 +95,7 @@ tags : [travel-日本-奈良大阪]
 因為今晚卜咗食**神戸牛焼きコース**（撒花）  
 要食又平同一定好食嘅牛  
 直營牧場就啱啱好  
-呢間叫[神戸あぶり牧場](https://hidie.net/osaka3j/)  
+呢間叫[神戸あぶり牧場](/osaka3j/)  
 就係專登為咗食呢隻牛嚟梅田  
 同買張 1-day pass  
 但一切... 都係完全值得㗎！  
@@ -103,7 +103,7 @@ tags : [travel-日本-奈良大阪]
 ![](/images/osaka3k.jpg)
 
 哎吔，食得太太太多喇今日  
-宵夜食返最愛嘅[グリコ アイスの実](https://hidie.net/osaka3k/)  
+宵夜食返最愛嘅[グリコ アイスの実](/osaka3k/)  
 芒果味，可以消消滯嘅... 應該... ...  
   
   

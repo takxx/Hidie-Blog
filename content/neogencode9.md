@@ -58,8 +58,8 @@ tags : [glamorous - 保養おたく, glamorous - 面膜魂]
 （用beyond angel snow melting cream，又爽又夠保濕）  
   
 然而，開始不安分地直接用  
-除了會以[小顏按摩](https://hidie.net/suqqu/)手法去按摩外  
-就每隔一兩天加了[導入機](https://hidie.net/dhcpretico/)去加強吸收  
+除了會以[小顏按摩](/suqqu/)手法去按摩外  
+就每隔一兩天加了[導入機](/dhcpretico/)去加強吸收  
 果然黏膩感也能隨之然減少  
   
 一整個program乖乖地後  

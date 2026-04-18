@@ -11,9 +11,9 @@ tags : [glamorous - 裝身]
 ![](/images/needsuvcut1.jpg)
 
 SPF 50+防曬霜  
-[綿口罩](https://hidie.net/mmmnexcare/)、太陽眼鏡再加防曬物料嘅帽  
+[綿口罩](/mmmnexcare/)、太陽眼鏡再加防曬物料嘅帽  
 仲將頂帽戴落半個頭問你死未？！  
-今次呢頂唔係上幾個月入手嘅[ニーズ帽子](https://hidie.net/needs/)  
+今次呢頂唔係上幾個月入手嘅[ニーズ帽子](/needs/)  
 
 ![](/images/needsuvcut.jpg)
 

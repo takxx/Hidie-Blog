@@ -30,4 +30,4 @@ tags : [lifestyle - 廚房play, lifestyle - rosy rosy]
   
 \-----------------------------------------------  
   
-延伸閱讀：[noesis bamboo dish pad](https://hidie.net/noesis/)
+延伸閱讀：[noesis bamboo dish pad](/noesis/)

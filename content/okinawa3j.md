@@ -37,4 +37,4 @@ tags : [travel-日本-沖繩, satisfaction - 搭條鐵]
   
 \-----------------------------------------------  
   
-延伸閱讀：[琉球戀吃活樂遊 (6D5N)](https://hidie.net/okinawa6d5n/)
+延伸閱讀：[琉球戀吃活樂遊 (6D5N)](/okinawa6d5n/)

@@ -17,7 +17,7 @@ Lisboa - Rossio → **Sintra**
 ![](/images/portugal11a.jpg)
 
 落車未搭上山嘅巴士前  
-就嚟呢間距離火車同巴士站都好近嘅[Cintia](https://hidie.net/portugal11a/)食早餐  
+就嚟呢間距離火車同巴士站都好近嘅[Cintia](/portugal11a/)食早餐  
 諗住呢種咁方便遊客嘅café會又貴又整得求其  
 點知唔係喎！好好味喎啲嘢食  
 係一間絕對值得推薦嘅café（拍手）  
@@ -32,7 +32,7 @@ Lisboa - Rossio → **Sintra**
 
 ![](/images/portugal11b.jpg)
 
-第一個checkpoint係[Palácio Nacional de Sintra](https://hidie.net/portugal11b/)  
+第一個checkpoint係[Palácio Nacional de Sintra](/portugal11b/)  
 呢座皇宮嘅皇室使用期係15世紀初到19世紀後期  
 仲係葡萄牙保存得最完好嘅中世紀皇家宮殿  
 
@@ -40,7 +40,7 @@ Lisboa - Rossio → **Sintra**
 
 跳上車前就行一行皇宮對面個鎮仔  
 再去响1862年開業嘅Piriquita  
-不過總店未開所以去咗[Piriquita II](https://hidie.net/portugal11c/)  
+不過總店未開所以去咗[Piriquita II](/portugal11c/)  
 食Sintra名點Queijadas同Travesseiro  
 配咖啡啦梗係，食咁多甜嘢...  
 （好遺憾呢杯真係好難飲）  

@@ -6,7 +6,7 @@ aliases: [ "/2014/01/sweet-persimmon-chip.html" ]
 tags : [flavor - 小食部]
 ---
 
-韓國[新鮮的柿子](https://hidie.net/busanjj1f/)很好吃  
+韓國[新鮮的柿子](/busanjj1f/)很好吃  
 而這包柿子片都不錯  
 
 ![](/images/persimmonchip.jpg)

@@ -49,8 +49,8 @@ tags : [flavor - 飲！, travel-日本-沖繩]
 
 ![](/images/okinawaorion5.jpg)
 
-[琉球食king Eilly](https://hidie.net/okinawa2h/)的200円及[海援隊沖縄](https://hidie.net/okinawa4e/)的100円ORION生啤也是喝的王道啦！！！  
+[琉球食king Eilly](/okinawa2h/)的200円及[海援隊沖縄](/okinawa4e/)的100円ORION生啤也是喝的王道啦！！！  
   
 \-----------------------------------------------  
   
-延伸閱讀：[琉球戀吃活樂遊 (6D5N)](https://hidie.net/okinawa6d5n/)
+延伸閱讀：[琉球戀吃活樂遊 (6D5N)](/okinawa6d5n/)

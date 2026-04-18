@@ -14,7 +14,7 @@ tags : [travel-日本-奈良大阪]
 
 ![](/images/nara2a.jpg)
 
-慢慢漫步去[春日大社](https://hidie.net/nara2a/)  
+慢慢漫步去[春日大社](/nara2a/)  
 紅噹噹嘅神社  
 同擒日嘅五重塔一樣係世界遺產  
 建於和銅二年（710年）  
@@ -32,7 +32,7 @@ tags : [travel-日本-奈良大阪]
 
 ![](/images/nara2b1.jpg)
 
-去食奔廚喇 @[玄](https://hidie.net/nara2b/)  
+去食奔廚喇 @[玄](/nara2b/)  
 原本full晒㗎，但店家話啱啱有人cancel咗  
 執死雞get！（撒花）  
 唔好睇少呢兜**そば**  
@@ -47,7 +47,7 @@ tags : [travel-日本-奈良大阪]
 
 食完嘢又就去飲返杯先  
 奈良嘛～ 係**日本酒発祥の地**  
-要飲，梗係唔可以錯過嚟歷史悠久嘅[春鹿](https://hidie.net/nara2c/)飲啦  
+要飲，梗係唔可以錯過嚟歷史悠久嘅[春鹿](/nara2c/)飲啦  
 500円試5杯仲可以帶走埋隻杯  
 （其實係飲咗6杯）  
 又食又拎呀好無敵係咪？  
@@ -55,18 +55,18 @@ tags : [travel-日本-奈良大阪]
 ![](/images/nara2d)
 
 飲到一肚水參觀吓町屋  
-@[奈良町 ならまち格子の家](https://hidie.net/nara2d/)  
+@[奈良町 ならまち格子の家](/nara2d/)  
 窺探吓以前嘅屋，幾過癮吖（仲要無料入場㖭）  
 
 ![](/images/nara2e1.jpg)
 
 行吓行吓就搵地方坐吓食吓  
-**樫舎の氷 わらび餅入り** @[萬御菓子誂處 樫舎](https://hidie.net/nara2e/)  
+**樫舎の氷 わらび餅入り** @[萬御菓子誂處 樫舎](/nara2e/)  
 有啲熱呢就要隊返碗期間限定嘅刨冰  
 
 ![](/images/nara2f.jpg)
 
-下午茶時間 @[大仏プリン](https://hidie.net/nara2f/)  
+下午茶時間 @[大仏プリン](/nara2f/)  
 好滑呀好滑呀好滑呀呀呀呀呀～  
 
 ![](/images/nara2h.jpg)
@@ -75,7 +75,7 @@ tags : [travel-日本-奈良大阪]
 嗱～ 原本諗住晚餐食懷石料理  
 點知又係得到full booking呢個答覆  
 好啦好啦訂聽日枱啦咁  
-咁今晚呢，就去返擒晚full咗嘅居酒屋[亜耶](https://hidie.net/nara2h/)  
+咁今晚呢，就去返擒晚full咗嘅居酒屋[亜耶](/nara2h/)  
 呵呵呵今晚早少少去所以未爆lucky  
 無計啦呢間都係Michelin Nara推介店  
 （嘻，一日兩餐Michelin都咪話唔威威）  

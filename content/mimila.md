@@ -18,7 +18,7 @@ tags : [flavor - 行膳積腹, satisfaction - 黃店懲罰日]
 ![](/images/mimila1.jpg)
 
 **新加坡白胡椒肉骨茶**  
-唔係[馬拉](https://hidie.net/sabah4f/)式藥材肉骨茶  
+唔係[馬拉](/sabah4f/)式藥材肉骨茶  
 香辣嘅胡椒嘅味道都幾開胃  
 肉骨有豬手、肉排、豬軟骨都有幾多嘢咬吓  
 個湯飲落暖笠笠都幾好～  

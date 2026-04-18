@@ -6,7 +6,7 @@ aliases: [ "/2015/10/go-go-nagoya-day5_16.html" ]
 tags : [travel-日本-名古屋, flavor - 螞蟻族]
 ---
 
-吃了難吃得死去活來的[山本屋本店](https://hidie.net/nagoya5g/)後  
+吃了難吃得死去活來的[山本屋本店](/nagoya5g/)後  
 一口氣就走上JR名古屋高島屋10階  
 因為那裡正進行「楽天うまいもの大会」  
 但太～ 逼～ 太～ 多～ 人～  
@@ -38,4 +38,4 @@ tags : [travel-日本-名古屋, flavor - 螞蟻族]
   
 \-----------------------------------------------  
   
-延伸閱讀：[GO! GO! NaGoYa～（8D7N）](https://hidie.net/nagoya8d7n/)
+延伸閱讀：[GO! GO! NaGoYa～（8D7N）](/nagoya8d7n/)

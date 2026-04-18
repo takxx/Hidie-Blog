@@ -7,11 +7,11 @@ tags : [travel-日本-奈良大阪]
 ---
 
 又係執嘢走人嘅時候喇 TT  
-執執整整前要食生果（今朝係大大個[もも](https://hidie.net/osaka4a/)）  
+執執整整前要食生果（今朝係大大個[もも](/osaka4a/)）  
 
 ![](/images/osaka4b.jpg)
 
-搞掂就行出去食鋪勁嘅 @[Eggs n' Things](https://hidie.net/osaka4b/)  
+搞掂就行出去食鋪勁嘅 @[Eggs n' Things](/osaka4b/)  
 （**パンケーキ ストロベリー ホイップクリームとマカダミアナッツ**）  
 好高好大但啲cream一啲都唔heavy  
 但係話食唔飽就呃你嘅  
@@ -24,7 +24,7 @@ tags : [travel-日本-奈良大阪]
 
 ![](/images/osaka4c1.jpg)
 
-臨上車前响難波食多轉居酒屋先 @[鶏家 六角鶏](https://hidie.net/osaka4c/)  
+臨上車前响難波食多轉居酒屋先 @[鶏家 六角鶏](/osaka4c/)  
 串串串鶏鶏鶏酒酒酒啦啦啦  
   
 南海電鉄：難波 → **関西空港**  
@@ -33,11 +33,11 @@ tags : [travel-日本-奈良大阪]
 
 ![](/images/osaka4d.jpg)
 
-搭車期間食啲[番茄仔](https://hidie.net/osaka4d/)先  
+搭車期間食啲[番茄仔](/osaka4d/)先  
 又香又甜又juicy，正！  
-早少少去[関西空港](https://hidie.net/osaka4e/)睇吓有咩買  
+早少少去[関西空港](/osaka4e/)睇吓有咩買  
 點知都係冇咩啱買  
-（最後買咗一件[同事式手信](https://hidie.net/tsujiriyatsuhashi/)咁大把，响市區揀極都揀唔落手）  
+（最後買咗一件[同事式手信](/tsujiriyatsuhashi/)咁大把，响市區揀極都揀唔落手）  
 咁又去食嘢啦，唔好徙時間嘛...  
 
 ![](/images/osaka4f.jpg)

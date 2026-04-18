@@ -7,7 +7,7 @@ tags : [flavor - 螞蟻族, travel-日本-沖繩]
 ---
 
 不包餐的bus tour，自己帶點吃的也應該吧  
-雖然都買了[上野風月堂](https://hidie.net/okinawabag/)的cookie和jelly羊羹  
+雖然都買了[上野風月堂](/okinawabag/)的cookie和jelly羊羹  
 但每天回酒店的時候都會經過長崎本舗，都想試試
 
 ![](/images/okinawa4b.jpg)
@@ -38,4 +38,4 @@ tags : [flavor - 螞蟻族, travel-日本-沖繩]
   
 \-----------------------------------------------  
   
-延伸閱讀：[琉球戀吃活樂遊 (6D5N)](https://hidie.net/okinawa6d5n/)
+延伸閱讀：[琉球戀吃活樂遊 (6D5N)](/okinawa6d5n/)

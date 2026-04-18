@@ -23,6 +23,6 @@ PABLO係食cheese tart嘅
 加埋平時cheese tart上面嘅杏jam  
 
 夠消暑唔錯唔錯  
-個tart味幾好，[搵日](https://hidie.net/osaka2h/)再試吓個佢嘅真身先！  
+個tart味幾好，[搵日](/osaka2h/)再試吓個佢嘅真身先！  
 
 {{<osaka>}}

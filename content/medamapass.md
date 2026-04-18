@@ -6,7 +6,7 @@ images: ["/images/medamapass.jpg"]
 tags : [glamorous - 裝身, lifestyle - zakka]
 ---
 
-响[円形劇場](https://hidie.net/tottori4h/)考慮咗一輪先買佢  
+响[円形劇場](/tottori4h/)考慮咗一輪先買佢  
 
 ![](/images/medamapass1.jpg)
 

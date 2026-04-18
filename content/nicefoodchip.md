@@ -6,7 +6,7 @@ aliases: [ "/2016/03/blog-post_16.html" ]
 tags : [flavor - 小食部]
 ---
 
-食完又甜又黏黏口嘅[地瓜蜜](https://hidie.net/taitung4b/)  
+食完又甜又黏黏口嘅[地瓜蜜](/taitung4b/)  
 咁更加唔可以唔試脆口嘅地瓜酥芋頭酥  
 
 ![](/images/nicefoodchip.jpg)
@@ -22,4 +22,4 @@ tags : [flavor - 小食部]
   
 \-----------------------------------------------  
   
-延伸閱讀：[臺東瘋食遊（8D7N）](https://hidie.net/taitung8d7n/)
+延伸閱讀：[臺東瘋食遊（8D7N）](/taitung8d7n/)

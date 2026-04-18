@@ -6,7 +6,7 @@ images: ["/images/osaka2k.jpg"]
 tags : [travel-日本-奈良大阪]
 ---
 
-食完[生果](https://hidie.net/osaka2j/)做乜好？  
+食完[生果](/osaka2j/)做乜好？  
 當然又走出apartment再食過啦!  
 去邊都冇所謂就嚟返千日前    
 

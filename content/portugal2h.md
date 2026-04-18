@@ -11,7 +11,7 @@ tags : [travel-葡萄牙]
 ![](/images/portugal2h1.jpg)
 
 由Rua dos Clérigos出發  
-沿著條路上就係[Clérigos Tower](https://hidie.net/portugal4b/)  
+沿著條路上就係[Clérigos Tower](/portugal4b/)  
 所以條路都係以佢起名  
 不過宜家唔係响呢個方向行，向下行  
 （仲有嗰棵終於冇曝錯光嘅A Magnólia do Ardina）  

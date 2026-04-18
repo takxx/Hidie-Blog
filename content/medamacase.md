@@ -6,7 +6,7 @@ images: ["/images/medamacase.jpg"]
 tags : [lifestyle - zakka]
 ---
 
-行[水木しげるロード](https://hidie.net/tottori7h/)無理由唔買嘢嘅  
+行[水木しげるロード](/tottori7h/)無理由唔買嘢嘅  
 
 ![](/images/medamacase.jpg)
 

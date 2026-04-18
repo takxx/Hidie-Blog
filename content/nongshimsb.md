@@ -6,7 +6,7 @@ images: ["/images/nongshimsb.jpg"]
 tags : [flavor - 小食部]
 ---
 
-作為一位[蝦條lover](https://hidie.net/ebisenwasabi/)，見到有吸引都會想試吓  
+作為一位[蝦條lover](/ebisenwasabi/)，見到有吸引都會想試吓  
 
 ![](/images/nongshimsb1.jpg)
 

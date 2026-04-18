@@ -6,7 +6,7 @@ images: ["/images/marukyou.jpg"]
 tags : [flavor - 行膳積腹]
 ---
 
-食過碗[拉麵](https://hidie.net/rameniroha/)講開先知原來佢都幾鍾意食呢樣嘢  
+食過碗[拉麵](/rameniroha/)講開先知原來佢都幾鍾意食呢樣嘢  
 仲話要帶我去食佢好鍾意食嗰間  
 不過就話要就啱時間去唔係就要等位㗎喇  
 然後meet佢嗰日嘅鐘數咁啱無人，正！  
@@ -38,4 +38,4 @@ tags : [flavor - 行膳積腹]
 拉麵出色啲～  
   
 話時話呢間嘢係日本過江龍嘅京都嘢  
-但係去[京都](https://hidie.net/kyotokoyasan4d4n/)嘅話真係冇諗過要去食拉麵呢，哈！  
+但係去[京都](/kyotokoyasan4d4n/)嘅話真係冇諗過要去食拉麵呢，哈！  

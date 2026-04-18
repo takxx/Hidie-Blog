@@ -14,4 +14,4 @@ tags : [flavor - 飲！]
   
 \-----------------------------------------------  
   
-延伸閱讀：[ORION!!!](https://hidie.net/okinawaorion/)
+延伸閱讀：[ORION!!!](/okinawaorion/)

@@ -11,7 +11,7 @@ tags : [lifestyle - 急救箱]
 
 ![](/images/novopin.jpg)
 
-嗱～呢排已經唔係[戴棉mask](https://www.hidie.net/2019/10/3m-nexcare.html)保暖mask[保濕mask](https://www.hidie.net/2017/12/blog-post_27.html)嗰啲  
+嗱～呢排已經唔係[戴棉mask](/2019/10/3m-nexcare.html)保暖mask[保濕mask](/2017/12/blog-post_27.html)嗰啲  
 乖乖地戴返醫學用濾細菌口罩  
   
 然而有時會剝一剝食吓嘢飲啖水  

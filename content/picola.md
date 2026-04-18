@@ -6,7 +6,7 @@ images: ["/images/picola.jpg"]
 tags : [flavor - say cheese]
 ---
 
-雖然上次食[cheese roll](https://hidie.net/ritzroll/)領過嘢  
+雖然上次食[cheese roll](/ritzroll/)領過嘢  
 不過係唔會嚇驚鍾意食嘢嘅我啊！  
 
 ![](/images/picola.jpg)

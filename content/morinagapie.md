@@ -28,4 +28,4 @@ tags : [flavor - say cheese]
 
 \-----------------------------------------------  
   
-延伸閱讀：[森永製菓 チーズサブレ | Morinaga Cheese Sablè](https://hidie.net/morinagasable/)  
+延伸閱讀：[森永製菓 チーズサブレ | Morinaga Cheese Sablè](/morinagasable/)  

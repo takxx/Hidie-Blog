@@ -19,7 +19,7 @@ tags : [glamorous - 畫皮]
 但敷3-5分鐘就過水  
 之後再用平日保養品便可  
   
-氣味比[snow white](https://hidie.net/secretkeysnowwhite/)香甜很多  
+氣味比[snow white](/secretkeysnowwhite/)香甜很多  
 甜美的果香味用的時候心情也好起來  
 最重要效果好  
 即時見白，也能持續半天的白  

@@ -12,7 +12,7 @@ tags : [glamorous - 畫皮？]
 
 失敗率比用liquid的底很多  
 比pencil順滑亦沒那麼易甩妝  
-同樣是[gel eyeliner](https://hidie.net/bbgelline/)，這枝筆型的  
+同樣是[gel eyeliner](/bbgelline/)，這枝筆型的  
 更方便、不需要分掃同gel  
 攜帶時又夠輕不阻空間
 

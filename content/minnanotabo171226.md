@@ -39,6 +39,6 @@ tags : [collections - みんなのたあ坊]
   
   
 延伸閱讀：  
-[大口仔聖誕波波 2015](https://hidie.net/minnanotabo151225/)  
-[大口仔聖誕波波 2014](https://hidie.net/minnanotabo141225/)  
-[大口仔聖誕波波 2011](https://hidie.net/minnanotabo131222/)
+[大口仔聖誕波波 2015](/minnanotabo151225/)  
+[大口仔聖誕波波 2014](/minnanotabo141225/)  
+[大口仔聖誕波波 2011](/minnanotabo131222/)

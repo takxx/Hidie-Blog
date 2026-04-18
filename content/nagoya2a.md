@@ -50,7 +50,7 @@ tags : [flavor - 行膳積腹, travel-日本-名古屋]
 
 **ひつまぶし**，每塊都是小小的  
 顏色也太誘人了吧！  
-與之前的[虎杖魚河岸千両 元祖海鮮ひつまぶし](https://hidie.net/tokyo3c/)一樣  
+與之前的[虎杖魚河岸千両 元祖海鮮ひつまぶし](/tokyo3c/)一樣  
 是一兜裡面三種吃法  
 
 ![](/images/nagoya2a7.jpg)
@@ -98,4 +98,4 @@ tags : [flavor - 行膳積腹, travel-日本-名古屋]
   
 \-----------------------------------------------  
   
-延伸閱讀：[GO! GO! NaGoYa～（8D7N）](https://hidie.net/nagoya8d7n/)
+延伸閱讀：[GO! GO! NaGoYa～（8D7N）](/nagoya8d7n/)

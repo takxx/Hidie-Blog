@@ -6,7 +6,7 @@ images: ["/images/minnanotabo20210104.jpg"]
 tags : [collections - みんなのたあ坊]
 ---
 
-自從個[大口仔浴室磅](https://hidie.net/minnanotabo131016/)壞咗十世後  
+自從個[大口仔浴室磅](/minnanotabo131016/)壞咗十世後  
 就買咗個企上去有得測埋體脂水份骨重BMI嗰啲磅  
 但發現其實嗰隻磅都幾受濕度嘅影響  
 係咁意參考反正都唔能作準嘛...

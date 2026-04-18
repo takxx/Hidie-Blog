@@ -6,7 +6,7 @@ images: ["/images/nigehaji.jpg"]
 tags : [amusement - TV]
 ---
 
-[逃恥](https://hidie.net/szegyenfutasdehasznos/)嘅新年特別篇無理由唔睇嘅...  
+[逃恥](/szegyenfutasdehasznos/)嘅新年特別篇無理由唔睇嘅...  
 
 {{< youtube MD5rAtj2Yas >}}
 

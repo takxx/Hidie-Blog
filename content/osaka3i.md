@@ -6,7 +6,7 @@ images: ["/images/osaka3i.jpg"]
 tags : [travel-日本-奈良大阪, amusement - exhibition]
 ---
   
-hea完[café](https://hidie.net/osaka3h/)但係又未夠鐘食癲...
+hea完[café](/osaka3h/)但係又未夠鐘食癲...
 
 ![](/images/osaka3i1.jpg)
 

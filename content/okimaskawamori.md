@@ -10,8 +10,8 @@ tags : [glamorous - 保養おたく, glamorous - 面膜魂]
 
 ![](/images/okimaskawamori.jpg)
 
-在沖繩時沒有喝過helios的泡盛（喝的是[瑞泉](https://hidie.net/okinawa3f/)）  
-不過都有試過這品牌的[苦瓜啤](https://hidie.net/okinawa6e/)  
+在沖繩時沒有喝過helios的泡盛（喝的是[瑞泉](/okinawa3f/)）  
+不過都有試過這品牌的[苦瓜啤](/okinawa6e/)  
   
 驟眼看以為是泡盛mask  
 直接敷酒精會否乾到爆裂拳？  

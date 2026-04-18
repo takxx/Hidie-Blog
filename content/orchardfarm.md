@@ -6,7 +6,7 @@ images: ["/images/orchardfarm.jpg"]
 tags : [flavor - 飲！, satisfaction - 黃店懲罰日]
 ---
 
-响[串噹噹](https://hidie.net/chuendongdong/)食嘢  
+响[串噹噹](/chuendongdong/)食嘢  
 就有得即場試荃灣製社企花果園嘅花果茶  
 
 ![](/images/orchardfarm1.jpg)

@@ -6,7 +6,7 @@ images: ["/images/outdark.jpg"]
 tags : [flavor - 行膳積腹, flavor - 飲！, satisfaction - 黃店懲罰日]
 ---
 
-第一次去韓國食炸雞就係响[釜山](https://hidie.net/busanjj7h/)  
+第一次去韓國食炸雞就係响[釜山](/busanjj7h/)  
 今次就嚟香港食返次來自釜山嘅炸雞  
 
 ![](/images/outdark1.jpg)

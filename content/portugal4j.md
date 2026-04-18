@@ -17,7 +17,7 @@ tags : [travel-葡萄牙]
 ![](/images/portugal4j1.jpg)
 
 廣場嘅左手邊  
-就係今朝去過嘅[Igreja dos Clérigos](https://hidie.net/portugal4c/) & [Torre dos Clérigos](https://hidie.net/portugal4b/)  
+就係今朝去過嘅[Igreja dos Clérigos](/portugal4c/) & [Torre dos Clérigos](/portugal4b/)  
 
 ![](/images/portugal4.jpg)
 

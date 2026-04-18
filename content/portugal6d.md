@@ -33,7 +33,7 @@ tags : [travel-葡萄牙]
 
 ![](/images/portugal6d5.jpg)
 
-有一陣會去嘅[Paço Dos Duques De Bragança](https://hidie.net/portugal6e/)  
+有一陣會去嘅[Paço Dos Duques De Bragança](/portugal6e/)  
 
 ![](/images/portugal6d6.jpg)
 

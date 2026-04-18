@@ -29,5 +29,5 @@ tags : [flavor - 行膳積腹, satisfaction - 黃店懲罰日]
 
 ![](/images/nenechicken2.jpg)
 
-啤酒死都唔會再揀[CASS](https://hidie.net/busanjj7g/)  
+啤酒死都唔會再揀[CASS](/busanjj7g/)  
 好彩都仲有**1664**，哈～  

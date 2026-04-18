@@ -6,7 +6,7 @@ aliases: [ "/2014/01/m.html" ]
 tags : [lifestyle - zakka]
 ---
 
-雖然經過了「[火燒後欄](https://hidie.net/busanjj7a/)」的經歷   
+雖然經過了「[火燒後欄](/busanjj7a/)」的經歷   
 依然不減喜歡以艾草暖暖子宮     
 
 ![](/images/mugwortpad.jpg)

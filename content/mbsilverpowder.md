@@ -31,7 +31,7 @@ tags : [glamorous - 保養おたく, glamorous - 面膜魂]
 非常愛這感覺，我的鼻子回來了啦啦啦～  
 當然不要這樣陶醉便了是  
 之後要用收毛孔product   
-用nu skin的[face lift](https://hidie.net/nuskinfacelift/)就最好，  
+用nu skin的[face lift](/nuskinfacelift/)就最好，  
 或者一些hydrating mask亦可  
   
 但此mask不是完美的  

@@ -7,7 +7,7 @@ tags : [flavor - 行膳積腹, travel-日本-名古屋]
 ---
 
 在名古屋吃的北海道料理～  
-上次去東京的[かに道楽](https://hidie.net/tokyo1b/)沒有獨立廂房  
+上次去東京的[かに道楽](/tokyo1b/)沒有獨立廂房  
 這次終於有獨立的（R腳趾也沒有人看到的呵呵呵）真好  
 
 ![](/images/nagoya4g1.jpg)
@@ -152,4 +152,4 @@ tags : [flavor - 行膳積腹, travel-日本-名古屋]
   
 \-----------------------------------------------  
   
-延伸閱讀：[GO! GO! NaGoYa～（8D7N）](https://hidie.net/nagoya8d7n/)
+延伸閱讀：[GO! GO! NaGoYa～（8D7N）](/nagoya8d7n/)

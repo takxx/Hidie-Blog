@@ -28,7 +28,7 @@ tags : [travel-葡萄牙]
 ![](/images/portugal7c1.jpg)
 
 而臨走都係帶唔走左邊包蜜糖杏仁 @**Lagar Do Mel**  
-之前响Porto個[市集仔](https://hidie.net/portugal7c/)買，好好味  
+之前响Porto個[市集仔](/portugal7c/)買，好好味  
 包嘢簡直係邪惡嘅化身  
 基本上開咗個袋就唔使旨意留得返下次食  
 ...所以只係帶得樽合桃蜜返屋企  

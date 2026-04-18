@@ -36,6 +36,6 @@ tags : [glamorous - 保養おたく, glamorous - 面膜魂]
   
 另，step 1同step 3因為包裝袋裡有剩低的精華  
 所以就沾濕超薄裝的化妝棉敷下巴  
-step 2就用[biore](https://hidie.net/biorerosenose/)，不過將上下倒轉  
+step 2就用[biore](/biorerosenose/)，不過將上下倒轉  
 就能剛剛好敷在下巴  
 這清得超好，非常乾淨（強勁地拔苗！）

@@ -23,5 +23,5 @@ hand cream接觸皮膚後
   
 \-----------------------------------------------  
   
-延伸閱讀の真正的暖手蛋：[sanyo eneloop rechargeable hand warmer](https://hidie.net/sanyowarmer/)  
-延伸閱讀の慘痛經歷的鐵皮管爆漿記：[aesop - rosehip seed lip cream](https://hidie.net/aesoprosehip/)
+延伸閱讀の真正的暖手蛋：[sanyo eneloop rechargeable hand warmer](/sanyowarmer/)  
+延伸閱讀の慘痛經歷的鐵皮管爆漿記：[aesop - rosehip seed lip cream](/aesoprosehip/)

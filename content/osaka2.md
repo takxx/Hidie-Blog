@@ -11,7 +11,7 @@ tags : [travel-日本-奈良大阪]
 ![](/images/osaka2a.jpg)
 
 住**黒門市場**最方便就係  
-想幾時[落樓食](https://hidie.net/osaka2a/)都得  
+想幾時[落樓食](/osaka2a/)都得  
 早少少落樓就唔駛同人迫  
 不過呢度唔係好似築地  
 要凌晨五點就要覓食  
@@ -21,7 +21,7 @@ tags : [travel-日本-奈良大阪]
 
 ![](/images/osaka2b.jpg)
 
-...同埋做[即劏吞拿魚](https://hidie.net/osaka2b/)嘅第一個顧客  
+...同埋做[即劏吞拿魚](/osaka2b/)嘅第一個顧客  
 個師傅未開鋪仲劏緊嗰陣  
 應該見我兜咗响舖頭好多次  
 終於有得食，佢仲送多兩塊とろ（感動）  
@@ -34,14 +34,14 @@ tags : [travel-日本-奈良大阪]
 
 ![](/images/osaka2c.jpg)
 
-瞓醒又落樓，有啲口渴飲返杯[豆漿](https://hidie.net/osaka2c/)  
+瞓醒又落樓，有啲口渴飲返杯[豆漿](/osaka2c/)  
 濃到爆，飽多過解渴 XDDD  
 
 ![](/images/osaka2d3.jpg)
 
 諗住行去難波方向  
 點知行到千日前附近  
-[りくろーおじさんの店](https://hidie.net/osaka2d/)個叮叮叮截停咗  
+[りくろーおじさんの店](/osaka2d/)個叮叮叮截停咗  
 啱啱出爐嘅**cheese cake**  
 仲要無人排隊  
 香氣飄到周圍都係  
@@ -54,13 +54,13 @@ tags : [travel-日本-奈良大阪]
 
 食完再再再走出apartment  
 兜到去難波，覺得冇嘢行就沿千日前行  
-又俾香味迷倒 @[鳥吾郎](https://hidie.net/osaka2e/)    
+又俾香味迷倒 @[鳥吾郎](/osaka2e/)    
 雞肉又香又軟好好食呢～  
 
 ![](/images/osaka2f.jpg)
 
 食開咗個胃又繼續食  
-**たこ焼き ちゃぷちゃぷ** @[道頓堀赤鬼](https://hidie.net/osaka2f/)  
+**たこ焼き ちゃぷちゃぷ** @[道頓堀赤鬼](/osaka2f/)  
 呢度先有嘅放湯章魚燒，正呀  
 難怪佢會係Michelin推介店呢  
 
@@ -68,13 +68,13 @@ tags : [travel-日本-奈良大阪]
 
 除咗たこ焼き响大阪梗係唔可以唔食お好み焼き  
 不過一般粉漿嘅大阪燒好漏嘅  
-食就食又係Michelin推薦嘅[美津の](https://hidie.net/osaka2g/)  
+食就食又係Michelin推薦嘅[美津の](/osaka2g/)  
 揀咗店舖人氣NO. 1嘅**山芋焼**    
 
 ![](/images/osaka2h.jpg)
 
 冇嘢做兜吓兜吓就兜到去冇咁多人嘅アメリカ村  
-見有啲攰咪搵個地方坐低 @[PABLO](https://hidie.net/osaka2h/)  
+見有啲攰咪搵個地方坐低 @[PABLO](/osaka2h/)  
 ... 順便食嘢  
 係就係擒日食過佢嘅cheese tart刨冰  
 咁都想試吓個元祖cheese tart嘛  
@@ -90,12 +90,12 @@ NO！ NO！ NO！
 
 ![](/images/osaka2i.jpg)
 
-超級市場梗係要行遠少少去[スーパー玉出](https://hidie.net/osaka2i/)啦（握拳）  
+超級市場梗係要行遠少少去[スーパー玉出](/osaka2i/)啦（握拳）  
 咁就可以由黃昏行到天黑～  
 
 ![](/images/osaka2j.jpg)
 
-買完返apartment[即食](https://hidie.net/osaka2j/)  
+買完返apartment[即食](/osaka2j/)  
 啱啱熟甜到震  
   
 食完生果做乜好？  
@@ -107,7 +107,7 @@ NO！ NO！ NO！
 ![](/images/osaka2k.jpg)
 
   
-古早味雪條 @[北極のアイスキャンデー](https://hidie.net/osaka2k/)  
+古早味雪條 @[北極のアイスキャンデー](/osaka2k/)  
 一直行路就要降溫嘅雪條  
 嗰一刻响佢同ほっぷしゅーくりーむ (Hop Chou A La Cream)揀  
 都唔知幾難取捨呀陰公  
@@ -115,7 +115,7 @@ NO！ NO！ NO！
 ![](/images/osaka2l10.jpg)
 
 yeah！到咗食晚飯嘅時間  
-呢鋪食得勁喇 @[天ぷら定食 まきの](https://hidie.net/osaka2l/)  
+呢鋪食得勁喇 @[天ぷら定食 まきの](/osaka2l/)  
 價錢唔貴嘅天ぷら連鎖店  
 整得一啲都唔求其㗎  
 隻名物玉子天個炸漿唔係好厚又脆身  

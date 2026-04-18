@@ -12,7 +12,7 @@ tags : [flavor - say cheese]
 
 **Pianta 軽いさくさく チーズ 濃厚チーズ味**  
 貌似桃哈多但係鹹嘢嚟  
-（即係[meiji 卡路叔叔](https://hidie.net/meijikaru/)咁樣啦哈哈）  
+（即係[meiji 卡路叔叔](/meijikaru/)咁樣啦哈哈）  
 脆口輕飄飄食陣風咁    
 而個芝士味又算幾濃都幾好食喎  
   

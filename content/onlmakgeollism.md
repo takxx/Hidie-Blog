@@ -6,7 +6,7 @@ aliases: [ "/2014/11/masque-onl-makgeollism-brightening.html" ]
 tags : [glamorous - 保養おたく, glamorous - 面膜魂]
 ---
 
-超喜歡喝又甜又濃郁的[막걸리](https://hidie.net/busanjj1j/)（makgeolli）  
+超喜歡喝又甜又濃郁的[막걸리](/busanjj1j/)（makgeolli）  
 有酵母的東西，敷面也應該不錯吧～  
 
 ![](/images/onlmakgeollism.jpg)

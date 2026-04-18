@@ -6,7 +6,7 @@ aliases: [ "/2013/12/masque_18.html" ]
 tags : [glamorous - 保養おたく, glamorous - 面膜魂]
 ---
 
-之前寫過這家的[黑珍珠](https://hidie.net/mbdblackpearl/)，今次寫白珍珠  
+之前寫過這家的[黑珍珠](/mbdblackpearl/)，今次寫白珍珠  
 
 ![](/images/mbdpearl.jpg)
 

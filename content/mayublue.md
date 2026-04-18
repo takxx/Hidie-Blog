@@ -12,8 +12,8 @@ tags : [glamorous - 保養おたく]
 ![](/images/mayublue.jpg)
 
 一般即白而有效果的產品  
-要麼是要過水的（[milky dress](https://hidie.net/milkydress/)）  
-要麼就沒有防曬度（[cloud 9](https://hidie.net/cloud9cream/)）  
+要麼是要過水的（[milky dress](/milkydress/)）  
+要麼就沒有防曬度（[cloud 9](/cloud9cream/)）  
 然而這枝有滋潤度之餘能一塗即白  
 加上有SPF34 PA++的防曬度  
 作為日霜同補防曬用都很令人滿意  

@@ -97,7 +97,7 @@ tags : [travel-葡萄牙]
 
 ![](/images/portugal4e21.jpg)
 
-望出去個view就係啱啱去完嘅[Torre dos Clérigos](https://hidie.net/portugal4b/)  
+望出去個view就係啱啱去完嘅[Torre dos Clérigos](/portugal4b/)  
 
 ![](/images/portugal4e22.jpg)
 
