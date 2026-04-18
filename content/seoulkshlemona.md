@@ -44,7 +44,7 @@ tags : [travel-南韓-首爾, collections - 김수현, glamorous - 秀色可餐]
   
 不去event（出面）不知道  
 原來lemona除了粉以外還有很多產品  
-（之前有post過的[lemona粉](https://hidie.net/clemona/)]）  
+（之前有post過的[lemona粉](/clemona/)]）  
 
 ![](/images/seoulkshlemona5.jpg)
 

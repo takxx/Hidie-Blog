@@ -18,7 +18,7 @@ tags : [flavor - 飲！]
 
   
 
-[樽裝](https://hidie.net/seventeenteapot/)的跟茶包的都很好
+[樽裝](/seventeenteapot/)的跟茶包的都很好
 
 只是我比較喜歡熱茶  
 加上不想用膠樽嘛～

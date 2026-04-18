@@ -33,4 +33,4 @@ mix好後放上面5-10分鐘
   
 太簡單又有效，本小姐超愛敷喔～  
   
-ps, 米糠粉我在韓國買；[乳酪是自家製的](https://hidie.net/yogurtmachine/) :p
+ps, 米糠粉我在韓國買；[乳酪是自家製的](/yogurtmachine/) :p

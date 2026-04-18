@@ -12,7 +12,7 @@ tags : [travel-越南-西貢]
 ![](/images/saigon4b.jpg)
 
 日曬中的米紙  
-之前在[Quán Ăn Ngon](https://hidie.net/saigon2e/)吃過韌韌的  
+之前在[Quán Ăn Ngon](/saigon2e/)吃過韌韌的  
 超～ 好～ 吃～  
 就是這種這種米紙  
 
@@ -29,4 +29,4 @@ tags : [travel-越南-西貢]
   
 \-----------------------------------------------  
   
-延伸閱讀：[西貢西貢食食貢（6D5N）](https://hidie.net/saigon6d5n/)
+延伸閱讀：[西貢西貢食食貢（6D5N）](/saigon6d5n/)

@@ -43,7 +43,7 @@ tags : [travel-南韓-首爾, collections - 김수현, flavor - 螞蟻族]
 （再加上R來的poster，yeah！）  
 
 jelly裡面有塊塊的桃  
-不過個人比較喜歡[yogurt jelly](https://hidie.net/cjyogurtjelly/)那款多一點
+不過個人比較喜歡[yogurt jelly](/cjyogurtjelly/)那款多一點
 
 ![](/images/seoulkshcj6.jpg)
 

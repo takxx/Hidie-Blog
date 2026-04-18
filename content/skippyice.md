@@ -19,7 +19,7 @@ tags : [flavor - 螞蟻族]
 甜味重而花生醬唔係好出嘅雪糕餡  
 最最最弊就係佢個焦點：焦糖醬在中  
 個甜味係感覺令血糖直接飆升嗰種，好恐怖！  
-同樣嘅combination [Häagen-Dazs](https://hidie.net/haagendazspeanutbutter/)好食好多！  
+同樣嘅combination [Häagen-Dazs](/haagendazspeanutbutter/)好食好多！  
 
 ![](/images/skippyice.jpg)
 
@@ -33,4 +33,4 @@ tags : [flavor - 螞蟻族]
   
 \-----------------------------------------------  
   
-延伸閱讀：[[生活調味] Skippy Peanut Butter Crunchy](https://hidie.net/skippy/)
+延伸閱讀：[[生活調味] Skippy Peanut Butter Crunchy](/skippy/)

@@ -83,7 +83,7 @@ jelly嘅味道清甜，好好味呢
 （一打開個盒仲以為「哇唔係畀黑松露咁大手筆嘛」哈哈係豬咗啲）  
   
 pancake皮薄，內含啖啖榴槤  
-可以同[滿記](https://hidie.net/honeymoon/)say goodbye喇（揮手）  
+可以同[滿記](/honeymoon/)say goodbye喇（揮手）  
 
 ![](/images/sweetcanteen11.jpg)
 

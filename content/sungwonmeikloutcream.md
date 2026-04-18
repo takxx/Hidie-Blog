@@ -19,5 +19,5 @@ tags : [glamorous - 畫皮]
 能即時調白膚色，輕微的白一點都不誇張  
 （但一時之間未能適應，因為剛用完兩罐即時超白的cloud9）  
   
-[cloud9](https://hidie.net/cloud9cream/)也好；這罐也不錯～  
+[cloud9](/cloud9cream/)也好；這罐也不錯～  
   

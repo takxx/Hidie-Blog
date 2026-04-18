@@ -6,7 +6,7 @@ aliases: [ "/2020/04/day6_74.html" ]
 tags : [travel-日本-四國, flavor - 飲！]
 ---
 
-同[擒晚](https://hidie.net/shikoku5m/)一樣係らくれん牛乳  
+同[擒晚](/shikoku5m/)一樣係らくれん牛乳  
 
 ![](/images/shikoku6d.jpg)
 

@@ -14,7 +14,7 @@ tags : [travel-日本-四國]
 ![](/images/shikoku5a.jpg)
 
 出發前响JR松山駅買嘢食  
-@[安岡蒲鉾](https://hidie.net/shikoku5a/)，宇和島名產**手造りじゃこ天**  
+@[安岡蒲鉾](/shikoku5a/)，宇和島名產**手造りじゃこ天**  
 熱辣辣魚味重又彈彈牙  
 雖然而家就即刻走去宇和島  
 不過襯新鮮食真係唔等得食咗一陣去到再食過囉  
@@ -22,7 +22,7 @@ tags : [travel-日本-四國]
 ![](/images/shikoku5b.jpg)
 
 校啱時間又有得坐アンパンマン JR  
-呢㗎係[宇和海アンパンマン列車](https://hidie.net/shikoku5b/)  
+呢㗎係[宇和海アンパンマン列車](/shikoku5b/)  
 由紫橙黃三隻顏色車卡組成  
 裡面無特別車廂同アンパンマン駅弁  
 
@@ -35,7 +35,7 @@ tags : [travel-日本-四國]
 
 响宇和島落車嗰陣  
 仲俾我遇到「宇土線3兄弟」嘅二佬  
-[海洋堂ホビートレイン](https://hidie.net/shikoku5c/)  
+[海洋堂ホビートレイン](/shikoku5c/)  
 今個旅程遇唔啱搭呢3兄弟  
 （首選アンパンマン列車 x 行程需要總和）  
 居然搭唔到都見到其中一架  
@@ -50,12 +50,12 @@ tags : [travel-日本-四國]
 
 ![](/images/shikoku5e1.jpg)
 
-然而呢間係[一六本舗](https://hidie.net/shikoku5e/)  
+然而呢間係[一六本舗](/shikoku5e/)  
 因此都會食埋**一六タルト**嘅  
 
 ![](/images/shikoku5f.jpg)
 
-飽飽喇，就慢慢行上個[宇和島城](https://hidie.net/shikoku5f/)  
+飽飽喇，就慢慢行上個[宇和島城](/shikoku5f/)  
 佢都係現存12天守嘅其中一個  
   
 嗯～ 係咪覺得個個城都差唔多  
@@ -66,7 +66,7 @@ tags : [travel-日本-四國]
 
 [![](/images/shikoku5g5.jpg)
 
-咁行完咪到食晏時間囉 @[ほづみ亭](https://hidie.net/shikoku5g/)  
+咁行完咪到食晏時間囉 @[ほづみ亭](/shikoku5g/)  
 宇和島特有嘅宇和島式鯛魚飯（**宇和島鯛飯**）  
 啲鯛魚係撈埋蛋同醬汁一齊食第二度食唔到  
 
@@ -79,7 +79,7 @@ tags : [travel-日本-四國]
 
 ![](/images/shikoku5h.jpg)
 
-臨上車前再買袋特產[宇和島みかん](https://hidie.net/shikoku5h/)  
+臨上車前再買袋特產[宇和島みかん](/shikoku5h/)  
 唔係好甜少少酸咁好帶新鮮柑橘味  
 （啲日本生果好多時都甜得好假）  
 當地嘢最吸引係價格超親民，哈  
@@ -89,7 +89,7 @@ JR：宇和島 → 松山（再行去大手町）
 
 ![](/images/shikoku5i1.jpg)
 
-再上埋呢個[大観覧車くるりん](https://hidie.net/shikoku5i/)嘅**摩天輪**  
+再上埋呢個[大観覧車くるりん](/shikoku5i/)嘅**摩天輪**  
 全部都係JR pass包晒  
 本身對摩天輪冇乜迷戀嘅感覺  
 咁既然免費又有時間剩  
@@ -100,12 +100,12 @@ JR：宇和島 → 松山（再行去大手町）
 
 ![](/images/shikoku5j.jpg)
 
-[大街道商店街](hhttps://hidie.net/shikoku5j/)  
+[大街道商店街](h/shikoku5j/)  
 日落晒梗係唔係嚟行街啦  
 
 ![](/images/shikoku5k.jpg)
 
-食晚飯 @[すし丸 本店](https://hidie.net/shikoku5k/)  
+食晚飯 @[すし丸 本店](/shikoku5k/)  
 响松山唔食**松山鮓**絕對會係遺憾  
 
 ![](/images/shikoku5k1.jpg)
@@ -115,7 +115,7 @@ JR：宇和島 → 松山（再行去大手町）
 完全冇誇張，隻啤酒真係好飲到流出感動嘅眼淚  
 （而家打字都仲眼濕濕咁呀該煨）  
   
-食到好飽，諗住膽粗粗[夜訪松山城](https://hidie.net/shikoku5l/)  
+食到好飽，諗住膽粗粗[夜訪松山城](/shikoku5l/)  
 可惜條路非常之黑，放棄～  
   
 又搭伊予鉄道從県庁前到道後公園  
@@ -125,7 +125,7 @@ JR：宇和島 → 松山（再行去大手町）
 
 ![](/images/shikoku5m.jpg)
 
-[まごころ酪園 - らくれん牛乳](https://hidie.net/shikoku5m/)  
+[まごころ酪園 - らくれん牛乳](/shikoku5m/)  
 舒舒服服咁浸完  
 扮吓當地人飲返樽牛奶先  
 香濃厚滑好好味呢  
@@ -137,7 +137,7 @@ JR：宇和島 → 松山（再行去大手町）
 
 ![](/images/shikoku5n.jpg)
 
-[あかまつ農園 イチゴ](https://hidie.net/shikoku5n/)  
+[あかまつ農園 イチゴ](/shikoku5n/)  
 好彩邊行邊有超甜嘅士多啤梨陪住  
 條街冇人咁滯行住食都唔覺眼嘅  
 都係愛媛県產㗎～  

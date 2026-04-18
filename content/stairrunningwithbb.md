@@ -6,7 +6,7 @@ images: ["/images/stairrunningwithbb.jpg"]
 tags : [lifestyle - 生活與生存]
 ---
 
-又嚟[孭B跑](https://hidie.net/runwithbb/)嘅日子...  
+又嚟[孭B跑](/runwithbb/)嘅日子...  
 但係落雨就冇得露天跑  
 
 ![](/images/stairrunningwithbb1.jpg)

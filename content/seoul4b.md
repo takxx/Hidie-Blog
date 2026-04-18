@@ -22,8 +22,8 @@ tags : [flavor - 行膳積腹, travel-南韓-首爾]
 但也是味道較淡  
   
 這家的我覺得不夠香濃  
-好懷念釜山的[天安（천안곰탕）](https://hidie.net/busanjj3e/)呢～  
+好懷念釜山的[天安（천안곰탕）](/busanjj3e/)呢～  
   
 \-----------------------------------------------  
   
-延伸閱讀：[seoul time（7D7N）](https://hidie.net/seoul7d7n/)
+延伸閱讀：[seoul time（7D7N）](/seoul7d7n/)

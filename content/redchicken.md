@@ -10,14 +10,14 @@ tags : [flavor - 行膳積腹]
 也沒有瘋狂得跑去買金秀賢的海報照片寫真集
 
 （不否認想買beyond的mask set裝）  
-（↑[怎會不去買](https://hidie.net/beyondpanda/)，別傻了！）
+（↑[怎會不去買](/beyondpanda/)，別傻了！）
 
 不過作為自認為星粉的我  
 除了會在送巴士車尾時企定定  
 整隻手臂伸向前然後情深的對著巴士喊著「卡知嗎」  
 有或者在尋找不到失物時會大叫「都敏俊c，救我」之外  
 當然不會不吃炸雞、喝啤酒、K即食麵  
-在韓國時[都有食](https://hidie.net/busanjj7h/)，覺得都不錯吃  
+在韓國時[都有食](/busanjj7h/)，覺得都不錯吃  
 原來香港都有很多韓國來的過江龍（過雞籠？）  
 這間red chicken就是其中一家  
 
@@ -45,5 +45,5 @@ tags : [flavor - 行膳積腹]
 
   
 
-[劇集](https://hidie.net/lovefromstar/)完了；炸雞已吃  
+[劇集](/lovefromstar/)完了；炸雞已吃  
 是時候回復正常生活了～

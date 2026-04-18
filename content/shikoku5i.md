@@ -31,7 +31,7 @@ JR：宇和島 → 松山（再行去大手町）
 
 ![](/images/shikoku5i5.jpg)
 
-個天台有[坊っちゃん列車](https://hidie.net/shikoku4h/)（少爺列車）個樣，哈哈  
+個天台有[坊っちゃん列車](/shikoku4h/)（少爺列車）個樣，哈哈  
 
 ![](/images/shikoku5i6.jpg)
 

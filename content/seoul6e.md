@@ -6,7 +6,7 @@ aliases: [ "/2014/11/seoul-time-day6hite-max-all-malt-beer.html" ]
 tags : [travel-南韓-首爾, flavor - 飲！]
 ---
 
-之前喝那個超君子的[dry finish](https://hidie.net/hitebeer/)  
+之前喝那個超君子的[dry finish](/hitebeer/)  
 這次就試一下max  
 
 ![](/images/seoul6e.jpg)
@@ -18,4 +18,4 @@ tags : [travel-南韓-首爾, flavor - 飲！]
   
 \-----------------------------------------------  
   
-延伸閱讀：[seoul time（7D7N）](https://hidie.net/seoul7d7n/)
+延伸閱讀：[seoul time（7D7N）](/seoul7d7n/)

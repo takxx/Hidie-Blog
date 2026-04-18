@@ -27,5 +27,5 @@ Zombies, Run!
 臭腥蛋白味、敷的時候拉緊  
 用後緊緻收輪廓撫平乾紋皺紋  
   
-敷了10多年的[nu skin - face lift](https://hidie.net/nuskinfacelift/)  
+敷了10多年的[nu skin - face lift](/nuskinfacelift/)  
 是**一模一樣**的東西呢～（笑喊）

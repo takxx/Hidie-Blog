@@ -6,7 +6,7 @@ images: ["/images/sushitachi.jpg"]
 tags : [flavor - 行膳積腹, satisfaction - 黃店懲罰日]
 ---
 
-雖然佢好鍾意去[初見](https://hidie.net/shoken/)  
+雖然佢好鍾意去[初見](/shoken/)  
 不過今日行過見到呢度唔使等位就拉佢入嚟食  
 
 ![](/images/sushitachi1.jpg)

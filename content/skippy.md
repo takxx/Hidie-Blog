@@ -13,11 +13,11 @@ tags : [collections - mini, flavor - 揀飲宅食]
 
 **Skippy Peanut Butter Crunchy**  
 花生醬都係有粒粒嘅好味啲  
-呢樣嘢有時係會[自己整](https://hidie.net/peanutbutter/)  
+呢樣嘢有時係會[自己整](/peanutbutter/)  
 但係有時都會懶得整  
 咁出去買又真係方便啲嘅...  
 反正隻味都算唔錯  
   
 \-----------------------------------------------  
   
-延伸閱讀：[Skippy 花生鹽之麻糬](https://hidie.net/skippymochi/)
+延伸閱讀：[Skippy 花生鹽之麻糬](/skippymochi/)

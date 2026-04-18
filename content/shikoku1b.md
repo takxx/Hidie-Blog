@@ -6,7 +6,7 @@ aliases: [ "/2020/03/day1-kiri.html" ]
 tags : [travel-日本-四國, flavor - 螞蟻族, flavor - say cheese]
 ---
 
-因為[晚餐](https://hidie.net/shikoku1a/)飽得滯  
+因為[晚餐](/shikoku1a/)飽得滯  
 所以個甜品宵夜要夜啲先响便利店先食  
 
 ![](/images/shikoku1b.jpg)
@@ -21,7 +21,7 @@ tags : [travel-日本-四國, flavor - 螞蟻族, flavor - say cheese]
 因為個もち雪咁耐都仲夠煙韌  
 雪糕奶味濃郁又軟滑  
 起沙紅豆蓉唔會過份甜  
-e？同[之前](https://hidie.net/nagoya3f/)有咩分別呀咁？  
+e？同[之前](/nagoya3f/)有咩分別呀咁？  
 當然係中間面頭黃黃地pat芝士cream啦  
 淡淡甜甜加微微鹹嘅cream cheese味  
 唔突兀又帶少少香令成兜雪糕嘅層次更豐富  

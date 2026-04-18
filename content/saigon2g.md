@@ -81,4 +81,4 @@ Bảo tàng chứng tích chiến tranh
 **PEACE, NO WAR**  
 \-----------------------------------------------  
   
-延伸閱讀：[西貢西貢食食貢（6D5N）](https://hidie.net/saigon6d5n/)
+延伸閱讀：[西貢西貢食食貢（6D5N）](/saigon6d5n/)

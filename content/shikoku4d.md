@@ -26,7 +26,7 @@ tags : [flavor - 行膳積腹, satisfaction - 搭條鐵, travel-日本-四國]
 
 ![](/images/shikoku4d3.jpg)
 
-有過幾日會搭嘅綠色列車（[土讃線アンパンマン列車 グリーン](https://hidie.net/shikoku7k/)）  
+有過幾日會搭嘅綠色列車（[土讃線アンパンマン列車 グリーン](/shikoku7k/)）  
 
 ![](/images/shikoku4d4.jpg)
 

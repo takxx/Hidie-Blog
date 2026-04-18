@@ -26,4 +26,4 @@ tags : [lifestyle - 急救箱]
 
 \-----------------------------------------------  
   
-延伸閱讀：[LION 休足時間](https://hidie.net/kyusokujikan/)
+延伸閱讀：[LION 休足時間](/kyusokujikan/)

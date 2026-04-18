@@ -12,7 +12,7 @@ tags : [travel-日本-四國]
 ![](/images/shikoku7a.jpg)
 
 連行條街都有佢哋嘅石像&石凳們  
-（好似擒日見到嘅[咖喱包](https://hidie.net/shikoku6m/)咁）  
+（好似擒日見到嘅[咖喱包](/shikoku6m/)咁）  
 
 ![](/images/shikoku7a1.jpg)
 

@@ -15,7 +15,7 @@ tags : [flavor - 飲！]
 係比一般市售豆乳個質地杰好多嘅  
 不過豆味喇嘛... 
 可能係得7.6啩  
-平日响[屋企整](https://hidie.net/gingersoymilk/)嘅  
+平日响[屋企整](/gingersoymilk/)嘅  
 又或者懶得整就落街買MARUSAN嗰隻無調整豆乳  
 （呢隻係9%豆）  
 都比起阿狂人呢隻個豆味嚟得濃郁  

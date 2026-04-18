@@ -18,7 +18,7 @@ tags : [glamorous - 保養おたく]
 比較似保濕精華多於美白精華這樣  
   
 但硬要比較的話  
-即時用後感就比[cloud-9](https://hidie.net/cloud9serum/)好  
+即時用後感就比[cloud-9](/cloud9serum/)好  
 因為粒子沒有那麼大  
 不會有強勁反光的強光效果  
   

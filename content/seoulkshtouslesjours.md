@@ -15,8 +15,8 @@ tags : [flavor - 行膳積腹, travel-南韓-首爾, collections - 김수현]
 換幾張postcard poster同年曆  
   
 但吃小小東西的話，就無妨  
-（也有買過[petitzel](https://hidie.net/cjyogurtjelly/)、[oksusu](https://hidie.net/oksusuvline/)，當然還有[lemona](https://hidie.net/clemona/)就是）  
-（其實[beyond](https://hidie.net/beyondpanda/)也有入手，但並非為event而買）  
+（也有買過[petitzel](/cjyogurtjelly/)、[oksusu](/oksusuvline/)，當然還有[lemona](/clemona/)就是）  
+（其實[beyond](/beyondpanda/)也有入手，但並非為event而買）  
 
 ![](/images/seoulkshtouslesjours.jpg)
 

@@ -12,7 +12,7 @@ tags : [flavor - 行膳積腹, satisfaction - 黃店懲罰日]
 ![](/images/ramenikka1.jpg)
 
 「とりあえず、生で」（總之先嚟杯生啤）  
-又係基本盤[Suntory ザ・プレミアム・モルツ](https://hidie.net/suntorypremium/)喇！  
+又係基本盤[Suntory ザ・プレミアム・モルツ](/suntorypremium/)喇！  
 （根本就係諗都冇諗過...）
 
 ![](/images/ramenikka2.jpg)

@@ -31,4 +31,4 @@ tags : [glamorous - 畫皮]
   
 
 好啦好啦，我不會忽略面部的  
-用的是[元祖級](https://hidie.net/milkydress/)的那隻
+用的是[元祖級](/milkydress/)的那隻

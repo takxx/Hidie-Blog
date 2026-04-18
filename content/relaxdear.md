@@ -66,6 +66,6 @@ but至少睇得出間嘢有改善過先再考慮幫襯囉（遠望）
 
 
 附近嘅美味（純粹比較今餐）：  
-楊枝甘露 - [大飯糖](https://hidie.net/sweetcanteen/)   
-榴槤雪花冰 - [糖宮](https://hidie.net/dessertpalace/)  
-waffle - [夏雪](https://hidie.net/summerice/)
+楊枝甘露 - [大飯糖](/sweetcanteen/)   
+榴槤雪花冰 - [糖宮](/dessertpalace/)  
+waffle - [夏雪](/summerice/)

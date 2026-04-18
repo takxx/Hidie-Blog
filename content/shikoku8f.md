@@ -6,7 +6,7 @@ aliases: [ "/2020/05/day8_49.html" ]
 tags : [travel-日本-四國]
 ---
 
-擒晚响[土佐ノ國 二十四万石](https://hidie.net/shikoku7p/)兜**皿鉢料理**食剩拎走嘅...
+擒晚响[土佐ノ國 二十四万石](/shikoku7p/)兜**皿鉢料理**食剩拎走嘅...
 
 ![](/images/shikoku8f.jpg)
 

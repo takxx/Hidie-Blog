@@ -12,7 +12,7 @@ tags : [glamorous - 蛋臉以外]
 ![](/images/siamcoconut.jpg)
 
 也是用起泡網加水起泡  
-（對，[那個起泡網](https://hidie.net/mujinet/)真的很忙）  
+（對，[那個起泡網](/mujinet/)真的很忙）  
 泡泡綿密綿密的又帶輕輕的椰子味  
 白色那邊泡泡會白色  
 但黑色那邊起的就是灰色泡泡  

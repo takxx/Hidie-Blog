@@ -13,7 +13,7 @@ tags : [flavor - 小食部, satisfaction - 黃店懲罰日]
 ![](/images/fengming2.jpg)
 
 **石磨豬膶腸粉加雞蛋**  
-[上次](https://hidie.net/fengming/)食唔到，今次終於食到  
+[上次](/fengming/)食唔到，今次終於食到  
 仲係好好味嗰隻  
   
 「唔該想要豬膶腸粉加燒賣」  

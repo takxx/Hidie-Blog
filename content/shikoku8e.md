@@ -6,8 +6,8 @@ aliases: [ "/2020/05/day8_21.html" ]
 tags : [travel-日本-四國]
 ---
 
-响[日曜市](https://hidie.net/shikoku8b/)買嘅全部都係食嘅  
-除咗啱啱食咗嘅[田舎寿司](https://hidie.net/shikoku8c/)同[あんこ餅、芋餅](https://hidie.net/shikoku8d/)之外
+响[日曜市](/shikoku8b/)買嘅全部都係食嘅  
+除咗啱啱食咗嘅[田舎寿司](/shikoku8c/)同[あんこ餅、芋餅](/shikoku8d/)之外
 
 ![](/images/shikoku8e1.jpg)
 
@@ -83,7 +83,7 @@ tags : [travel-日本-四國]
 ![](/images/shikoku8e13.jpg)
 
 魚乾都有好多種好買  
-之前响[德島鳴門](https://hidie.net/shikoku3d/)買唔到大條嗰啲  
+之前响[德島鳴門](/shikoku3d/)買唔到大條嗰啲  
 今日都彌補到遺憾  
 仲有呢度特產嘅魚毛仔釜揚げしらす（しらす干し）呢
 

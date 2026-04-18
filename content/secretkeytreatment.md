@@ -6,7 +6,7 @@ aliases: [ "/2014/09/essence-secret-key-starting-treatment.html" ]
 tags : [glamorous - 保養おたく]
 ---
 
-包裝同原料都跟[SK-II](https://hidie.net/skiiessence/)差不多  
+包裝同原料都跟[SK-II](/skiiessence/)差不多  
 但價格就差很大了～  
 
 ![](/images/secretkeytreatment.jpg)

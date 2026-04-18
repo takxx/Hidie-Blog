@@ -18,7 +18,7 @@ tags : [travel-日本-四國, flavor - 螞蟻族]
 微韌嘅もち紅豆湯  
 然而湯底係濃郁抹茶  
 先食もち再加紅豆蓉食加cream食再加熱熱抹茶食然後撈埋一齊食  
-好似啲幾食[魚生飯](https://hidie.net/tokyo3c/)[鰻魚飯](https://hidie.net/nagoya2a/)咁有多重享受（心）
+好似啲幾食[魚生飯](/tokyo3c/)[鰻魚飯](/nagoya2a/)咁有多重享受（心）
 
 ![](/images/shikoku8h1.jpg)
 

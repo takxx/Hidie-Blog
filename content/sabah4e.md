@@ -14,4 +14,4 @@ byebye grandpa sun，see u tomorrow～
   
 \-----------------------------------------------  
   
-延伸閱讀：[沙巴密密食（5D4N）](https://hidie.net/sabah5d4n/)
+延伸閱讀：[沙巴密密食（5D4N）](/sabah5d4n/)

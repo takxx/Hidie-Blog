@@ -6,7 +6,7 @@ images: ["/images/ritzroll.jpg"]
 tags : [flavor - say cheese]
 ---
 
-由細細個就好鍾意食RITZ隻迷你[芝士餅](https://hidie.net/nabiscoritz/)  
+由細細個就好鍾意食RITZ隻迷你[芝士餅](/nabiscoritz/)  
 唔知佢啲變奏版會唔會都好食呢？  
 
 ![](/images/ritzroll.jpg)

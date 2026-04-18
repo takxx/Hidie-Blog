@@ -6,7 +6,7 @@ aliases: [ "/2020/05/day6_5.html" ]
 tags : [flavor - 行膳積腹, travel-日本-四國]
 ---
 
-入到嚟[ひろめ市場](https://hidie.net/shikoku6k/)...  
+入到嚟[ひろめ市場](/shikoku6k/)...  
 
 ![](/images/shikoku6l1.jpg)
 

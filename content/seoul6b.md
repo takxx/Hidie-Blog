@@ -6,8 +6,8 @@ aliases: [ "/2014/10/seoul-time-day6osulloc-tea-house.html" ]
 tags : [travel-南韓-首爾, flavor - 飲！, flavor - 螞蟻族]
 ---
 
-很喜歡o’sulloc的[濟州綠茶](https://hidie.net/osullocpowder/)  
-（也很愛water+的[red cafe](https://hidie.net/osullocredcafe/)）  
+很喜歡o’sulloc的[濟州綠茶](/osullocpowder/)  
+（也很愛water+的[red cafe](/osullocredcafe/)）  
 
 ![](/images/seoul6b.jpg)
 
@@ -50,4 +50,4 @@ cream質地較像mousse
   
 \-----------------------------------------------  
   
-延伸閱讀：[seoul time（7D7N）](https://hidie.net/seoul7d7n/)
+延伸閱讀：[seoul time（7D7N）](/seoul7d7n/)

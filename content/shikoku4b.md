@@ -150,7 +150,7 @@ tags : [travel-日本-四國, satisfaction - 搭條鐵]
 ![](/images/shikoku4b30.jpg)
 
 偃月橋下，肥嘟嘟嘅鯉魚們游嚟游去  
-（[雲南嗰啲](https://hidie.net/yunnan3b/)唔游水㗎哈哈）  
+（[雲南嗰啲](/yunnan3b/)唔游水㗎哈哈）  
 
 ![](/images/shikoku4b31.jpg)
 

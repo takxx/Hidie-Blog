@@ -14,14 +14,14 @@ tags : [travel-日本-四國]
 
 ![](/images/shikoku6a.jpg)
 
-[伊予松山城](https://hidie.net/shikoku6a/)  
+[伊予松山城](/shikoku6a/)  
 日本12座現存天守之一  
   
 有啲位修復緊所以圍咗板  
 不過都唔影響欣賞個城嘅景觀  
   
 ... 然後求其搵張長凳  
-坐低由高處望住個松山城（市鎮）食[簡餐](https://hidie.net/shikoku6b/)  
+坐低由高處望住個松山城（市鎮）食[簡餐](/shikoku6b/)  
   
 要行晨運咁上山係因為中午又嚟個大遷徙  
 話說搭JR嘅話就有排兜  
@@ -29,7 +29,7 @@ tags : [travel-日本-四國]
 咁樣好嘥時間啫  
 因此，仲有另一個移動嘅方法  
   
-[搭JR巴士](https://hidie.net/shikoku6e/)，然而用JR pass呢  
+[搭JR巴士](/shikoku6e/)，然而用JR pass呢  
 用嚟搭JR巴士係可以用優惠價¥1,000就OK (原價 ¥3,600)  
 雖然有諗過搭幾粒鐘咪幾粒鐘一円都唔再俾  
 但係去旅行真係唔駛拗氣  
@@ -40,23 +40,23 @@ tags : [travel-日本-四國]
 
 ![](/images/shikoku6f.jpg)
 
-上車食响冚家[Family Mart買嘅おむすび](https://hidie.net/shikoku6f/)  
+上車食响冚家[Family Mart買嘅おむすび](/shikoku6f/)  
 好好食呀〜〜〜  
 
 ![](/images/shikoku6g.jpg)
 
-[田那部青果 - 清見タンゴール ちゅうちゅうゼリー](https://hidie.net/shikoku6g/)  
+[田那部青果 - 清見タンゴール ちゅうちゅうゼリー](/shikoku6g/)  
 愛媛必買嘅柑jelly  
 滑嘟嘟果味香甜，超正！  
   
-JR bus：松山 → [高知](https://hidie.net/shikoku6h/)  
+JR bus：松山 → [高知](/shikoku6h/)  
   
 落車放低行李响酒店（未夠鐘check in啊）  
 然後四圍行吓先  
 
 ![](/images/shikoku6i.jpg)
 
-點知一去就去咗最就近嘅[高知城](https://hidie.net/shikoku6i/)  
+點知一去就去咗最就近嘅[高知城](/shikoku6i/)  
 又係日本12座現存天守之一  
 冇錯！12座之中我呢次旅程就去咗4個  
 四国裡面有嘅都去晒  
@@ -70,17 +70,17 @@ JR bus：松山 → [高知](https://hidie.net/shikoku6h/)
 ![](/images/shikoku6j.jpg)
 
 今次上到城堡冇空手回喇  
-嘆返枝高知名物：[１Ｘ１アイスクリン](https://hidie.net/shikoku6j/)  
+嘆返枝高知名物：[１Ｘ１アイスクリン](/shikoku6j/)  
 （喂個fo去咗邊呀？）  
 
 ![](/images/shikoku6k.jpg)
 
 食開咗個胃就要去食多啲嘢  
-梗係行落[ひろめ市場](https://hidie.net/shikoku6k/)啦  
+梗係行落[ひろめ市場](/shikoku6k/)啦  
 
 ![](/images/shikoku6l2.jpg)
 
-專登嚟[明神丸](https://hidie.net/shikoku6l/)睇表演同食**鰹のタタキ**  
+專登嚟[明神丸](/shikoku6l/)睇表演同食**鰹のタタキ**  
 哇哇哇～ 呢種做法令鰹魚最好食  
 本身已經好肥美  
 燒一燒個面，令佢整體冇咁漏  
@@ -93,14 +93,14 @@ JR bus：松山 → [高知](https://hidie.net/shikoku6h/)
 
 再行吓行吓兜吓兜吓  
 誤打誤撞之下  
-食到[グラム](https://hidie.net/shikoku6m/) (gram) 嘅**プレミアムパンケーキ**（！）  
+食到[グラム](/shikoku6m/) (gram) 嘅**プレミアムパンケーキ**（！）  
 呢種ふわふわ感覺嘅pancake  
 完全明白到點解啲人會特登排隊等食  
 well，我呢碟排都唔使排嘅（得戚）  
 
 ![](/images/shikoku6n.jpg)
 
-唔想行街，就去參觀吓[高知よさこい情報交流館](https://hidie.net/shikoku6n/)  
+唔想行街，就去參觀吓[高知よさこい情報交流館](/shikoku6n/)  
 啲舞步好得意，齋睇人哋跳嘅片  
 都有少少睇到唔捨得走  
 
@@ -110,13 +110,13 @@ well，我呢碟排都唔使排嘅（得戚）
 
 ![](/images/shikoku6p.jpg) 
 
-位置係景點之一嘅[播磨屋橋（はりまや橋）](https://hidie.net/shikoku6p/)  
+位置係景點之一嘅[播磨屋橋（はりまや橋）](/shikoku6p/)  
   
-又响街行吓再[返酒店](https://hidie.net/shikoku6q/)check in唞陣  
+又响街行吓再[返酒店](/shikoku6q/)check in唞陣  
 
 ![](/images/shikoku6r1.jpg)
 
-夜晚就落酒店後面嘅屋台食碗ラーメン @[松ちゃん](https://hidie.net/shikoku6r/)  
+夜晚就落酒店後面嘅屋台食碗ラーメン @[松ちゃん](/shikoku6r/)  
 碗麵好普通但係個餃子皮超～ 脆～  
 同埋路邊攤個風味好好囉！  
   

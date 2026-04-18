@@ -33,4 +33,4 @@ Trụ sở Ủy ban Nhân dân Thành phố Hồ Chí Minh
   
 \-----------------------------------------------  
   
-延伸閱讀：[西貢西貢食食貢（6D5N）](https://hidie.net/saigon6d5n/)
+延伸閱讀：[西貢西貢食食貢（6D5N）](/saigon6d5n/)

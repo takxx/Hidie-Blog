@@ -11,15 +11,15 @@ tags : [travel-日本-四國]
 
 ![](/images/shikoku7a.jpg)
 
-連行條街都有佢哋嘅[石凳](https://hidie.net/shikoku7a/)  
+連行條街都有佢哋嘅[石凳](/shikoku7a/)  
 
 ![](/images/shikoku7c.jpg)
 
-[くじら列車](https://hidie.net/shikoku7c/)  
+[くじら列車](/shikoku7c/)  
 好得意呢，不過唔係坐呢架  
 完全反方向呀影低佢都好  
   
-高知 → [中村](https://hidie.net/shikoku7e/)  
+高知 → [中村](/shikoku7e/)  
   
 無巴士嘅情況下，根據google map  
 行路就53分鐘；搭車7分鐘  
@@ -36,7 +36,7 @@ tags : [travel-日本-四國]
 
 ![](/images/shikoku7f.jpg)
 
-仲要係[天然うなぎ ＠四万十屋](https://hidie.net/shikoku7f/)  
+仲要係[天然うなぎ ＠四万十屋](/shikoku7f/)  
 真係得呢度會有㗎咋～  
 除咗叫蒲焼仲嗌咗個更特別 & 原味嘅蒸籠  
 鍾意食鰻魚嘅話一生人一定要嚟食一次！  
@@ -46,18 +46,18 @@ tags : [travel-日本-四國]
 
 ![](/images/shikoku7g1.jpg)
 
-係呀，[的士出入](https://hidie.net/shikoku7g/)呀幾咁豪氣（肉赤赤）  
+係呀，[的士出入](/shikoku7g/)呀幾咁豪氣（肉赤赤）  
 
 ![](/images/shikoku7g.jpg)
 
 冇得踩單車親近條四万十川  
 就咁响呢個角度睇啦  
 睇得到嘅藍；聞得到嘅清新空氣  
-(同[Pinhão](https://hidie.net/portugal8a/)嘅一樣咁fresh)  
+(同[Pinhão](/portugal8a/)嘅一樣咁fresh)  
 
 ![](/images/shikoku7h.jpg)
 
-[四万十百年ぶしゅかんドリンク](https://hidie.net/shikoku7h/)  
+[四万十百年ぶしゅかんドリンク](/shikoku7h/)  
 日頭晌頭殼頂熱一熱  
 飲呢度出產嘅果汁  
 酸酸甜甜甜甜酸酸咁幾好味
@@ -69,36 +69,36 @@ tags : [travel-日本-四國]
 
 ![](/images/shikoku7i.jpg)
 
-去浸溫泉 @[四万十温泉平和な湯](https://hidie.net/shikoku7i/)  
+去浸溫泉 @[四万十温泉平和な湯](/shikoku7i/)  
 呢個時間得小貓三四隻  
 浸到差啲唔知時日過
 
 ![](/images/shikoku7k.jpg)
 
 唔走唔得啦我又要搭アンパンマン列車喇哈哈哈  
-呢架係[土讃線アンパンマン列車 グリーン](https://hidie.net/shikoku7k/)  
+呢架係[土讃線アンパンマン列車 グリーン](/shikoku7k/)  
 仲係有アンパンマン車廂㗎呢（興奮）
 
 ![](/images/shikoku7j.jpg)
 
-靠站對面係[土佐くろしお鉄道8000形（四万十町仕様）](https://hidie.net/shikoku7j/)  
+靠站對面係[土佐くろしお鉄道8000形（四万十町仕様）](/shikoku7j/)  
 河水清清又有魚，好可愛～  
   
 去中村嗰陣有兩個香港女仔同車  
 佢哋就去踩單車遊四万十川  
 其中一個仲要肚屙呢陰功  
 （唔好問我點解聽到睇到啦）  
-[回程](https://hidie.net/shikoku7l/)都係見到佢哋  
+[回程](/shikoku7l/)都係見到佢哋  
 佢哋就直回高知
 
 ![](/images/shikoku7m.jpg)
 
-而我呢就响[須崎](https://hidie.net/shikoku7m/)落車...
+而我呢就响[須崎](/shikoku7m/)落車...
 
 ![](/images/shikoku7n.jpg)
 
 無計啦，難得兜過都想試多啲嘢  
-**鍋焼きラーメン** @[まゆみの店](https://hidie.net/shikoku7n/)  
+**鍋焼きラーメン** @[まゆみの店](/shikoku7n/)  
 所謂「試」，當然係指「食」啦  
 高知都有呢種麵食嘅  
 但都係啦：既然兜過埋嚟食吓囉  
@@ -113,12 +113,12 @@ google map寫行路23分鐘
 
 ![](/images/shikoku7o4.jpg)
 
-搭返JR[返高知](https://hidie.net/shikoku7o/)喇～  
+搭返JR[返高知](/shikoku7o/)喇～  
 （byebye須崎）  
 
 ![](/images/shikoku7p.jpg)
 
-返到高知就食晚餐 @[土佐ノ國 二十四万石](https://hidie.net/shikoku7p/)  
+返到高知就食晚餐 @[土佐ノ國 二十四万石](/shikoku7p/)  
 呢個旅程嘅最後一個晚餐喇  
 梗係有咁勁食咁勁啦！  
 乜都有嘅**皿！鉢！料！理！**  

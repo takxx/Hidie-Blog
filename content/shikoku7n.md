@@ -42,7 +42,7 @@ vintage到爆嘅筆插筷子座
 
 ![](/images/shikoku7n7.jpg)
 
-鍋焼きラーメン[しんじょう君](https://hidie.net/shikoku7m/)個場景就係呢間舖
+鍋焼きラーメン[しんじょう君](/shikoku7m/)個場景就係呢間舖
 
 ![](/images/shikoku7n8.jpg)
 

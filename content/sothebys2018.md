@@ -70,7 +70,7 @@ tags : [amusement - exhibition]
 
 ![](/images/sothebys2018i.jpg)
 
-睇[村上隆](https://hidie.net/murakamiex/)嘅哈哈笑花花都會好開心  
+睇[村上隆](/murakamiex/)嘅哈哈笑花花都會好開心  
 
 ![](/images/sothebys2018j.jpg)
 
@@ -78,7 +78,7 @@ tags : [amusement - exhibition]
 
 ![](/images/sothebys2018k.jpg)
 
-同樣見到會微微驚嘅，有[草間彌生](https://hidie.net/harbourartssculpturepark2018/)嘅南瓜畫  
+同樣見到會微微驚嘅，有[草間彌生](/harbourartssculpturepark2018/)嘅南瓜畫  
 
 ![](/images/sothebys2018l.jpg)
 
@@ -153,7 +153,7 @@ tags : [amusement - exhibition]
 
 ![](/images/sothebys2018w.jpg)
 
-可惜攰得滯喇[過幾日](https://hidie.net/yoshitomonaraex/)先過去啦唯有  
+可惜攰得滯喇[過幾日](/yoshitomonaraex/)先過去啦唯有  
 
 ![](/images/sothebys2018x.jpg)
 

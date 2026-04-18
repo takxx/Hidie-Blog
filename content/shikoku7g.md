@@ -12,7 +12,7 @@ tags : [travel-日本-四國]
 
 就咁响呢個角度睇啦  
 睇得到嘅藍；聞得到嘅清新空氣  
-(同[Pinhão](https://hidie.net/portugal8a/)嘅一樣咁fresh)  
+(同[Pinhão](/portugal8a/)嘅一樣咁fresh)  
 
 ![](/images/shikoku7g1.jpg)
 

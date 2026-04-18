@@ -6,7 +6,7 @@ aliases: [ "/2014/10/seoul-time.html" ]
 tags : [travel-南韓-首爾, collections - 김수현]
 ---
 
-因為[這套劇](https://hidie.net/lovefromstar/)才認識他，沒有忘本啦～  
+因為[這套劇](/lovefromstar/)才認識他，沒有忘本啦～  
 
 ![](/images/seoulkshleaflet1.jpg)
 

@@ -10,7 +10,7 @@ tags : [lifestyle - 生活與生存]
 只係個拎埋阿B「跑」嘅老母  
   
 一樣係平時條7公里路線  
-不過因為為免似[拐帶BB](https://hidie.net/runwithbaby/)  
+不過因為為免似[拐帶BB](/runwithbaby/)  
 就唔再用BB車推住跑  
 係更強嘅孭！B！！跑！！！  
 實行負重帶氧一次過（哈）  

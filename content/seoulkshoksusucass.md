@@ -10,11 +10,11 @@ tags : [travel-南韓-首爾, collections - 김수현]
 
 ![](/images/seoulkshoksusucass1.jpg)
 
-[粟米鬚茶](https://hidie.net/oksusuvline/)？  
+[粟米鬚茶](/oksusuvline/)？  
 
 ![](/images/seoulkshoksusucass.jpg)
 
-還是[啤酒](https://hidie.net/busanjj7g/)呢？  
+還是[啤酒](/busanjj7g/)呢？  
 （好開心的樣子呢）  
 
 ![](/images/seoulkshoksusucass2.jpg)

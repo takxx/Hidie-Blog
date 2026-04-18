@@ -17,7 +17,7 @@ tags : [travel-日本-四國]
 
 ![](/images/shikoku1a1.jpg)
 
-@[豊丸水産 海賊浜焼き](https://hidie.net/shikoku1a/)  
+@[豊丸水産 海賊浜焼き](/shikoku1a/)  
 食浜焼き啦食刺身啦食蒸蠔啦  
 海鮮海鮮海鮮，水產嘅海鮮就係新鮮囉  
 都有肉食嘅不過麻麻地啦  
@@ -27,7 +27,7 @@ tags : [travel-日本-四國]
 
 ![](/images/shikoku1b.jpg)
 
-[井村屋 やわもちアイス kiri クリームチーズ ](https://hidie.net/shikoku1b/)  
+[井村屋 やわもちアイス kiri クリームチーズ ](/shikoku1b/)  
 飽得滯所以個甜品宵夜要夜啲先响便利店先食  
   
   

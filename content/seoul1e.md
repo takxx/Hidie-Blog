@@ -53,4 +53,4 @@ kimchi味道不錯
   
 \-----------------------------------------------  
   
-延伸閱讀：[seoul time（7D7N）](https://hidie.net/seoul7d7n/)
+延伸閱讀：[seoul time（7D7N）](/seoul7d7n/)

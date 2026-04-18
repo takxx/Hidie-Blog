@@ -117,7 +117,7 @@ start！先嚟113級石級
 ![](/images/shikoku2g20.jpg)
 
 **神札授与所**  
-就係特登走上嚟買呢個金黃色嘅[幸福の黄色いお守り](https://hidie.net/shikokukotohira/)  
+就係特登走上嚟買呢個金黃色嘅[幸福の黄色いお守り](/shikokukotohira/)  
 
 ![](/images/shikoku2g21.jpg)
 

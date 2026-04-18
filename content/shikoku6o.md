@@ -6,7 +6,7 @@ aliases: [ "/2020/05/day6_7.html" ]
 tags : [travel-日本-四國]
 ---
 
-响[情報交流館](https://hidie.net/shikoku6n/)行返出嚟  
+响[情報交流館](/shikoku6n/)行返出嚟  
 
 ![](/images/shikoku6o.jpg)
 
@@ -14,7 +14,7 @@ tags : [travel-日本-四國]
 
 ![](/images/shikoku6o1.jpg)
 
-响高知県高知市[はりまや橋](https://hidie.net/shikoku6p/)出生  
+响高知県高知市[はりまや橋](/shikoku6p/)出生  
 頭頂有條はりまや橋同袋口有よさこい用到嘅鳴子  
 除咗跳舞仲鍾意相撲  
 名實相副嘅高知宣傳物  

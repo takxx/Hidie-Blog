@@ -22,5 +22,5 @@ tags : [handmade - 開伙]
 也可以加蔥油炸蒜  
 不過這樣我覺得會太油膩了  
   
-豆漿不是自製的話也要用[無調整](https://hidie.net/topvalusoymilk/)那種  
+豆漿不是自製的話也要用[無調整](/topvalusoymilk/)那種  
 不要用甜豆漿就OK

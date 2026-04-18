@@ -14,7 +14,7 @@ tags : [lifestyle - 港女港旅]
 
 ![](/images/sktomls2.jpg)
 
-hello[飛鵝山](https://hidie.net/kowloonpeak/)（揮手揮手）  
+hello[飛鵝山](/kowloonpeak/)（揮手揮手）  
 
 ![](/images/sktomls3.jpg)
 
@@ -26,7 +26,7 @@ hello[飛鵝山](https://hidie.net/kowloonpeak/)（揮手揮手）
 
 ![](/images/sktomls5.jpg)
 
-天氣熱先去[Duke of York](https://hidie.net/blackthorn/)飲返杯，cheers！
+天氣熱先去[Duke of York](/blackthorn/)飲返杯，cheers！
 
 ![](/images/sktomls6.jpg)
 
@@ -39,7 +39,7 @@ hello[飛鵝山](https://hidie.net/kowloonpeak/)（揮手揮手）
 ![](/images/sktomls8.jpg)
 
 肚仔餓兜兜吓睇食咩好  
-然後响[Blacksmith Coffee Shop](https://hidie.net/blacksmith/)嘆返吓  
+然後响[Blacksmith Coffee Shop](/blacksmith/)嘆返吓  
 
 ![](/images/sktomls9.jpg)
 
@@ -91,7 +91,7 @@ hello[飛鵝山](https://hidie.net/kowloonpeak/)（揮手揮手）
 
 ![](/images/sktomls21.jpg)
 
-bye [塔門](https://hidie.net/tapmun/)
+bye [塔門](/tapmun/)
 
 ![](/images/sktomls22.jpg)
 

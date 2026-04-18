@@ -18,7 +18,7 @@ tags : [flavor - 行膳積腹, travel-日本-四國, flavor - 飲！]
 
 **青さのり天／ゴリ唐揚** & **川えび唐揚**  
 炸川蝦同海苔  
-無計啦[今朝食過超新鮮](https://hidie.net/shikoku7f/)嘅 \
+無計啦[今朝食過超新鮮](/shikoku7f/)嘅 \
 咁就直接被比下去喇...
 
 ![](/images/shikoku7p2.jpg)
@@ -53,7 +53,7 @@ tags : [flavor - 行膳積腹, travel-日本-四國, flavor - 飲！]
 
 **藁焼き 鰹のタタキ**  
 以乾草燒鰹魚嚟講  
-當然係輸比[明神丸](https://hidie.net/shikoku6l/)九千條街  
+當然係輸比[明神丸](/shikoku6l/)九千條街  
 不過佢呢個加咗醋汁底，食法完全唔同  
 配埋佐料，又係另一種美味呢
 
@@ -75,7 +75,7 @@ tags : [flavor - 行膳積腹, travel-日本-四國, flavor - 飲！]
 平日嘅巻き寿司係紫菜包餸料咁  
 呢個就調返轉，整！條！鯖魚包飯啲飯
 
-份量太大，[打包拎走](https://hidie.net/shikoku8f/)啦～
+份量太大，[打包拎走](/shikoku8f/)啦～
 
 ![](/images/shikoku7p10.jpg)
 

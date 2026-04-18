@@ -26,4 +26,4 @@ tags : [glamorous - 保養おたく]
 非常好用的洗面梘  
 不論油性乾性的肌膚都會喜愛（心）  
   
-...用[petitfee眼膜](https://hidie.net/petitfeehydro/)個蓋盛住舊梘，個size剛剛好呢（哈）
+...用[petitfee眼膜](/petitfeehydro/)個蓋盛住舊梘，個size剛剛好呢（哈）

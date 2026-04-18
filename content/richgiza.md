@@ -14,7 +14,7 @@ tags : [flavor - say cheese]
 **FritoLay リッチギザ 濃厚チーズ味**  
 唔係啊！唔係麵嚟㗎！    
 佢係粟米base嘅  
-即係FritoLay老是常出現嘅[Doritos](https://hidie.net/doritosnacho/)咁嘅味  
+即係FritoLay老是常出現嘅[Doritos](/doritosnacho/)咁嘅味  
 而比Doritos更硬；一樣都係咁脆  
 厚厚粟米片裡面都充分調味  
 除咗粟米味就係濃郁嘅芝士味  

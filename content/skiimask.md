@@ -6,7 +6,7 @@ aliases: [ "/2014/07/masque-sk-ii-facial-treatment-mask.html" ]
 tags : [glamorous - 保養おたく, glamorous - 面膜魂]
 ---
 
-除了喜愛用[神仙水](https://hidie.net/skiiessence/)自製essence mask外  
+除了喜愛用[神仙水](/skiiessence/)自製essence mask外  
 有時候也會破費一點買濃縮版本  
 
 ![](/images/skiimask.jpg)

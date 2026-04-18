@@ -20,7 +20,7 @@ tags : [travel-日本-四國]
   
 ![](/images/shikoku6a1.jpg)
 
-擒晚食飽就由県庁前向堀之内上去[but失敗](https://hidie.net/shikoku5l/)  
+擒晚食飽就由県庁前向堀之内上去[but失敗](/shikoku5l/)  
 今日從酒店出發，就响**東雲口登城道**方向進發  
 
 ![](/images/shikoku6a2.jpg)
@@ -154,7 +154,7 @@ tags : [travel-日本-四國]
 ![](/images/shikoku6a28.jpg)
 
 然後求其搵張長凳  
-坐低由高處望住個松山城（市鎮）食[簡餐](https://hidie.net/shikoku6b/)  
+坐低由高處望住個松山城（市鎮）食[簡餐](/shikoku6b/)  
 
 ![](/images/shikoku6a29.jpg)
 

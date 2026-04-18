@@ -79,6 +79,6 @@ smart suit們
 
 ![](/images/seoulkshziozia16.jpg)
 
-繼[死亡筆記](https://hidie.net/deathnote/)後 另一本想入手的note book（！）  
+繼[死亡筆記](/deathnote/)後 另一本想入手的note book（！）  
   
-...[to be continued](https://hidie.net/seoulkshziozia14/)
+...[to be continued](/seoulkshziozia14/)

@@ -11,8 +11,8 @@ tags : [flavor - 行膳積腹, satisfaction - 黃店懲罰日]
 ![](/images/shiawasetori1.jpg)
 
 「とりあえず、生で」（總之先嚟杯生啤）   
-都係基本盤[Suntory ザ・プレミアム・モルツ](https://hidie.net/suntorypremium/)  
-同埋甜甜唔會苦嘅[Suntory ザ・プレミアム・モルツ〈黒〉](https://hidie.net/suntoryblack/)黑啤啦  
+都係基本盤[Suntory ザ・プレミアム・モルツ](/suntorypremium/)  
+同埋甜甜唔會苦嘅[Suntory ザ・プレミアム・モルツ〈黒〉](/suntoryblack/)黑啤啦  
 
 ![](/images/shiawasetori2.jpg)
 

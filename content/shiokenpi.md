@@ -6,7 +6,7 @@ images: ["/images/shiokenpi.jpg"]
 tags : [flavor - 小食部]
 ---
  
-雖然甜嘅[蕃薯條](https://hidie.net/nagoya7e/)非常好食...  
+雖然甜嘅[蕃薯條](/nagoya7e/)非常好食...  
 
 ![](/images/shiokenpi.jpg)
 

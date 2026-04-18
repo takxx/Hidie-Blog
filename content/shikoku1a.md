@@ -36,7 +36,7 @@ tags : [flavor - 行膳積腹, travel-日本-四國, flavor - 飲！]
 
 等食期間先搵嘢送酒  
 **あん肝**，新鮮唔會腥嘅軟滑鮟鱇魚肝  
-（話說响[慶州食過超腥嘅鮟鱇魚](https://hidie.net/busanjj2b/)之後留有極大嘅心理陰影）  
+（話說响[慶州食過超腥嘅鮟鱇魚](/busanjj2b/)之後留有極大嘅心理陰影）  
 
 ![](/images/shikoku1a4.jpg)
 

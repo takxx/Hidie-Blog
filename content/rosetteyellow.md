@@ -15,7 +15,7 @@ tags : [glamorous - 保養おたく]
 
 ![](/images/rosetteyellow.jpg)
 
-這枝含[ghassoul clay](https://hidie.net/ghassoul/)的洗面膏  
+這枝含[ghassoul clay](/ghassoul/)的洗面膏  
 以起泡網就能輕易地起了豐盈的泡泡  
 味道是草本香料味都幾香  
   

@@ -26,4 +26,4 @@ tags : [glamorous - 蛋臉以外]
   
 \-----------------------------------------------  
   
-延伸閱讀：[\[body\] siam herb soap coconut](https://hidie.net/siamcoconut/)
+延伸閱讀：[\[body\] siam herb soap coconut](/siamcoconut/)

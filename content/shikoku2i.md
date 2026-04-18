@@ -18,13 +18,13 @@ tags : [travel-日本-四國, satisfaction - 搭條鐵]
 
 **高松築港駅**  
 由頭站搭到去尾站需時一粒鐘  
-去完[丸亀城](https://hidie.net/shikoku2c/)同淋住雨咁行[金刀比羅宮](https://hidie.net/shikoku2g/)再浸埋[溫泉](https://hidie.net/shikoku2h/)真係夠晒攰  
+去完[丸亀城](/shikoku2c/)同淋住雨咁行[金刀比羅宮](/shikoku2g/)再浸埋[溫泉](/shikoku2h/)真係夠晒攰  
 因此成程車有大半嘅時間都係熟睡中... Zzz...  
 
 ![](/images/shikoku2i2.jpg)
 
 **高松駅**  
-同[JR琴平駅至琴電琴平駅](https://hidie.net/shikoku2e/)一樣係兩個唔相容嘅站  
+同[JR琴平駅至琴電琴平駅](/shikoku2e/)一樣係兩個唔相容嘅站  
 要出站去行幾分鐘先到嘅  
 個站有眼同笑容，好cute呢～  
   

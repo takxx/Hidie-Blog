@@ -6,7 +6,7 @@ aliases: [ "/2020/01/kedai-kopi-semua-semua.html" ]
 tags : [flavor - 行膳積腹, flavor - 飲！, satisfaction - 黃店懲罰日]
 ---
 
-好掛住响[沙巴過新年](https://hidie.net/sabah5a/)嘅日子啊啊啊啊啊！  
+好掛住响[沙巴過新年](/sabah5a/)嘅日子啊啊啊啊啊！  
 
 ![](/images/semuasemua1.jpg)
 

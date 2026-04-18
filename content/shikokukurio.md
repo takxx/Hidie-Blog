@@ -6,7 +6,7 @@ aliases: [ "/2020/04/day3_9.html" ]
 tags : [travel-日本-四國, flavor - 螞蟻族]
 ---
 
-普通新鮮蕃薯（[鳴門金時](https://hidie.net/shikoku3d/)）唔特別啫  
+普通新鮮蕃薯（[鳴門金時](/shikoku3d/)）唔特別啫  
 
 ![](/images/shikokukurio.jpg)
 

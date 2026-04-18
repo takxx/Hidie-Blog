@@ -57,7 +57,7 @@ lotte duty free style magazine - 「the lotte」
 ![](/images/seoulkshlottedfs11.jpg)
 
 揮手  
-（LYN唱《my destiny》，背景是[《별에서온그대》](https://hidie.net/lovefromstar/)片段呢）  
+（LYN唱《my destiny》，背景是[《별에서온그대》](/lovefromstar/)片段呢）  
 
 ![](/images/seoulkshlottedfs12.jpg)
 
