@@ -6,7 +6,7 @@ aliases: [ "/2017/06/happy-days-day-9_21.html" ]
 tags : [flavor - 行膳積腹, flavor - 飲！, travel-日本-鹿兒島宮崎]
 ---
 
-食鹿児島嘅肉類除咗以[しゃぶしゃぶ](https://hidie.net/kojkmi4c/)、[蒸し、揚げ](https://hidie.net/kojkmi5e/)、[炆](https://hidie.net/kojkmi5b/)、[炊き](https://hidie.net/kojkmi6m/)烹調之外  
+食鹿児島嘅肉類除咗以[しゃぶしゃぶ](/kojkmi4c/)、[蒸し、揚げ](/kojkmi5e/)、[炆](/kojkmi5b/)、[炊き](/kojkmi6m/)烹調之外  
 
 ![](/images/kojkmi9c1.jpg)
 
@@ -66,4 +66,4 @@ on rock無咁嗆喉
   
 \-----------------------------------------------  
   
-延伸閱讀：[Happy Days！鹿児島宮崎！ (10D9N)](https://hidie.net/kojkmi10d9n/)
+延伸閱讀：[Happy Days！鹿児島宮崎！ (10D9N)](/kojkmi10d9n/)

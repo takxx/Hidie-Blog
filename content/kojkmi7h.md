@@ -24,7 +24,7 @@ tags : [travel-日本-鹿兒島宮崎]
 ![](/images/kojkmi7h1.jpg)
 
 再唔係就影到細細粒綠公仔咁囉  
-佢個[死人洞西郷洞窟](https://hidie.net/kojkmi7c/)就清楚好多  
+佢個[死人洞西郷洞窟](/kojkmi7c/)就清楚好多  
 （都係車上面影啫）  
   
 是但啦都盡咗力㗎喇  
@@ -34,4 +34,4 @@ tags : [travel-日本-鹿兒島宮崎]
   
 \-----------------------------------------------  
   
-延伸閱讀：[Happy Days！鹿児島宮崎！ (10D9N)](https://hidie.net/kojkmi10d9n/)
+延伸閱讀：[Happy Days！鹿児島宮崎！ (10D9N)](/kojkmi10d9n/)

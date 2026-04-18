@@ -37,7 +37,7 @@ tags : [travel-日本-北海道, satisfaction - 搭條鐵]
 
 ![](/images/hokkaido3m5.jpg)
 
-相比[くしろ湿原ノロッコ号](https://hidie.net/hokkaido3h/)係隔住塊玻璃  
+相比[くしろ湿原ノロッコ号](/hokkaido3h/)係隔住塊玻璃  
 不過出面嘅wallpaper景都仲係非常吸引  
 
 ![](/images/hokkaido3m6.jpg)

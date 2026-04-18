@@ -32,6 +32,6 @@ tags : [glamorous - 保養おたく, glamorous - 面膜魂]
   
 氣味不錯加上有功效  
 貴少少也值得（點頭）  
-跟[pige:ll](https://hidie.net/pigell/)同一家公司  
+跟[pige:ll](/pigell/)同一家公司  
 兩隻的效果都很好  
 這塊還要不像豬皮那麼臭呢呵呵～

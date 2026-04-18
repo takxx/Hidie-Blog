@@ -14,14 +14,14 @@ tags : [travel-日本-北海道]
 然後買定嚟緊幾日嘅火車飛  
 YES！一！大！疊！  
 繼之前四国鉄道兜一圈  
-今次就嚟個[北海道鉄道遊](https://hidie.net/hokkaido1a/)  
+今次就嚟個[北海道鉄道遊](/hokkaido1a/)  
 又嚟個「買咗JR pass就玩到佢盡」嘅旅程  
   
 回正題，襯响空港仲有時間剩就食啲小食...  
 
 ![](/images/hokkaido1b1.jpg)
 
-長期有人排所以我又排吓嘅[Kinotoya](https://hidie.net/hokkaido1b/)  
+長期有人排所以我又排吓嘅[Kinotoya](/hokkaido1b/)  
 先要快快口食又厚又濃仲幾快溶嘅**極上牛乳ソフト**  
 
 ![](/images/hokkaido1b.jpg)
@@ -38,12 +38,12 @@ YES！一！大！疊！
 
 ![](/images/hokkaido1c.jpg)
 
-[南千歲](https://hidie.net/hokkaido1c/) → 帯広  
+[南千歲](/hokkaido1c/) → 帯広  
 （**特急スーパーとかち、261系**）  
 
 ![](/images/hokkaido1d.jpg)
 
-列車[食tea](https://hidie.net/hokkaido1d/)時間  
+列車[食tea](/hokkaido1d/)時間  
 先食個凍嘅**北の海 幸づくし**  
 海膽加蟹加三文同口爆子  
 超超超香同鮮甜，好北海道呀！  
@@ -65,12 +65,12 @@ YES！一！大！疊！
 
 ![](/images/hokkaido1e.jpg)
 
-[帯広（帯広駅）](https://hidie.net/hokkaido1e/)  
+[帯広（帯広駅）](/hokkaido1e/)  
 响酒店check-in咗就開始食嘢喇  
 
 ![](/images/hokkaido1f.jpg)
 
-**エビ ベーシックルー** ＠[インデアン](https://hidie.net/hokkaido1f/)  
+**エビ ベーシックルー** ＠[インデアン](/hokkaido1f/)  
 帯広除咗食豚丼同甜品  
 仲有呢隻印度咖喱呀  
 超推薦呢隻爆多蝦嘅款式  
@@ -80,11 +80,11 @@ YES！一！大！疊！
 
 就咁剷一碟飯又點會滿足  
 飽飽地响街兜兜吓  
-再嚟[北の屋台](https://hidie.net/hokkaido1g/)居酒屋一番！  
+再嚟[北の屋台](/hokkaido1g/)居酒屋一番！  
 
 ![](/images/hokkaido1h3.jpg)
 
-揀咗呢間叫[こころ](https://hidie.net/hokkaido1h/)嘅  
+揀咗呢間叫[こころ](/hokkaido1h/)嘅  
 
 ![](/images/hokkaido1h4.jpg)
 

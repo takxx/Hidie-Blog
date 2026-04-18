@@ -6,16 +6,16 @@ images: ["/images/hokkaido2l.jpg"]
 tags : [travel-日本-北海道, flavor - 螞蟻族]
 ---
 
-好啦，張[甜品券](https://hidie.net/hokkaido2c/)嘅飛就用晒喇～  
+好啦，張[甜品券](/hokkaido2c/)嘅飛就用晒喇～  
 
 ![](/images/ged020.jpg)
 
 雖然每樣嘢都少少少少細細件咁  
 但係都食咗唔少嘢咁：  
-（1）[クランベリー本店](https://hidie.net/hokkaido2e/) - **ポテトパイ**   
-（2）[T-SWEETS（十勝野スイーツ）](https://hidie.net/hokkaido2f/) - **ミニソフト（ミルク）**   
-（3）[柳月](https://hidie.net/hokkaido2i/) - **COCOこの実**  
-（4）[十勝しんむら牧場](https://hidie.net/hokkaido2k/) - **カップのミニソフトクリーム**  
+（1）[クランベリー本店](/hokkaido2e/) - **ポテトパイ**   
+（2）[T-SWEETS（十勝野スイーツ）](/hokkaido2f/) - **ミニソフト（ミルク）**   
+（3）[柳月](/hokkaido2i/) - **COCOこの実**  
+（4）[十勝しんむら牧場](/hokkaido2k/) - **カップのミニソフトクリーム**  
 
 ![](/images/hokkaido2l.jpg)
 

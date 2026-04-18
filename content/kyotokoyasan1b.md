@@ -12,7 +12,7 @@ tags : [travel-日本-京都高野山, satisfaction - 搭條鐵]
 ![](/images/kyotokoyasan1b.jpg)
 
 **阪急6300系電車**  
-同晌[大阪](https://hidie.net/osaka3a/)搭嘅同款
+同晌[大阪](/osaka3a/)搭嘅同款
 
 ![](/images/kyotokoyasan1b1.jpg)
 

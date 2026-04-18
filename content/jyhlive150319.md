@@ -17,4 +17,4 @@ tags : [amusement - zene]
   
 \-----------------------------------------------  
   
-延伸閱讀：[\[live\] JUNG YONG HWA LIVE in HK 後記](http://www.hidie.net/2015/03/live-jung-yong-hwa-live-in-hk.html)
+延伸閱讀：[\[live\] JUNG YONG HWA LIVE in HK 後記](/2015/03/live-jung-yong-hwa-live-in-hk.html)

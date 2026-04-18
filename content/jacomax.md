@@ -42,5 +42,5 @@ tags : [flavor - 行膳積腹, satisfaction - 黃店懲罰日]
 ![](/images/jacomax4.jpg)
 
 **Pilsner Urquell**  
-有draft嘅[Pilsner Urquell](https://hidie.net/pilsnerurquell/)無理由唔飲啦   
+有draft嘅[Pilsner Urquell](/pilsnerurquell/)無理由唔飲啦   
 Cheers～～～   

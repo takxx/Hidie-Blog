@@ -64,7 +64,7 @@ tags : [amusement - films]
 
   
 
-之後嘅話會期待《[斉木楠雄のΨ難](https://hidie.net/saikikusuo/)》  
+之後嘅話會期待《[斉木楠雄のΨ難](/saikikusuo/)》  
 可惜香港係唔會上嘅。  
 呃，又橋本環奈？  
 是但啦，呢隻樣都算漫畫樣吖  

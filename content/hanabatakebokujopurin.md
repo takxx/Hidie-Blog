@@ -7,7 +7,7 @@ tags : [flavor - 螞蟻族]
 ---
 
 要吃北海道花畑牧場的美味  
-不一定要[飛去日本](https://hidie.net/tokyo3f/)的  
+不一定要[飛去日本](/tokyo3f/)的  
 
 ![](/images/hanabatakebokujopurin.jpg)
 

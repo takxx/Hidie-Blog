@@ -33,4 +33,4 @@ tags : [lifestyle - 急救箱, lifestyle - rosy rosy]
   
 \-----------------------------------------------  
   
-延伸閱讀：[SUICAのペンギン！！！](https://hidie.net/suica/)
+延伸閱讀：[SUICAのペンギン！！！](/suica/)

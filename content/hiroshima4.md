@@ -10,7 +10,7 @@ tags : [travel-日本-廣島]
 
 ![](/images/hiroshima4.jpg)
 
-＠[倉式珈琲店](https://hidie.net/hiroshima4a/)  
+＠[倉式珈琲店](/hiroshima4a/)  
 個咖啡好似响lab做實驗咁嘅虹吸式  
 
 ![](/images/hiroshima4a0.jpg)
@@ -20,7 +20,7 @@ tags : [travel-日本-廣島]
 
 ![](/images/hiroshima4c.jpg)
 
-[THE OUTLETS HIROSHIMA](https://hidie.net/hiroshima4c/)  
+[THE OUTLETS HIROSHIMA](/hiroshima4c/)  
 落緊大雨冇咩好做就去遠啲遠啲嘅地方  
 個outlet今年四月先開  
 都算幾好行（...雖然最後只係敗咗三樣嘢咁大把）  
@@ -35,7 +35,7 @@ tags : [travel-日本-廣島]
 
 ![](/images/hiroshima4e.jpg)
 
-[天ぷら・宝](https://hidie.net/hiroshima4e/)  
+[天ぷら・宝](/hiroshima4e/)  
 去完outlet搭返車出嚟  
 係時候食個元氣滿滿嘅大大碗天婦羅飯  
 chisin㗎嗰兩條穴子咁Q長長長嘅？！  
@@ -43,7 +43,7 @@ chisin㗎嗰兩條穴子咁Q長長長嘅？！
 ![](/images/hiroshima4f.jpg)
 
 今晚食雪條！  
-[LOTTE カルピス アイスバー マルチ](https://hidie.net/hiroshima4f/)  
+[LOTTE カルピス アイスバー マルチ](/hiroshima4f/)  
 爽皮嘅冰，夾埋裡面流吓流吓嘅calpis  
 一樂也（心）  
   

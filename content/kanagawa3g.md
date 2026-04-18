@@ -12,7 +12,7 @@ tags : [travel-日本-神奈川, satisfaction - 搭條鐵]
 ![](/images/kanagawa3g1.jpg)
 
 **鎌倉駅**裡面嘅木屋頂  
-同清境啲山上[民宿](https://hidie.net/taichung4a/)好似 XD
+同清境啲山上[民宿](/taichung4a/)好似 XD
 
 ![](/images/kanagawa3g2.jpg)
 
@@ -39,7 +39,7 @@ tags : [travel-日本-神奈川, satisfaction - 搭條鐵]
 
 ![](/images/kanagawa3g8.jpg)
 
-今朝見過[湘南版](https://hidie.net/kanagawa3d/)  
+今朝見過[湘南版](/kanagawa3d/)  
 仲有富士山design版呢～
 
 ![](/images/kanagawa3g9.jpg)

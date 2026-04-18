@@ -8,12 +8,12 @@ tags : [flavor - 小食部]
 
 黑豆是我最喜愛的零食之一  
 又好味又不會肥  
-之前一直都是吃[么鳳](https://hidie.net/blackbeanbook/)的  
+之前一直都是吃[么鳳](/blackbeanbook/)的  
 覺得它鹹鹹脆脆的不錯吃  
 
 ![](/images/koreanblackbean.jpg)
 
-直至在[韓國](https://hidie.net/seoul7d7n/)時小不點一直說要買這個給我吃  
+直至在[韓國](/seoul7d7n/)時小不點一直說要買這個給我吃  
 就知道小不點在任何時候都會把最好的留給我  
   
 粒粒飽滿飽滿不加鹽純炒（焗？）的青仁黑豆  

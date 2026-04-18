@@ -6,7 +6,7 @@ aliases: [ "/2017/03/happy-days-day-5_9.html" ]
 tags : [flavor - 螞蟻族, travel-日本-鹿兒島宮崎]
 ---
 
-因為[擒晚個蜜柑味](https://hidie.net/kojkmi4d/)實在太太太好食  
+因為[擒晚個蜜柑味](/kojkmi4d/)實在太太太好食  
 
 ![](/images/kojkmi5g.jpg)
 
@@ -31,4 +31,4 @@ caffè latte同café au lait都係牛奶咖啡
   
 \-----------------------------------------------  
   
-延伸閱讀：[Happy Days！鹿児島宮崎！ (10D9N)](https://hidie.net/kojkmi10d9n/)
+延伸閱讀：[Happy Days！鹿児島宮崎！ (10D9N)](/kojkmi10d9n/)

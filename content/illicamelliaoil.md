@@ -6,7 +6,7 @@ aliases: [ "/2014/12/masque-illi-camellia-oil-nourishing-mask.html" ]
 tags : [glamorous - 保養おたく, glamorous - 面膜魂]
 ---
 
-為甚麼那些英文都是[錯的](https://hidie.net/illigreentea/)？  
+為甚麼那些英文都是[錯的](/illigreentea/)？  
 （nourishing是滋養；intensive moisture是深層保濕喔～）  
 
 ![](/images/illicamelliaoil.jpg)
@@ -32,4 +32,4 @@ tags : [glamorous - 保養おたく, glamorous - 面膜魂]
   
 \-----------------------------------------------  
   
-延伸閱讀：[\[hair\] 大島椿 ヘアオイル](https://hidie.net/tsubakihair/)
+延伸閱讀：[\[hair\] 大島椿 ヘアオイル](/tsubakihair/)

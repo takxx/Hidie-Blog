@@ -6,7 +6,7 @@ images: ["/images/hokkaido2g.jpg"]
 tags : [travel-日本-北海道, flavor - 行膳積腹]
 ---
 
-坐吓食吓[雪糕](https://hidie.net/hokkaido2f/)之後又到食晏時間 
+坐吓食吓[雪糕](/hokkaido2f/)之後又到食晏時間 
  
 ![](/images/hokkaido2g2.jpg)
 

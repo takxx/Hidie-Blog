@@ -92,6 +92,6 @@ tour最後有呢間單車舖公棧單車
 \-----------------------------------------------  
   
 延伸閱讀：  
-[城巿閘誌 展覽 | HK Urban Canvas Exhibition](https://hidie.net/hkurbancanvasex/)  
-[城巿閘誌 | HK Urban Canvas（灣仔、上環、西營盤篇）](https://hidie.net/hkurbancanvaswanchai/)  
-[城巿閘誌 | HK Urban Canvas（旺角、油麻地篇）](https://hidie.net/hkurbancanvasmk/)
+[城巿閘誌 展覽 | HK Urban Canvas Exhibition](/hkurbancanvasex/)  
+[城巿閘誌 | HK Urban Canvas（灣仔、上環、西營盤篇）](/hkurbancanvaswanchai/)  
+[城巿閘誌 | HK Urban Canvas（旺角、油麻地篇）](/hkurbancanvasmk/)

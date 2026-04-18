@@ -6,7 +6,7 @@ images: ["/images/gensui.jpg"]
 tags : [flavor - 飲!]
 ---
 
-上到[寶山](https://hidie.net/tottori4r/)無理由空手而回嘅...
+上到[寶山](/tottori4r/)無理由空手而回嘅...
 
 ![](/images/gensui.jpg)
 

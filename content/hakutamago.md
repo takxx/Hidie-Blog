@@ -6,7 +6,7 @@ aliases: [ "/2013/11/blog-post_9.html" ]
 tags : [flavor - 小食部]
 ---
 
-比起在大涌谷吃的那一隻難吃到哭出來的[全熟黒玉子](https://hidie.net/tokyo5c/)  
+比起在大涌谷吃的那一隻難吃到哭出來的[全熟黒玉子](/tokyo5c/)  
 這全手工製作的溫泉蛋就是感動的美味～  
 
 ![](/images/hakutamago.jpg)
@@ -29,5 +29,5 @@ tags : [flavor - 小食部]
   
   
   
-另，放蛋的兜是[pastel pudding](https://hidie.net/tokyo2h/)的那個容器  
+另，放蛋的兜是[pastel pudding](/tokyo2h/)的那個容器  
 大小剛好又漂亮，超喜歡

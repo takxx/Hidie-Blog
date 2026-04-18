@@ -7,7 +7,7 @@ tags : [flavor - 螞蟻族]
 ---
  
 「♪ぼんさんかんざし買うをみた…」   
-係高知[よさこい節](https://hidie.net/shikoku6n/)嘅歌  
+係高知[よさこい節](/shikoku6n/)嘅歌  
 
 ![](/images/kanzashi.jpg)
 
@@ -17,7 +17,7 @@ tags : [flavor - 螞蟻族]
 ![](/images/kanzashi1.jpg)
 
 簪（かんざし），即係髮簪  
-個菓子嘅髮簪係講緊**播磨屋橋**和尚純信[送髮簪](https://hidie.net/shikoku6p/)嘅故事  
+個菓子嘅髮簪係講緊**播磨屋橋**和尚純信[送髮簪](/shikoku6p/)嘅故事  
 
 ![](/images/kanzashi2.jpg)
 
@@ -27,7 +27,7 @@ tags : [flavor - 螞蟻族]
 叫佢做蛋糕因為係麵粉皮包住果樣似啫  
 其實係和洋菓子麵皮包豆餡  
 豆係白豆餡常見嘅手芒豆  
-同之前嘅[名物かまど](https://hidie.net/kamado/)一樣意外地唔係好甜  
+同之前嘅[名物かまど](/kamado/)一樣意外地唔係好甜  
 唔錯喎～
 
 {{<shikoku>}}

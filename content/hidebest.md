@@ -7,7 +7,7 @@ tags : [amusement - zene]
 ---
 
 關於音樂，我是聽J-rock中長大的  
-除了最愛的[Luna Sea](https://hidie.net/lunasea/)同L'Arc~en~Ciel之外  
+除了最愛的[Luna Sea](/lunasea/)同L'Arc~en~Ciel之外  
 
 不能沒有的當然當然是hide（X-Japan）  
 

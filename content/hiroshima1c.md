@@ -6,7 +6,7 @@ images: ["/images/hiroshima1c.jpg"]
 tags : [travel-日本-廣島, flavor - 螞蟻族]
 ---
 
-食完[懐石料理](https://hidie.net/hiroshima1b/)滿滿足食完仲打埋包  
+食完[懐石料理](/hiroshima1b/)滿滿足食完仲打埋包  
 
 ![](/images/hiroshima1c.jpg)
 

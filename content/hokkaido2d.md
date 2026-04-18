@@ -6,7 +6,7 @@ images: ["/images/hokkaido2d.jpg"]
 tags : [travel-日本-北海道]
 ---
 
-為咗甜品券[スイーツめぐり券](https://hidie.net/hokkaido2c/)遠征中    
+為咗甜品券[スイーツめぐり券](/hokkaido2c/)遠征中    
 
 ![](/images/chihiro003.jpg)
 

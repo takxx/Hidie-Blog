@@ -6,7 +6,7 @@ images: ["/images/hiroshima4d.jpg"]
 tags : [travel-日本-廣島, flavor - 行膳積腹]
 ---
 
-個[outlet](https://hidie.net/hiroshima4c/)响山區咁鬼遠  
+個[outlet](/hiroshima4c/)响山區咁鬼遠  
 咁只係得裡面搵食啦...
 
 ![](/images/hiroshima4d1.jpg)

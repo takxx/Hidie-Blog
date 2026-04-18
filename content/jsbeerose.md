@@ -22,4 +22,4 @@ tags : [flavor - 揀飲宅食, lifestyle - rosy rosy]
   
 \-----------------------------------------------  
   
-延伸閱讀：[臺東瘋食遊（8D7N）](https://hidie.net/taitung8d7n/)
+延伸閱讀：[臺東瘋食遊（8D7N）](/taitung8d7n/)

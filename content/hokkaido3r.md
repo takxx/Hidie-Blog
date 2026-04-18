@@ -6,7 +6,7 @@ images: ["/images/hokkaido3r.jpg"]
 tags : [travel-日本-北海道, flavor - 行膳積腹, flavor - 飲！]
 ---
 
-哎呀呀，嚟網走真係唔可以就咁[食個鍋](https://hidie.net/hokkaido3q/)就返去瞓㗎嘛  
+哎呀呀，嚟網走真係唔可以就咁[食個鍋](/hokkaido3q/)就返去瞓㗎嘛  
 
 ![](/images/hokkaido3r1.jpg)
 
@@ -21,13 +21,13 @@ ABASHIRI PREMIUM有佢自家焙煎嘅麦芽
 香、甜、苦共冶一爐，唔錯唔錯  
 （隻啤有拎過monde selection銀獎㗎）  
 而藍色嘅網走流冰draft之前都有飲過  
-同[上次](https://hidie.net/abashiridraft/)個味分別唔大  
+同[上次](/abashiridraft/)個味分別唔大  
 然而更新鮮同再夠氣啲咁！  
 
 ![](/images/hokkaido3r2.jpg)
 
 **ポテトフライ**  
-今晚飽飽地就唔[炸雞配啤酒](https://hidie.net/hokkaido2t/)喇  
+今晚飽飽地就唔[炸雞配啤酒](/hokkaido2t/)喇  
 慢慢吹吓水食熱辣辣炸薯條～
 
 ![](/images/hokkaido3r3.jpg)
@@ -40,7 +40,7 @@ ABASHIRI PREMIUM有佢自家焙煎嘅麦芽
 比IPA更甜美而入口  
 「新緑の春」嘅綠色知床draft  
 啲色係天然色素  
-回應返今朝嘅[一片綠](https://hidie.net/hokkaido3k/)咁  
+回應返今朝嘅[一片綠](/hokkaido3k/)咁  
 Mmm... 隻啤係幾香嘅  
 but都只係得個香字囉...
 

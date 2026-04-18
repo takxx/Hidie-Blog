@@ -6,7 +6,7 @@ images: ["/images/horijelly.jpg"]
 tags : [flavor - 螞蟻族]
 ---
  
-就以港版認知[六花亭](https://hidie.net/hokkaido2h/)咁  
+就以港版認知[六花亭](/hokkaido2h/)咁  
 覺得白朱古力士多啤梨乾係最出名  
 其實曲奇夾餅先係鎮店之寶咁...
 
@@ -14,7 +14,7 @@ tags : [flavor - 螞蟻族]
 
 **ホリ 夕張メロンピュアゼリー**  
 HORI响港式日牌中以為佢係賣粟米朱古力為主  
-實情唔係啊啊啊，隻朱古力係屬於[スノーベル](https://hidie.net/snowbell/)  
+實情唔係啊啊啊，隻朱古力係屬於[スノーベル](/snowbell/)  
 而呢間嘢最最最代表商品係呢隻蜜瓜啫喱！  
   
 話說有crossover新千歲空港免稅店版  

@@ -33,7 +33,7 @@ tags : [travel-日本-廣島, flavor - 飲！]
 ![](/images/hiroshima6q.jpg) 
 
 斟緊啤酒嘅係店主重富寬  
-啤酒係[Asahi](https://hidie.net/asahibeer/)  
+啤酒係[Asahi](/asahibeer/)  
 最大嘅印象係苦味  
 而呢度就係因為佢嘅斟酒方法而有所改變  
 

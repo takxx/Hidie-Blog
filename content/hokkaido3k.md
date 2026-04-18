@@ -17,7 +17,7 @@ tags : [travel-日本-北海道, satisfaction - 搭條鐵]
 ![](/images/hokkaido3k2.jpg)
 
 **釧路湿原駅**  
-正所謂搭飛機再轉[火車](https://hidie.net/hokkaido3h/)都仲近過去天水圍  
+正所謂搭飛機再轉[火車](/hokkaido3h/)都仲近過去天水圍  
 可想而知天水圍真係一個好遠好隔涉嘅地方（誤）  
 
 ![](/images/hokkaido3k3.jpg)

@@ -6,7 +6,7 @@ aliases: [ "/2014/06/fettuccine-maretti-le-rosse.html" ]
 tags : [flavor - say cheese]
 ---
 
-這包pasta snack除了美味的[mushroom](https://hidie.net/bulgaria2i/)外  
+這包pasta snack除了美味的[mushroom](/bulgaria2i/)外  
 tomato & cheese味也不錯吃  
 
 ![](/images/fettuccinemarettilerosse.jpg)

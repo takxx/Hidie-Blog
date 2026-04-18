@@ -11,7 +11,7 @@ tags : [flavor - 行膳積腹, satisfaction - 黃店懲罰日]
 ![](/images/hkerburger1.jpg)
 
 **一口迷你漢堡 加配流心芝士蝦球連飲品set**  
-上次响[美孚](https://hidie.net/mswheelpie/)去咗食甜嘢所以skip咗佢 
+上次响[美孚](/mswheelpie/)去咗食甜嘢所以skip咗佢 
 呢鑊仲唔畀我食返？！  
 熱辣辣蝦球裡面有芝士，爆香～  
 少少地嘅份量就啱晒，畢竟仲要去掃街  

@@ -19,7 +19,7 @@ tags : [travel-日本-北海道, satisfaction - 搭條鐵]
 ![](/images/hokkaido6o3.jpg)
 
 介紹返，頭先坐嘅車個車頭圖案  
-係一陣會經過嘅[札幌市時計台](https://hidie.net/hokkaido6p/)  
+係一陣會經過嘅[札幌市時計台](/hokkaido6p/)  
 
 ![](/images/hokkaido6o4.jpg)
 

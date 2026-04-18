@@ -6,7 +6,7 @@ images: ["/images/kyotokoyasan1k.jpg"]
 tags : [travel-日本-京都高野山]
 ---
 
-兜一兜過[地下鉄二条城前駅](https://hidie.net/kyotokoyasan1j/)之後  
+兜一兜過[地下鉄二条城前駅](/kyotokoyasan1j/)之後  
 就當然要嚟世界遺產： **元離宮二条城**  
 
 ![](/images/kyotokoyasan1k1.jpg)
@@ -43,7 +43,7 @@ tags : [travel-日本-京都高野山]
 ![](/images/kyotokoyasan1k7.jpg)
 
 呢種「唐破風」建築  
-响奈良[東大寺](https://hidie.net/nara4c/)同琉球[首里城](https://hidie.net/okinawa3e/)都有啊！  
+响奈良[東大寺](/nara4c/)同琉球[首里城](/okinawa3e/)都有啊！  
 
 ![](/images/kyotokoyasan1k.jpg)
 

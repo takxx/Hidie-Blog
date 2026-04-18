@@ -6,8 +6,8 @@ images: ["/images/hokkaido4a.jpg"]
 tags : [travel-日本-北海道, flavor - 行膳積腹, flavor - 飲！]
 ---
 
-今朝冇[飛彈警報](https://hidie.net/hokkaido2a/)嘈醒  
-亦都冇[海鷗](https://hidie.net/hokkaido3a/)叫醒  
+今朝冇[飛彈警報](/hokkaido2a/)嘈醒  
+亦都冇[海鷗](/hokkaido3a/)叫醒  
 但係就俾日光照醒  
 冇計啦，落樓浸返個溫泉先...  
   

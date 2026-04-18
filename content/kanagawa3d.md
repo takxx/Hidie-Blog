@@ -11,7 +11,7 @@ tags : [flavor - 飲！, travel-日本-神奈川]
 ![](/images/kanagawa3d1.jpg)
 
 不過都係撳機凍飲嘅最解渴！  
-同之前响[名古屋](https://hidie.net/nagoya1c/)飲過嘅同系列  
+同之前响[名古屋](/nagoya1c/)飲過嘅同系列  
 然而呢隻有玉露响裡面仲係冷泡嗰隻  
 味道就更更更芳香甘醇，正～  
 

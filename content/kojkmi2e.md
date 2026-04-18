@@ -16,7 +16,7 @@ tags : [travel-日本-鹿兒島宮崎]
 ![](/images/kojkmi2e1.jpg)
 
 除咗行吓消化吓  
-特登嚟，係有「[任務](https://hidie.net/kojkmi3c/)」在身！  
+特登嚟，係有「[任務](/kojkmi3c/)」在身！  
 
 ![](/images/kojkmi2e2.jpg)
 
@@ -25,4 +25,4 @@ tags : [travel-日本-鹿兒島宮崎]
   
 \-----------------------------------------------  
   
-延伸閱讀：[Happy Days！鹿児島宮崎！ (10D9N)](https://hidie.net/kojkmi10d9n/)
+延伸閱讀：[Happy Days！鹿児島宮崎！ (10D9N)](/kojkmi10d9n/)

@@ -11,7 +11,7 @@ tags : [travel-日本-北海道, flavor - 行膳積腹, satisfaction - 搭條鐵
 ![](/images/hokkaido3n1.jpg)
 
 引田屋 **いわしのほっかぶり寿司**  
-即係响[釧路](https://hidie.net/hokkaido3c/)早早買定驚死冇嗰盒
+即係响[釧路](/hokkaido3c/)早早買定驚死冇嗰盒
 
 ![](/images/hokkaido3n2.jpg)
 

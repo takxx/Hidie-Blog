@@ -7,7 +7,7 @@ tags : [flavor - 螞蟻族]
 ---
 
 北海道十勝地區嘅甜點  
-又點少得[花畑牧場](https://hidie.net/tokyo3f/)呢？  
+又點少得[花畑牧場](/tokyo3f/)呢？  
 
 ![](/images/hanabatake.jpg)
 

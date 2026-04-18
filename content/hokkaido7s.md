@@ -6,7 +6,7 @@ images: ["/images/hokkaido7s.jpg"]
 tags : [travel-日本-北海道]
 ---
 
-兜返到[出拔小路](https://hidie.net/hokkaido7r/)後... 
+兜返到[出拔小路](/hokkaido7r/)後... 
 
 ![](/images/hokkaido7s3.jpg)
 

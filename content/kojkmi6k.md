@@ -6,7 +6,7 @@ aliases: [ "/2017/03/happy-days-day-6_24.html" ]
 tags : [travel-日本-鹿兒島宮崎]
 ---
 
-坐15分鐘船食唔切[うどん](https://hidie.net/kojkmi6c/)㗎喇  
+坐15分鐘船食唔切[うどん](/kojkmi6c/)㗎喇  
 食柑啦～  
 
 ![](/images/kojkmi6k.jpg)
@@ -27,4 +27,4 @@ tags : [travel-日本-鹿兒島宮崎]
   
 \-----------------------------------------------  
   
-延伸閱讀：[Happy Days！鹿児島宮崎！ (10D9N)](https://hidie.net/kojkmi10d9n/)
+延伸閱讀：[Happy Days！鹿児島宮崎！ (10D9N)](/kojkmi10d9n/)

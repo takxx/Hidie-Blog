@@ -11,7 +11,7 @@ tags : [glamorous - 保養おたく]
 ![](/images/kanebosuisai.jpg)
 
 一粒一次，加水起豐盈的泡泡  
-用[洗面網](https://hidie.net/mujinet/)起好大好大舊  
+用[洗面網](/mujinet/)起好大好大舊  
 雖然超大舊泡用一次好似有點浪費  
 可酵素遇空氣很快會揮發掉  
 所以還是一次用比較好  

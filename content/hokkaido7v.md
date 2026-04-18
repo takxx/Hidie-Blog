@@ -7,7 +7,7 @@ tags : [travel-日本-北海道, flavor - 行膳積腹, flavor - 飲！]
 ---
 
 今次整個旅程嘅最後一餐晚餐  
-係去呢個今次旅程去唔到最東嘅[根室](https://hidie.net/hokkaido3g/)    
+係去呢個今次旅程去唔到最東嘅[根室](/hokkaido3g/)    
 
 ![](/images/hokkaido7v1.jpg)
 

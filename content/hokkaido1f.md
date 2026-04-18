@@ -6,7 +6,7 @@ images: ["/images/hokkaido1f.jpg"]
 tags : [travel-日本-北海道, flavor - 行膳積腹]
 ---
 
-嚟帯広除咗食[豚丼](https://hidie.net/hokkaido2g/)同[甜品](https://hidie.net/hokkaido2c/)  
+嚟帯広除咗食[豚丼](/hokkaido2g/)同[甜品](/hokkaido2c/)  
 
 ![](/images/hokkaido1f1.jpg)
 

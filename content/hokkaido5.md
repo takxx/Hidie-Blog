@@ -11,37 +11,37 @@ tags : [travel-日本-北海道]
 風呀大雨呀有啲水浸咁  
 旭川都密雲有雨  
 一朝早就落車站改車飛  
-由晏晝一點半改做朝早九點[出發](https://hidie.net/hokkaido5b/)  
+由晏晝一點半改做朝早九點[出發](/hokkaido5b/)  
 咁就變成冇緣响旭川食旭川ラーメン喇  
 
 ![](/images/hokkaido5a.jpg)
 
-是但啦，[籮神嘅早餐](https://hidie.net/hokkaido5a/)我一樣食得咁開心  
+是但啦，[籮神嘅早餐](/hokkaido5a/)我一樣食得咁開心  
 同奈良一樣，買籮神一定要買炸雞  
 加份北海道限定嘅三文治  
 唔少得嘅當然有北海道日高嘅牛乳啦  
   
-[旭川 → 稚內](https://hidie.net/hokkaido5c/)  
+[旭川 → 稚內](/hokkaido5c/)  
 （**特急サロベツ、261系**）  
 同去帯広嗰架同系  
 只係車身顏色有少少分別咁唔特別影喇～  
   
 今程車嘅距離好遠要搭得耐啲  
 响車度除咗食早餐仲食小食  
-都係响帯広嗰陣買嘅[柳月](https://hidie.net/hokkaido2i/)**三六方**  
-同好好食嘅[六花亭](https://hidie.net/hokkaido2h/) **マルセイバターサンド**、**マルセイキャラメル**  
+都係响帯広嗰陣買嘅[柳月](/hokkaido2i/)**三六方**  
+同好好食嘅[六花亭](/hokkaido2h/) **マルセイバターサンド**、**マルセイキャラメル**  
 六花亭呢兩樣嘢好L好食  
 一定要再再再入手！！！  
 
 ![](/images/hokkaido5d.jpg)
 
-仲有**Kirin**嘅**Guarana**（[キリンガラナ](https://hidie.net/hokkaido5d/)）  
+仲有**Kirin**嘅**Guarana**（[キリンガラナ](/hokkaido5d/)）  
 北海道嘅可樂就係佢！  
 亦都只係得北海道先有得賣  
 
 ![](/images/hokkaido5e.jpg)
 
-橫風橫雨，日本最北端[稚內（稚內駅）](https://hidie.net/hokkaido5e/)到着  
+橫風橫雨，日本最北端[稚內（稚內駅）](/hokkaido5e/)到着  
 早一班車除咗係有得嚟稚內  
 仲係早過個颱風嚟到呢度  
   
@@ -69,7 +69,7 @@ tags : [travel-日本-北海道]
 
 响酒店放低咗行李  
 就去稚內駅逛吓食吓嘢  
-@[稚內駅キタカラカフェ](https://hidie.net/hokkaido5f/)  
+@[稚內駅キタカラカフェ](/hokkaido5f/)  
 日本最北產嘅宗谷牛  
 食呢種牛嘅burger就啱啱好  
 隻包有合桃响裡面好香口呀  
@@ -81,7 +81,7 @@ tags : [travel-日本-北海道]
 ![](/images/hokkaido5g.jpg)
 
 祭完五臟廟  
-就要做呢啲打風一定要做嘅嘢：去[超市](https://hidie.net/hokkaido5g/)買定嘢食  
+就要做呢啲打風一定要做嘅嘢：去[超市](/hokkaido5g/)買定嘢食  
 其實就算啲餐廳唔開  
 响酒店嘅餐館食再唔係返稚內駅食都OK  
 但唔可以排除到時懶啦  
@@ -90,12 +90,12 @@ tags : [travel-日本-北海道]
 ![](/images/hokkaido5h2.jpg)
 
 買完返酒店冇幾耐就已經KO呢啲喇...  
-[稚内牛乳アイスクリーム 宗谷の塩](https://hidie.net/hokkaido5h/)  
+[稚内牛乳アイスクリーム 宗谷の塩](/hokkaido5h/)  
 有牛奶味又有宗谷鹽味  
 
 ![](/images/hokkaido5i.jpg)
 
-仲有老是常出現嘅[グリコ アイスの実](https://hidie.net/hokkaido5i/)  
+仲有老是常出現嘅[グリコ アイスの実](/hokkaido5i/)  
 堅鍾意呢隻波波粒  
 今次係**濃いぶどう**同**濃いもも**  
 都係未重複過味道嘅  
@@ -106,7 +106,7 @@ tags : [travel-日本-北海道]
 打咗陣就走咗喇得返微雨咋  
 酒店附近嘅餐廳有啲開返  
 雖然最想食嘅**車屋 源氏**最後都係冇開  
-但酒店對出間[なら鮨](https://hidie.net/hokkaido5j/)都有得食**たこしゃぶ鍋**  
+但酒店對出間[なら鮨](/hokkaido5j/)都有得食**たこしゃぶ鍋**  
 落樓食喇又（嘻嘻）  
 大大片新鮮八爪魚咁就清湯烚  
 好食囉就係！  
@@ -114,25 +114,25 @@ tags : [travel-日本-北海道]
 ![](/images/hokkaido5k.jpg)
 
 可惜只可以食個火鍋嘆樽仔清酒就要走  
-因為响超市買咗[刺身](https://hidie.net/hokkaido5k/)  
+因為响超市買咗[刺身](/hokkaido5k/)  
 唔食唔得㗎嘛  
 宗谷產元貝稚內產魷魚  
 半額唔買會傷心嘅魚生們  
 
 ![](/images/hokkaido5l.jpg)
 
-配[稚内限定 男山 最北航路 特別純米](https://hidie.net/hokkaido5l/)就perfect  
+配[稚内限定 男山 最北航路 特別純米](/hokkaido5l/)就perfect  
 點解北海道啲清酒都係易入口都暈㗎呢？  
   
 呢少少酒好難醉嘅  
 咁其實啱啱個電視播緊code blue 3嘅最終回  
 一路冇睇開加上離食酒店無料消夜有段仔時間  
-走上樓浸溫泉先（[天北の湯](https://hidie.net/hokkaido5m)）  
+走上樓浸溫泉先（[天北の湯](/hokkaido5m)）  
 
 ![](/images/hokkaido5n.jpg)
   
 浸完唞返陣就落酒店餐廳食宵夜  
-[夜鳴きそば](https://hidie.net/hokkaido5n/)  
+[夜鳴きそば](/hokkaido5n/)  
 即係碗豉油味即食麵（哈）  
   
   

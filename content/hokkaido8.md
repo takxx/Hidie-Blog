@@ -10,7 +10,7 @@ tags : [travel-日本-北海道]
 
 ![](/images/hokkaido8a.jpg)
 
-就係可以响酒店打開隻窗就[影到火車](https://hidie.net/hokkaido8a/)！！！  
+就係可以响酒店打開隻窗就[影到火車](/hokkaido8a/)！！！  
 （特急スーパーとかち、261系，即係去帯広嗰架）  
 仲要係札幌駅呀呢度  
 超多班次好頻密好多車呀  
@@ -20,15 +20,15 @@ tags : [travel-日本-北海道]
   
 一朝早慢慢影  
 （影完又走去瞓又起身再影過）  
-影到夠咪落樓食酒店包嘅[早餐](https://hidie.net/hokkaido8b/)囉  
+影到夠咪落樓食酒店包嘅[早餐](/hokkaido8b/)囉  
   
 食完check out掉低行李  
-就响[札幌駅](https://hidie.net/hokkaido8c/)周圍啲商場行吓  
+就响[札幌駅](/hokkaido8c/)周圍啲商場行吓  
 行夠喇就拎行李搭車喇  
 
 ![](/images/hokkaido8d.jpg)
 
-[札幌 → 新千歳空港](https://hidie.net/hokkaido8d/)  
+[札幌 → 新千歳空港](/hokkaido8d/)  
 （快速エアポート、721系）  
   
 JR pass得7日今日唔包嘛  
@@ -43,7 +43,7 @@ JR pass得7日今日唔包嘛
 
 ![](/images/hokkaido8e.jpg)
 
-[新千歳空港（新千歳空港駅）](https://hidie.net/hokkaido8e/)  
+[新千歳空港（新千歳空港駅）](/hokkaido8e/)  
 今次旅程嘅最後一站喇  
   
 响day 1嚟空港嗰陣已經行過呢度啲商舖  
@@ -51,7 +51,7 @@ JR pass得7日今日唔包嘛
 
 ![](/images/hokkaido8f.jpg)
 
-直接去等位食lunch啦 @[スープカレ Lavi](https://hidie.net/hokkaido8/)  
+直接去等位食lunch啦 @[スープカレ Lavi](/hokkaido8/)  
 比起札幌函館旭川ラーメン  
 北海道料理嘅湯咖喱就特別好多喇  
 呢兜係**チキンto野菜のカレー (焙煎えびスープ)**  
@@ -63,7 +63,7 @@ JR pass得7日今日唔包嘛
 ![](/images/hokkaido8g.jpg)
 
 食完去返国際線  
-途中經過[ハローキティ ハッピーフライト](https://hidie.net/hokkaido8g/)  
+途中經過[ハローキティ ハッピーフライト](/hokkaido8g/)  
 梗係因為大口仔先影低佢啦  
 冇單獨大口仔嘅嘢買，慳返囉～  
 
@@ -74,7 +74,7 @@ JR pass得7日今日唔包嘛
 
 ![](/images/hokkaido8h.jpg)
 
-[ドラえもんの焼印入りの限定どら焼き（栗入り）](https://hidie.net/hokkaido8h/)  
+[ドラえもんの焼印入りの限定どら焼き（栗入り）](/hokkaido8h/)  
 有成粒栗子响裡面㗎  
   
   

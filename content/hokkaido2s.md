@@ -6,7 +6,7 @@ images: ["/images/hokkaido2s.jpg"]
 tags : [travel-日本-北海道, flavor - 行膳積腹, flavor - 飲！]
 ---
 
-食完[第一餐晚餐](https://hidie.net/hokkaido2q/)就去食第二餐晚餐 XDDD
+食完[第一餐晚餐](/hokkaido2q/)就去食第二餐晚餐 XDDD
 
 ![](/images/hokkaido2s1.jpg)
 

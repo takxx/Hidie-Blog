@@ -6,11 +6,11 @@ aliases: [ "/2014/10/body-kracie-epilat.html" ]
 tags : [glamorous - 蛋臉以外]
 ---
 
-除毛，不一定要[動刀](https://hidie.net/kaibihadaompa/)  
+除毛，不一定要[動刀](/kaibihadaompa/)  
 
 ![](/images/kracieepilat.jpg)
 
-但也不是要[連根拔](https://hidie.net/twezeeman/)那麼痛苦  
+但也不是要[連根拔](/twezeeman/)那麼痛苦  
 尤其長在身體的  
 拔到2046都未令身體光滑  
   

@@ -6,7 +6,7 @@ images: ["/images/hokkaido2n.jpg"]
 tags : [travel-日本-北海道, satisfaction - 搭條鐵]
 ---
 
-睇完[vintage樣](https://hidie.net/hokkaido2m/)嘅車款
+睇完[vintage樣](/hokkaido2m/)嘅車款
 
 ![](/images/hokkaido2n1.jpg)
 

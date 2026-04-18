@@ -6,7 +6,7 @@ images: ["/images/hokkaido7l.jpg"]
 tags : [travel-日本-北海道, satisfaction - 搭條鐵]
 ---
 
-前幾日去過[十勝最初の鉄道](https://hidie.net/hokkaido2j/)  
+前幾日去過[十勝最初の鉄道](/hokkaido2j/)  
 而比明治38年（1905年）更早嘅  
 仲有呢條「北海道で最初の鉄道」  
 

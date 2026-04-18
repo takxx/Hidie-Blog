@@ -6,7 +6,7 @@ images: ["/images/hokkaido7b.jpg"]
 tags : [travel-日本-北海道, flavor - 行膳積腹]
 ---
  
-扒咗碗飯，就出發遠征去[二条市場](https://hidie.net/hokkaido7c/)
+扒咗碗飯，就出發遠征去[二条市場](/hokkaido7c/)
 
 ![](/images/hokkaido7b1.jpg)
 

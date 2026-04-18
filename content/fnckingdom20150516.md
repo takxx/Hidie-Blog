@@ -19,4 +19,4 @@ AOA，有火辣辣美女也不錯
   
 \-----------------------------------------------  
   
-延伸閱讀：[\[live\] 2015 FNC KINGDOM in HONGKONG 後記](http://www.hidie.net/2015/05/live-2015-fnc-kingdom-in-hongkong.html)
+延伸閱讀：[\[live\] 2015 FNC KINGDOM in HONGKONG 後記](/2015/05/live-2015-fnc-kingdom-in-hongkong.html)

@@ -6,7 +6,7 @@ images: ["/images/hiroshima7d.jpg"]
 tags : [travel-日本-廣島, flavor - 行膳積腹]
 ---
    
-朝早行去[かき船](https://hidie.net/hiroshima7a/)前途經呢間**焼肉 牛腸鉄平食堂**  
+朝早行去[かき船](/hiroshima7a/)前途經呢間**焼肉 牛腸鉄平食堂**  
 就講畀同行人聽「啊～ 啲燒肉放題都幾抵喎仲係稀少部位㖭」  
 然後條友就建議嚟呢度食晚餐  
 

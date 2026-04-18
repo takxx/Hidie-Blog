@@ -21,9 +21,9 @@ tags : [travel-日本-廣島, flavor - 螞蟻族]
 話說就係呢張coupon  
 幫襯三間舖就可以當500円使用  
 又咁啱呢幾日都有幫襯：  
-Day 2：[イースタイムカフェ&アンデルセン | e’s time cafe & ANDERSEN](https://hidie.net/hiroshima2b/)  
-Day 3：[みっちゃん総本店](https://hidie.net/hiroshima3c/)  
-Day 5：[波平キッチン](https://hidie.net/hiroshima5j/)  
+Day 2：[イースタイムカフェ&アンデルセン | e’s time cafe & ANDERSEN](/hiroshima2b/)  
+Day 3：[みっちゃん総本店](/hiroshima3c/)  
+Day 5：[波平キッチン](/hiroshima5j/)  
 優惠輕易get～  
   
   

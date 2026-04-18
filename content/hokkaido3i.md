@@ -12,7 +12,7 @@ tags : [travel-日本-北海道, flavor - 螞蟻族, satisfaction - 搭條鐵]
 
 **くしろ湿原ノロッコ号プリン**  
 列車限定販賣嘅牛奶布甸  
-[上車](https://hidie.net/hokkaido3h/)冇買紀念車費啫  
+[上車](/hokkaido3h/)冇買紀念車費啫  
 不過要買嘢又點會難到我（！）
 
 ![](/images/hokkaido3i1.jpg)

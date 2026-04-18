@@ -41,9 +41,9 @@ tags : [travel-日本-北海道, satisfaction - 搭條鐵]
 ![](/images/hokkaido4h4.jpg)
 
 搭嘅係**特急サロベツ、261系**  
-同去[帯広](https://hidie.net/hokkaido1c/)嗰架同系  
+同去[帯広](/hokkaido1c/)嗰架同系  
 只係車身顏色有少少分別咁唔特別再影喇～  
-（呢架係[擒日](https://hidie.net/hokkaido4h/)影嘅）  
+（呢架係[擒日](/hokkaido4h/)影嘅）  
 
 ![](/images/hokkaido5b7.jpg)
   

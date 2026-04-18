@@ -6,7 +6,7 @@ images: ["/images/ichiroku.jpg"]
 tags : [flavor - 螞蟻族]
 ---
  
-响宇和島店食過兩款[限定味道](https://hidie.net/shikoku5e/)...   
+响宇和島店食過兩款[限定味道](/shikoku5e/)...   
 
 ![](/images/ichiroku1.jpg)
 

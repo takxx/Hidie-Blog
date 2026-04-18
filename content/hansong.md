@@ -64,7 +64,7 @@ tags : [flavor - 行膳積腹, flavor - 飲！]
 막걸리也有draft的  
 微微的汽泡，甜蜜的米香味  
 加上濃厚的質地好好喝  
-（同系列的[쌀](https://hidie.net/chosun/)同[우국생](https://hidie.net/busanjj3a/)也不錯）
+（同系列的[쌀](/chosun/)同[우국생](/busanjj3a/)也不錯）
 
 ![](/images/hansong3.jpg)
 

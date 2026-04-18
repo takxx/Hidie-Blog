@@ -32,7 +32,7 @@ tags : [flavor - 小食部]
 ![](/images/kanagawa2d19.jpg)
 
 **亀田の柿の種 チーズ味**  
-係[キリン工場](https://hidie.net/kanagawa2d/)限定品  
+係[キリン工場](/kanagawa2d/)限定品  
 特登唔開晒嚟食運返包畀HIMHIM㗎  
 
 ![](/images/kanagawakirin3.jpg)
@@ -62,7 +62,7 @@ tags : [flavor - 小食部]
 ![](/images/kakinotane8.jpg)
 
 **亀田の柿の種 CoCo壱番屋カレー**  
-期間限定，crossover[CoCo壱番屋](https://hidie.net/cocoichiban/)嘅咖喱加芝士脆  
+期間限定，crossover[CoCo壱番屋](/cocoichiban/)嘅咖喱加芝士脆  
 
 ![](/images/kakinotane9.jpg)
 
@@ -95,7 +95,7 @@ tags : [flavor - 小食部]
 
 **広島東洋カープ 亀田の勝ちの種 お好み焼風味**  
 中国地方限定嘅廣島燒味  
-當然唔少得[広島東洋カープ](https://hidie.net/hiroshima2f/)   
+當然唔少得[広島東洋カープ](/hiroshima2f/)   
 
 ![](/images/kakinotane13.jpg)
 

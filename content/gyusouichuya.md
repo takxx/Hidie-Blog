@@ -62,7 +62,7 @@ by the way嘅忠告唔飲得嘅就唔好當佢清水咁飲，會醉㗎！
 飲飲吓焼酎好少會返轉頭入飲返啤  
 咁做緊promote派送膠杯裝  
 嗌多杯又有擦擦咭  
-上次食豬內臟串燒[モクモクやきとん](https://www.hidie.net/2019/07/mokumoku-yakiton.html)都有但冇中獎  
+上次食豬內臟串燒[モクモクやきとん](/2019/07/mokumoku-yakiton.html)都有但冇中獎  
 擦到三獎呀呢次：杯一隻（哈）  
 
 ![](/images/gyusouichuya7.jpg)

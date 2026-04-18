@@ -17,7 +17,7 @@ tags : [lifestyle - 港女港旅, lifestyle - 生活與生存]
 
 雖然有啲霧霾咁  
 大啖呼吸唔算最最最清新嘅空氣  
-（清新空氣可以去近近地日本四国[四万十川](https://hidie.net/shikoku7g/)；再爽仲有葡萄牙[Pinhão](https://hidie.net/portugal8a/)）  
+（清新空氣可以去近近地日本四国[四万十川](/shikoku7g/)；再爽仲有葡萄牙[Pinhão](/portugal8a/)）  
 
 ![](/images/kowloonpeak2.jpg)
 

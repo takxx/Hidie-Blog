@@ -6,7 +6,7 @@ images: ["/images/hk9egg.jpg"]
 tags : [flavor - 小食部, satisfaction - 黃店懲罰日]
 ---
 
-食完[雞](https://hidie.net/chokchick/)，當然唔可以放過隻蛋  
+食完[雞](/chokchick/)，當然唔可以放過隻蛋  
 
 ![](/images/hk9egg.jpg)
 

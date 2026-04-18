@@ -42,4 +42,4 @@ tags : [amusement - films]
 
 \-----------------------------------------------  
   
-延伸閱讀：[《銀魂》](https://www.hidie.net/2017/09/blog-post.html?m=1)
+延伸閱讀：[《銀魂》](/2017/09/blog-post.html?m=1)

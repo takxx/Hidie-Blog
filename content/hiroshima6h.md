@@ -6,12 +6,12 @@ images: ["/images/hiroshima6h.jpg"]
 tags : [travel-日本-廣島]
 ---
 
-呢個**五重塔**亦都屬於[豊国神社](https://hidie.net/hiroshima6g/)嘅一部分 
+呢個**五重塔**亦都屬於[豊国神社](/hiroshima6g/)嘅一部分 
 
 ![](/images/hiroshima6h1.jpg)
 
 高27.6米  
-同[神社](https://hidie.net/hiroshima6f/)一樣紅噹噹  
+同[神社](/hiroshima6f/)一樣紅噹噹  
 
 ![](/images/hiroshima6h2.jpg)
 

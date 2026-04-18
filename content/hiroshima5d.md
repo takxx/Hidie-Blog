@@ -6,7 +6,7 @@ images: ["/images/hiroshima5d.jpg"]
 tags : [travel-日本-廣島]
 ---
 
-行入[広島城](https://hidie.net/hiroshima5c/)area之前  
+行入[広島城](/hiroshima5c/)area之前  
 會先見到呢個鳥居  
 
 ![](/images/hiroshima5d1.jpg)

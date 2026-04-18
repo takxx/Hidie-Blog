@@ -6,7 +6,7 @@ images: ["/images/hokkaido1c.jpg"]
 tags : [travel-日本-北海道, satisfaction - 搭條鐵]
 ---
 
-買埋[便當](https://hidie.net/hokkaido1d/)（空弁同駅弁咪又係お弁当）  
+買埋[便當](/hokkaido1d/)（空弁同駅弁咪又係お弁当）  
 
 ![](/images/kokurikozaka037.jpg)
 

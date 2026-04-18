@@ -12,7 +12,7 @@ tags : [travel-日本-北海道]
 
 **港の屋台**  
 响**釧路フィッシャーマンズワーフMOO**裡面  
-大樓裡面嘅同擒晚嘅[屋台](https://hidie.net/hokkaido1g/)完全係兩回事啦  
+大樓裡面嘅同擒晚嘅[屋台](/hokkaido1g/)完全係兩回事啦  
 
 ![](/images/hokkaido2r1.jpg)
 

@@ -6,7 +6,7 @@ aliases: [ "/2017/01/happy-days-day-3again.html" ]
 tags : [flavor - 飲！, satisfaction - 計劃泡湯了, travel-日本-鹿兒島宮崎]
 ---
 
-係呀，又去[極楽湯](https://hidie.net/kojkmi2f/)浸溫泉喇～～～  
+係呀，又去[極楽湯](/kojkmi2f/)浸溫泉喇～～～  
   
 鬼叫行一陣就到  
 鬼叫個限定養命酒湯好過癮  
@@ -30,7 +30,7 @@ tags : [flavor - 飲！, satisfaction - 計劃泡湯了, travel-日本-鹿兒島
 標榜「 遊離アミノ酸は牛乳の１００倍。ヨーグルトの２５倍以上。」  
 完全適合浸完溫泉飲用補充養分  
 味道都幾濃郁，天然甜但甜咗少少  
-都香嘅，不過擒日朝隻[自家製甘酒](https://hidie.net/kojkmi2a/)實在太驚豔  
+都香嘅，不過擒日朝隻[自家製甘酒](/kojkmi2a/)實在太驚豔  
 係有D比下去，所以唔應該拎嚟比較  
 都好味就係，值得買嚟試吓嘅  
 
@@ -53,4 +53,4 @@ tags : [flavor - 飲！, satisfaction - 計劃泡湯了, travel-日本-鹿兒島
   
 \-----------------------------------------------  
   
-延伸閱讀：[Happy Days！鹿児島宮崎！ (10D9N)](https://hidie.net/kojkmi10d9n/)
+延伸閱讀：[Happy Days！鹿児島宮崎！ (10D9N)](/kojkmi10d9n/)

@@ -6,7 +6,7 @@ images: ["/images/kyotokoyasan2b.jpg"]
 tags : [travel-日本-京都高野山, satisfaction - 搭條鐵]
 ---
 
-行完「晨運」@[竹林](https://hidie.net/kyotokoyasan2a/)後  
+行完「晨運」@[竹林](/kyotokoyasan2a/)後  
 
 ![](/images/kyotokoyasan2b1.jpg)
 

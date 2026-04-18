@@ -6,7 +6,7 @@ images: ["/images/hiroshima6r.jpg"]
 tags : [travel-日本-廣島, flavor - 行膳積腹, flavor - 飲！]
 ---
    
-[飲完啤](https://hidie.net/hiroshima6q/)飽飽哋返宿hea  
+[飲完啤](/hiroshima6q/)飽飽哋返宿hea  
 到宵夜時段先落街食拉麵 @**元祖 広島牛骨醤油ラーメン 大嵐**     
 
 ![](/images/hiroshima6r1.jpg)

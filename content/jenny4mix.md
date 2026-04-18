@@ -62,4 +62,4 @@ tags : [flavor - 螞蟻族]
 實在太美妙了，很喜歡這禮物  
 謝謝謝謝～
 
-（為甚麼每次的[jenny](https://hidie.net/jennysrolls/)都是人家送的呢？哈）
+（為甚麼每次的[jenny](/jennysrolls/)都是人家送的呢？哈）

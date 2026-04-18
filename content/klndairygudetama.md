@@ -7,7 +7,7 @@ tags : [flavor - 螞蟻族]
 ---
 
 香港便利店除咗有七仔當然唔少得OK啦  
-七仔有佢嘅[限定發售雪糕](https://hidie.net/kitagawahanbeeice/)  
+七仔有佢嘅[限定發售雪糕](/kitagawahanbeeice/)  
 OK都唔會俾佢專美嘅  
 前者sell材料極致  
 後者直頭賣萌兼賣懶賣到年三十晚  

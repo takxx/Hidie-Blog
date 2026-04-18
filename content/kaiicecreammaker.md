@@ -25,7 +25,7 @@ tags : [lifestyle - 廚房play]
 要食傳統牛奶雪糕就用cream  
 唔同料就做出icecream或者gelato咁  
 食light啲嘅就honey + yogurt整froyo  
-（我有[乳酪機](https://hidie.net/yogurtmachine/)啱啱好乜都係自己整）  
+（我有[乳酪機](/yogurtmachine/)啱啱好乜都係自己整）  
 用果汁做base就係sorbet  
 再加奶製品溝埋就變sherbet  
 連甘酒都做得到sherbet呀，太無敵喇！  

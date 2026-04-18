@@ -6,7 +6,7 @@ images: ["/images/hiroshima7e.jpg"]
 tags : [travel-日本-廣島, flavor - 螞蟻族]
 ---
    
-雖然食完[燒肉放題](https://hidie.net/hiroshima7d/)而且放題係有雪糕食...
+雖然食完[燒肉放題](/hiroshima7d/)而且放題係有雪糕食...
 
 ![](/images/hiroshima7e1.jpg)    
 

@@ -6,7 +6,7 @@ images: ["/images/hiroshima7a.jpg"]
 tags : [travel-日本-廣島, flavor - 行膳積腹]
 ---
    
-擒日[牡蠣屋公休](https://hidie.net/hiroshima6k/)食唔到蠔餐  
+擒日[牡蠣屋公休](/hiroshima6k/)食唔到蠔餐  
 但都唔會令旅程有遺憾      
 
 ![](/images/hiroshima7a1.jpg)
@@ -82,7 +82,7 @@ tags : [travel-日本-廣島, flavor - 行膳積腹]
 
 蠔嘛，加熱咗咪縮水囉  
 得一隻好珍貴咁  
-唔及得响[四国](https://hidie.net/shikoku1a/)食得咁隨意  
+唔及得响[四国](/shikoku1a/)食得咁隨意  
 明明就係同一個產地嘅蠔啊...  
 
 ![](/images/hiroshima7a11.jpg)

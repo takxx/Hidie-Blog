@@ -10,7 +10,7 @@ tags : [lifestyle - zakka]
 
 ![](/images/imabaritowel1.jpg)
 
-去[四國](https://hidie.net/shikoku8d7n/)係要買今治毛巾㗎啦！
+去[四國](/shikoku8d7n/)係要買今治毛巾㗎啦！
 
 ![](/images/imabaritowel.jpg)
 

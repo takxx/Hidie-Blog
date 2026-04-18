@@ -20,11 +20,11 @@ tags : [glamorous - 保養おたく, glamorous - 機電工程]
 要用其toner才發揮所謂最大效果  
 hitachi這部用甚麼牌子都可以  
 用了不同的toner  
-覺得[etude house wonder pore freshner](https://hidie.net/etudehousepore/)  
+覺得[etude house wonder pore freshner](/etudehousepore/)  
 跟curel 美白化粧水  
 最能把髒污導出之餘  
 而且清爽不黏膩  
-棉花就用[unicharm](https://hidie.net/unicharmcotton/)  
+棉花就用[unicharm](/unicharmcotton/)  
 碌完3分鐘整塊棉都不會爛不起絲  
   
 兩粒3A電，好性能的可以用到1年  

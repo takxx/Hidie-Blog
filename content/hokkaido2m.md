@@ -12,7 +12,7 @@ tags : [travel-日本-北海道, satisfaction - 搭條鐵]
 
 JR北海道真係好可惡  
 竟然出呢種每個站都有嘅「**北の大地の入場券**」  
-帯広站嘅造型係嚟帯広嗰架[特急スーパーとかち](https://hidie.net/hokkaido1c/)  
+帯広站嘅造型係嚟帯広嗰架[特急スーパーとかち](/hokkaido1c/)  
 
 ![](/images/hokkaido2m2.jpg)
 

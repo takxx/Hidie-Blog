@@ -20,4 +20,4 @@ tags : [flavor - 揀飲宅食]
   
 很少機會會食麵包  
 有粒子的jam又不適合做沙冰  
-還是用來伴[乳酪](https://hidie.net/yogurtmachine/)就好
+還是用來伴[乳酪](/yogurtmachine/)就好

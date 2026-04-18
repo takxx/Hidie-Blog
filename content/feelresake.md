@@ -16,7 +16,7 @@ tags : [glamorous - 保養おたく, glamorous - 面膜魂]
 氣味清香，材質很薄  
 面膜周邊較闊但非常貼面  
 精華爆～ 多～   
-（將包裝代剩下的精華倒出，可裝滿整個[time capsule pack](https://hidie.net/reisamtimecapsule/)！）  
+（將包裝代剩下的精華倒出，可裝滿整個[time capsule pack](/reisamtimecapsule/)！）  
   
 敷10-15分鐘，面部還留有爆多水水的精華  
 慢慢按摩吸收，肌膚水水潤潤  

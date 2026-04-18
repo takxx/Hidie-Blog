@@ -10,7 +10,7 @@ tags : [travel-日本-北海道, satisfaction - 搭條鐵]
 
 ![](/images/hokkaido7t1.jpg)
 
-由[運河](https://hidie.net/hokkaido7s/)方向去站就係一條直路
+由[運河](/hokkaido7s/)方向去站就係一條直路
 
 ![](/images/hokkaido7t.jpg)
 

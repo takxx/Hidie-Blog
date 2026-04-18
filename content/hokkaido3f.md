@@ -10,7 +10,7 @@ tags : [travel-日本-北海道, flavor - 行膳積腹]
 
 ![](/images/hokkaido3f1.jpg)
 
-然後就行咗去[和商市場](https://hidie.net/hokkaido3a/)隔離嘅**釧路丹頂市場**  
+然後就行咗去[和商市場](/hokkaido3a/)隔離嘅**釧路丹頂市場**  
 
 ![](/images/hokkaido3f.jpg)
 

@@ -8,7 +8,7 @@ tags : [travel-日本-廣島, flavor - 行膳積腹]
 
 牛脷控又去唔到仙臺住嘛  
 去food court食囉唯有...  
-（雖則[擒日](https://hidie.net/hiroshima4d/)都有食過吓）  
+（雖則[擒日](/hiroshima4d/)都有食過吓）  
 
 ![](/images/hiroshima5g1.jpg)
 

@@ -17,7 +17,7 @@ tags : [travel-日本-廣島]
 
 ![](/images/hiroshima6e2.jpg)
 
-同[奈良](https://hidie.net/nara2a/)一樣：everywhere鹿！！！
+同[奈良](/nara2a/)一樣：everywhere鹿！！！
 
 ![](/images/hiroshima6e3.jpg)
 

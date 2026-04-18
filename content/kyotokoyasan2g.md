@@ -68,7 +68,7 @@ tags : [travel-日本-京都高野山]
 
 ![](/images/kyotokoyasan2g16.jpg)
 
-睇過擒日**龍安寺**嘅[枯山水](https://hidie.net/kyotokoyasan1h/)嘛...  
+睇過擒日**龍安寺**嘅[枯山水](/kyotokoyasan1h/)嘛...  
 （唔好比較唔好比較）  
 
 ![](/images/kyotokoyasan2g17.jpg)

@@ -16,5 +16,5 @@ tags : [amusement - zene]
 \-----------------------------------------------  
   
 延伸閱讀：  
-[\[live\] 2018 JUNG YONG HWA LIVE \[ROOM 622\] 後記](http://www.hidie.net/2018/02/live-2018-jung-yong-hwa-live-room-622.html)  
-[\[live\] 2015 JUNG YONG HWA LIVE in HK <ONE FINE DAY> 後記](http://www.hidie.net/2015/03/live-jung-yong-hwa-live-in-hk.html)
+[\[live\] 2018 JUNG YONG HWA LIVE \[ROOM 622\] 後記](/2018/02/live-2018-jung-yong-hwa-live-room-622.html)  
+[\[live\] 2015 JUNG YONG HWA LIVE in HK <ONE FINE DAY> 後記](/2015/03/live-jung-yong-hwa-live-in-hk.html)

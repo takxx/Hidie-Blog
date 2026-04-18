@@ -20,7 +20,7 @@ tags : [travel-日本-神奈川]
 
 ![](/images/kanagawa2a.jpg)
 
-行一陣就到[川崎大師平間寺](https://hidie.net/kanagawa2a/)嘅入口**大山門**  
+行一陣就到[川崎大師平間寺](/kanagawa2a/)嘅入口**大山門**  
 
 ![](/images/kanagawa2a5.jpg)
 
@@ -40,7 +40,7 @@ tags : [travel-日本-神奈川]
 
 ![](/images/kanagawa2b3.jpg)
 
-話咁快兜完個平間寺就去神社：[金山神社](https://hidie.net/kanagawa2b/)  
+話咁快兜完個平間寺就去神社：[金山神社](/kanagawa2b/)  
 （其實係為咗呢個神社先嚟川崎大師）  
 
 ![](/images/kanagawa2b5.jpg)
@@ -64,8 +64,8 @@ tags : [travel-日本-神奈川]
 
 去完啲咁靈氣嘅地方  
 又係時間祭五臟廟  
-極！級！好！食！嘅**焼きたてのタマゴサンド**（厚玉子三文治）@[城亜](https://hidie.net/kanagawa2c/)  
-個setting同响[宮崎嗰間](https://hidie.net/kojkmi4b/)一樣咁「昭和」嘅喫茶店  
+極！級！好！食！嘅**焼きたてのタマゴサンド**（厚玉子三文治）@[城亜](/kanagawa2c/)  
+個setting同响[宮崎嗰間](/kojkmi4b/)一樣咁「昭和」嘅喫茶店  
 
 ![](/images/kanagawa2c2.jpg)
 
@@ -77,7 +77,7 @@ tags : [travel-日本-神奈川]
 
 ![](/images/kanagawa2d1.jpg)
 
-參觀工場乖乖學習 @[キリンビール 横浜工場](https://hidie.net/kanagawa2d/)  
+參觀工場乖乖學習 @[キリンビール 横浜工場](/kanagawa2d/)  
 
 ![](/images/kanagawa2d3.jpg)
 
@@ -135,7 +135,7 @@ premium啤係用聚泡聚香氣嘅杯裝住
 
 ![](/images/kanagawa2e.jpg)
 
-[Spring Valley Brewery Yokohama | スプリングバレーブルワリー横浜](https://hidie.net/kanagawa2e/)  
+[Spring Valley Brewery Yokohama | スプリングバレーブルワリー横浜](/kanagawa2e/)  
 飲完又飲？係呀！  
 工場隔離有佢哋嘅手工啤餐廳  
 呢度有**定番6種 x food pairing set**  
@@ -147,11 +147,11 @@ premium啤係用聚泡聚香氣嘅杯裝住
 
 ![](/images/kanagawa2f.jpg)
 
-行兩步就到[横浜橋商店街](https://hidie.net/kanagawa2f/)  
+行兩步就到[横浜橋商店街](/kanagawa2f/)  
 
 ![](/images/kanagawa2g.jpg)
 
-食～鰻～魚～ @[うなぎ 八舟](https://hidie.net/kanagawa2g/)  
+食～鰻～魚～ @[うなぎ 八舟](/kanagawa2g/)  
 煮鰻魚浦燒白燒同肝串燒都好好食（流口水）  
 
 ![](/images/kanagawa2h0.jpg)
@@ -160,12 +160,12 @@ premium啤係用聚泡聚香氣嘅杯裝住
 
 ![](/images/kanagawa2h1.jpg)
 
-去[アソビル: ASOBUILD](https://hidie.net/kanagawa2h/)睇屎  
+去[アソビル: ASOBUILD](/kanagawa2h/)睇屎  
 
 ![](/images/kanagawa2h2.jpg)
 
 屎都好有型！  
-（之前去[小倉TOTO睇廁所](https://hidie.net/kanmon5/)；今朝拜撚；而家玩屎，鑊鑊都咁重口味～）  
+（之前去[小倉TOTO睇廁所](/kanmon5/)；今朝拜撚；而家玩屎，鑊鑊都咁重口味～）  
 
 ![](/images/kanagawa2h4.jpg)
 
@@ -207,7 +207,7 @@ premium啤係用聚泡聚香氣嘅杯裝住
 
 ![](/images/kanagawa2i1.jpg)
 
-行呀行有啲口渴，有人要[飲啖「茶」](https://hidie.net/kanagawa2i/) @**宝焼酎のお茶割り**  
+行呀行有啲口渴，有人要[飲啖「茶」](/kanagawa2i/) @**宝焼酎のお茶割り**  
 
 ![](/images/kanagawa2i.jpg)
 
@@ -220,17 +220,17 @@ premium啤係用聚泡聚香氣嘅杯裝住
 
 ![](/images/kanagawa2j11.jpg)
 
-行去[横浜赤レンガ倉庫](https://hidie.net/kanagawa2j/)  
+行去[横浜赤レンガ倉庫](/kanagawa2j/)  
 
 ![](/images/kanagawa2k.jpg)
 
-先去[崎陽軒](https://hidie.net/kanagawa2k/)食横浜名物 **シウマイ**  
+先去[崎陽軒](/kanagawa2k/)食横浜名物 **シウマイ**  
 呢隻口味嘅燒賣係紅磚倉庫限定啊  
 
 ![](/images/kanagawa2l.jpg)
 
 **リコッタパンケーキ**  
-然後再食有「世界一の朝食」美譽嘅[bills](https://hidie.net/kanagawa2l/)  
+然後再食有「世界一の朝食」美譽嘅[bills](/kanagawa2l/)  
 充滿住ricotta cheese香味嘅浮雲pancake，好食到飆屎呀（喂）  
 
 ![](/images/kanagawa2l2.jpg)
@@ -253,11 +253,11 @@ weekend梗係要飲**WEEKEND JOURNEY**
 
 ![](/images/kanagawa2m10.jpg)
 
-穿過[Marine & Walk Yokohama](https://hidie.net/kanagawa2m/)  
+穿過[Marine & Walk Yokohama](/kanagawa2m/)  
 
 ![](/images/kanagawa2n1.jpg)
 
-[橫浜 COSMOWORLD | よこはまコスモワールド](https://hidie.net/kanagawa2n/)  
+[橫浜 COSMOWORLD | よこはまコスモワールド](/kanagawa2n/)  
 
 ![](/images/kanagawa2n2.jpg)
 
@@ -275,7 +275,7 @@ weekend梗係要飲**WEEKEND JOURNEY**
 
 ![](/images/kanagawa2o1.jpg)
 
-[野毛小路](https://hidie.net/kanagawa2o/)覓食去～  
+[野毛小路](/kanagawa2o/)覓食去～  
 
 ![](/images/kanagawa2p1.jpg)
 
@@ -284,7 +284,7 @@ weekend梗係要飲**WEEKEND JOURNEY**
 
 ![](/images/kanagawa2p.jpg)
 
-@[野毛居酒屋 ヤマヤ鮮魚店](https://hidie.net/kanagawa2p/)  
+@[野毛居酒屋 ヤマヤ鮮魚店](/kanagawa2p/)  
 
 ![](/images/kanagawa2p3.jpg)
 
@@ -299,7 +299,7 @@ weekend梗係要飲**WEEKEND JOURNEY**
 ![](/images/kanagawa2q.jpg)
 
 食完飲完就搭京急返川崎  
-行行吓條地下街見到[YEBISU BAR（ヱビスバー）](https://hidie.net/kanagawa2q/)  
+行行吓條地下街見到[YEBISU BAR（ヱビスバー）](/kanagawa2q/)  
 只可以承認我對Yebisu毫無抵抗力  
 左邊有塊葉嘅係**キウイモヒートビヤ（mojito beer）**  
 清爽嘅味道，話時話好似第一次飲用啤酒做嘅cocktail  
@@ -309,7 +309,7 @@ weekend梗係要飲**WEEKEND JOURNEY**
 
 ![](/images/kanagawa2r.jpg)
 
-返到酒店又係[雪糕時間](https://hidie.net/kanagawa2r/)  
+返到酒店又係[雪糕時間](/kanagawa2r/)  
 **SEVEN & i PREMIUM CREAM CHEESE MACARON ICE**  
 **クリームチーズ マカロンアイス**  
 有少少芝士味嘅，不過個macaron太太太甜喇  
@@ -322,7 +322,7 @@ weekend梗係要飲**WEEKEND JOURNEY**
 ![](/images/kanagawa2s1.jpg)
 
 食完甜品又未想瞓住  
-落街食宵夜（酒店後面係食街呀頂！）@[磯丸水産](https://hidie.net/kanagawa2s/)  
+落街食宵夜（酒店後面係食街呀頂！）@[磯丸水産](/kanagawa2s/)  
 **赤ハイ**同**バリキング**  
 得微微酒精啫唔飲太多喇  
 

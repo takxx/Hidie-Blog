@@ -6,7 +6,7 @@ images: ["/images/jimmyspopcorn.jpg"]
 tags : [flavor - say cheese]
 ---
 
-芝士 x [Tabasco](https://hidie.net/tabascomini/)，鹹同甜之間再另一種口味...  
+芝士 x [Tabasco](/tabascomini/)，鹹同甜之間再另一種口味...  
 
 ![](/images/jimmyspopcorn1.jpg)
 

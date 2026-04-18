@@ -42,10 +42,10 @@ tags : [travel-日本-鹿兒島宮崎, satisfaction - 計劃泡湯了]
 
 ![](/images/hakutowel.jpg)
 
-條 (pack)毛巾响[名古屋](https://hidie.net/nagoya8d7n/)買㗎  
+條 (pack)毛巾响[名古屋](/nagoya8d7n/)買㗎  
 日本製㗎，薄薄地size又啱啱好帶去溫泉  
 真係好perfect㗎，如果有帶嘅話... ... ... ... ... ...  
   
 \-----------------------------------------------  
   
-延伸閱讀：[Happy Days！鹿児島宮崎！ (10D9N)](https://hidie.net/kojkmi10d9n/)
+延伸閱讀：[Happy Days！鹿児島宮崎！ (10D9N)](/kojkmi10d9n/)

@@ -7,7 +7,7 @@ tags : [travel-日本-廣島, flavor - 螞蟻族]
 ---
 
 本身對もみじ饅頭（楓葉饅頭）零興趣  
-而且嚟宮島嗰陣已經食咗個[好新鮮](https://hidie.net/hiroshima6c/)嘅
+而且嚟宮島嗰陣已經食咗個[好新鮮](/hiroshima6c/)嘅
 
 ![](/images/hiroshima6j1.jpg)
 

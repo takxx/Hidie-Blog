@@ -15,4 +15,4 @@ tags : [flavor - say cheese]
 所以可以同時食落有鬆同脆兩種感覺  
 cheese味頗香，鹹中帶微微甜味  
   
-算OK，不過都係[原味](https://hidie.net/mikepopcorn/)最好食囉！
+算OK，不過都係[原味](/mikepopcorn/)最好食囉！

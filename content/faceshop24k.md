@@ -33,5 +33,5 @@ tags : [glamorous - 保養おたく, glamorous - 面膜魂]
 \-----------------------------------------------  
   
 延伸閱讀：  
-[the face shop 명한미인도 설 미백비책마스크시트](https://hidie.net/faceshopsnow/)  
-[the face shop 명한미인도 율 십이경락탄력마스크시트](https://hidie.net/faceshoplifting/)
+[the face shop 명한미인도 설 미백비책마스크시트](/faceshopsnow/)  
+[the face shop 명한미인도 율 십이경락탄력마스크시트](/faceshoplifting/)

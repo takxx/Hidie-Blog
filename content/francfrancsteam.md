@@ -6,7 +6,7 @@ aliases: [ "/2014/07/masque-franc-franc-steam-mask.html" ]
 tags : [glamorous - 保養おたく, glamorous - 面膜魂]
 ---
 
-不是說daiso的[facial tower](https://hidie.net/daisofacialtowel/)不好  
+不是說daiso的[facial tower](/daisofacialtowel/)不好  
 
 ![](/images/francfrancsteam.jpg)
 

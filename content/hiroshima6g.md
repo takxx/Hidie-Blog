@@ -6,7 +6,7 @@ images: ["/images/hiroshima6g.jpg"]
 tags : [travel-日本-廣島]
 ---
 
-行完[神社](https://hidie.net/hiroshima6f/)就開始繼續搵路行
+行完[神社](/hiroshima6f/)就開始繼續搵路行
 
 ![](/images/hiroshima6g1.jpg)  
 

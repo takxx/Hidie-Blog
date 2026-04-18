@@ -18,7 +18,7 @@ tags : [amusement - zene]
 high到一整晚在跳在叫  
 星期日晚完show返屋企落車那一刻  
 已經深深感到小腿痛  
-就算當晚覺覺豬的時候已經貼了[休足時間](https://hidie.net/kyusokujikan/)  
+就算當晚覺覺豬的時候已經貼了[休足時間](/kyusokujikan/)  
 星期一起身返工  
 仍然覺得那雙踢英超的烏金豬腿並不屬於我的  
 不過我絕對不會露出哭臉（泣かないと決めた日？）  
@@ -56,7 +56,7 @@ high到一整晚在跳在叫
 
 ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
 
-（[16/5](https://hidie.net/fnckingdom20150516/)）  
+（[16/5](/fnckingdom20150516/)）  
   
 第一隊出場是**N.Flying**  
 紅噹噹的火辣舞台唱出的《Bitter Sweet》  
@@ -348,7 +348,7 @@ Mochi Mochi Band，同2014年的演唱差不多是一樣的
 
 ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
 
-（[17/5](https://hidie.net/fnckingdom20150517/)）  
+（[17/5](/fnckingdom20150517/)）  
   
 第一隊出場也是**N.Flying**  
 《Bitter Sweet》rock show狀態登場！  
@@ -455,7 +455,7 @@ HIMHIM在上場完結是跟我說沒有這首歌；
   
 《Diamond Girl》、《Coffee Shop》、《I'm Sorry》  
 「미쳤어！」「완전히 미쳤어！！！」  
-叫到癲跳到癲，幸好有帶備[龍角散](https://hidie.net/ryukakusan/)  
+叫到癲跳到癲，幸好有帶備[龍角散](/ryukakusan/)  
   
 再來韓文版的《Lady》  
 英語部分應援跟日文版一樣  

@@ -6,8 +6,8 @@ images: ["/images/hokkaido7e.jpg"]
 tags : [travel-日本-北海道, flavor - 螞蟻族]
 ---
  
-响[さっぽろオータムフェスト](https://hidie.net/hokkaido7d/)兜晒成個圈  
-因為嚟之前[食飽飽](https://hidie.net/hokkaido7b/)就無特別跌錢  
+响[さっぽろオータムフェスト](/hokkaido7d/)兜晒成個圈  
+因為嚟之前[食飽飽](/hokkaido7b/)就無特別跌錢  
 
 ![](/images/hokkaido7e1.jpg)
 

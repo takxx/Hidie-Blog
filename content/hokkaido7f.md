@@ -6,7 +6,7 @@ images: ["/images/hokkaido7f.jpg"]
 tags : [travel-日本-北海道]
 ---
  
-係嘅，個食fair[さっぽろオータムフェスト](https://hidie.net/hokkaido7d/)係好吸引  
+係嘅，個食fair[さっぽろオータムフェスト](/hokkaido7d/)係好吸引  
 
 ![](/images/hokkaido7f1.jpg)
 

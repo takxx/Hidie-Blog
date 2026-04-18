@@ -14,13 +14,13 @@ tags : [travel-日本-北海道]
 ![](/images/hokkaido3a.jpg)
 
 平日最討厭嘅濕笠笠街巿  
-而呢朝就特登嚟呢個[和商市場](https://hidie.net/hokkaido3a/)（since 1954）  
+而呢朝就特登嚟呢個[和商市場](/hokkaido3a/)（since 1954）  
 啲蟹係即叫即蒸即食嘅  
 不過今日唔係食呢樣  
 
 ![](/images/hokkaido3b3.jpg)
 
-因為係食就梗係食又係釧路發祥嘅[勝手丼](https://hidie.net/hokkaido3b/)啦！  
+因為係食就梗係食又係釧路發祥嘅[勝手丼](/hokkaido3b/)啦！  
 所謂嘅勝手丼即係求其啦鍾意咩就咩啦丼  
 買完個飯見到咩海鮮想食嘅就叫店員擺入去  
 覺得夠喇（新鮮嘅海鮮係永遠都唔會夠）就計數  
@@ -38,7 +38,7 @@ tags : [travel-日本-北海道]
 
 無聊到行JR站  
 先買駅弁，驚死係旅遊淡季嘅而家都會賣晒  
-逛到冇嘢逛連睇阿寒湖嘅大大球[マリモ](https://hidie.net/hokkaido3c/)都可以駐足好耐  
+逛到冇嘢逛連睇阿寒湖嘅大大球[マリモ](/hokkaido3c/)都可以駐足好耐  
 
 ![](/images/hokkaido3c1.jpg)
 
@@ -48,7 +48,7 @@ tags : [travel-日本-北海道]
 
 買完駅弁同羊羹又行返去和商市場  
 見到有鹿肉食就忍唔住喇  
-**鹿肉バーガー** @[喫茶ポラリス](https://hidie.net/hokkaido3d/)  
+**鹿肉バーガー** @[喫茶ポラリス](/hokkaido3d/)  
 同麥記靚啲嘅包咁上下嘅價錢  
 買到兩塊厚厚鹿肉漢堡肉嘅包包  
 個味一啲都唔羶  
@@ -56,7 +56,7 @@ tags : [travel-日本-北海道]
 
 ![](/images/hokkaido3e.jpg)
 
-响市場中央咁啱撞正「[秋の鯨肉普及キャンペーン](https://hidie.net/hokkaido3e/)」  
+响市場中央咁啱撞正「[秋の鯨肉普及キャンペーン](/hokkaido3e/)」  
 by 釧路くじら協議会  
 無料派發**くじら汁**同**鯨の竜田揚げ**  
 個湯好多料呀仲解決到食完漢堡啱啱有啲口渴嘅狀況  
@@ -67,7 +67,7 @@ by 釧路くじら協議会
 
 食完少少嘢又係到食晏嘅時候喇  
 然後就行咗去和商市場隔離嘅釧路丹頂市場  
-**魚醤味ラーメン** @[らーめん工房 魚一](https://hidie.net/hokkaido3f/)  
+**魚醤味ラーメン** @[らーめん工房 魚一](/hokkaido3f/)  
 唔... 講開北海道拉麵  
 通常而又最出名都係札幌旭川同函館  
 畢竟三大拉麵係有佢獨特之處  
@@ -84,7 +84,7 @@ by 釧路くじら協議会
 
 ![](/images/hokkaido3g.jpg)
 
-@[釧路駅](https://hidie.net/hokkaido3g/)  
+@[釧路駅](/hokkaido3g/)  
 行去站頭敲吓個**釧路駅湿原の鐘**先  
 唔知點解要敲㗎  
 可能就係叮叮叮咁話俾人聽我而家就出發去釧路湿原啩...  
@@ -103,18 +103,18 @@ by 釧路くじら協議会
 車頭係DE10嘅機関車  
   
 釧路 → 塘路  
-（[くしろ湿原ノロッコ号](https://hidie.net/hokkaido3h/)、**510系**）  
+（[くしろ湿原ノロッコ号](/hokkaido3h/)、**510系**）  
 
 ![](/images/hokkaido3i.jpg)
 
-[くしろ湿原ノロッコ号プリン](https://hidie.net/hokkaido3i/)  
+[くしろ湿原ノロッコ号プリン](/hokkaido3i/)  
 飽還飽，甜品胃依然正常運作  
 列車限定販賣嘅牛奶布甸  
 開車前食住等就啱啱好（滑～）  
 
 ![](/images/hokkaido3j1.jpg)
 
-好好天 @**釧路川**，[出發](https://hidie.net/hokkaido3j/)！  
+好好天 @**釧路川**，[出發](/hokkaido3j/)！  
 冇玻璃阻隔架車又慢慢開仲要天氣咁靚  
 好易影到滿意嘅相  
 
@@ -131,7 +131,7 @@ by 釧路くじら協議会
 
 嫌天水圍太遠  
 未去過濕滯公園嘅我  
-竟然係先去[釧路湿原](https://hidie.net/hokkaido3k/)睇濕地生態  
+竟然係先去[釧路湿原](/hokkaido3k/)睇濕地生態  
 
 ![](/images/hokkaido3k2.jpg)
 
@@ -147,22 +147,22 @@ by 釧路くじら協議会
 
 ![](/images/hokkaido3l.jpg)
 
-**塘路**（[塘路駅](https://hidie.net/hokkaido3l/)）  
+**塘路**（[塘路駅](/hokkaido3l/)）  
 **無人駅**，即係基本上冇職員駐守  
 今日嘅中途站嚟㗎啫  
 因為架慢車只係嚟到呢度  
 
 ![](/images/hokkaido3m.jpg)
 
-[塘路 → 網走](https://hidie.net/hokkaido3m/)  
+[塘路 → 網走](/hokkaido3m/)  
 （**普通列車，523系**）  
-[釧網本線](https://hidie.net/hokkaido3o/)係冇特急車同指定席車廂  
+[釧網本線](/hokkaido3o/)係冇特急車同指定席車廂  
 一節嘅列車同埋幾粒鐘先有一班  
 所以都幾多人坐差啲位都冇得坐仲要有個喼呢...  
 
 ![](/images/hokkaido3n.jpg)
 
-下午茶係釧路駅弁[いわしのほっかぶり寿司](https://hidie.net/hokkaido3n/)  
+下午茶係釧路駅弁[いわしのほっかぶり寿司](/hokkaido3n/)  
 即係响釧路早早買定驚死冇嗰盒  
 無計啦，真係好好食呀佢  
 冇得食絕對係遺憾，OK？  
@@ -213,13 +213,13 @@ by 釧路くじら協議会
 
 ![](/images/hokkaido3p.jpg)
 
-[網走（網走駅）](https://hidie.net/hokkaido3p/)  
+[網走（網走駅）](/hokkaido3p/)  
 到今日要stay嘅地方  
 又到咗拖行李去酒店嘅時候喇  
 
 ![](/images/hokkaido3q1.jpg)
 
-**モヨロ鍋セット** @[網走ロイヤルホテル](https://hidie.net/hokkaido3q/)  
+**モヨロ鍋セット** @[網走ロイヤルホテル](/hokkaido3q/)  
 唔係响呢間酒店住㗎...  
 
 ![](/images/hokkaido3q.jpg)
@@ -234,7 +234,7 @@ by 釧路くじら協議会
 ![](/images/hokkaido3r.jpg)
 
 至少都要飲吓**網走ビール**啦  
-@[YAKINIKU網走ビール館](https://hidie.net/hokkaido3r/)  
+@[YAKINIKU網走ビール館](/hokkaido3r/)  
 
 ![](/images/hokkaido3r3.jpg)
 
@@ -248,7 +248,7 @@ round 2
 
 ![](/images/hokkaido3s.jpg)
 
-[宵夜時間](https://hidie.net/hokkaido3s/)就幫襯吓seicomart（終於）  
+[宵夜時間](/hokkaido3s/)就幫襯吓seicomart（終於）  
 有北海道產嘅芝士雪條  
 同都係北海道產嘅蜜瓜モナカ  
   

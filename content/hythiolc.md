@@ -31,7 +31,7 @@ tags : [glamorous - 秀色可餐]
 不過現在問我還想服用這美白丸嗎？  
 我的答案是否定的  
 因為如果是由維他命C去美白的話  
-[lemona](https://hidie.net/clemona/l)實在太美味 :p  
+[lemona](/clemona/l)實在太美味 :p  
 也不用像吃藥般吞下呢～  
   
 但也會推薦給會準時吞丸仔去美白的人

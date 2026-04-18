@@ -6,7 +6,7 @@ images: ["/images/housetongari.jpg"]
 tags : [flavor - say cheese]
 ---
 
-又係[間唔時](https://hidie.net/housecorn/)就想買嚟食嘅粟米筒（哈）  
+又係[間唔時](/housecorn/)就想買嚟食嘅粟米筒（哈）  
 
 ![](/images/housetongari.jpg)
 

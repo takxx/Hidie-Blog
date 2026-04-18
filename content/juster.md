@@ -33,7 +33,7 @@ shut up and take my money
 **STEENBRUGGE Blond**  
 甜甜嘅blonde  
 果香之中帶少少香料味  
-都係低酒精度嘅，同响[比利時](https://hidie.net/belgium2a/)嗰時有啲分別（哈）  
+都係低酒精度嘅，同响[比利時](/belgium2a/)嗰時有啲分別（哈）  
 
 ![](/images/juster6.jpg)
 
@@ -75,7 +75,7 @@ ribs嘅醬汁夠濃唔會太甜肉質嫩唔會散
 ![](/images/juster10.jpg)
 
 **渣渣鹿兒島A5和牛(西冷)配薯條**  
-比响鹿兒島食嘅[鹿兒島和牛](https://hidie.net/kojkmi6m/)好食少少  
+比响鹿兒島食嘅[鹿兒島和牛](/kojkmi6m/)好食少少  
 （係啦呢度嘅係西冷唔同啦）  
 肉嫩啦油膩感足嘅油花滿滿兼無渣，唔錯  
   

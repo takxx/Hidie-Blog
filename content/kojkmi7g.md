@@ -6,7 +6,7 @@ aliases: [ "/2017/06/happy-days-day-7_6.html" ]
 tags : [travel-日本-鹿兒島宮崎]
 ---
 
-今朝誤打誤撞去咗[城山観光ホテル](https://hidie.net/kojkmi7b/)睇日景嘛  
+今朝誤打誤撞去咗[城山観光ホテル](/kojkmi7b/)睇日景嘛  
 
 ![](/images/kojkmi7g.jpg)
 
@@ -43,4 +43,4 @@ by the way，今朝hotel嗰邊個桜島感覺上靚過呢邊....（遠望）
   
 \-----------------------------------------------  
   
-延伸閱讀：[Happy Days！鹿児島宮崎！ (10D9N)](https://hidie.net/kojkmi10d9n/)
+延伸閱讀：[Happy Days！鹿児島宮崎！ (10D9N)](/kojkmi10d9n/)

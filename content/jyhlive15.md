@@ -6,7 +6,7 @@ aliases: [ "/2015/03/live-jung-yong-hwa-live-in-hk.html" ]
 tags : [amusement - zene]
 ---
 
-終於終於等到這[美好的一天](http://www.hidie.net/2015/03/live-2015-jung-yong-hwa-live-in-hk.html)了（超興奮）（握拳）  
+終於終於等到這[美好的一天](/2015/03/live-2015-jung-yong-hwa-live-in-hk.html)了（超興奮）（握拳）  
 
 ![](/images/jyhlive15.jpg)
 
@@ -249,4 +249,4 @@ goodnight lover
   
 \-----------------------------------------------  
   
-延伸閱讀：[\[discography\] 정용화 - 어느 멋진 날（鄭容和/ jung yong hwa - one fine day）](http://www.hidie.net/2015/03/discography-jung-yong-hwa-one-fine-day.html)
+延伸閱讀：[\[discography\] 정용화 - 어느 멋진 날（鄭容和/ jung yong hwa - one fine day）](/2015/03/discography-jung-yong-hwa-one-fine-day.html)

@@ -27,7 +27,7 @@ tags : [travel-日本-北海道, satisfaction - 搭條鐵]
 
 and **狸小路商店街**  
   
-雖然啲雨冇[擒日](https://hidie.net/hokkaido5e/)咁恐怖  
+雖然啲雨冇[擒日](/hokkaido5e/)咁恐怖  
 但係行行吓都有諗過：點解唔舒舒服服搭路面電車呢？  
 仲要有啲餓咁話嘛...  
   

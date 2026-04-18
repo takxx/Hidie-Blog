@@ -19,7 +19,7 @@ tags : [travel-日本-北海道, satisfaction - 搭條鐵]
 
 ![](/images/hokkaido4g.jpg)
 
-有啱啱落車嘅[特急大雪、183系](https://hidie.net/hokkaido4g/)  
+有啱啱落車嘅[特急大雪、183系](/hokkaido4g/)  
 
 ![](/images/hokkaido4h3.jpg)
 

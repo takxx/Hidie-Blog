@@ -22,4 +22,4 @@ tags : [flavor - 飲！]
 \-----------------------------------------------  
   
 延伸閱讀：  
-[\[cheers!\] gwei•lo - Pale Ale & IPA, Little Creatures Pale Ale@The Picture House](https://www.hidie.net/2019/03/cheers-gweilo-pale-ale-ipa-little.html)
+[\[cheers!\] gwei•lo - Pale Ale & IPA, Little Creatures Pale Ale@The Picture House](/2019/03/cheers-gweilo-pale-ale-ipa-little.html)

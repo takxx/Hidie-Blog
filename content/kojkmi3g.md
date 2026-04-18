@@ -18,12 +18,12 @@ tags : [travel-日本-鹿兒島宮崎]
 
 穿過之後有幾條食街  
 人會多返少少，不過就真係只係多少少  
-成個宮崎見到最多人都係[極楽湯](https://hidie.net/kojkmi2f/)囉  
+成個宮崎見到最多人都係[極楽湯](/kojkmi2f/)囉  
 
 ![](/images/kojkmi3g2.jpg)
 
 吖～ 好想試下浜焼き  
-（如果有早知，一定揀呢間唔食[チキン南蛮](https://hidie.net/kojkmi2g/)囉！）  
+（如果有早知，一定揀呢間唔食[チキン南蛮](/kojkmi2g/)囉！）  
 
 ![](/images/kojkmi3g3.jpg)
 
@@ -42,4 +42,4 @@ tags : [travel-日本-鹿兒島宮崎]
   
 \-----------------------------------------------  
   
-延伸閱讀：[Happy Days！鹿児島宮崎！ (10D9N)](https://hidie.net/kojkmi10d9n/)
+延伸閱讀：[Happy Days！鹿児島宮崎！ (10D9N)](/kojkmi10d9n/)

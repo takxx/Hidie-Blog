@@ -6,7 +6,7 @@ images: ["/images/kanagawa2b.jpg"]
 tags : [travel-日本-神奈川]
 ---
 
-話咁快兜完個[平間寺](https://hidie.net/kanagawa2a/)
+話咁快兜完個[平間寺](/kanagawa2a/)
 
 ![](/images/kanagawa2b1.jpg)
 

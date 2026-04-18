@@ -6,7 +6,7 @@ images: ["/images/kitchencorner.jpg"]
 tags : [flavor - 行膳積腹, satisfaction - 黃店懲罰日]
 ---
 
-話說舂錯咗入[留白](https://hidie.net/blankcafe/)  
+話說舂錯咗入[留白](/blankcafe/)  
 咁當然晌終於發現咗之後都嚟返呢度  
 
 ![](/images/kitchencorner.jpg)

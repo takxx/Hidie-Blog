@@ -6,7 +6,7 @@ images: ["/images/kanagawa3m.jpg"]
 tags : [travel-日本-神奈川, satisfaction - 搭條鐵]
 ---
 
-個[day pass](https://hidie.net/kanagawa3b/)包咗**江ノ島電鉄線**  
+個[day pass](/kanagawa3b/)包咗**江ノ島電鉄線**  
 順晒路又有景睇無理由唔搭㗎嘛
 
 ![](/images/kanagawa3m1.jpg)

@@ -6,7 +6,7 @@ images: ["/images/kyotokoyasan1m.jpg"]
 tags : [travel-日本-京都高野山, satisfaction - 搭條鐵, satisfaction - 計劃泡湯了]
 ---
 
-講返[嵐電嵐山駅](https://hidie.net/kyotokoyasan1g/)  
+講返[嵐電嵐山駅](/kyotokoyasan1g/)  
 
 ![](/images/kyotokoyasan1m1.jpg)
 

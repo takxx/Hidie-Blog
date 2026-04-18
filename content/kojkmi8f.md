@@ -6,7 +6,7 @@ aliases: [ "/2017/06/happy-days-day-8_19.html" ]
 tags : [flavor - 行膳積腹, travel-日本-鹿兒島宮崎]
 ---
 
-前兩日食完個普普通通嘅燴[鹿児島黒毛和牛](https://hidie.net/kojkmi6m/)  
+前兩日食完個普普通通嘅燴[鹿児島黒毛和牛](/kojkmi6m/)  
 不如都再比多次機會佢  
 試吓其他做法會唔會特別啲同好食啲啦  
   
@@ -72,4 +72,4 @@ tags : [flavor - 行膳積腹, travel-日本-鹿兒島宮崎]
   
 \-----------------------------------------------  
   
-延伸閱讀：[Happy Days！鹿児島宮崎！ (10D9N)](https://hidie.net/kojkmi10d9n/)
+延伸閱讀：[Happy Days！鹿児島宮崎！ (10D9N)](/kojkmi10d9n/)

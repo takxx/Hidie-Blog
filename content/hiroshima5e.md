@@ -11,7 +11,7 @@ tags : [travel-日本-廣島, flavor - 螞蟻族]
 ![](/images/hiroshima5e.jpg)
 
 **お城の茶屋 ソフトクリーム**  
-因此個[神社](https://hidie.net/hiroshima5d/)最值得我“參觀”嘅地方  
+因此個[神社](/hiroshima5d/)最值得我“參觀”嘅地方  
 就係佢隔離呢間小賣部屋仔  
 呢度嘅雪糕有**日本酒アイス**  
 係用號稱日本最古老嘅神社「大神神社」  

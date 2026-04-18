@@ -6,7 +6,7 @@ images: ["/images/kxl.jpg"]
 tags : [glamorous - 裝身]
 ---
 
-衣櫃裡面係無瑜伽褲同[leggings](https://hidie.net/uniqlodisney/)  
+衣櫃裡面係無瑜伽褲同[leggings](/uniqlodisney/)  
 因為根本唔會着...  
 
 ![](/images/kxl1.jpg)

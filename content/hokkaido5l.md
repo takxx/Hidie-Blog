@@ -6,7 +6,7 @@ images: ["/images/hokkaido5l.jpg"]
 tags : [travel-日本-北海道, flavor - 飲！]
 ---
 
-食稚內同宗谷呢啲[在地刺身](https://hidie.net/hokkaido5k/)    
+食稚內同宗谷呢啲[在地刺身](/hokkaido5k/)    
 又點可以唔飲埋在地米酒呢？  
 
 ![](/images/hokkaido5l.jpg)

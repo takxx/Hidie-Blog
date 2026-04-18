@@ -14,7 +14,7 @@ tags : [travel-日本-北海道, flavor - 螞蟻族]
 咁大個圓形包裝盒放响度  
 一陣唔食你都唔得啦～  
   
-唔同十勝[六花亭](https://hidie.net/hokkaido2h/)[柳月](https://hidie.net/hokkaido2i/)[クランベリー](https://hidie.net/hokkaido2e/)咁開咗幾廿年  
+唔同十勝[六花亭](/hokkaido2h/)[柳月](/hokkaido2i/)[クランベリー](/hokkaido2e/)咁開咗幾廿年  
 呢間1998年先由小樽開業  
 但係好味嘅嘢唔係單靠歷史嘅  
 

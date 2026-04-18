@@ -21,13 +21,13 @@ so... 一朝早起身就慢慢影
 ![](/images/hokkaido8a2.jpg)
 
 **特急ラッピング、789系0代**  
-即係同[旭川 → 札幌](https://hidie.net/hokkaido6n/)嗰架  
+即係同[旭川 → 札幌](/hokkaido6n/)嗰架  
 呢張車身公仔係円山動物園にいる動物嘅lion & hippo  
 
 ![](/images/hokkaido8a3.jpg)
 
 **快速エアポート（721系）**  
-同[新千歳空港 → 南千歲](https://hidie.net/hokkaido1c/)一樣車款but唔同系  
+同[新千歳空港 → 南千歲](/hokkaido1c/)一樣車款but唔同系  
 因此個車樣完全唔同  
 
 ![](/images/hokkaido8a4.jpg)
@@ -37,13 +37,13 @@ so... 一朝早起身就慢慢影
 ![](/images/hokkaido8a5.jpg)
 
 **特急スーパーとかち、261系**  
-即係去[帯広](https://hidie.net/hokkaido1c/)嗰架  
+即係去[帯広](/hokkaido1c/)嗰架  
 一邊係藍色頭另一邊就係白黃紫組合  
 
 ![](/images/hokkaido8a6.jpg)
 
 **区間快速 いしかりライナー、731系**  
-擒日[札幌 → 小樽](https://hidie.net/hokkaido7g/)就係搭佢喇～  
+擒日[札幌 → 小樽](/hokkaido7g/)就係搭佢喇～  
 
 ![](/images/hokkaido8a7.jpg)
 

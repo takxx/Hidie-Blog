@@ -32,4 +32,4 @@ tags : [amusement - games]
   
 \-----------------------------------------------  
   
-延伸閱讀：[回憶咖喱](https://hidie.net/curryalbum/)
+延伸閱讀：[回憶咖喱](/curryalbum/)

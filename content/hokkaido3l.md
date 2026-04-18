@@ -6,7 +6,7 @@ images: ["/images/hokkaido3l.jpg"]
 tags : [travel-日本-北海道, satisfaction - 搭條鐵]
 ---
 
-好爽咁搭完程[くしろ湿原ノロッコ号](https://hidie.net/hokkaido3h/)  
+好爽咁搭完程[くしろ湿原ノロッコ号](/hokkaido3h/)  
 
 ![](/images/hokkaido3l1.jpg)
 
@@ -26,7 +26,7 @@ tags : [travel-日本-北海道, satisfaction - 搭條鐵]
 
 ![](/images/hokkaido3l4.jpg)
 
-個站同頭先經過嘅[細岡駅](https://hidie.net/hokkaido3k/)一樣係木屋型
+個站同頭先經過嘅[細岡駅](/hokkaido3k/)一樣係木屋型
 
 ![](/images/hokkaido3l5.jpg)
 

@@ -19,7 +19,7 @@ tags : [amusement-exhibition, travel-日本-神奈川]
 ![](/images/kanagawa2h2.jpg)
 
 屎都好有型！  
-（之前去[小倉TOTO睇廁所](https://hidie.net/kanmon5/)；今朝[拜撚](https://hidie.net/kanagawa2b/)；而家玩屎，鑊鑊都咁重口味～）  
+（之前去[小倉TOTO睇廁所](/kanmon5/)；今朝[拜撚](/kanagawa2b/)；而家玩屎，鑊鑊都咁重口味～）  
 
 ![](/images/kanagawa2h46.jpg)
 

@@ -18,7 +18,7 @@ tags : [travel-日本-京都高野山, satisfaction - 搭條鐵]
 
 ![](/images/kyotokoyasan2d3.jpg)
 
-特登响總站[トロッコ嵯峨駅](https://hidie.net/kyotokoyasan2b/)上車  
+特登响總站[トロッコ嵯峨駅](/kyotokoyasan2b/)上車  
 因為咁先排到靚位啊！  
 
 ![](/images/kyotokoyasan2d4.jpg)

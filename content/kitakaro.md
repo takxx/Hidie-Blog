@@ -6,11 +6,11 @@ images: ["/images/kitakaro.jpg"]
 tags : [flavor - 小食部]
 ---
 
-雖然[札幌おかき Oh!焼とうきび](https://hidie.net/yakitoukibi/)已經好很好食... 
+雖然[札幌おかき Oh!焼とうきび](/yakitoukibi/)已經好很好食... 
 
 ![](/images/kitakaro.jpg)
 
-[北菓楼](https://hidie.net/hokkaido7n/) **北海道開拓おかき 野付北海シマエビ**  
+[北菓楼](/hokkaido7n/) **北海道開拓おかき 野付北海シマエビ**  
 但係呢隻睇落再新鮮啲  
 仲要係蝦味含扁蝦乾嘅脆脆米果  
 真係無敵無得輸！！！  

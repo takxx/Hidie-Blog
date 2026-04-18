@@ -14,7 +14,7 @@ tags : [travel-日本-北海道]
 
 ![](/images/hokkaido2a.jpg)
 
-**あんパン** @ [ますやパン 満寿屋本店](https://hidie.net/hokkaido2a/)  
+**あんパン** @ [ますやパン 満寿屋本店](/hokkaido2a/)  
 1950年响帯広創業  
 整個麵包裡裡外外都係用北海道原料製作  
 而就咁噏帯広可能唔易明白  
@@ -28,7 +28,7 @@ tags : [travel-日本-北海道]
 
 ![](/images/hokkaido2b.jpg)
 
-[幸福駅](https://hidie.net/hokkaido2b/)  
+[幸福駅](/hokkaido2b/)  
 今朝就會離開帯広  
 行程就變成去唔到廢棄咗嘅幸福駅  
 無所謂啦呢度都有個「小幸福」  
@@ -36,16 +36,16 @@ tags : [travel-日本-北海道]
 
 ![](/images/hokkaido2c.jpg)
 
-係為咗嚟買張[スイーツめぐり券](https://hidie.net/hokkaido2c/)  
+係為咗嚟買張[スイーツめぐり券](/hokkaido2c/)  
 張嘢係由帶廣觀光協會推出  
 向帯広呢個甜品王國  
 可以拎住呢張券  
 以極平價嘅五百円就換四間店舖嘅甜品  
-一共有廿五間參加就响度揀四間嚟食，[出發](https://hidie.net/hokkaido2d/)～  
+一共有廿五間參加就响度揀四間嚟食，[出發](/hokkaido2d/)～  
 
 ![](/images/hokkaido2e1.jpg)
 
-先行到市區內遠少少嘅名店[クランベリー本店](https://hidie.net/hokkaido2e/)  
+先行到市區內遠少少嘅名店[クランベリー本店](/hokkaido2e/)  
 （since1972）  
 佢最出名係用成條蕃薯做嘅甜品スイートポテト  
 手臂咁長嘅佢，要冷藏加上食用期得三日  
@@ -63,7 +63,7 @@ tags : [travel-日本-北海道]
 
 ![](/images/hokkaido2f.jpg)
 
-咁第二張券就係俾咗[T-SWEETS（十勝野スイーツ）](https://hidie.net/hokkaido2f/)  
+咁第二張券就係俾咗[T-SWEETS（十勝野スイーツ）](/hokkaido2f/)  
 要咗杯仔**ミニソフト（ミルク）**  
 奶味香嘅，就唔係最最最柔滑嗰種雪糕  
 呢種質地就挺身啲vintage啲咁  
@@ -73,7 +73,7 @@ tags : [travel-日本-北海道]
 ![](/images/hokkaido2g.jpg)
 
 嚟得帯広當然唔好可以錯過**十勝豚丼**！  
-要去就去元祖店[ぱんちょう](https://hidie.net/hokkaido2g/)  
+要去就去元祖店[ぱんちょう](/hokkaido2g/)  
 （since1933、昭和8年）  
 用炭火燒嘅道内産の豚のロース肉  
 炭烤味香醬汁甜肉有咬口仲爆香肉汁  
@@ -81,7 +81,7 @@ tags : [travel-日本-北海道]
 
 ![](/images/hokkaido2h.jpg)
 
-食飽飽就去日本人以至香港人台灣人都好熟悉嘅[六花亭](https://hidie.net/hokkaido2h/)逛  
+食飽飽就去日本人以至香港人台灣人都好熟悉嘅[六花亭](/hokkaido2h/)逛  
 （since1933，again）  
 雖然甜品券係無六花亭嘅  
 之但係嚟到帯広又無理由唔去佢嘅**本店**  
@@ -96,7 +96,7 @@ but吸引唔到我呀放棄咗轉身byebye
 ![](/images/hokkaido2i.jpg)
 
 甜品券行程繼續  
-下一間都係名店呀：[柳月](https://hidie.net/hokkaido2i/)  
+下一間都係名店呀：[柳月](/hokkaido2i/)  
 （since1947，昭和22年）  
 以最特級100%十勝產原料嘅**三方六**係必入手（中）  
 三六方係朱古力皮包住嘅年輪蛋糕  
@@ -114,20 +114,20 @@ but吸引唔到我呀放棄咗轉身byebye
 
 ![](/images/hokkaido2j.jpg)
 
-原來帯広駅嘅呢個位先係[十勝最初の鉄道](https://hidie.net/hokkaido2j/)嘅位置  
+原來帯広駅嘅呢個位先係[十勝最初の鉄道](/hokkaido2j/)嘅位置  
 （since1905，明治38年）  
 
 ![](/images/hokkaido2k.jpg)
 
 最後一張券都係留俾雪糕  
-[十勝しんむら牧場](https://hidie.net/hokkaido2k/)嘅**カップのミニソフトクリーム**  
+[十勝しんむら牧場](/hokkaido2k/)嘅**カップのミニソフトクリーム**  
 除咗牧場之外只係得呢度有呢間嘢  
 牧場直營嘅牛奶雪糕  
 咁試多樣咖啡味都唔過份吖係咪  
 
 ![](/images/hokkaido2l.jpg)
 
-好啦，張[甜品券](https://hidie.net/hokkaido2l/)嘅飛就用晒  
+好啦，張[甜品券](/hokkaido2l/)嘅飛就用晒  
 只係剩返張**ばんえい十勝**嘅無料入場券  
 帯広呢度獨有嘅十勝短腳馬賽跑  
 冇呀冇特登去喇都唔啱睇  
@@ -136,7 +136,7 @@ but吸引唔到我呀放棄咗轉身byebye
 ![](/images/hokkaido2m.jpg)
 
 繼續鉄道路程喇！  
-响[帯広月台](https://hidie.net/hokkaido2m/)嘅兩架列車  
+响[帯広月台](/hokkaido2m/)嘅兩架列車  
 分別為左邊既1709同右邊嘅1758  
 架1758同我將要去嘅地方係一樣嘅  
 但係佢係站站停嗰隻  
@@ -148,7 +148,7 @@ but吸引唔到我呀放棄咗轉身byebye
 
 ![](/images/hokkaido2n.jpg)
 
-[帯広](https://hidie.net/hokkaido2n/) → 釧路  
+[帯広](/hokkaido2n/) → 釧路  
 （**特急スーパーおおぞら、283系**）  
 
 ![](/images/hokkaido2n3.jpg)
@@ -167,12 +167,12 @@ but吸引唔到我呀放棄咗轉身byebye
 
 ![](/images/hokkaido2o.jpg)
 
-[釧路（釧路駅）](https://hidie.net/hokkaido2o/)  
+[釧路（釧路駅）](/hokkaido2o/)  
 當然又係先拖行李丟低响酒店啦  
 
 ![](/images/hokkaido2p1.jpg)
 
-然後去[幣舞橋](https://hidie.net/hokkaido2p/)等睇日落  
+然後去[幣舞橋](/hokkaido2p/)等睇日落  
 
 ![](/images/hokkaido2p14.jpg)
 
@@ -185,7 +185,7 @@ but吸引唔到我呀放棄咗轉身byebye
 
 ![](/images/hokkaido2q.jpg)
 
-先去要自己燒嘅[炉ばた煉瓦](https://hidie.net/hokkaido2q/)  
+先去要自己燒嘅[炉ばた煉瓦](/hokkaido2q/)  
 釧路係炉ばた（爐端燒）嘅發祥地  
 咁冇可能唔食㗎嘛，仲要啲料咁新鮮呀  
 
@@ -203,7 +203,7 @@ but吸引唔到我呀放棄咗轉身byebye
 ![](/images/hokkaido2s2.jpg)
 
 食完第一餐晚餐就去食第二餐晚餐  
-呢間嘢就叫咁[炉ばた](https://hidie.net/hokkaido2s/)  
+呢間嘢就叫咁[炉ばた](/hokkaido2s/)  
 （六十幾年歷史）  
 佢係真正嘅炉ばた始祖  
 所有嘅爐端燒食嘢就係呢個婆婆燒嘅（！）  
@@ -225,7 +225,7 @@ but吸引唔到我呀放棄咗轉身byebye
 
 ![](/images/hokkaido2t.jpg)
 
-走去食北海道炸雞配啤酒 @[鳥松](https://hidie.net/hokkaido2t/)  
+走去食北海道炸雞配啤酒 @[鳥松](/hokkaido2t/)  
 係呀又係去元祖店  
 北海道嘅**骨付きザンギ**（帶骨炸雞）  
 同日本其他地方嘅雞肉波波球唔一樣  

@@ -6,7 +6,7 @@ aliases: [ "/2014/06/essence-its-skin-power-10-formula-ye.html" ]
 tags : [glamorous - 保養おたく]
 ---
 
-話說俺是個[神仙水](https://hidie.net/skiiessence/)上癮者  
+話說俺是個[神仙水](/skiiessence/)上癮者  
 不過，對於酵母精華這東西  
 其實也脫離了單一牌子的魔咒  
 

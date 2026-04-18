@@ -175,7 +175,7 @@ R緊痕嘅白貓貓，not雕像啊！
 ![](/images/hiroshima5b40.jpg)
 
 肯游水嘅鯉魚  
-（又拎唔肯游水嘅[雲南鯉魚](https://hidie.net/yunnan3b/)嚟鞭吓屍）
+（又拎唔肯游水嘅[雲南鯉魚](/yunnan3b/)嚟鞭吓屍）
 
 ![](/images/hiroshima5b41.jpg)
 

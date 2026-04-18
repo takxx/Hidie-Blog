@@ -11,7 +11,7 @@ tags : [travel-日本-北海道, flavor - 行膳積腹]
 
 ![](/images/hokkaido5k.jpg)
     
-因為响[超市](https://hidie.net/hokkaido5g/)買咗**刺身**  
+因為响[超市](/hokkaido5g/)買咗**刺身**  
 唔食唔得㗎嘛  
 
 ![](/images/hokkaido5k1.jpg)

@@ -12,9 +12,9 @@ tags : [flavor - 飲！, travel-日本-鹿兒島宮崎]
 ![](/images/kojkmi1d.jpg)
 
 牛乳、ブルガリアヨーグルト、コーヒー  
-明治牛乳嘛，應該同[之前飲](https://hidie.net/tokyo5a/)嘅無分別啩...  
+明治牛乳嘛，應該同[之前飲](/tokyo5a/)嘅無分別啩...  
 明治ブルガリアのむヨーグルト（meiji Bulgaria drink yogurt）  
-都應該同[之前嘅](https://hidie.net/tokyo4a/)唔大分別嘛？  
+都應該同[之前嘅](/tokyo4a/)唔大分別嘛？  
 最多咪稀D囉... 或者...  
 咁咪試吓未試過嘅明治コーヒー囉  
 吖～ 甜甜地嘅iced latte  
@@ -26,4 +26,4 @@ tags : [flavor - 飲！, travel-日本-鹿兒島宮崎]
   
 \-----------------------------------------------  
   
-延伸閱讀：[Happy Days！鹿児島宮崎！ (10D9N)](https://hidie.net/kojkmi10d9n/)
+延伸閱讀：[Happy Days！鹿児島宮崎！ (10D9N)](/kojkmi10d9n/)

@@ -20,5 +20,5 @@ tags : [glamorous - 保養おたく, glamorous - 面膜魂]
   
 基本要求（去死皮亮白不乾）都做得到  
 但花上半小時才有這樣的效果  
-那不如用[primera隻peeling gel](https://hidie.net/primerapeeling/)  
+那不如用[primera隻peeling gel](/primerapeeling/)  
 30秒都做到一樣的功效啦（釘書釘眼）

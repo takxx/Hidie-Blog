@@ -7,7 +7,7 @@ tags : [travel-日本-北海道, satisfaction - 搭條鐵]
 ---
 
 成條**釧網本線**  
-用咗40分鐘搭[くしろ湿原ノロッコ号](https://hidie.net/hokkaido3h/)由釧路到塘路...  
+用咗40分鐘搭[くしろ湿原ノロッコ号](/hokkaido3h/)由釧路到塘路...  
 
 ![](/images/hokkaido3p1.jpg)
 

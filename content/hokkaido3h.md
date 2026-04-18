@@ -18,7 +18,7 @@ tags : [travel-日本-北海道, satisfaction - 搭條鐵]
 
 ![](/images/hokkaido3h2.jpg)
 
-晨早[劃好飛](https://hidie.net/hokkaido1a/)嘅我就當然係坐指定席  
+晨早[劃好飛](/hokkaido1a/)嘅我就當然係坐指定席  
 
 ![](/images/hokkaido3h.jpg)
 
@@ -31,7 +31,7 @@ tags : [travel-日本-北海道, satisfaction - 搭條鐵]
 
 ![](/images/hokkaido3h4.jpg)
 
-路線係[釧路 → 塘路](https://hidie.net/hokkaido3j/)
+路線係[釧路 → 塘路](/hokkaido3j/)
 
 ![](/images/hokkaido3h5.jpg)
 

@@ -6,7 +6,7 @@ images: ["/images/hiroshima5c.jpg"]
 tags : [travel-日本-廣島]
 ---
 
-行遠[公園](https://hidie.net/hiroshima5b/)就睇吓建築
+行遠[公園](/hiroshima5b/)就睇吓建築
 
 ![](/images/hiroshima5c1.jpg)
 

@@ -12,13 +12,13 @@ tags : [travel-日本-北海道, satisfaction - 搭條鐵]
 ![](/images/hokkaido3g1.jpg)
 
 釧路駅嘅JR北海道「**北の大地の入場券**」  
-係釧路市加行駛中嘅[くしろ湿原ノロッコ号](https://hidie.net/hokkaido3h/)  
+係釧路市加行駛中嘅[くしろ湿原ノロッコ号](/hokkaido3h/)  
 
 ![](/images/hokkaido3g2.jpg)
 
 我都係會「選擇」揼返個車站印仔做紀念  
 不過個印台冇乜墨  
-都見到[釧路川](https://hidie.net/hokkaido2p/)同丹頂鶴嘅  
+都見到[釧路川](/hokkaido2p/)同丹頂鶴嘅  
 
 ![](/images/hokkaido3g.jpg)
 

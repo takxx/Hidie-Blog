@@ -6,7 +6,7 @@ aliases: [ "/2019/11/day2.html" ]
 tags : [travel-日本-京都高野山]
 ---
 
-住嵐山，行去[竹林](https://hidie.net/kyotokoyasan2a/)好方便...  
+住嵐山，行去[竹林](/kyotokoyasan2a/)好方便...  
 
 ![](/images/kyotokoyasan2a.jpg)
 
@@ -18,7 +18,7 @@ tags : [travel-日本-京都高野山]
 
 ![](/images/kyotokoyasan2b.jpg)
 
-再行去[19世紀ホール](https://hidie.net/kyotokoyasan2b/)  
+再行去[19世紀ホール](/kyotokoyasan2b/)  
 
 ![](/images/kyotokoyasan2b7.jpg)
 
@@ -26,7 +26,7 @@ tags : [travel-日本-京都高野山]
 
 ![](/images/kyotokoyasan2c.jpg)
 
-[嵯峨野トロッコ列車](https://hidie.net/kyotokoyasan2c/)  
+[嵯峨野トロッコ列車](/kyotokoyasan2c/)  
 齋睇當然唔係主要目的啦  
 
 ![](/images/kyotokoyasan2c3.jpg)
@@ -35,7 +35,7 @@ tags : [travel-日本-京都高野山]
 
 ![](/images/kyotokoyasan2d3.jpg)
 
-[トロッコ嵯峨駅 → トロッコ亀岡駅](https://hidie.net/kyotokoyasan2d/)  
+[トロッコ嵯峨駅 → トロッコ亀岡駅](/kyotokoyasan2d/)  
 總站上車先排到靚位啦  
 
 ![](/images/kyotokoyasan2d7.jpg)
@@ -56,7 +56,7 @@ tags : [travel-日本-京都高野山]
 
 ![](/images/kyotokoyasan2e2.jpg)
 
-[保津川下り](https://hidie.net/kyotokoyasan2e/)  
+[保津川下り](/kyotokoyasan2e/)  
 坐船遊保津川，落返下游  
 
 ![](/images/kyotokoyasan2e9.jpg)
@@ -92,7 +92,7 @@ but 過一陣有飽飽食就skip咗唔買喇
 
 ![](/images/kyotokoyasan2f.jpg)
 
-今日嘅brunch係食**懐石料理** @[花筏](https://hidie.net/kyotokoyasan2f/)  
+今日嘅brunch係食**懐石料理** @[花筏](/kyotokoyasan2f/)  
 
 ![](/images/kyotokoyasan2f12.jpg)
 
@@ -104,7 +104,7 @@ but 過一陣有飽飽食就skip咗唔買喇
 
 ![](/images/kyotokoyasan2g.jpg)
 
-去世界遺產嘅[天龍寺](https://hidie.net/kyotokoyasan2g/)兜吓兜吓就最啱  
+去世界遺產嘅[天龍寺](/kyotokoyasan2g/)兜吓兜吓就最啱  
 
 ![](/images/kyotokoyasan2g5.jpg)
 
@@ -128,7 +128,7 @@ but 過一陣有飽飽食就skip咗唔買喇
 
 ![](/images/kyotokoyasan2h2.jpg)
 
-行上啲啲，响[嵐山公園 亀山地区](https://hidie.net/kyotokoyasan2h/)望吓個京都  
+行上啲啲，响[嵐山公園 亀山地区](/kyotokoyasan2h/)望吓個京都  
 
 ![](/images/kyotokoyasan2h8.jpg)
 
@@ -140,7 +140,7 @@ but 過一陣有飽飽食就skip咗唔買喇
 
 ![](/images/kyotokoyasan2i1.jpg)
 
-嚟到嵐山梗係要隊杯 [%ARABICA](https://hidie.net/kyotokoyasan2i/)  
+嚟到嵐山梗係要隊杯 [%ARABICA](/kyotokoyasan2i/)  
 
 ![](/images/kyotokoyasan2j.jpg)
 
@@ -148,14 +148,14 @@ but 過一陣有飽飽食就skip咗唔買喇
 
 ![](/images/kyotokoyasan2k.jpg)
 
-晚餐 @[嵯峨とうふ 稲 本店](https://hidie.net/kyotokoyasan2k/)  
+晚餐 @[嵯峨とうふ 稲 本店](/kyotokoyasan2k/)  
 話時話嵐山呢度啲嘢好早收  
 呢間係唯二叫收得晏啲嘅餐廳  
 close at 7pm，好多收6pm咁早要食晚餐死唔死  
 
 ![](/images/kyotokoyasan2l.jpg)
 
-**地ビール**嘅[黄桜 京都麦酒 蔵のかほり](https://hidie.net/kyotokoyasan2l/)  
+**地ビール**嘅[黄桜 京都麦酒 蔵のかほり](/kyotokoyasan2l/)  
 清酒風味嘅啤酒，其實最啱配炸嘢哈哈  
   
   

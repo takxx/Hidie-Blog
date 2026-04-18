@@ -6,7 +6,7 @@ images: ["/images/hiroshima6c.jpg"]
 tags : [travel-日本-廣島, flavor - 螞蟻族]
 ---
 
-食完[鰻魚](https://hidie.net/hiroshima6b/)一出嚟就係**岩村菓子舗**  
+食完[鰻魚](/hiroshima6b/)一出嚟就係**岩村菓子舗**  
 
 ![](/images/hiroshima6c.jpg)
   

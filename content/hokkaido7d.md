@@ -25,7 +25,7 @@ tags : [travel-日本-北海道]
 
 ![](/images/hokkaido7d8.jpg)
 
-連便利店[Seicomart](https://hidie.net/hokkaido2d/)都變成Wine Bar
+連便利店[Seicomart](/hokkaido2d/)都變成Wine Bar
 
 ![](/images/hokkaido7d9.jpg)
 
@@ -33,7 +33,7 @@ tags : [travel-日本-北海道]
 
 ![](/images/hokkaido7d10.jpg)
 
-如果唔係[擒晚](https://hidie.net/hokkaido6q/)食咗個又平又超好食嘅厚岸産の牡蠣  
+如果唔係[擒晚](/hokkaido6q/)食咗個又平又超好食嘅厚岸産の牡蠣  
 而家就會跟隊食呢隻貴價啲㗎喇...
 
 ![](/images/hokkaido7d11.jpg)
@@ -119,7 +119,7 @@ BAR嘛，無酒仲開得舖咩？
 ![](/images/hokkaido7d30.jpg)
 
 稀少部位... 白老牛...  
-好在[前幾日](https://hidie.net/hokkaido1d/)食過呢隻牛  
+好在[前幾日](/hokkaido1d/)食過呢隻牛  
 唔係嘅話就會畀個香味搞到打開銀包（笑）
 
 ![](/images/hokkaido7d31.jpg)

@@ -15,7 +15,7 @@ tags : [travel-日本-北海道, flavor - 螞蟻族]
 
 ![](/images/hokkaido7u2.jpg)
 
-北海道特産果実[ハスカップ](https://hidie.net/hokkaido6m/)  
+北海道特産果実[ハスカップ](/hokkaido6m/)  
 帶住優雅嘅酸甜味道  
 包住啲jam係飄散酒香嘅butter cream  
 上下用牛油微濃嘅薄脆cookie  

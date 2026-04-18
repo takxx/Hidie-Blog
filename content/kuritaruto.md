@@ -6,7 +6,7 @@ images: ["/images/kuritaruto.jpg"]
 tags : [flavor - 螞蟻族]
 ---
  
-雖然[一六タルト](https://hidie.net/ichiroku/)係最出名...   
+雖然[一六タルト](/ichiroku/)係最出名...   
 
 ![](/images/kuritaruto1.jpg)
 

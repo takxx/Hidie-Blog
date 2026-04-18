@@ -6,10 +6,10 @@ images: ["/images/haywong.jpg"]
 tags : [flavor - 行膳積腹, satisfaction - 黃店懲罰日]
 ---
 
-佢鍾意[米線](https://hidie.net/mixian/)我就覺得麻麻  
-我鍾意[熱氣嘢](https://hidie.net/kitchencorner/)佢就係沙律lover  
+佢鍾意[米線](/mixian/)我就覺得麻麻  
+我鍾意[熱氣嘢](/kitchencorner/)佢就係沙律lover  
 然而，我哋都好鍾意去飲茶  
-（同埋食[拉麵](https://hidie.net/ramentaifu/)仲有[漢堡包](https://hidie.net/kabo/)blablabla...）
+（同埋食[拉麵](/ramentaifu/)仲有[漢堡包](/kabo/)blablabla...）
 
 ![](/images/haywong1.jpg)
 
@@ -37,7 +37,7 @@ tags : [flavor - 行膳積腹, satisfaction - 黃店懲罰日]
 嗱～ 雖然呢間係食牛嘅牛嘅  
 但係我哋見到小籠包呢樣嘢又忍唔住會點  
 冇話做到啲咩名店咁啲皮好Q薄  
-都係家庭式[手工貨](https://hidie.net/heungwost55/)嗰種  
+都係家庭式[手工貨](/heungwost55/)嗰種  
 唔錯嘅都算係...  
 
 ![](/images/haywong4.jpg)

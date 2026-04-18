@@ -25,11 +25,11 @@ tags : [travel-日本-北海道, satisfaction - 搭條鐵]
 ![](/images/hokkaido5e3.jpg)
 
 由最南站嘅鹿児島枕崎到最北嘅呢度  
-就諗起超～ 遺～ 憾～ 嘅最西站[西大山](https://hidie.net/kojkmi8c/) TT
+就諗起超～ 遺～ 憾～ 嘅最西站[西大山](/kojkmi8c/) TT
 
 ![](/images/hokkaido5e4.jpg)
 
-然而今個旅程都係去唔到最東端嘅[東根室](https://hidie.net/hokkaido3g/)  
+然而今個旅程都係去唔到最東端嘅[東根室](/hokkaido3g/)  
 
 ![](/images/hokkaido5e5.jpg)
 

@@ -22,7 +22,7 @@ tags : [travel-日本-北海道]
 
 ![](/images/hokkaido4c3.jpg)
 
-同擒日嘅[日落景致](https://hidie.net/hokkaido3o/)簡直係兩回事  
+同擒日嘅[日落景致](/hokkaido3o/)簡直係兩回事  
 
 ![](/images/hokkaido4c4.jpg)
 

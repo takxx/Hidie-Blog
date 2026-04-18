@@ -15,11 +15,11 @@ tags : [flavor - 小食部]
 YES！名古屋隻金鯱樣嘅包裝  
 就係手羽先即係雞翼味～  
   
-會唔會食到[風来坊](https://hidie.net/nagoya5k/)嘅味道？  
+會唔會食到[風来坊](/nagoya5k/)嘅味道？  
 Mmmm... 都食到鹹味甜味同胡椒味  
 脆過D雞翼咁囉（廢話）  
 做零食OK嘅，OK囉... OK？  
   
 \-----------------------------------------------  
   
-延伸閱讀：[GO! GO! NaGoYa～（8D7N）](https://hidie.net/nagoya8d7n/)
+延伸閱讀：[GO! GO! NaGoYa～（8D7N）](/nagoya8d7n/)

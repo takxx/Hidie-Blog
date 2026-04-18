@@ -25,9 +25,9 @@ tags : [handmade - 開伙]
 
 ![](/images/fishpowder1.jpg)
 
-（from[沖縄](https://hidie.net/okinawa6d5n/)）  
+（from[沖縄](/okinawa6d5n/)）  
 
 ![](/images/fishpowder2.jpg)
 
-（from[釜山](https://hidie.net/busanjj8d7n/)）  
+（from[釜山](/busanjj8d7n/)）  
 純天然的東西感覺也吃得很安心呢（笑）

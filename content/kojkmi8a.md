@@ -13,7 +13,7 @@ tags : [flavor - 行膳積腹, travel-日本-鹿兒島宮崎]
 ![](/images/kojkmi8a.jpg)
 
 好啦咁都要食㗎啦  
-[doutor](https://hidie.net/okinawa5a/)勝在穩穩陣陣  
+[doutor](/okinawa5a/)勝在穩穩陣陣  
 咖啡普普通通但係入得口  
   
 兩個人食早餐嘅好處係  
@@ -61,4 +61,4 @@ set裡面嘅包包有唔同餡有得開心些牙
   
 \-----------------------------------------------  
   
-延伸閱讀：[Happy Days！鹿児島宮崎！ (10D9N)](https://hidie.net/kojkmi10d9n/)
+延伸閱讀：[Happy Days！鹿児島宮崎！ (10D9N)](/kojkmi10d9n/)

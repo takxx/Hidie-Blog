@@ -6,7 +6,7 @@ images: ["/images/kanagawa3o.jpg"]
 tags : [flavor - 飲！, travel-日本-神奈川]
 ---
 
-浸完[溫泉](https://hidie.net/kanagawa3n/)...
+浸完[溫泉](/kanagawa3n/)...
 
 ![](/images/kanagawa3o1.jpg)
 

@@ -76,7 +76,7 @@ tags : [amusement - exhibition]
 
 **The Memories from The Tower of Light, 2017**  
 **（王志勇）**  
-即係之前[光 · 影 · 香港夜 | Lumieres Hong Kong](https://hidie.net/lumiereshk/)  
+即係之前[光 · 影 · 香港夜 | Lumieres Hong Kong](/lumiereshk/)  
 擺响1881嗰舊嘢嘅日光版本  
 聽講啲燈會唔同上次  
 不過就上次點睇都睇唔到個構圖嘅經驗  

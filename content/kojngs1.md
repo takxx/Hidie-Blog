@@ -10,7 +10,7 @@ tags : [lifestyle - 逃離852, travel-日本-鹿兒島長崎]
 
 ![](https://m9hynw.ch.files.1drv.com/y4mWZITYDFzH34gSYsCIzcWIDKwJlcb3PDxGgHw5FEkpe86WzqmG7Q4lcfx1Fd8r4F-MHfT7v1lr9FAoYqVWYC8akQjxF_0ZjFVS3i_8UUF50EJS4Dl2-Egr9ZQsKbtfAoIZ4DyGY43VJB6xDe5DolYBScLxcqMEQ7aZ2CidkiEyDY4DRpFacmRp-3N_G3SGx7HKAGx-tyyvcYixt7TDmoVnA?width=660&height=371&cropmode=none)
 
-[鹿児島空港](https://www.hidie.net/2017/06/happy-days-day-10_27.html)，我哋又見面喇～  
+[鹿児島空港](/2017/06/happy-days-day-10_27.html)，我哋又見面喇～  
 
 ![](https://m9hwnw.ch.files.1drv.com/y4mqIGapq6k0eQBDxG6eX9qVhW3y8kqryk44HQAwKNrPxgwR9z4O5nEVv0zqeNGUb4VEt7hpmM3N5PgFyV3dfcJTBQz_XUbpHmyuTbSj4HU-3hNnvnZeLIhSGJC2HPiU9-D1_zVx6yB-QBF5qfAQ4YVUp_skpUE3UDBaXqAixTU8mJ1vTTGdbnsMgDLORK51BYqRNZUJhH_0yq0JAw4WpqIkg?width=371&height=660&cropmode=none)
 
@@ -51,7 +51,7 @@ tags : [lifestyle - 逃離852, travel-日本-鹿兒島長崎]
 ![](https://lth2nw.ch.files.1drv.com/y4m8j3R62Xti4IE9IPhtypQE__pBehUf-KTEpIxxQK_kMpoW2SjfcMNbfMErJY31hhrkcewCPlslcYKE9W1ypV8vYej2WxA_Xd-PpGmdTI98ptt6JECX0STWDpN-LtLXYdmlg77sAdkLxrGKjUiOygLfQFOsFF21n4YnyQ1ZqmquRTw2Ns5AcXuGBHSKy0tiOC_z67hpEzHsSzabSuxzLtv2Q?width=660&height=371&cropmode=none)
 
 **揚立屋 天文館店**  
-[上次嚟](https://www.hidie.net/2017/06/happy-days-day-10_26.html)有買呢間急凍嘅散裝薩摩炸魚餅返屋企  
+[上次嚟](/2017/06/happy-days-day-10_26.html)有買呢間急凍嘅散裝薩摩炸魚餅返屋企  
 呢鑊就食最最最新鮮嘅舖頭直炸版本  
 有人氣冧巴溫嘅芝士味同見住佢上架啱啱炸起嘅粟米味  
 呵呵呵，勁香兼彈牙真係好好食！  

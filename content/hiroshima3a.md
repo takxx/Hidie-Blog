@@ -7,7 +7,7 @@ tags : [travel-日本-廣島, flavor - 行膳積腹]
 ---
 
 
-広島同[名古屋](https://www.hidie.net/2015/11/go-go-nagoya8d7n.html)一樣係有洋食朝食文化  
+広島同[名古屋](/2015/11/go-go-nagoya8d7n.html)一樣係有洋食朝食文化  
 所以係唔需要擔心早餐食乜  
 反而要諗諗去邊間同忍痛捨棄邊間  
 

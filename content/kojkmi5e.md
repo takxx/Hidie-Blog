@@ -100,7 +100,7 @@ D菜腍返身少少
 ![](/images/kojkmi5e13.jpg)
 
 **一口おこわとおそば**  
-已經好飽，諗住[又～ 食唔晒個麵](https://hidie.net/kojkmi4c/)之際...  
+已經好飽，諗住[又～ 食唔晒個麵](/kojkmi4c/)之際...  
 
 ![](/images/kojkmi5e14.jpg)
 
@@ -135,4 +135,4 @@ D菜腍返身少少
   
 \-----------------------------------------------  
   
-延伸閱讀：[Happy Days！鹿児島宮崎！ (10D9N)](https://hidie.net/kojkmi10d9n/)
+延伸閱讀：[Happy Days！鹿児島宮崎！ (10D9N)](/kojkmi10d9n/)

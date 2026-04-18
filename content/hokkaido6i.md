@@ -15,7 +15,7 @@ tags : [travel-日本-北海道, flavor - 行膳積腹]
 
 ![](/images/hokkaido6i2.jpg)
 
-「[昭和](https://hidie.net/hokkaido6g/)」風
+「[昭和](/hokkaido6g/)」風
 
 ![](/images/hokkaido6i3.jpg)
 

@@ -10,7 +10,7 @@ tags : [flavor - 飲！, travel-日本-神奈川]
 
 ![](/images/kanagawa2e1.jpg)
 
-因為[工場](https://hidie.net/kanagawa2d/)隔離有佢哋嘅手工啤餐廳嘛！
+因為[工場](/kanagawa2d/)隔離有佢哋嘅手工啤餐廳嘛！
 
 ![](/images/kanagawa2e2.jpg)
 
@@ -59,7 +59,7 @@ Oil sardines with yuzu kosho (yuzu pepper seasoning)
 
 **JAZZBERRY（ジャズベリー）**：5.0%ABV | 麥汁濃度12.9  
 集香甜酸於一身嘅莓啤  
-冇車厘子釀嘅[Kriek](https://hidie.net/belgium1/)咁酸，好似有氣果汁咁（笑）  
+冇車厘子釀嘅[Kriek](/belgium1/)咁酸，好似有氣果汁咁（笑）  
 food pairing - **うり奈良漬とブリーチーズ**  
 Pickles seasoned in sake lees & Brie cheese  
 隻啤酒本身好百搭，由沙律到燒牛肉都可以  

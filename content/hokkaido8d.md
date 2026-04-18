@@ -12,7 +12,7 @@ tags : [travel-日本-北海道, satisfaction - 搭條鐵]
 
 札幌 → 新千歳空港  
 （快速エアポート、721系）  
-[今朝](https://hidie.net/hokkaido8a/)响酒店見過佢  
+[今朝](/hokkaido8a/)响酒店見過佢  
 
 ![](/images/hokkaido8d2.jpg)
 

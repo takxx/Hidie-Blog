@@ -30,7 +30,7 @@ tags : [travel-日本-北海道, satisfaction - 搭條鐵]
 因為今朝都真係食得幾飽吓  
 咁就冇買駅弁  
 而中途嘅小食時間  
-就食帯広[柳月](https://hidie.net/hokkaido2i/)入手嘅**十勝大納言**同**COCOこの実**  
+就食帯広[柳月](/hokkaido2i/)入手嘅**十勝大納言**同**COCOこの実**  
 
 ![](/images/hokkaido4g6.jpg)
 

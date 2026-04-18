@@ -6,7 +6,7 @@ aliases: [ "/2014/07/masque-kiribai.html" ]
 tags : [glamorous - 保養おたく, glamorous - 面膜魂]
 ---
 
-雖然很喜歡花王的[即棄型蒸汽眼膜](https://hidie.net/kaosteam/)   
+雖然很喜歡花王的[即棄型蒸汽眼膜](/kaosteam/)   
 可惜每次用後就要掉好浪費（扁嘴）  
 
 ![](/images/kiribairedbean.jpg)

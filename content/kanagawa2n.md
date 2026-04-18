@@ -49,7 +49,7 @@ yeah～
 
 ![](/images/kanagawa2n9.jpg)
 
-經過睇《[逃恥](https://hidie.net/szegyenfutasdehasznos/)》嘅場景之一：**帆船日本丸**
+經過睇《[逃恥](/szegyenfutasdehasznos/)》嘅場景之一：**帆船日本丸**
 
 ![](/images/kanagawa2n10.jpg)
 

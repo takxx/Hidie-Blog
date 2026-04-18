@@ -11,7 +11,7 @@ tags : [travel-日本-北海道, flavor - 螞蟻族, flavor - 飲！]
 ![](/images/hokkaido6f.jpg)
 
 就買咗枝**稚内牛乳**同**北海道ミルクブッセ**做簡單早餐  
-即係擒日嘅[牛奶雪糕](https://hidie.net/hokkaido5h/)同一間牛奶公司製造  
+即係擒日嘅[牛奶雪糕](/hokkaido5h/)同一間牛奶公司製造  
 奶味都係濃濃滑滑嗰種啦～  
 
 ![](/images/hokkaido6f1.jpg)

@@ -7,7 +7,7 @@ tags : [travel-日本-廣島]
 ---
 
 行完啲歷史嘢係又熱又攰  
-反正[個pass](https://hidie.net/hiroshima2c/)有得包埋嘅咪去吓aeon mall囉  
+反正[個pass](/hiroshima2c/)有得包埋嘅咪去吓aeon mall囉  
 
 ![](/images/hiroshima5f.jpg)
 

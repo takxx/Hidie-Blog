@@ -6,7 +6,7 @@ images: ["/images/kyotokoyasan1i.jpg"]
 tags : [travel-日本-京都高野山]
 ---
 
-參觀完[龍安寺](https://hidie.net/kyotokoyasan1h/)就搭巴士去下一站
+參觀完[龍安寺](/kyotokoyasan1h/)就搭巴士去下一站
 
 ![](/images/kyotokoyasan1i1.jpg)
 

@@ -18,7 +18,7 @@ tags : [glamorous - 保養おたく, glamorous - 面膜魂]
 （幸好看到阿拉伯數目字知道mask大概敷幾耐）  
 不織布mask，精華都幾多  
 剪裁一般鼻頭位完全叫救命  
-貼面度一般故要用[daiso膠膜](https://hidie.net/daisosilicone/)固定  
+貼面度一般故要用[daiso膠膜](/daisosilicone/)固定  
   
 敷15-20分鐘，精華都吸收得8899  
 保濕度不錯，至少比想像中的平價mask好  

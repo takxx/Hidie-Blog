@@ -114,6 +114,6 @@ AR對住道閘啲圖案仲會郁郁吓好過癮
 \-----------------------------------------------  
   
 延伸閱讀：  
-[城巿閘誌 | HK Urban Canvas（灣仔、上環、西營盤篇）](https://hidie.net/hkurbancanvaswanchai/)  
-[城巿閘誌 | HK Urban Canvas（深水埗篇）](https://hidie.net/hkurbancanvasssp/)  
-[城巿閘誌 | HK Urban Canvas（旺角、油麻地篇）](https://hidie.net/hkurbancanvasmk/)
+[城巿閘誌 | HK Urban Canvas（灣仔、上環、西營盤篇）](/hkurbancanvaswanchai/)  
+[城巿閘誌 | HK Urban Canvas（深水埗篇）](/hkurbancanvasssp/)  
+[城巿閘誌 | HK Urban Canvas（旺角、油麻地篇）](/hkurbancanvasmk/)

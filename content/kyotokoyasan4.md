@@ -14,7 +14,7 @@ tags : [travel-日本-京都高野山]
 
 ![](/images/kyotokoyasan4a2.jpg)
 
-1泊2食嘅寺廟食呢份簡便嘅[早餐](https://hidie.net/kyotokoyasan4/)  
+1泊2食嘅寺廟食呢份簡便嘅[早餐](/kyotokoyasan4/)  
 
 ![](/images/kyotokoyasan4a.jpg)
 
@@ -23,7 +23,7 @@ tags : [travel-日本-京都高野山]
 
 ![](/images/kyotokoyasan4b2.jpg)
 
-食飽check out完擺低行李就[散吓步](https://hidie.net/kyotokoyasan4b/)   
+食飽check out完擺低行李就[散吓步](/kyotokoyasan4b/)   
 
 ![](/images/kyotokoyasan4b3.jpg)
 
@@ -61,7 +61,7 @@ tags : [travel-日本-京都高野山]
 
 ![](/images/kyotokoyasan4c.jpg)
 
-精進料理 lunch @[中央食堂 さんぼう](https://hidie.net/kyotokoyasan4c/)  
+精進料理 lunch @[中央食堂 さんぼう](/kyotokoyasan4c/)  
 
 ![](/images/kyotokoyasan4d1.jpg)
 
@@ -73,7 +73,7 @@ tags : [travel-日本-京都高野山]
 
 ![](/images/kyotokoyasan4d.jpg)
 
-原來係咁啱撞到嘅[錦秋大伽藍お練り法会](https://hidie.net/kyotokoyasan4d/)  
+原來係咁啱撞到嘅[錦秋大伽藍お練り法会](/kyotokoyasan4d/)  
 當然留多陣感受吓氣氛  
 
 ![](/images/kyotokoyasan4e1.jpg)
@@ -82,7 +82,7 @@ tags : [travel-日本-京都高野山]
 
 ![](/images/kyotokoyasan4e.jpg)
 
-[落返山](https://hidie.net/kyotokoyasan4e/)，去大阪先去Spa World浸嗰浴  
+[落返山](/kyotokoyasan4e/)，去大阪先去Spa World浸嗰浴  
 再匯合朋友居酒屋一吓  
 然後坐夜晚機返香港lu...  
   

@@ -18,7 +18,7 @@ tags : [travel-日本-神奈川]
 
 ![](/images/kanagawa1a3.jpg)
 
-响[三崎口駅](https://hidie.net/kanagawa1a/)落車後轉車  
+响[三崎口駅](/kanagawa1a/)落車後轉車  
 車飛係包埋三浦地區巴士  
 
 ![](/images/kanagawa1b0.jpg)
@@ -27,7 +27,7 @@ tags : [travel-日本-神奈川]
 
 ![](/images/kanagawa1b.jpg)
 
-抵達三浦最南端： [城ヶ島](https://hidie.net/kanagawa1b/)  
+抵達三浦最南端： [城ヶ島](/kanagawa1b/)  
 
 ![](/images/kanagawa1c.jpg)
 
@@ -38,7 +38,7 @@ tags : [travel-日本-神奈川]
 ![](/images/kanagawa1c3.jpg)
 
 正所謂飛返轉日本食個早餐  
-就係要食當地嘢，呢間叫[まるか](https://hidie.net/kanagawa1c/)  
+就係要食當地嘢，呢間叫[まるか](/kanagawa1c/)  
 吞拿魚有好多做法，除咗刺身仲有食到唔同煮法  
 新鮮嘅嘢簡單整就已經好好味～  
 
@@ -46,7 +46,7 @@ tags : [travel-日本-神奈川]
 
 食完少少吞拿魚周圍兜吓  
 見到有懷舊樣嘅蛋糕們賣就揀嚟試  
-點知見到呢件[マグレーヌ](https://hidie.net/kanagawa1d/)  
+點知見到呢件[マグレーヌ](/kanagawa1d/)  
 係舊式蛋糕裡面有吞拿魚肉碎，好特別呢  
 
 ![](/images/kanagawa1e6.jpg)
@@ -57,7 +57,7 @@ tags : [travel-日本-神奈川]
 
 ![](/images/kanagawa1e.jpg)
 
-向後望係有座仔小小的望海[小桜観音](https://hidie.net/kanagawa1e/)  
+向後望係有座仔小小的望海[小桜観音](/kanagawa1e/)  
 唔怪得沿路去好多疊石  
 
 ![](/images/kanagawa1f0.jpg)
@@ -70,7 +70,7 @@ tags : [travel-日本-神奈川]
 
 ![](/images/kanagawa1f9.jpg)
 
-上[城ヶ島灯台](https://hidie.net/kanagawa1f/)望望個燈塔仔  
+上[城ヶ島灯台](/kanagawa1f/)望望個燈塔仔  
 
 ![](/images/kanagawa1f8.jpg)
 
@@ -78,7 +78,7 @@ Mmm... 今日個天氣嘛...
 
 ![](/images/kanagawa1g2.jpg)
 
-照行山囉 @[城ヶ島ハイキングコース](https://hidie.net/kanagawa1g/)  
+照行山囉 @[城ヶ島ハイキングコース](/kanagawa1g/)  
 
 ![](/images/kanagawa1g4.jpg)
 
@@ -122,7 +122,7 @@ but今日嘛... 都叫見到啲黑影嘅...
 
 山路路程短短話咁快就行完  
 啲雨越嚟越大粒都係搭返巴士去**三崎港**  
-（it's [城ヶ島大橋](https://hidie.net/kanagawa1h/)，好大條橋㗎其實)  
+（it's [城ヶ島大橋](/kanagawa1h/)，好大條橋㗎其實)  
 
 ![](/images/kanagawa1h1.jpg)
 
@@ -132,7 +132,7 @@ but今日嘛... 都叫見到啲黑影嘅...
 ![](/images/kanagawa1i.jpg)
 
 冇咩興趣睇拍賣 & 條魚都食咗啦  
-去間古老樣嘅酒店飲返杯先 @[山田屋酒店](https://hidie.net/kanagawa1i/)  
+去間古老樣嘅酒店飲返杯先 @[山田屋酒店](/kanagawa1i/)  
 兩隻都係神奈川限定販売出品  
 **「寶CRAFT」＜小田原うめ＞** - 清爽嘅梅味有氣liqueur  
 **湘南ゴールド サワー** - 酸爽清甜帶微苦嘅檸檬味汽酒  
@@ -145,7 +145,7 @@ but今日嘛... 都叫見到啲黑影嘅...
 
 ![](/images/kanagawa1j.jpg)
 
-去到tabelog好高分嘅[廻転寿司 海鮮](https://hidie.net/kanagawa1j/)食寿司（心）  
+去到tabelog好高分嘅[廻転寿司 海鮮](/kanagawa1j/)食寿司（心）  
 
 ![](/images/kanagawa1j3.jpg)
 
@@ -155,22 +155,22 @@ but今日嘛... 都叫見到啲黑影嘅...
 ![](/images/kanagawa1k2.jpg)
 
 食完又落呀落雨  
-搭返火車去[川崎](https://hidie.net/kanagawa1k/)行街街  
+搭返火車去[川崎](/kanagawa1k/)行街街  
 痴線㗎周圍都俾大商場同商店街包圍住  
 
 ![](/images/kanagawa1l.jpg)
 
-行到咁上下就食癲喇 @[米沢 琥珀堂](https://hidie.net/kanagawa1l/)  
+行到咁上下就食癲喇 @[米沢 琥珀堂](/kanagawa1l/)  
 呵呵呵話咁易就食到米沢牛  
 
 ![](/images/kanagawa1m.jpg)
 
-[二代目ぐるめ亭](https://hidie.net/kanagawa1m/)  
+[二代目ぐるめ亭](/kanagawa1m/)  
 咁嚟日本點都係會食魚生…  
 
 ![](/images/kanagawa1n1.jpg)
 
-[アミューズメントパーク ウェアハウス川崎店](https://hidie.net/kanagawa1n/)  
+[アミューズメントパーク ウェアハウス川崎店](/kanagawa1n/)  
 食完舖頭都要收工嘅  
 咪行吓啲過癮嘢  
 
@@ -205,7 +205,7 @@ but今日嘛... 都叫見到啲黑影嘅...
 
 ![](/images/kanagawa1o1.jpg)
 
-宵夜，先[食甜品](https://hidie.net/kanagawa1o/)  
+宵夜，先[食甜品](/kanagawa1o/)  
 **Futaba チョコバナナ**  
 朱古力脆皮 x 香甜香蕉味雪條  
 
@@ -219,7 +219,7 @@ pino嘅質素一向都好高
 ![](/images/kanagawa1p1.jpg)
 
 然而今日嘅酒精含量有啲低  
-因此臨瞓前都係要[隊返杯](https://hidie.net/kanagawa1p/)  
+因此臨瞓前都係要[隊返杯](/kanagawa1p/)  
 **Suntory The Premium Malt's Deep Aroma (心和む熟成香)**  
 好夠氣，相比麥味其實焦糖味同果味芳郁啲  
 

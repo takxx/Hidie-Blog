@@ -21,4 +21,4 @@ tags : [flavor - 飲！]
   
 \-----------------------------------------------  
   
-延伸閱讀：[harboe - bear beer strong lager](https://hidie.net/taichung4b/)
+延伸閱讀：[harboe - bear beer strong lager](/taichung4b/)

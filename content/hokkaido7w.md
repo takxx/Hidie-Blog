@@ -14,10 +14,10 @@ tags : [travel-日本-北海道, flavor - 飲！]
 
 好似呢樽**Ribbon ハスカップソーダ**咁  
 Ribbon本身已經係北海道先有嘅汽水  
-呢隻仲係只有北海道產嘅稀少果實[ハスカップ](https://hidie.net/hokkaido6m/)  
+呢隻仲係只有北海道產嘅稀少果實[ハスカップ](/hokkaido6m/)  
 忍唔住要買要試囉～  
   
-繼續霸住酒店房張[按摩椅](https://hidie.net/hokkaido6s/)  
+繼續霸住酒店房張[按摩椅](/hokkaido6s/)  
 嘆嘆吓就走去瞓 Zzz…  
   
   

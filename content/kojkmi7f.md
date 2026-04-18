@@ -7,7 +7,7 @@ tags : [travel-日本-鹿兒島宮崎]
 ---
 
 講吓今日响市內周圍去嘅觀光巴士先  
-用[welcome cute](https://hidie.net/kojkmi6b/)就可以免費坐到  
+用[welcome cute](/kojkmi6b/)就可以免費坐到  
 基本上咩所謂旅人必去隱世紫薯芝士拉絲排隊店嘅景點都去到  
   
 線，有三條：  
@@ -80,4 +80,4 @@ tags : [travel-日本-鹿兒島宮崎]
   
 \-----------------------------------------------  
   
-延伸閱讀：[Happy Days！鹿児島宮崎！ (10D9N)](https://hidie.net/kojkmi10d9n/)
+延伸閱讀：[Happy Days！鹿児島宮崎！ (10D9N)](/kojkmi10d9n/)

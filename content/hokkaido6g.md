@@ -6,7 +6,7 @@ images: ["/images/hokkaido6g.jpg"]
 tags : [travel-日本-北海道]
 ---
 
-响[稚内副港市場](https://hidie.net/hokkaido6e/)唔啱行啫...
+响[稚内副港市場](/hokkaido6e/)唔啱行啫...
 
 ![](/images/hokkaido6g1.jpg)
 
@@ -54,7 +54,7 @@ display住啲電器
 ![](/images/hokkaido6g11.jpg)
 
 拉麵車仔檔  
-之前响[東京](https://hidie.net/tokyo4d/)兜幾次都食唔到  
+之前响[東京](/tokyo4d/)兜幾次都食唔到  
 然後就再冇遇見過喇...
 
 ![](/images/hokkaido6g12.jpg)

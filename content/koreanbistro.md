@@ -31,7 +31,7 @@ tags : [flavor - 行膳積腹]
 ![](/images/koreanbistro1.jpg)
 
 雪農牛骨湯也是清甜濃郁  
-忽然間好像再去[釜山天安](https://hidie.net/busanjj3e/)呢！
+忽然間好像再去[釜山天安](/busanjj3e/)呢！
 
   
 

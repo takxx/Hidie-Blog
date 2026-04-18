@@ -6,7 +6,7 @@ images: ["/images/hokkaido3b.jpg"]
 tags : [travel-日本-北海道, flavor - 行膳積腹]
 ---
 
-嚟[和商市場](https://hidie.net/hokkaido3a/)唔係為咗行街市啦  
+嚟[和商市場](/hokkaido3a/)唔係為咗行街市啦  
 
 ![](/images/hokkaido3b1.jpg)
 

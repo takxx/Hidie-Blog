@@ -6,7 +6,7 @@ images: ["/images/kabo.jpg"]
 tags : [flavor - 行膳積腹, satisfaction - 黃店懲罰日]
 ---
 
-其實去[初見](https://hidie.net/shoken/)嗰日本身唔係去初見  
+其實去[初見](/shoken/)嗰日本身唔係去初見  
 係因為佢經過見到呢間又打蛇餅所以先改地方  
 咁今次睺正啱啱開舖就嚟  
 唔使等梗係快快咗入去order啦！  

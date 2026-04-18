@@ -6,7 +6,7 @@ images: ["/images/hokkaido3s.jpg"]
 tags : [travel-日本-北海道, flavor - 螞蟻族]
 ---
 
-宵夜時間就幫襯吓[Seicomart](https://hidie.net/hokkaido2d/)（終於）  
+宵夜時間就幫襯吓[Seicomart](/hokkaido2d/)（終於）  
 
 ![](/images/hokkaido3s.jpg)
 

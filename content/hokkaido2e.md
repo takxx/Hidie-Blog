@@ -6,7 +6,7 @@ images: ["/images/hokkaido2e.jpg"]
 tags : [travel-日本-北海道, flavor - 螞蟻族]
 ---
 
-甜品券[スイーツめぐり券](https://hidie.net/hokkaido2c/)第一站    
+甜品券[スイーツめぐり券](/hokkaido2c/)第一站    
  
 ![](/images/hokkaido2e0.jpg)
 

@@ -6,7 +6,7 @@ images: ["/images/hiroshima2g.jpg"]
 tags : [travel-日本-廣島, flavor - 行膳積腹, flavor - 飲！]
 ---
 
-嗱～ 唔好好[食癲](https://hidie.net/hiroshima2e/)係咩後果？  
+嗱～ 唔好好[食癲](/hiroshima2e/)係咩後果？  
 夜啲唔夠飽囉！！！  
 
 ![](/images/hiroshima2g1.jpg)

@@ -85,6 +85,6 @@ I miss you so much～～～
   
   
 延伸閱讀：  
-[\[臺東瘋食遊\] Day7：湘琪牛肉麵](https://hidie.net/taitung7b/)  
-[\[臺北暴食遊\] Day3：舊道口牛肉麵](https://hidie.net/taipei3g/)  
-[\[臺北暴食遊\] Day1：老董牛肉麵](https://hidie.net/taipei1a/)
+[\[臺東瘋食遊\] Day7：湘琪牛肉麵](/taitung7b/)  
+[\[臺北暴食遊\] Day3：舊道口牛肉麵](/taipei3g/)  
+[\[臺北暴食遊\] Day1：老董牛肉麵](/taipei1a/)

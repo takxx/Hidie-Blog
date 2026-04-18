@@ -6,7 +6,7 @@ aliases: [ "/2014/06/cheers-khan-krum-rakiya-1939.html" ]
 tags : [flavor - 飲！]
 ---
 
-除了13年那枝[新酒](https://hidie.net/khankrum13/)外  
+除了13年那枝[新酒](/khankrum13/)外  
 當然會入手更深層次的味道  
 
 ![](/images/khankrumrakiya1939.jpg)

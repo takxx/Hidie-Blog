@@ -6,7 +6,7 @@ images: ["/images/kameiseika.jpg"]
 tags : [flavor - 螞蟻族]
 ---
 
-《少爺》(坊っちゃん) 鍾意[浸溫泉](https://hidie.net/shikoku4i/)  
+《少爺》(坊っちゃん) 鍾意[浸溫泉](/shikoku4i/)  
 亦好鍾意食呢種三色団子...  
 
 ![](/images/kameiseika1.jpg)

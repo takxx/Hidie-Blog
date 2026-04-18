@@ -24,8 +24,8 @@ tags : [flavor - 行膳積腹, flavor - 飲！, travel-日本-神奈川]
 タタキ只係雞皮位輕輕燒過  
 雞肉依然係呈半生狀態  
 冇咩脂肪好好咬  
-呢隻宮崎生雞比[名古屋嗰隻](https://hidie.net/nagoya6e/)個雞味再濃啲  
-（[宮崎地頭鶏](https://hidie.net/kojkmi3f/)真係好好味㗎！）
+呢隻宮崎生雞比[名古屋嗰隻](/nagoya6e/)個雞味再濃啲  
+（[宮崎地頭鶏](/kojkmi3f/)真係好好味㗎！）
 
 ![](/images/kanagawa3r3.jpg)
 
@@ -46,7 +46,7 @@ menu見到有就一定會嗌啦
 ![](/images/kanagawa3r6.jpg)
 
 **生グレープフルーツサワー**  
-以為好似[lemon sour](https://hidie.net/kanagawa2p/)咁會有粒粒結冰提子  
+以為好似[lemon sour](/kanagawa2p/)咁會有粒粒結冰提子  
 不過都好好飲啦無藥水味㗎
 
 ![](/images/kanagawa3r7.jpg)

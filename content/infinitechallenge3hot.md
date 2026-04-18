@@ -31,4 +31,4 @@ tags : [amusement - zene, amusement - TV]
 
 延伸閱讀：
 
-[\[Kpop\] 我最喜歡H.O.T.的五首歌](http://www.hidie.net/2015/02/songs-hot.html)
+[\[Kpop\] 我最喜歡H.O.T.的五首歌](/2015/02/songs-hot.html)

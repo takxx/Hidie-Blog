@@ -19,13 +19,13 @@ tags : [travel-日本-北海道, satisfaction - 搭條鐵]
 ![](/images/hokkaido8c1.jpg)
 
 呢個站嘅**JR北海道「北の大地の入場券」**  
-係[月台列車](https://hidie.net/hokkaido8a/)同[大通公園](https://hidie.net/hokkaido7f/)夜景   
+係[月台列車](/hokkaido8a/)同[大通公園](/hokkaido7f/)夜景   
 
 ![](/images/hokkaido8c2.jpg)
 
 張飛點都係齋睇唔買㗎喇  
 亦係cheap cheap咁揼個車站印仔  
-有[札幌市時計台](https://hidie.net/hokkaido6p/)   
+有[札幌市時計台](/hokkaido6p/)   
 
 ![](/images/hokkaido8c3.jpg)
   

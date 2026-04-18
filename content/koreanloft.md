@@ -7,12 +7,12 @@ tags : [flavor - 行膳積腹, satisfaction - 黃店懲罰日]
 ---
 
 雖然我唔係泡菜國子民  
-但其實[김밥](https://hidie.net/azooms/)同비빔밥係我其中一樣嘅comfort food呢...
+但其實[김밥](/azooms/)同비빔밥係我其中一樣嘅comfort food呢...
 
 ![](/images/koreanloft1.jpg)
 
 **牛骨例湯 | 갈비탕**  
-唔係[雪濃湯](https://hidie.net/busanjj3e/)咁濃郁奶白色嗰隻牛骨湯  
+唔係[雪濃湯](/busanjj3e/)咁濃郁奶白色嗰隻牛骨湯  
 然而清得嚟都有牛骨味  
 鹹鹹地飲落都幾暖胃  
 

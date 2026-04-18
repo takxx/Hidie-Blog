@@ -6,7 +6,7 @@ images: ["/images/hokkaido1h.jpg"]
 tags : [travel-日本-北海道, flavor - 行膳積腹, flavor - 飲！]
 ---
 
-嚟到[北の屋台](https://hidie.net/hokkaido1g/)  
+嚟到[北の屋台](/hokkaido1g/)  
 揀咗呢間叫**こころ**嘅
 
 ![](/images/hokkaido1h1.jpg)

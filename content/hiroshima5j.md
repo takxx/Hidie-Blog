@@ -6,14 +6,14 @@ images: ["/images/hiroshima5j.jpg"]
 tags : [travel-日本-廣島, flavor - 行膳積腹, flavor - 飲！]
 ---
 
-响[aeon mall](https://hidie.net/hiroshima5f/)冇乜點買嘢都叫買咗啲啲嘢  
+响[aeon mall](/hiroshima5f/)冇乜點買嘢都叫買咗啲啲嘢  
 返宿擺得嘢就去車站搵食  
 
 ![](/images/hiroshima5j1.jpg)
 
 **波平キッチン**  
 唔係非常肚餓就去咗居酒屋  
-（有超鍾意嘅[ヱビス](https://hidie.net/kanagawa2q/)）
+（有超鍾意嘅[ヱビス](/kanagawa2q/)）
 
 ![](/images/hiroshima5j2.jpg)
 

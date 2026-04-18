@@ -6,7 +6,7 @@ images: ["/images/hiroshima3d.jpg"]
 tags : [travel-日本-廣島, flavor - 螞蟻族]
 ---
 
-好啦，個[晚餐](https://hidie.net/hiroshima3c/)飽還飽  
+好啦，個[晚餐](/hiroshima3c/)飽還飽  
 雪糕都唔會塞唔落嘅哈哈   
 
 ![](/images/hiroshima3d.jpg)

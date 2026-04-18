@@ -11,7 +11,7 @@ tags : [travel-日本-廣島]
 ![](/images/hiroshima6d1.jpg)
 
 **JR宮島フェリー**  
-都係個[visitor pass](https://hidie.net/hiroshima2c/)包埋嘅  
+都係個[visitor pass](/hiroshima2c/)包埋嘅  
 
 ![](/images/hiroshima6d2.jpg)
 

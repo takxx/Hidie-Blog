@@ -7,14 +7,14 @@ tags : [flavor - 行膳積腹]
 ---
 
 嗰幾個連住嘅商場仔有好多細舖  
-（[留白](https://hidie.net/blankcafe/)、[轉角 ‧ 見](https://hidie.net/kitchencorner/)、[森美餐廳](https://hidie.net/cafesammi/)、
-[餃子屋](https://hidie.net/dumplinghouse/)、[滷友記](https://hidie.net/loyaukee/)嗰啲都係）  
+（[留白](/blankcafe/)、[轉角 ‧ 見](/kitchencorner/)、[森美餐廳](/cafesammi/)、
+[餃子屋](/dumplinghouse/)、[滷友記](/loyaukee/)嗰啲都係）  
 全部都唔係連鎖店感覺上有人情味啲  
 
 ![](/images/friendsramen1.jpg)
 
 日式屋台裝潢加好多隻貓嘅畫  
-諗起同樣係滿舖貓掛畫嘅[麵.睦月](https://hidie.net/mutsuki/)
+諗起同樣係滿舖貓掛畫嘅[麵.睦月](/mutsuki/)
 
 ![](/images/friendsramen2.jpg)
 
@@ -39,7 +39,7 @@ tags : [flavor - 行膳積腹]
 **櫻花蝦拉麵**  
 基本配料一樣只係將大量嘅蔥換成大量櫻花蝦  
 湯底變得超！香！甜！！！（握拳）  
-賣相呢就[一生懸麵](https://hidie.net/issyokemen/)靚少少  
+賣相呢就[一生懸麵](/issyokemen/)靚少少  
 不過講蝦香呢碗無得輸，就咁。  
 
 ![](/images/friendsramen4.jpg)

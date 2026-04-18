@@ -18,5 +18,5 @@ tags : [flavor - 飲！]
 然後最重要係IPA嘅苦味  
 係適合每日飲用嘅啤酒  
   
-突然好懷念响**横浜KIRIN** [SVB Yokohama](https://hidie.net/kanagawa2e/)飲IPA嘅日子  
+突然好懷念响**横浜KIRIN** [SVB Yokohama](/kanagawa2e/)飲IPA嘅日子  
 「往事只能回味」，唉...  

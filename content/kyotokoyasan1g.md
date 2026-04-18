@@ -6,7 +6,7 @@ images: ["/images/kyotokoyasan1g.jpg"]
 tags : [travel-日本-京都高野山, satisfaction - 搭條鐵]
 ---
 
-[豆腐ed](https://hidie.net/kyotokoyasan1f/)就計續右京区遊覽  
+[豆腐ed](/kyotokoyasan1f/)就計續右京区遊覽  
 
 ![](/images/kyotokoyasan1g1.jpg)
 

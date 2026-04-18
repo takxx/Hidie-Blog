@@ -6,7 +6,7 @@ images: ["/images/kyotokoyasan2h.jpg"]
 tags : [travel-日本-京都高野山]
 ---
 
-行過吓[天龍寺](https://hidie.net/kyotokoyasan2g/)都仲未消化到  
+行過吓[天龍寺](/kyotokoyasan2g/)都仲未消化到  
 
 ![](/images/kyotokoyasan2h1.jpg)
 

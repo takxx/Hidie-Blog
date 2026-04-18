@@ -6,7 +6,7 @@ images: ["/images/hokkaido6m.jpg"]
 tags : [travel-日本-北海道, flavor - 飲！]
 ---
 
-食飯就食最鮮味嘅[海鮮駅弁](https://hidie.net/hokkaido6l/)  
+食飯就食最鮮味嘅[海鮮駅弁](/hokkaido6l/)  
 飲嘢就係北海道限定嘅酸酸地果味水！  
 
 ![](/images/hokkaido6m.jpg)

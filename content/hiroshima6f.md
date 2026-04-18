@@ -83,7 +83,7 @@ GO！
 
 ![](/images/hiroshima6f14.jpg) 
 
-一陣先會過去嘅[五重塔](https://hidie.net/hiroshima6h/)
+一陣先會過去嘅[五重塔](/hiroshima6h/)
 
 ![](/images/hiroshima6f15.jpg) 
 

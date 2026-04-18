@@ -11,7 +11,7 @@ tags : [flavor - 行膳積腹, satisfaction - 黃店懲罰日]
 
 ![](/images/issyokemen.jpg)
 
-仲要係食佢鍾意嘅[拉麵](https://hidie.net/marukyou/)～  
+仲要係食佢鍾意嘅[拉麵](/marukyou/)～  
 
 ![](/images/issyokemen1.jpg)
 

@@ -6,7 +6,7 @@ images: ["/images/kyotokoyasan1l.jpg"]
 tags : [travel-日本-京都高野山, flavor - 行膳積腹]
 ---
 
-一口氣參觀完[龍安寺](https://hidie.net/kyotokoyasan1h/)、[金閣寺](https://hidie.net/kyotokoyasan1i/)同[二条城](https://hidie.net/kyotokoyasan1k/)，係時候返去  
+一口氣參觀完[龍安寺](/kyotokoyasan1h/)、[金閣寺](/kyotokoyasan1i/)同[二条城](/kyotokoyasan1k/)，係時候返去  
   
 二條城前 → 太秦天神川 | 嵐電天神川 → **嵐山**  
 ...再去**四条大宮**  
@@ -62,7 +62,7 @@ menu全部都係手寫，好有「庶民」風味（哈）
 ![](/images/kyotokoyasan1l10.jpg)
 
 **さつま揚け**  
-滿滿[南九州](https://hidie.net/kojkmi10b/)風味嘅薩摩魚餅，飽飽！  
+滿滿[南九州](/kojkmi10b/)風味嘅薩摩魚餅，飽飽！  
   
   
   

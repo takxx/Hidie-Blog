@@ -12,12 +12,12 @@ tags : [travel-日本-北海道, satisfaction - 搭條鐵]
 
 宗谷本線：**稚內 → 旭川**
 今日終點嘅札幌，不過無直車去嘅  
-所以先去[旭川](https://hidie.net/hokkaido4h/)再接駁  
+所以先去[旭川](/hokkaido4h/)再接駁  
 
 ![](/images/hokkaido6k2.jpg)
 
 **特急サロベツ、261系**  
-即係[擒日](https://hidie.net/hokkaido5c/)上嚟嗰架  
+即係[擒日](/hokkaido5c/)上嚟嗰架  
 
 ![](/images/hokkaido6k3.jpg)
 

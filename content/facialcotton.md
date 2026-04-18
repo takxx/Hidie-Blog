@@ -7,7 +7,7 @@ tags : [glamorous - 保養おたく]
 ---
 
 化妝棉在很多個護膚步驟中都擔當非常重要的角色  
-正如之前的[unicharm](https://hidie.net/unicharmcotton/)，最愛以其導出  
+正如之前的[unicharm](/unicharmcotton/)，最愛以其導出  
 這次再說說其他的...  
 
 ![](/images/facialcotton.jpg)
@@ -27,7 +27,7 @@ tags : [glamorous - 保養おたく]
 ![](/images/facialcotton1.jpg)
 
 **albion - facial cotton-L \[soft\]**  
-配合[其toner](https://hidie.net/albiontoner/)而買  
+配合[其toner](/albiontoner/)而買  
 都OK大片也算好撕  
 不過同樓上比較還是差幾皮  
 

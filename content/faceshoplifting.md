@@ -13,7 +13,7 @@ tags : [glamorous - 保養おたく, glamorous - 面膜魂]
 
 這是the face shop的名韓美人圖\[율\](汨)系列中的lifting mask sheet  
 之前用過超級有效果的  
-名韓美人圖\[雪\]的[美白mask](https://hidie.net/faceshopsnow/)  
+名韓美人圖\[雪\]的[美白mask](/faceshopsnow/)  
 所以都期望它會有美好的表現  
 面膜是有輕微延展性的厚身面布  
 分上下2 part，剪裁超～ 好～   

@@ -6,7 +6,7 @@ aliases: [ "/2018/10/cheers-kentucky-ipa.html" ]
 tags : [flavor - 飲！]
 ---
 
-話說上次飲咗個唔鍾意嘅[美國啤](https://hidie.net/brooklynlager/)  
+話說上次飲咗個唔鍾意嘅[美國啤](/brooklynlager/)  
 响仲有少少陰影之下…  
 
 ![](/images/kentuckyipa.jpg)

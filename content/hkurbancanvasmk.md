@@ -89,6 +89,6 @@ tags : [amusement - exhibition]
 \-----------------------------------------------  
   
 延伸閱讀：  
-[城巿閘誌 展覽 | HK Urban Canvas Exhibition](https://hidie.net/hkurbancanvasex/)  
-[城巿閘誌 | HK Urban Canvas（灣仔、上環、西營盤篇）](https://hidie.net/hkurbancanvaswanchai/)  
-[城巿閘誌 | HK Urban Canvas（深水埗篇）](https://hidie.net/hkurbancanvasssp/)
+[城巿閘誌 展覽 | HK Urban Canvas Exhibition](/hkurbancanvasex/)  
+[城巿閘誌 | HK Urban Canvas（灣仔、上環、西營盤篇）](/hkurbancanvaswanchai/)  
+[城巿閘誌 | HK Urban Canvas（深水埗篇）](/hkurbancanvasssp/)

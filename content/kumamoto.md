@@ -187,7 +187,7 @@ check in完放低行理响酒店就去搵食
 
 ![](/images/kumamoto35.jpg)
 
-每次見到都會鞭屍嘅「[千尾鯉魚 自由遨遊](https://hidie.net/yunnan3b/)」  
+每次見到都會鞭屍嘅「[千尾鯉魚 自由遨遊](/yunnan3b/)」  
 
 ![](/images/kumamoto36.jpg)
 
@@ -283,7 +283,7 @@ check in完放低行理响酒店就去搵食
 
 反正無訂飛機餐...  
 臨上機前再隊埋個便當先  
-（個盒可以[重用](https://hidie.net/fengming/)啊！）  
+（個盒可以[重用](/fengming/)啊！）  
   
   
   

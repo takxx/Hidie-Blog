@@ -6,7 +6,7 @@ images: ["/images/hokkaido3j.jpg"]
 tags : [travel-日本-北海道, satisfaction - 搭條鐵]
 ---
 
-[くしろ湿原ノロッコ号](https://hidie.net/hokkaido3h/)，出發～  
+[くしろ湿原ノロッコ号](/hokkaido3h/)，出發～  
 
 ![](/images/hokkaido3j1.jpg)
 
@@ -29,7 +29,7 @@ tags : [travel-日本-北海道, satisfaction - 搭條鐵]
 
 ![](/images/hokkaido3j5.jpg)
 
-嚟[釧路湿原](https://hidie.net/hokkaido3k/)呢  
+嚟[釧路湿原](/hokkaido3k/)呢  
 好好彩加上啱時候先睇到丹頂鶴  
 今鑊係冇可能見到嘅  
 

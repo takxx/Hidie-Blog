@@ -6,7 +6,7 @@ aliases: [ "/2019/11/day3.html" ]
 tags : [travel-日本-京都高野山]
 ---
 
-清晨時分就起身[出發](https://hidie.net/kyotokoyasan3a/)...  
+清晨時分就起身[出發](/kyotokoyasan3a/)...  
 
 ![](/images/kyotokoyasan3a1.jpg)
 
@@ -18,12 +18,12 @@ tags : [travel-日本-京都高野山]
 
 ![](/images/kyotokoyasan3b.jpg)
 
-[南海高野山ケーブル](https://hidie.net/kyotokoyasan3b/)  
+[南海高野山ケーブル](/kyotokoyasan3b/)  
 嵐山(京福線) → 西院(京福線→阪急線) → 淡路 → 天下茶屋 → 橋本(和歌山県) → 極楽橋 →  
 
 ![](/images/kyotokoyasan3c1.jpg)
 
-[高野山](https://hidie.net/kyotokoyasan3c/)到着！  
+[高野山](/kyotokoyasan3c/)到着！  
 
 ![](/images/kyotokoyasan3c.jpg)
 
@@ -35,7 +35,7 @@ tags : [travel-日本-京都高野山]
 
 ![](/images/kyotokoyasan3d.jpg)
 
-brunch @御菓子司かさ國 （[みろく石本舗 かさ國](https://hidie.net/kyotokoyasan3d/)）   
+brunch @御菓子司かさ國 （[みろく石本舗 かさ國](/kyotokoyasan3d/)）   
 新鮮草餅超韌；甘酒饅頭更令人驚艷  
 
 ![](/images/kyotokoyasan3e1.jpg)
@@ -44,7 +44,7 @@ brunch @御菓子司かさ國 （[みろく石本舗 かさ國](https://hidie.ne
 
 ![](/images/kyotokoyasan3e2.jpg)
 
-[金剛峰寺](https://hidie.net/kyotokoyasan3e/)  
+[金剛峰寺](/kyotokoyasan3e/)  
 総坪数48,295坪，有排行  
 
 ![](/images/kyotokoyasan3e4.jpg)
@@ -91,7 +91,7 @@ brunch @御菓子司かさ國 （[みろく石本舗 かさ國](https://hidie.ne
 
 ![](/images/kyotokoyasan3f.jpg)
 
-**精進料理 三鈷膳** @[花菱](https://hidie.net/kyotokoyasan3f/)  
+**精進料理 三鈷膳** @[花菱](/kyotokoyasan3f/)  
 不枉排咗一粒鐘... 好好食！  
 
 ![](/images/kyotokoyasan3g1.jpg)
@@ -100,7 +100,7 @@ brunch @御菓子司かさ國 （[みろく石本舗 かさ國](https://hidie.ne
 
 ![](/images/kyotokoyasan3g2.jpg)
 
-又向山[進發](https://hidie.net/kyotokoyasan3g/)  
+又向山[進發](/kyotokoyasan3g/)  
 
 ![](/images/kyotokoyasan3g4.jpg)
 
@@ -108,7 +108,7 @@ brunch @御菓子司かさ國 （[みろく石本舗 かさ國](https://hidie.ne
 
 ![](/images/kyotokoyasan3h1.jpg)
 
-[赤松院](https://hidie.net/kyotokoyasan3h/)  
+[赤松院](/kyotokoyasan3h/)  
 今晚「禪修」嘅地方  
 
 !![](/images/kyotokoyasan3h2.jpg)
@@ -117,7 +117,7 @@ brunch @御菓子司かさ國 （[みろく石本舗 かさ國](https://hidie.ne
 
 ![](/images/kyotokoyasan3i.jpg)
 
-今晚會參加[高野山奥之院ナイトツアー](https://hidie.net/kyotokoyasan3i/)  
+今晚會參加[高野山奥之院ナイトツアー](/kyotokoyasan3i/)  
  
   
   

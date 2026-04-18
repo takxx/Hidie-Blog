@@ -6,7 +6,7 @@ images: ["/images/hokkaido8b.jpg"]
 tags : [travel-日本-北海道, flavor - 行膳積腹]
 ---
 
-同[擒日](https://hidie.net/hokkaido7a/)一樣食响享用酒店包嘅和/洋輕食set  
+同[擒日](/hokkaido7a/)一樣食响享用酒店包嘅和/洋輕食set  
 
 ![](/images/hokkaido8b.jpg)
  

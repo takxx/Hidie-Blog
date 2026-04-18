@@ -6,7 +6,7 @@ images: ["/images/kanagawakirin.jpg"]
 tags : [collections - 可愛い, flavor - 小食部, flavor - 螞蟻族]
 ---
 
-話說去咗無料嘅[KIRIN工場見学](https://hidie.net/kanagawa2d/)...  
+話說去咗無料嘅[KIRIN工場見学](/kanagawa2d/)...  
 
 ![](/images/kanagawa2d24.jpg)
 
@@ -36,7 +36,7 @@ tags : [collections - 可愛い, flavor - 小食部, flavor - 螞蟻族]
 
 **亀田の柿の種 旨辛パドロン風味柿の種**  
 送酒嘅最佳良伴！  
-辣味嘅同之前[工場嗰隻](https://hidie.net/kanagawa2d/)唔同㗎  
+辣味嘅同之前[工場嗰隻](/kanagawa2d/)唔同㗎  
 
 ![](/images/kanagawakirin4.jpg)
 

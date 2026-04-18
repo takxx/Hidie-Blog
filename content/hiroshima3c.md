@@ -6,7 +6,7 @@ images: ["/images/hiroshima3c.jpg"]
 tags : [travel-日本-廣島, flavor - 行膳積腹]
 ---
 
-個[lunch](https://hidie.net/hiroshima3b/)食得light嘅結果都係出走多時會好肚餓
+個[lunch](/hiroshima3b/)食得light嘅結果都係出走多時會好肚餓
 
 ![](/images/hiroshima3c.jpg)
 
@@ -19,7 +19,7 @@ tags : [travel-日本-廣島, flavor - 行膳積腹]
 呢個咩都有齊就唔使諗咁多  
 （イカ天・生イカ・生エビ・モチ入り（そば入り））  
 有魷魚天婦羅、魷魚、蝦、年糕同炒麵好豐富  
-同[大阪燒](https://hidie.net/osaka2g/)嘅一次過撈晒唔同  
+同[大阪燒](/osaka2g/)嘅一次過撈晒唔同  
 廣島燒係一層層疊上去嘅  
 
 ![](/images/hiroshima3c1.jpg)

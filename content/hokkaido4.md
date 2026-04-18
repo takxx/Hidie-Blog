@@ -23,7 +23,7 @@ tags : [travel-日本-北海道]
 
 ![](/images/hokkaido4a.jpg)
 
-咁就慢慢check out再去食過簡便早餐 @[七仔](https://hidie.net/hokkaido4a/)  
+咁就慢慢check out再去食過簡便早餐 @[七仔](/hokkaido4a/)  
 （左邊先係我嘅）  
 **おむすび**係北海道産米  
 除咗最愛嘅**たらこ**  
@@ -33,19 +33,19 @@ tags : [travel-日本-北海道]
 
 ![](/images/hokkaido4b.jpg)
 
-食完早餐就殺落[流氷街道網走 – 北の道の駅](https://hidie.net/hokkaido4b/)  
+食完早餐就殺落[流氷街道網走 – 北の道の駅](/hokkaido4b/)  
 襯食堂未開就逛吓先  
 
 ![](/images/hokkaido4c.jpg)
 
-等食前睇下個[オホーツク海](https://hidie.net/hokkaido4c/)  
+等食前睇下個[オホーツク海](/hokkaido4c/)  
 **台風18号**由九州打到上嚟北海道  
 打上嚟嘅前一日  
 網走依然風和日麗  
 
 ![](/images/hokkaido4d3.jpg)
 
-終於等到[フードコート「キネマ館」](https://hidie.net/hokkaido4d/)開  
+終於等到[フードコート「キネマ館」](/hokkaido4d/)開  
 可以食奔廚喇～  
 先嚟呢份**網走ザンギ丼**  
 同樣係ザンギ，但網走嘅ザンギ唔係雞  
@@ -63,26 +63,26 @@ tags : [travel-日本-北海道]
 ![](/images/hokkaido4e.jpg)
 
 臨走前都要食返個流氷館限定  
-[流氷ソフトクリーム](https://hidie.net/hokkaido4e/)  
+[流氷ソフトクリーム](/hokkaido4e/)  
 藍色嘅薄荷味雪糕  
 加埋邪惡淫亂嘅爆炸糖  
   
 然後哎吔哎吔有啲趕咁行返去酒店拎行李  
-有啲急急腳咁拖行李去[車站](https://hidie.net/hokkaido4f/)  
+有啲急急腳咁拖行李去[車站](/hokkaido4f/)  
 點知班火車會遲...  
 仲要係遲半粒鐘呀  
 少少白趕嘅感覺（汗）  
 
 ![](/images/hokkaido4g.jpg)
 
-[網走 → 旭川](https://hidie.net/hokkaido4g/)  
+[網走 → 旭川](/hokkaido4g/)  
 （**特急大雪、183系**）  
   
 呢個車程唔算好長  
 加上都真係食得幾飽吓  
 咁就冇買駅弁  
 中途嘅小食時間  
-就食帯広[柳月](https://hidie.net/hokkaido2i/)入手嘅**十勝大納言**同**COCOこの実**  
+就食帯広[柳月](/hokkaido2i/)入手嘅**十勝大納言**同**COCOこの実**  
 
 ![](/images/hokkaido4g3.jpg)
 
@@ -95,13 +95,13 @@ tags : [travel-日本-北海道]
 
 ![](/images/hokkaido4h.jpg)
 
-[旭川（旭川駅）](https://hidie.net/hokkaido4h/)  
+[旭川（旭川駅）](/hokkaido4h/)  
 擺低行李响酒店先  
 
 ![](/images/hokkaido4i.jpg)
 
 襯有啲時間就行吓呢3日限定嘅  
-[北の恵み 食べマルシェ](https://hidie.net/hokkaido4i/)  
+[北の恵み 食べマルシェ](/hokkaido4i/)  
 橫跨好多條街嘅美食節  
 行極都行唔晒...  
 不過好彩今日行咗  
@@ -112,7 +112,7 @@ tags : [travel-日本-北海道]
 ![](/images/hokkaido4j.jpg)
 
 行到咁上下要走喇  
-因為卜咗枱食癲 @[天金本店](https://hidie.net/hokkaido4j/)  
+因為卜咗枱食癲 @[天金本店](/hokkaido4j/)  
 間嘢已經有80年歷史呢  
 特登嚟食**うにしゃぶ**  
 拎海膽打邊爐喎，豪到爆嘅感覺  
@@ -127,14 +127,14 @@ tags : [travel-日本-北海道]
 都仲有時間响繁榮嘅旭川逛吓  
 但係冇嘢要買同想買  
 就買啲北海道嘅嘢飲吓先  
-[タングロン](https://hidie.net/hokkaido4k/)（tanglone）  
+[タングロン](/hokkaido4k/)（tanglone）  
 以昆布エキス造  
 仲以為會係會有陣海洋嘅味道  
 點知唔係，乳酸味飲料啫（笑）  
 
 ![](/images/hokkaido4l.jpg)
 
-今晚嘅[宵夜](https://hidie.net/hokkaido4l/)就留俾**籮神**喇  
+今晚嘅[宵夜](/hokkaido4l/)就留俾**籮神**喇  
 一早一晚便利店真係一個美滿嘅節奏  
 Uchi Café SWEETS × GODIVA 第3弾！  
 **ガトーショコラ**、**ショコラタルト**  

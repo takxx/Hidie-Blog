@@ -6,7 +6,7 @@ images: ["/images/hokkaido3e.jpg"]
 tags : [travel-日本-北海道, flavor - 小食部]
 ---
 
-食咗[鹿肉包包](https://hidie.net/hokkaido3d/)... 
+食咗[鹿肉包包](/hokkaido3d/)... 
 
 ![](/images/hokkaido3e1.jpg)
 

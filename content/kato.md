@@ -6,7 +6,7 @@ aliases: [ "/2020/04/blog-post_11.html" ]
 tags : [flavor - 行膳積腹, lifestyle - 港女港旅]
 ---
 
-續上次嘅[鴨洲](https://hidie.net/apchau/)...  
+續上次嘅[鴨洲](/apchau/)...  
 
 ![](/images/kato.jpg)
 
@@ -174,7 +174,7 @@ P就成條貨櫃碼頭會好樣好多
 
 ![](/images/kato35.jpg)
 
-船程都係經返[印洲塘海岸公園](https://hidie.net/doublehaven/)  
+船程都係經返[印洲塘海岸公園](/doublehaven/)  
 
 ![](/images/kato36.jpg)
 

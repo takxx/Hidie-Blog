@@ -11,7 +11,7 @@ tags : [travel-日本-京都高野山]
 
 ![](/images/kyotokoyasan1a.jpg)
 
-著陸先買張[KANSAI THRU PASS（3 Day Pass）](https://hidie.net/kyotokoyasan1a/)  
+著陸先買張[KANSAI THRU PASS（3 Day Pass）](/kyotokoyasan1a/)  
 可以唔駛連續用行程可以輕鬆啲  
 
 ![](/images/kyotokoyasan1b.jpg)
@@ -20,7 +20,7 @@ tags : [travel-日本-京都高野山]
 
 ![](/images/kyotokoyasan1b3.jpg)
 
-到喇！[嵐山 (阪急線)](https://hidie.net/kyotokoyasan1b/)  
+到喇！[嵐山 (阪急線)](/kyotokoyasan1b/)  
 
 ![](/images/kyotokoyasan1c1.jpg)
 
@@ -28,7 +28,7 @@ tags : [travel-日本-京都高野山]
 
 ![](/images/kyotokoyasan1c3.jpg)
 
-[渡月橋](https://hidie.net/kyotokoyasan1c/)  
+[渡月橋](/kyotokoyasan1c/)  
 
 ![](/images/kyotokoyasan1c4.jpg)
 
@@ -38,12 +38,12 @@ tags : [travel-日本-京都高野山]
 
 **ほくほく、お団子セット**  
 放低行李就終於食早餐  
-@[eX cafe イクスカフェ 京都嵐山本店](https://hidie.net/kyotokoyasan1d/)  
+@[eX cafe イクスカフェ 京都嵐山本店](/kyotokoyasan1d/)  
 自己炭燒串団子，仲有杯京都唔可以冇嘅抹茶（呵呵呵）  
 
 ![](/images/kyotokoyasan1e1.jpg)
 
-食完就[漫步](https://hidie.net/kyotokoyasan1e/)人生路一陣  
+食完就[漫步](/kyotokoyasan1e/)人生路一陣  
 
 ![](/images/kyotokoyasan1e2.jpg)
 
@@ -51,7 +51,7 @@ tags : [travel-日本-京都高野山]
 
 ![](/images/kyotokoyasan1f1.jpg)
 
-行到過去就係時候食晏 @[湯豆腐 嵯峨野](https://hidie.net/kyotokoyasan1f/)  
+行到過去就係時候食晏 @[湯豆腐 嵯峨野](/kyotokoyasan1f/)  
 嗌支「招牌」**清酒 嵯峨野**，係**伏見の地酒**  
 
 ![](/images/kyotokoyasan1f2.jpg)
@@ -66,7 +66,7 @@ tags : [travel-日本-京都高野山]
 
 ![](/images/kyotokoyasan1g1.jpg)
 
-[嵐電 嵐山駅](https://hidie.net/kyotokoyasan1g/)  
+[嵐電 嵐山駅](/kyotokoyasan1g/)  
 
 ![](/images/kyotokoyasan1g.jpg)
 
@@ -75,7 +75,7 @@ to **龍安寺駅**
 
 ![](/images/kyotokoyasan1h6.jpg)
 
-文化遺產之一嘅**石庭** @[龍安寺](https://hidie.net/kyotokoyasan1h/)  
+文化遺產之一嘅**石庭** @[龍安寺](/kyotokoyasan1h/)  
 
 ![](/images/kyotokoyasan1h10.jpg)
 
@@ -91,7 +91,7 @@ to **龍安寺駅**
 
 ![](/images/kyotokoyasan1i.jpg)
 
-**舎利殿 金閣** @[金閣寺](https://hidie.net/kyotokoyasan1i/)  
+**舎利殿 金閣** @[金閣寺](/kyotokoyasan1i/)  
 太陽射正，金光閃閃呢！  
 
 ![](/images/kyotokoyasan1i16.jpg)
@@ -100,8 +100,8 @@ to **龍安寺駅**
 
 ![](/images/kyotokoyasan1k1.jpg)
 
-出咗金閣寺再上[巴士](https://hidie.net/kyotokoyasan1j/)  
-到世界遺產：[元離宮二条城](https://hidie.net/kyotokoyasan1k/)  
+出咗金閣寺再上[巴士](/kyotokoyasan1j/)  
+到世界遺產：[元離宮二条城](/kyotokoyasan1k/)  
 
 ![](/images/kyotokoyasan1k7.jpg)
 
@@ -118,7 +118,7 @@ to **龍安寺駅**
 
 ![](/images/kyotokoyasan1l9.jpg)
 
-晚餐企响度食 @[立ち呑み 庶民](https://hidie.net/kyotokoyasan1l/)  
+晚餐企响度食 @[立ち呑み 庶民](/kyotokoyasan1l/)  
 
 ![](/images/kyotokoyasan1l.jpg)
 

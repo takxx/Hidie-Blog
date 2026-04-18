@@ -6,13 +6,13 @@ images: ["/images/kanagawa2c.jpg"]
 tags : [flavor-行膳積腹, satisfaction - 搭條鐵, travel-日本-神奈川]
 ---
 
-去完啲咁[靈氣](https://hidie.net/kanagawa2b/)嘅地方  
+去完啲咁[靈氣](/kanagawa2b/)嘅地方  
 又係時間祭五臟廟
 
 ![](/images/kanagawa2c1.jpg)
 
 响火車站對面，喫茶店**城亜**  
-個setting同响[宮崎嗰間](https://hidie.net/kojkmi4b/)一樣咁「昭和」  
+個setting同响[宮崎嗰間](/kojkmi4b/)一樣咁「昭和」  
 
 ![](/images/kanagawa2c2.jpg)
 
